@@ -1,0 +1,41 @@
+# EDU486 Deadlines and Work Due
+
+Dates are from the local syllabus and Module 1 course materials. Confirm Blackboard updates before final submission.
+
+## Immediate Work
+
+| Date | Work Due / Event | What To Prepare |
+| --- | --- | --- |
+| July 1, 2026 | Module 1 reading/prep | PICRAT reading/video, classroom design, Ambitious Science Teaching excerpt, Science in Action video, equity zine, brainstorm camp questions/evidence |
+| July 7, 2026 | Freedom School neighborhood asset map | Bring questions about local knowledge, youth interests, community assets, and environmental evidence |
+| July 9/10, 2026 | AI technology evolution mini-narrative | Use an AI tool to explore how a camp-theme technology evolved; prepare a 5-minute informal narrative and reflect on AI's usefulness/limits |
+| July 14, 2026 | Visualizing our Grounding Frameworks, Part 1 | Submit a visualization of JuST Framework plus technology's supports, constraints, tensions, and tradeoffs |
+
+## Planning and Camp
+
+| Date | Work Due / Event | What To Prepare |
+| --- | --- | --- |
+| July 16, 2026 | Planning module work | Draft unit/camp arc, activity flow, roles, materials, and assessment evidence |
+| July 21, 2026 | Camp overview and daily lesson plans finalized | Printed/shareable draft for Freedom Scholars teachers; expect later revision after youth feedback |
+| July 24, 2026 | CAMP Day 1 / setup and field trip | Materials, facilitation roles, observation plan, daily reflection system |
+| July 27-28, 2026 | Freedom School camp days | Facilitate, collect evidence, revise lesson plans daily |
+| July 29, 2026 | Freedom School showcase, 12-1 p.m.; poster printing deadline by bedtime if April prints | Showcase materials; poster draft/file if requesting printing |
+| July 30, 2026 | Reflect and say goodbye with campers | Final youth-facing reflection and cleanup |
+| July 31, 2026 | Poster fair, 1:30-3:00 p.m., LeChase 215 | Research-informed practice poster; be ready to serve as lead explainer |
+
+## Final Submissions
+
+| Date | Work Due | Repo Artifact |
+| --- | --- | --- |
+| August 1, 2026 | Final camp unit plan and daily lesson plans | [Camp draft](../assignments/03-camp-unit-plan/planet-protectors-camp-unit-plan-draft.md) |
+| August 8, 2026 | Visualizing our Grounding Frameworks, Part 2 | Revise [Part 1 draft](../assignments/01-grounding-frameworks/grounding-frameworks-part1.md) with camp evidence |
+
+## Tracking Rule
+
+Every major deadline should leave one of these traces in the repo:
+
+- a submitted draft
+- a revision note
+- a source/evidence note
+- an AI-use note if GenAI helped
+- a next-action item for final polish

@@ -1,0 +1,22 @@
+.DS_Store
+
+# Keep third-party course files and private source artifacts local.
+# The public repo documents these sources in docs/source-map.md instead.
+Module1/
+Module2/
+announcements/
+*.pdf
+*.doc
+*.docx
+*.ppt
+*.pptx
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.mp4
+*.mov
+*.zip
+
+# Local exports are for Blackboard/Drive submission, not the public repo.
+submission_exports/

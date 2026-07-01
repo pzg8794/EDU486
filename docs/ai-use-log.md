@@ -27,8 +27,8 @@ The syllabus says that when GenAI is used, it should be credited by source, outp
 - Purpose: recover the June 29 pre-class announcement tasks, generate an email-ready learning scientist image, draft the learning scientist reflection, document syllabus comment status, prepare the youth STEM story share, and create an image-only slide deck
 - Output created:
   - [announcement prep folder](../assignments/00-announcement-prep/README.md)
-  - [learning-scientist-image.png](../public-artifacts/learning-scientist-image.png)
-  - youth-stem-mia-heller-images-only.pptx (local only: `/Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/submission_exports/youth-stem-mia-heller-images-only.pptx`)
+  - [teacher-learning-scientist-evidence-map.png](../public-artifacts/teacher-learning-scientist-evidence-map.png)
+  - [access-to-agency-youth-stem-story.pptx](../public-submissions/access-to-agency-youth-stem-story.pptx)
   - [course-calendar.ics](course-calendar.ics)
 - Human review needed:
   - confirm whether the instructors still want the June 29 email artifacts retroactively
@@ -49,7 +49,7 @@ OpenAI Codex (GPT-5) was used on July 1, 2026 to synthesize course materials, or
   - [EDU498 Layered Genius Minecraft Identity Mini-Unit](https://drive.google.com/file/d/1SDravCaceJOdTSKwCpwYG3jtoXS1_9Lv)
   - [EDU498 neurodivergent challenges reference index](https://github.com/pzg8794/EDU498/blob/main/assignments/Assignment-Exploring_Literacy_as%20Power-Bridging_Social_Justice/neurodivergent-challenges-reference-index.md)
 - Output created or revised:
-  - [Access-to-Agency course theme](access-to-agency-course-theme.md)
+  - [EQUITAS Access-to-Agency foundation](access-to-agency-course-theme.md)
   - [course scope](course-scope.md)
   - [PhD/Puzzle Plan alignment](phd-puzzle-plan-alignment.md)
   - [grounding frameworks draft](../assignments/01-grounding-frameworks/grounding-frameworks-part1.md)

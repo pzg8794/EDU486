@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Youth STEM story slide 4</title>
+  <desc id="desc">EDU486 bridge from youth STEM story to Puzzle Plan and EQUITAS commitments.</desc>
+  <rect width="1600" height="900" fill="#f8fbff" />
+  <text x="90" y="90" font-family="Arial" font-size="52" font-weight="700" fill="#102033">The EDU486 Bridge</text>
+  <text x="90" y="140" font-family="Arial" font-size="28" fill="#334155">Technology integration must protect access, identity, agency, and rigorous evidence.</text>
+  <rect x="145" y="250" width="360" height="360" rx="30" fill="#e0f2fe" stroke="#0369a1" stroke-width="5" />
+  <text x="325" y="325" text-anchor="middle" font-family="Arial" font-size="32" font-weight="700" fill="#0c4a6e">Youth Story</text>
+  <text x="325" y="390" text-anchor="middle" font-family="Arial" font-size="24" fill="#0c4a6e">community barrier</text>
+  <text x="325" y="430" text-anchor="middle" font-family="Arial" font-size="24" fill="#0c4a6e">student evidence</text>
+  <text x="325" y="470" text-anchor="middle" font-family="Arial" font-size="24" fill="#0c4a6e">tool redesign</text>
+  <rect x="620" y="250" width="360" height="360" rx="30" fill="#f0fdf4" stroke="#15803d" stroke-width="5" />
+  <text x="800" y="325" text-anchor="middle" font-family="Arial" font-size="32" font-weight="700" fill="#14532d">Puzzle Plan</text>
+  <text x="800" y="390" text-anchor="middle" font-family="Arial" font-size="24" fill="#14532d">Access</text>
+  <text x="800" y="430" text-anchor="middle" font-family="Arial" font-size="24" fill="#14532d">Identity and Healing</text>
+  <text x="800" y="470" text-anchor="middle" font-family="Arial" font-size="24" fill="#14532d">Agency and Criticality</text>
+  <rect x="1095" y="250" width="360" height="360" rx="30" fill="#fff7ed" stroke="#c2410c" stroke-width="5" />
+  <text x="1275" y="325" text-anchor="middle" font-family="Arial" font-size="32" font-weight="700" fill="#7c2d12">Camp Design</text>
+  <text x="1275" y="390" text-anchor="middle" font-family="Arial" font-size="24" fill="#7c2d12">visual agenda</text>
+  <text x="1275" y="430" text-anchor="middle" font-family="Arial" font-size="24" fill="#7c2d12">role choice</text>
+  <text x="1275" y="470" text-anchor="middle" font-family="Arial" font-size="24" fill="#7c2d12">low-energy routes</text>
+  <path d="M505 430 L620 430" stroke="#1f2937" stroke-width="8" />
+  <path d="M980 430 L1095 430" stroke="#1f2937" stroke-width="8" />
+  <text x="800" y="760" text-anchor="middle" font-family="Arial" font-size="34" font-weight="700" fill="#102033">Students are builders, critics, communicators, and access designers.</text>
+</svg>

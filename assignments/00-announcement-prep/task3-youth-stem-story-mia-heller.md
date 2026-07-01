@@ -6,19 +6,30 @@ Find and read a story about a young person or group of young people using STEM t
 
 Email target from announcement: `april.luehmann@rochester.edu`
 
-Local deck:
+Public deck:
 
-- youth-stem-mia-heller-images-only.pptx (local only: `/Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/submission_exports/youth-stem-mia-heller-images-only.pptx`)
-- deck montage preview (local only: `/Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/submission_exports/youth-stem-mia-heller-images-only-montage.png`)
+- [access-to-agency-youth-stem-story.pptx](../../public-submissions/access-to-agency-youth-stem-story.pptx)
+- [slide 1](../../public-artifacts/youth-stem-access-slide-1.png)
+- [slide 2](../../public-artifacts/youth-stem-access-slide-2.png)
+- [slide 3](../../public-artifacts/youth-stem-access-slide-3.png)
+- [slide 4](../../public-artifacts/youth-stem-access-slide-4.png)
 
-Local DOCX export:
+![Youth STEM story slide 1](../../public-artifacts/youth-stem-access-slide-1.png)
 
-- task3-youth-stem-story-mia-heller.docx (local only: `/Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/submission_exports/task3-youth-stem-story-mia-heller.docx`)
+![Youth STEM story slide 2](../../public-artifacts/youth-stem-access-slide-2.png)
+
+![Youth STEM story slide 3](../../public-artifacts/youth-stem-access-slide-3.png)
+
+![Youth STEM story slide 4](../../public-artifacts/youth-stem-access-slide-4.png)
+
+Public DOCX export:
+
+- [task3-youth-stem-story-mia-heller.docx](../../public-submissions/task3-youth-stem-story-mia-heller.docx)
 
 Image deck source note:
 
-- The slide visuals were extracted from the local Smithsonian article PDF (local only: `/Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/announcements/This High School Student Invented a Filter That Eliminates 96 Percent of Microplastics From Drinking Water.pdf`) saved in the local announcements folder (local only: `/Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/announcements`).
-- The public repo does not track those images because they are third-party article media.
+- Story source: [Smithsonian Magazine: This High School Student Invented a Filter That Eliminates 96 Percent of Microplastics From Drinking Water](https://www.smithsonianmag.com/innovation/this-high-school-student-invented-a-filter-that-eliminates-96-percent-of-microplastics-from-drinking-water-180988363/).
+- The first recovered deck has been replaced for the public repo with original access-centered slide images so the presentation is clickable and not dependent on third-party article media.
 
 ## Chosen Story
 
@@ -72,19 +83,18 @@ The question I would bring back to class is: How can we design camp activities w
 - It raises justice questions: who gets clean water, who pays for filtration, whose health risks are believed, and whose community problems get treated as urgent?
 - It helps me teach STEM as redesign: when a tool does not fit the people who need it, students can question the tool, not blame the people.
 
-## Access-Centered Slide Talk Notes
+## Access-Centered Slide Talk Notes For New Public Deck
 
 Because the required slides are image-only, these are the speaking notes I would keep beside the deck:
 
-- Do not turn the story into "brilliant teen saves the day" without context. Name the local water-quality concern and the system gap that made filtration a household burden.
-- Ask what makes a technology usable: cost, maintenance, energy required, language needed, trust, feedback, measurement, and whether families can act on the result.
-- Connect microplastics to disability and chronic illness without making unsupported health claims: pollution, uncertainty, risk, and medical dismissal can especially affect students and families whose bodies are already treated as unreliable evidence.
-- Use the story to invite multiple camp roles: students can observe, sort, map, photograph, compare, question, explain, draw, record, test, or advocate.
-- Keep the science rigorous while widening participation. Access-centered design is not lowering the bar. It is removing the barriers that hide student thinking.
+- Slide 1: Start with a system barrier. The story matters because a young person noticed that families were being left to manage water-quality risk through expensive, maintenance-heavy tools.
+- Slide 2: Science is an evidence cycle. Students can move from noticing, to testing, to redesigning, to advocacy.
+- Slide 3: Access is part of the STEM design. A student can contribute as observer, mapper, sorter, speaker, artist, data checker, photographer, or questioner.
+- Slide 4: The EDU486 bridge. The story should connect youth STEM to Puzzle Plan / EQUITAS commitments: access, identity, healing, agency, criticality, joy, and transformation.
 
 ## AI Use Disclosure
 
-OpenAI Codex was used on July 1, 2026 to organize the speaking plan, connect the story to EDU486 course themes, and prepare a local image-only PowerPoint deck.
+OpenAI Codex was used on July 1, 2026 to rebuild the speaking plan around the Puzzle Plan / EQUITAS foundation and generate an original, public, image-only PowerPoint deck.
 
 ## Email Draft
 

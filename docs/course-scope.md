@@ -38,7 +38,7 @@ The design stance is: **access barriers are not thinking barriers**. Technology 
 
 ## Course Labor
 
-The [syllabus](source-map.md#local-course-files-kept-out-of-public-git) frames course labor around attendance, respectful participation, critical engagement with readings, reflection, assignment completion, and active on-site participation in Planet Protectors Camp.
+The [public syllabus Google Doc](https://docs.google.com/document/d/1FQ1gwTCD7cqL5Hj5xVIAI4p4WFQ8AXLuqOGCuwKwVFk/edit) frames course labor around attendance, respectful participation, critical engagement with readings, reflection, assignment completion, and active on-site participation in Planet Protectors Camp.
 
 For this repository, that means the evidence of work should include:
 

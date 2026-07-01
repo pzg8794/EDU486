@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Youth STEM story slide 3</title>
+  <desc id="desc">Multiple access pathways and roles for students doing STEM.</desc>
+  <rect width="1600" height="900" fill="#f8fbff" />
+  <text x="90" y="90" font-family="Arial" font-size="52" font-weight="700" fill="#102033">Access Is Part Of The STEM Design</text>
+  <text x="90" y="140" font-family="Arial" font-size="28" fill="#334155">Different roles can carry equally rigorous thinking.</text>
+  <rect x="220" y="250" width="1160" height="440" rx="36" fill="#ffffff" stroke="#102033" stroke-width="5" />
+  <circle cx="800" cy="470" r="110" fill="#ecfeff" stroke="#0f766e" stroke-width="5" />
+  <text x="800" y="455" text-anchor="middle" font-family="Arial" font-size="30" font-weight="700" fill="#134e4a">Shared</text>
+  <text x="800" y="492" text-anchor="middle" font-family="Arial" font-size="30" font-weight="700" fill="#134e4a">Investigation</text>
+  <g font-family="Arial" font-size="26" font-weight="700" fill="#102033">
+    <rect x="310" y="310" width="220" height="82" rx="16" fill="#dbeafe" stroke="#2563eb" stroke-width="4" />
+    <text x="420" y="360" text-anchor="middle">Observer</text>
+    <rect x="550" y="235" width="220" height="82" rx="16" fill="#dcfce7" stroke="#16a34a" stroke-width="4" />
+    <text x="660" y="285" text-anchor="middle">Mapper</text>
+    <rect x="830" y="235" width="220" height="82" rx="16" fill="#fef3c7" stroke="#ca8a04" stroke-width="4" />
+    <text x="940" y="285" text-anchor="middle">Sorter</text>
+    <rect x="1070" y="310" width="220" height="82" rx="16" fill="#ede9fe" stroke="#7c3aed" stroke-width="4" />
+    <text x="1180" y="360" text-anchor="middle">Speaker</text>
+    <rect x="310" y="550" width="220" height="82" rx="16" fill="#ffe4e6" stroke="#e11d48" stroke-width="4" />
+    <text x="420" y="600" text-anchor="middle">Artist</text>
+    <rect x="550" y="625" width="220" height="82" rx="16" fill="#f1f5f9" stroke="#475569" stroke-width="4" />
+    <text x="660" y="675" text-anchor="middle">Data Checker</text>
+    <rect x="830" y="625" width="220" height="82" rx="16" fill="#e0f2fe" stroke="#0284c7" stroke-width="4" />
+    <text x="940" y="675" text-anchor="middle">Photographer</text>
+    <rect x="1070" y="550" width="220" height="82" rx="16" fill="#fae8ff" stroke="#c026d3" stroke-width="4" />
+    <text x="1180" y="600" text-anchor="middle">Questioner</text>
+  </g>
+  <text x="800" y="790" text-anchor="middle" font-family="Arial" font-size="34" font-weight="700" fill="#102033">No single body, pace, language, or output equals "real science."</text>
+</svg>

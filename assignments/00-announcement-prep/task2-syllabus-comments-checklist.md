@@ -8,9 +8,9 @@ Syllabus Google Doc from announcement:
 
 - [2026 Syllabus EDU486 Google Doc](https://docs.google.com/document/d/1FQ1gwTCD7cqL5Hj5xVIAI4p4WFQ8AXLuqOGCuwKwVFk/edit)
 
-Local DOCX export:
+Public DOCX export:
 
-- task2-syllabus-comments-checklist.docx (local only: `/Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/submission_exports/task2-syllabus-comments-checklist.docx`)
+- [task2-syllabus-comments-checklist.docx](../../public-submissions/task2-syllabus-comments-checklist.docx)
 
 ## Live Comment Status Observed July 1, 2026
 

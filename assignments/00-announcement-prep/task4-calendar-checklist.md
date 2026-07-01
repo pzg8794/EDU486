@@ -10,13 +10,13 @@ An importable calendar file was created:
 
 - [course-calendar.ics](../../docs/course-calendar.ics)
 
-Local copy:
+Public copy:
 
-- EDU486-course-calendar.ics (local only: `/Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/submission_exports/EDU486-course-calendar.ics`)
+- [EDU486-course-calendar.ics](../../public-submissions/EDU486-course-calendar.ics)
 
-Local DOCX export:
+Public DOCX export:
 
-- task4-calendar-checklist.docx (local only: `/Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/submission_exports/task4-calendar-checklist.docx`)
+- [task4-calendar-checklist.docx](../../public-submissions/task4-calendar-checklist.docx)
 
 ## Questions To Bring / Keep Tracking
 

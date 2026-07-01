@@ -1,9 +1,24 @@
-# Public Artifacts
+# Public Visual Artifacts
 
-This folder contains generated course artifacts that are safe to render directly on GitHub.
+These are GitHub-safe generated visuals made from original course work. They replace the earlier generic image with purpose-built artifacts grounded in Puzzle Plan / EQUITAS, neurodivergent access, chronic illness access, CLD/multilingual access, and multiple identities.
 
-Private course readings, Blackboard exports, third-party article images, DOCX/PPTX submission files, health/disability details, and copied local course sources stay out of the public repository.
+- [Teacher as learning scientist evidence map, SVG](teacher-learning-scientist-evidence-map.svg)
+- [Teacher as learning scientist evidence map, PNG](teacher-learning-scientist-evidence-map.png)
+- [Grounding frameworks visual, SVG](../assignments/01-grounding-frameworks/grounding-frameworks-visual.svg)
+- [Grounding frameworks visual, PNG](grounding-frameworks-visual.png)
+- [Youth STEM story slide 1](youth-stem-access-slide-1.png)
+- [Youth STEM story slide 2](youth-stem-access-slide-2.png)
+- [Youth STEM story slide 3](youth-stem-access-slide-3.png)
+- [Youth STEM story slide 4](youth-stem-access-slide-4.png)
 
-- [Learning scientist image](learning-scientist-image.png)
-- [Learning scientist image, full version](learning-scientist-image-full.png)
-- [Grounding frameworks visual](grounding-frameworks-visual.png)
+## Preview
+
+![Teacher as learning scientist evidence map](teacher-learning-scientist-evidence-map.png)
+
+![Youth STEM story slide 1](youth-stem-access-slide-1.png)
+
+![Youth STEM story slide 2](youth-stem-access-slide-2.png)
+
+![Youth STEM story slide 3](youth-stem-access-slide-3.png)
+
+![Youth STEM story slide 4](youth-stem-access-slide-4.png)

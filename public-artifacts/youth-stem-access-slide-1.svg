@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Youth STEM story slide 1</title>
+  <desc id="desc">Community water concerns shown as a system barrier that youth can investigate.</desc>
+  <rect width="1600" height="900" fill="#f8fbff" />
+  <text x="90" y="90" font-family="Arial" font-size="52" font-weight="700" fill="#102033">Start With A System Barrier</text>
+  <text x="90" y="140" font-family="Arial" font-size="28" fill="#334155">Youth STEM begins when students notice what adults normalize.</text>
+  <rect x="110" y="230" width="1380" height="520" rx="28" fill="#ffffff" stroke="#1f2937" stroke-width="5" />
+  <path d="M250 610 C380 460, 520 430, 700 510 C880 590, 1040 550, 1250 410" stroke="#2f6f73" stroke-width="26" fill="none" opacity=".28" />
+  <circle cx="270" cy="600" r="62" fill="#dbeafe" stroke="#2563eb" stroke-width="5" />
+  <circle cx="700" cy="510" r="62" fill="#dbeafe" stroke="#2563eb" stroke-width="5" />
+  <circle cx="1250" cy="410" r="62" fill="#dbeafe" stroke="#2563eb" stroke-width="5" />
+  <rect x="360" y="260" width="300" height="115" rx="18" fill="#fee2e2" stroke="#b91c1c" stroke-width="4" />
+  <text x="510" y="315" text-anchor="middle" font-family="Arial" font-size="28" font-weight="700" fill="#7f1d1d">Cost</text>
+  <text x="510" y="350" text-anchor="middle" font-family="Arial" font-size="22" fill="#7f1d1d">and maintenance</text>
+  <rect x="720" y="260" width="300" height="115" rx="18" fill="#fef3c7" stroke="#b45309" stroke-width="4" />
+  <text x="870" y="315" text-anchor="middle" font-family="Arial" font-size="28" font-weight="700" fill="#78350f">Trust</text>
+  <text x="870" y="350" text-anchor="middle" font-family="Arial" font-size="22" fill="#78350f">and evidence</text>
+  <rect x="1080" y="260" width="300" height="115" rx="18" fill="#ede9fe" stroke="#6d28d9" stroke-width="4" />
+  <text x="1230" y="315" text-anchor="middle" font-family="Arial" font-size="28" font-weight="700" fill="#4c1d95">Health</text>
+  <text x="1230" y="350" text-anchor="middle" font-family="Arial" font-size="22" fill="#4c1d95">risk and dismissal</text>
+  <text x="800" y="705" text-anchor="middle" font-family="Arial" font-size="34" font-weight="700" fill="#102033">Question: who has to live with the problem while waiting for proof?</text>
+</svg>

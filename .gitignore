@@ -22,6 +22,16 @@ announcements/
 !public-artifacts/
 !public-artifacts/*.md
 !public-artifacts/*.png
+!public-artifacts/*.svg
+
+# Public submission exports generated from original course work.
+!public-submissions/
+!public-submissions/*.md
+!public-submissions/*.docx
+!public-submissions/*.pptx
+!public-submissions/*.png
+!public-submissions/*.svg
+!public-submissions/*.ics
 
 # Local exports are for Blackboard/Drive submission, not the public repo.
 submission_exports/

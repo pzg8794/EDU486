@@ -1,60 +1,67 @@
-# Access-to-Agency Course Theme
+# EQUITAS Access-to-Agency Foundation
 
-## Corrected Core Claim
+## Non-Negotiable Core
 
-EDU486 should document a technology-integration project for neurodivergent, chronically ill, disabled, CLD, multilingual, and multiply marginalized students. The Planet Protectors camp context matters, but it is not the full theme by itself. The deeper course goal is to design STEM learning where technology helps students' thinking become visible without forcing them into one narrow body, language, attention pattern, communication style, or assessment mode.
+EDU486 must not be documented as a generic "technology in STEM" course. For this project, EDU486 is an implementation space for the Puzzle Plan / EQUITAS throughline:
 
-Working name: **Access-to-Agency STEM**.
+> Technology integration is justice-centered only when it helps neurodivergent, chronically ill, disabled, CLD, multilingual, and multiply marginalized students access rigorous STEM thinking without being misread as deficient because of bodymind, language, energy, communication, culture, or tool-design barriers.
 
-This means the course repository should treat technology as a way to:
+The course artifact should show how a teacher becomes a **learning scientist**: someone who studies the learning environment, gathers evidence about access barriers, and redesigns the system before blaming the learner.
 
-- reduce unnecessary cognitive, sensory, language, motor, time, and energy barriers
+## What The First Draft Got Wrong
+
+The first repo pass treated Planet Protectors as the main purpose and access as an added theme. That was wrong.
+
+Planet Protectors is the course context. The purpose of this repo is larger:
+
+- translate Puzzle Plan / EQUITAS into STEM teaching
+- design against diagnostic injustice in classroom routines
 - separate access barriers from thinking barriers
-- make student reasoning visible through multiple modes, including talk, drawing, building, coding, mapping, photographing, sorting, modeling, and revising
-- honor identity, community knowledge, family knowledge, disability culture, and student agency
-- help youth critique tools, data, and evidence instead of only consuming them
-- design with students and communities, not only for them
+- treat student communication, multimodal work, identity, fatigue, sensory load, language load, and tool friction as evidence
+- build artifacts that can support PhD, portfolio, and public-facing scholarship
 
-## Student Focus
+## Research Question
 
-The target learner is not an abstract "middle school student." The design should keep these learners in view:
+How can accessible science and technology help Freedom Scholars, especially neurodivergent, chronically ill, disabled, CLD, multilingual, and multiply marginalized students, investigate environmental justice questions while protecting bodymind access, identity safety, agency, and rigorous STEM thinking?
 
-- neurodivergent students, including ADHD, autism, dyslexia, executive-function differences, sensory processing differences, anxiety, depression, and trauma-linked attention patterns
-- chronically ill students whose energy, pain, sleep, attendance, brain fog, or medication effects fluctuate
-- disabled students whose communication, movement, sensory, language, or health needs require flexible participation structures
-- CLD and multilingual students whose home languages and cultural practices are assets, not barriers
-- students with multiple identities, including race, immigration, language, disability, class, gender, sexuality, family responsibility, and community histories
+## Evidence Standard
 
-The design question is not "How do we make STEM easier?" It is:
+Every EDU486 artifact should be checked against these questions:
 
-> How do we keep rigorous STEM thinking while removing the barriers that hide students' knowledge?
+1. **Access:** What bodymind, language, energy, sensory, executive-function, or technology barrier could hide student thinking?
+2. **Identity:** Whose culture, disability experience, family knowledge, language, and community history count as evidence?
+3. **Healing:** Does the design interrupt deficit narratives, masking pressure, shame, and forced disclosure?
+4. **Agency:** Can students choose meaningful roles, tools, languages, and output modes?
+5. **Criticality:** Do students critique technology, data, environmental evidence, and who gets believed?
+6. **Joy:** Is there room for curiosity, making, debugging, peer support, and identity-safe participation?
+7. **Transformation:** Does the work lead to redesign, advocacy, communication, or repair?
 
-## Prior Work That Should Inform EDU486
+## Prior Work That Sets The Foundation
 
-These resources from Google Drive and prior course repositories show the throughline this repo must carry forward:
+These are not decoration. They are the intellectual source trail for EDU486.
 
-- [EDE476 Cultural Ethnography Presentation](https://drive.google.com/file/d/1oG5rOnI608FQCMXxtyUXnVdRMXCFX5Uw): frames neurodivergent adolescents with ADHD, chronic illness, depression, trauma, Spanish-dominant language contexts, masking/unmasking, spoon theory, sensory-overloading labs, UDL/SIOP, family partnership, and "nothing about us without us."
-- [ADHD Awareness in Chronic Illness](https://drive.google.com/file/d/1wGQgljS0yeeAYacezoaRLRBNT45-659O): documents how ADHD can be hidden or misread when chronic illness, fatigue, brain fog, misinformation, and medical gaslighting overlap.
-- [EDU498 Layered Genius Minecraft Identity Mini-Unit](https://drive.google.com/file/d/1SDravCaceJOdTSKwCpwYG3jtoXS1_9Lv): models identity-safe digital making where students use Minecraft, code, debugging, screenshots, oral explanation, and reflection as literacy evidence.
-- [EDU498 Class 2 Asynchronous Activity](https://docs.google.com/document/d/1AlcvsNXQ9DIlZ6qbD1mUB2jpnNWyCVay1TUX1LBTCfk): names the difference between access barriers and thinking barriers, especially in digital literacy tasks.
-- [EDE476 Module 3 UDL/SIOP Reading Summary](https://docs.google.com/document/d/1eg3soVGruNc_cw_G98qviy3A5JxWOG2SEOuuBq97n7Y): connects SIOP, UDL, content/language objectives, multilingual scaffolds, and formative assessment to Puzzle Plan equity.
-- [EQUITAS writing sample](https://drive.google.com/file/d/16yl_PVUcV4gCYTj-_o50bYgyVKOnyq-j): positions lived experience, trauma-informed systems, cultural phenotype recognition, and reparative accountability as diagnostic justice.
-- [RIT and UOR Courses Supporting Puzzle Plan and EQUITAS Integration](https://docs.google.com/document/d/1US2eOwt3hZ0eWDMtoPiBiLZY7Pz9dZf4Iv8ib73aHs0): documents cross-course reuse across AI ethics, health equity, disability, inclusive pedagogy, CS teaching, and digitally rich teaching.
-- [EDU498 neurodivergent challenges reference index](https://github.com/pzg8794/EDU498/blob/main/assignments/Assignment-Exploring_Literacy_as%20Power-Bridging_Social_Justice/neurodivergent-challenges-reference-index.md): maps transcripts, course artifacts, Puzzle Plan dimensions, and EQUITAS questions around neurodivergent educational barriers.
-- [ED452C Puzzle Plan evidence map](https://github.com/pzg8794/ED452C/blob/main/portfolio/puzzle-plan-evidence-map.md): connects inclusive teaching, Minecraft placement, AI learning partner work, Tier 1 design, and the difference between access friction and capability.
-- EDF447 UDL and ADHD-friendly talk notes (local only: `/Users/pitergarcia/DataScience/Semester5/Semester3(UofR)/EDF447/Piter_DI_UDL_ADHD_Friendly_Talk.md`): explains differentiated instruction and UDL as flexible design for neurodivergent and CLD learners.
-- Puzzle Plan framework (local only: `/Users/pitergarcia/DataScience/Semester5/Scholarship/The Puzzle Plan_ An Interdisciplinary Framework for Equitable Diagnostics and Advocacy-Driven Research.md`): grounds the cross-course project in equitable diagnostics, lived experience, algorithmic equity, educational advocacy, and translational outputs.
+- [EDU498 neurodivergent challenges reference index](https://github.com/pzg8794/EDU498/blob/main/assignments/Assignment-Exploring_Literacy_as%20Power-Bridging_Social_Justice/neurodivergent-challenges-reference-index.md): maps neurodivergent educational harm, chronic illness, multimodal literacy, access barriers, Puzzle Plan dimensions, and EQUITAS questions.
+- [ED452C Puzzle Plan evidence map](https://github.com/pzg8794/ED452C/blob/main/portfolio/puzzle-plan-evidence-map.md): connects Minecraft Education, inclusive CS, AI learning partner work, Tier 1 design, and the difference between access friction and capability.
+- [EDU498 Layered Genius Minecraft Identity Mini-Unit](https://drive.google.com/file/d/1SDravCaceJOdTSKwCpwYG3jtoXS1_9Lv): models identity-safe digital making, coding, screenshots, oral explanation, and multimodal evidence.
+- [EDU498 Class 2 Asynchronous Activity](https://docs.google.com/document/d/1AlcvsNXQ9DIlZ6qbD1mUB2jpnNWyCVay1TUX1LBTCfk): names the difference between access barriers and thinking barriers in digital literacy.
+- [EDE476 Cultural Ethnography Presentation](https://drive.google.com/file/d/1oG5rOnI608FQCMXxtyUXnVdRMXCFX5Uw): frames neurodivergent community, ADHD, chronic illness, depression, trauma, Spanish-dominant/urban contexts, masking/unmasking, spoon theory, sensory-overloading labs, UDL/SIOP, family partnership, and "nothing about us without us."
+- [ADHD Awareness in Chronic Illness](https://drive.google.com/file/d/1wGQgljS0yeeAYacezoaRLRBNT45-659O): documents hidden ADHD, chronic illness overlap, brain fog, fatigue, misinformation, medical gaslighting, and family advocacy.
+- [EDE476 Module 3 UDL/SIOP Reading Summary](https://docs.google.com/document/d/1eg3soVGruNc_cw_G98qviy3A5JxWOG2SEOuuBq97n7Y): connects UDL, SIOP, content/language objectives, multilingual scaffolds, comprehensible input, and equitable assessment.
+- [EQUITAS writing sample](https://drive.google.com/file/d/16yl_PVUcV4gCYTj-_o50bYgyVKOnyq-j): grounds the work in trauma-informed diagnostic justice, lived experience, cultural phenotype recognition, and reparative accountability.
+- [RIT and UOR Courses Supporting Puzzle Plan and EQUITAS Integration](https://docs.google.com/document/d/1US2eOwt3hZ0eWDMtoPiBiLZY7Pz9dZf4Iv8ib73aHs0): documents the cross-course pipeline across AI ethics, disability, inclusive pedagogy, CS teaching, health equity, and digitally rich teaching.
+- EDF447 UDL and ADHD-friendly talk notes: protected local prior-course notes used as private grounding context for UDL, ADHD-friendly design, learner variability, and flexible demonstration of learning.
+- Puzzle Plan framework: protected local scholarship draft used as private grounding context for equitable diagnostics, advocacy-driven research, and systems that adapt to human complexity.
 
 ## Design Commitments For EDU486
 
-1. **Rigor stays high; barriers come down.** Supports should protect the intellectual demand of STEM work instead of simplifying the science into low-expectation tasks.
-2. **Access is designed before failure.** Chunked directions, visual agendas, role clarity, sensory options, language supports, low-energy pathways, and multiple output modes are Tier 1 design, not after-the-fact fixes.
-3. **Technology is judged by participation.** A tool is useful only if it expands access, expression, critique, communication, or agency for the learners actually present.
-4. **Students are not data points only.** Youth questions, family knowledge, lived experience, disability culture, multilingual practices, and community observations are legitimate evidence.
-5. **No forced disclosure.** Identity-centered and disability-centered pedagogy must offer meaningful choice without requiring students to perform culture, trauma, diagnosis, or private health information.
-6. **Bodymind variability is expected.** The plan should include paths for fatigue, pain, sensory overload, anxiety, processing time, movement, silence, speech, and fluctuating attention.
+1. **Rigor stays high; barriers come down.** Access design protects intellectual demand.
+2. **Access is designed before failure.** Visual agendas, role clarity, sensory options, multilingual supports, low-energy pathways, and multiple output modes are Tier 1 design.
+3. **Technology is judged by participation.** A tool is useful only if it expands access, expression, critique, communication, or agency.
+4. **Students are not data points only.** Youth questions, family knowledge, disability culture, multilingual practice, and community observation are evidence.
+5. **No forced disclosure.** Students should not have to perform trauma, diagnosis, culture, or private health information to receive access.
+6. **Bodymind variability is expected.** Fatigue, pain, sensory overload, anxiety, processing time, movement, silence, speech, and fluctuating attention are design conditions.
 7. **Assessment must reveal thinking.** Evidence can include sketches, oral explanation, screenshots, data tables, maps, models, photos, peer teaching, debugging notes, reflection, and revision.
 
-## Revised EDU486 Research Question
+## Public Visual Standard
 
-> How can accessible science and technology help Freedom Scholars, especially neurodivergent, chronically ill, disabled, CLD, multilingual, and multiply marginalized students, investigate environmental justice questions while protecting agency, identity, bodymind access, and rigorous STEM thinking?
+The public-facing image for this course is now the [teacher as learning scientist evidence map](../public-artifacts/teacher-learning-scientist-evidence-map.png), not the earlier generic illustration. The visual standard is evidence, access, identity, and redesign.

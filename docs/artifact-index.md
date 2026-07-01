@@ -1,80 +1,66 @@
 # EDU486 Clickable Artifact Index
 
-This index makes the work easy to inspect on GitHub. Public repo files, public web sources, Google Drive sources, and safe generated images use clickable links. Local-only files are listed as absolute paths, not links, because GitHub cannot open `/Users/...` paths from a public web page.
+This index is the public GitHub front door. Public repo files, public submission exports, safe generated visuals, public web sources, and Drive sources use clickable links. Private or copyrighted course materials are named only when needed for provenance; they are not presented as broken local links.
 
 ## Public Repository
 
 - [GitHub repository](https://github.com/pzg8794/EDU486)
 - [GitHub issues tracker](https://github.com/pzg8794/EDU486/issues)
-- [Access-to-Agency course theme](access-to-agency-course-theme.md)
-- [Announcement prep folder](../assignments/00-announcement-prep/README.md)
+- [EQUITAS Access-to-Agency foundation](access-to-agency-course-theme.md)
+- [Course scope](course-scope.md)
+- [Deadlines and work due](deadlines.md)
+- [Weekly work plan](work-plan.md)
+- [Source map](source-map.md)
+- [PhD and Puzzle Plan alignment](phd-puzzle-plan-alignment.md)
+- [AI use log](ai-use-log.md)
 - [Assignments index](../assignments/README.md)
+- [Announcement prep folder](../assignments/00-announcement-prep/README.md)
+- [Course calendar import](course-calendar.ics)
+
+## Public Visual Artifacts
+
+- [Public visual artifacts folder](../public-artifacts/README.md)
+- [Teacher as learning scientist evidence map, PNG](../public-artifacts/teacher-learning-scientist-evidence-map.png)
+- [Teacher as learning scientist evidence map, SVG](../public-artifacts/teacher-learning-scientist-evidence-map.svg)
 - [Grounding framework visual SVG](../assignments/01-grounding-frameworks/grounding-frameworks-visual.svg)
+- [Grounding framework visual PNG](../public-artifacts/grounding-frameworks-visual.png)
+- [Youth STEM story slide 1](../public-artifacts/youth-stem-access-slide-1.png)
+- [Youth STEM story slide 2](../public-artifacts/youth-stem-access-slide-2.png)
+- [Youth STEM story slide 3](../public-artifacts/youth-stem-access-slide-3.png)
+- [Youth STEM story slide 4](../public-artifacts/youth-stem-access-slide-4.png)
+
+## Public Submission Documents
+
+- [Public submission documents folder](../public-submissions/README.md)
+- [Task 1 learning scientist DOCX](../public-submissions/task1-learning-scientist-prompt-reflection.docx)
+- [Task 2 syllabus comments checklist DOCX](../public-submissions/task2-syllabus-comments-checklist.docx)
+- [Task 3 youth STEM story notes DOCX](../public-submissions/task3-youth-stem-story-mia-heller.docx)
+- [Task 3 image-only presentation PPTX](../public-submissions/access-to-agency-youth-stem-story.pptx)
+- [Task 4 calendar checklist DOCX](../public-submissions/task4-calendar-checklist.docx)
+- [Announcement task tracker DOCX](../public-submissions/announcement-task-tracker.docx)
+- [Grounding frameworks Part 1 DOCX](../public-submissions/grounding-frameworks-part1.docx)
+- [AI history microplastics narrative DOCX](../public-submissions/ai-history-microplastics-narrative.docx)
+- [Planet Protectors camp unit plan DOCX](../public-submissions/planet-protectors-camp-unit-plan-draft.docx)
+- [Poster proposal DOCX](../public-submissions/poster-proposal-draft.docx)
+- [Course calendar ICS](../public-submissions/EDU486-course-calendar.ics)
+
+## Assignment Markdown
+
+- [Task 1 learning scientist prompt and reflection](../assignments/00-announcement-prep/task1-learning-scientist-prompt-reflection.md)
+- [Task 2 syllabus comments checklist](../assignments/00-announcement-prep/task2-syllabus-comments-checklist.md)
+- [Task 3 youth STEM story notes](../assignments/00-announcement-prep/task3-youth-stem-story-mia-heller.md)
+- [Task 4 calendar checklist](../assignments/00-announcement-prep/task4-calendar-checklist.md)
+- [Grounding frameworks Part 1](../assignments/01-grounding-frameworks/grounding-frameworks-part1.md)
 - [AI technology evolution narrative](../assignments/02-ai-technology-evolution/ai-history-microplastics-narrative.md)
 - [Planet Protectors camp unit plan draft](../assignments/03-camp-unit-plan/planet-protectors-camp-unit-plan-draft.md)
 - [Poster fair proposal draft](../assignments/04-poster-fair/poster-proposal-draft.md)
-- [Course calendar import](course-calendar.ics)
-- [Public generated artifacts](../public-artifacts/README.md)
 
-## Submission And Artifact Exports
+## Protected Course Sources
 
-- [Learning scientist image](../public-artifacts/learning-scientist-image.png)
-- [Learning scientist image, full uncropped version](../public-artifacts/learning-scientist-image-full.png)
-- Task 1 learning scientist DOCX (local only: `/Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/submission_exports/task1-learning-scientist-prompt-reflection.docx`)
-- Task 2 syllabus comments checklist DOCX (local only: `/Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/submission_exports/task2-syllabus-comments-checklist.docx`)
-- Task 3 youth STEM story notes DOCX (local only: `/Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/submission_exports/task3-youth-stem-story-mia-heller.docx`)
-- Task 3 youth STEM image-only deck PPTX (local only: `/Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/submission_exports/youth-stem-mia-heller-images-only.pptx`)
-- Task 3 deck montage preview (local only: `/Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/submission_exports/youth-stem-mia-heller-images-only-montage.png`)
-- Task 4 calendar ICS (local only: `/Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/submission_exports/EDU486-course-calendar.ics`)
-- Announcement task tracker DOCX (local only: `/Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/submission_exports/announcement-task-tracker.docx`)
-- Grounding frameworks Part 1 DOCX (local only: `/Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/submission_exports/grounding-frameworks-part1.docx`)
-- [Grounding frameworks visual PNG](../public-artifacts/grounding-frameworks-visual.png)
-- AI history microplastics narrative DOCX (local only: `/Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/submission_exports/ai-history-microplastics-narrative.docx`)
-- Planet Protectors camp unit plan DOCX (local only: `/Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/submission_exports/planet-protectors-camp-unit-plan-draft.docx`)
-- Poster proposal DOCX (local only: `/Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/submission_exports/poster-proposal-draft.docx`)
-
-## Slide Render Checks
-
-- Slide 1 render (local only: `/Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/submission_exports/youth-stem-mia-heller-images-only/slide-1.png`)
-- Slide 2 render (local only: `/Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/submission_exports/youth-stem-mia-heller-images-only/slide-2.png`)
-- Slide 3 render (local only: `/Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/submission_exports/youth-stem-mia-heller-images-only/slide-3.png`)
-- Slide 4 render (local only: `/Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/submission_exports/youth-stem-mia-heller-images-only/slide-4.png`)
-- Extracted youth STEM article-image montage (local only: `/Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/submission_exports/youth-stem-assets/montage.png`)
-- Mia Heller portrait extracted image (local only: `/Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/submission_exports/youth-stem-assets/mia-007.png`)
-- Microplastics close-up extracted image (local only: `/Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/submission_exports/youth-stem-assets/mia-004.png`)
-- Filtration prototype diagram extracted image (local only: `/Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/submission_exports/youth-stem-assets/mia-012.png`)
-
-## Local Announcement Sources
-
-- Getting ready for class on Tuesday - Welcome (local only: `/Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/announcements/Getting ready for class on Tuesday - Welcome.pdf`)
-- Smithsonian: This High School Student Invented a Filter That Eliminates 96 Percent of Microplastics From Drinking Water (local only: `/Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/announcements/This High School Student Invented a Filter That Eliminates 96 Percent of Microplastics From Drinking Water.pdf`)
-- Good News Network: 3 Teens Win Global Earth Prize for Inventing Tamarind Powder That Easily Removes Microplastics (local only: `/Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/announcements/3 Teens Win Global Earth Prize for Inventing Tamarind Powder That Easily Removes Microplastics.pdf`)
-- Business Insider: 2 Teens Get $50,000 for Award-Winning Microplastic Filtration Device (local only: `/Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/announcements/2 Teens Get $50,000 for Award-Winning Microplastic Filtration Device - Business Insider.pdf`)
-- STEM Next resources (local only: `/Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/announcements/Resources - STEM Next.pdf`)
-- 16 Under 16 STEM Achievers (local only: `/Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/announcements/16 Under 16_ Meet The 74’s 2022 Class of STEM Achievers – The 74.pdf`)
-- Because of Them We Can search results (local only: `/Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/announcements/Search Results for “science” – Because of Them We Can.pdf`)
-- Class today email (local only: `/Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/announcements/University of Rochester Mail - Class today.pdf`)
-- Checking in on your slides email (local only: `/Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/announcements/University of Rochester Mail - Checking in on your slides for today.pdf`)
-
-## Local Course Sources
-
-- Syllabus PDF (local only: `/Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/2026 Syllabus EDU 486_ Integrating Technology in Teaching Content Areas - Google Docs.pdf`)
-- Syllabus DOCX (local only: `/Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/2026 Syllabus EDU 486_  Integrating Technology in Teaching Content Areas.docx`)
-- Module 1 checklist (local only: `/Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/Module1/Need to do- Checklists by session.pdf`)
-- Module 1 content/readings list (local only: `/Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/Module1/Module Content- Readings and links to videos and websites.pdf`)
-- Module 1 grounding frameworks assignment (local only: `/Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/Module1/Visualizing our grounding frameworks.pdf`)
-- Kimmons, Graham, and West PICRAT reading (local only: `/Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/Module1/Kimmons et al. 2022 PICRAT.pdf`)
-- PICRAT video notes/transcript (local only: `/Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/Module1/NoteGPT_PICRAT for Effective Technology Integration in Teaching.txt`)
-- Colbert classroom design article PDF (local only: `/Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/Module1/Classroom Design and How it Influences Behavior.pdf`)
-- Windschitl, Thompson, and Braaten Ambitious Science Teaching excerpt (local only: `/Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/Module1/Windschitl, Thompson, Braaten- 2018- Ambitious Science Teaching- Ch. 5.pdf`)
-- Science in Action video notes/transcript (local only: `/Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/Module1/NoteGPT_Science in Action_ How Science Works _ California Academy of Sciences.txt`)
-- Ravel and Sneider practical research PDF (local only: `/Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/Module1/Ravel Sneider 2023 Scope_PracticalResearch.pdf`)
-- Avery rural science education PDF (local only: `/Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/Module1/Avery_2013_Rural Science Education  Valuing Local Knowledge.pdf`)
-- Seiki et al. crossing borders PDF (local only: `/Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/Module1/Seiki et al_2021_Crossing_Borders.pdf`)
-- ERIC copy of Seiki et al. border crossing PDF (local only: `/Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/Module1/EJ1304646-Remaking Science Teaching- Border Crossing Between Home and School.pdf`)
-- Yosso community cultural wealth PDF (local only: `/Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/Module1/Yosso_2005_Cultural Wealth.pdf`)
-- REL culturally sustaining pedagogy PDF (local only: `/Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/Module1/REL_CulturallySustainingPedagogy_508.pdf`)
-- Module 2 final reflection image (local only: `/Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/Module2/Final Reflection - Commitments to K12.png`)
+- [Google Doc syllabus](https://docs.google.com/document/d/1FQ1gwTCD7cqL5Hj5xVIAI4p4WFQ8AXLuqOGCuwKwVFk/edit)
+- Announcement text: protected Blackboard announcement; extracted requirements are documented in the [announcement task tracker](../assignments/00-announcement-prep/announcement-task-tracker.md)
+- Module 1 readings: protected Blackboard/course PDFs; public web equivalents are linked below when available
+- Module 2 reflection image: protected local course artifact; public follow-up work should be exported into [public submissions](../public-submissions/README.md)
 
 ## Public Web Sources
 
@@ -98,6 +84,8 @@ This index makes the work easy to inspect on GitHub. Public repo files, public w
 
 ## Prior Work And Drive Sources
 
+- [EDU498 neurodivergent challenges reference index](https://github.com/pzg8794/EDU498/blob/main/assignments/Assignment-Exploring_Literacy_as%20Power-Bridging_Social_Justice/neurodivergent-challenges-reference-index.md)
+- [ED452C Puzzle Plan evidence map](https://github.com/pzg8794/ED452C/blob/main/portfolio/puzzle-plan-evidence-map.md)
 - [EDE476 Cultural Ethnography Presentation](https://drive.google.com/file/d/1oG5rOnI608FQCMXxtyUXnVdRMXCFX5Uw)
 - [EDE476 Cultural Ethnography Presentation Recording PDF](https://drive.google.com/file/d/12-od91fTnDyp1TkM-qWuTZ3bzwVEdjsT)
 - [ADHD Awareness in Chronic Illness](https://drive.google.com/file/d/1wGQgljS0yeeAYacezoaRLRBNT45-659O)
@@ -106,7 +94,5 @@ This index makes the work easy to inspect on GitHub. Public repo files, public w
 - [EDE476 Module 3 UDL/SIOP Reading Summary](https://docs.google.com/document/d/1eg3soVGruNc_cw_G98qviy3A5JxWOG2SEOuuBq97n7Y)
 - [EQUITAS writing sample](https://drive.google.com/file/d/16yl_PVUcV4gCYTj-_o50bYgyVKOnyq-j)
 - [RIT and UOR Courses Supporting Puzzle Plan and EQUITAS Integration](https://docs.google.com/document/d/1US2eOwt3hZ0eWDMtoPiBiLZY7Pz9dZf4Iv8ib73aHs0)
-- [EDU498 neurodivergent challenges reference index](https://github.com/pzg8794/EDU498/blob/main/assignments/Assignment-Exploring_Literacy_as%20Power-Bridging_Social_Justice/neurodivergent-challenges-reference-index.md)
-- [ED452C Puzzle Plan evidence map](https://github.com/pzg8794/ED452C/blob/main/portfolio/puzzle-plan-evidence-map.md)
-- EDF447 UDL and ADHD-friendly talk notes (local only: `/Users/pitergarcia/DataScience/Semester5/Semester3(UofR)/EDF447/Piter_DI_UDL_ADHD_Friendly_Talk.md`)
-- Puzzle Plan framework (local only: `/Users/pitergarcia/DataScience/Semester5/Scholarship/The Puzzle Plan_ An Interdisciplinary Framework for Equitable Diagnostics and Advocacy-Driven Research.md`)
+- EDF447 UDL and ADHD-friendly talk notes: protected local prior-course notes used only as private grounding context
+- Puzzle Plan framework: protected local scholarship draft used only as private grounding context

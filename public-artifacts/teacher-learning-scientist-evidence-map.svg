@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="1200" viewBox="0 0 1800 1200" role="img" aria-labelledby="title desc">
+  <title id="title">Teacher as learning scientist evidence map</title>
+  <desc id="desc">A concept map showing a teacher as a learning scientist who studies access barriers, student evidence, and redesign choices through Puzzle Plan and EQUITAS.</desc>
+  <defs>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="4" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L0,8 L12,4 z" fill="#1f2937" />
+    </marker>
+    <style>
+      .bg { fill: #f7f9fb; }
+      .title { font: 700 52px Arial, sans-serif; fill: #102033; }
+      .subtitle { font: 400 28px Arial, sans-serif; fill: #374151; }
+      .box-title { font: 700 28px Arial, sans-serif; fill: #102033; }
+      .box-text { font: 400 23px Arial, sans-serif; fill: #233044; }
+      .small { font: 400 20px Arial, sans-serif; fill: #374151; }
+      .tiny { font: 700 18px Arial, sans-serif; fill: #102033; letter-spacing: 0; }
+      .line { stroke: #1f2937; stroke-width: 4; fill: none; marker-end: url(#arrow); }
+      .thin { stroke: #6b7280; stroke-width: 3; fill: none; marker-end: url(#arrow); }
+      .shadow { filter: drop-shadow(0 4px 10px rgba(15, 23, 42, .10)); }
+    </style>
+  </defs>
+
+  <rect class="bg" width="1800" height="1200" />
+  <text x="90" y="90" class="title">Teacher as Learning Scientist</text>
+  <text x="90" y="132" class="subtitle">Studying the learning environment before blaming the learner</text>
+
+  <rect x="620" y="240" width="560" height="250" rx="26" fill="#ffffff" stroke="#102033" stroke-width="5" class="shadow" />
+  <text x="900" y="305" text-anchor="middle" class="box-title">Core Stance</text>
+  <text x="900" y="352" text-anchor="middle" class="box-text">Access barriers are not</text>
+  <text x="900" y="385" text-anchor="middle" class="box-text">thinking barriers.</text>
+  <text x="900" y="430" text-anchor="middle" class="small">The teacher gathers evidence about</text>
+  <text x="900" y="460" text-anchor="middle" class="small">design, tools, bodies, language, and power.</text>
+
+  <rect x="80" y="220" width="420" height="210" rx="22" fill="#e9f5ff" stroke="#21658f" stroke-width="4" class="shadow" />
+  <text x="290" y="275" text-anchor="middle" class="box-title">Access Load</text>
+  <text x="125" y="322" class="box-text">Sensory load, fatigue, pain</text>
+  <text x="125" y="357" class="box-text">executive function, pacing</text>
+  <text x="125" y="392" class="box-text">language load, click paths</text>
+
+  <rect x="1300" y="220" width="420" height="210" rx="22" fill="#fff4d6" stroke="#9a6200" stroke-width="4" class="shadow" />
+  <text x="1510" y="275" text-anchor="middle" class="box-title">Student Evidence</text>
+  <text x="1345" y="322" class="box-text">Talk, drawing, building</text>
+  <text x="1345" y="357" class="box-text">mapping, sorting, coding</text>
+  <text x="1345" y="392" class="box-text">photos, questions, revision</text>
+
+  <rect x="80" y="560" width="420" height="230" rx="22" fill="#ecf8e9" stroke="#3f7b35" stroke-width="4" class="shadow" />
+  <text x="290" y="615" text-anchor="middle" class="box-title">Identity Context</text>
+  <text x="125" y="662" class="box-text">Neurodivergent, chronically ill</text>
+  <text x="125" y="697" class="box-text">disabled, CLD, multilingual</text>
+  <text x="125" y="732" class="box-text">multiple identities, family knowledge</text>
+
+  <rect x="1300" y="560" width="420" height="230" rx="22" fill="#f3ecff" stroke="#7651a8" stroke-width="4" class="shadow" />
+  <text x="1510" y="615" text-anchor="middle" class="box-title">Redesign Moves</text>
+  <text x="1345" y="662" class="box-text">UDL/SIOP, clear roles</text>
+  <text x="1345" y="697" class="box-text">low-energy pathways</text>
+  <text x="1345" y="732" class="box-text">tool critique, no forced disclosure</text>
+
+  <rect x="590" y="760" width="620" height="170" rx="22" fill="#ffffff" stroke="#2f6f73" stroke-width="4" class="shadow" />
+  <text x="900" y="815" text-anchor="middle" class="box-title">Puzzle Plan / EQUITAS Bridge</text>
+  <text x="900" y="862" text-anchor="middle" class="box-text">Access  Identity  Healing  Agency</text>
+  <text x="900" y="897" text-anchor="middle" class="box-text">Criticality  Joy  Transformation</text>
+
+  <path class="line" d="M500 325 C560 330, 585 340, 620 360" />
+  <path class="line" d="M1180 360 C1230 335, 1260 325, 1300 325" />
+  <path class="line" d="M500 675 C570 630, 595 520, 680 485" />
+  <path class="line" d="M1300 675 C1225 630, 1200 520, 1120 485" />
+  <path class="thin" d="M900 490 L900 760" />
+  <path class="thin" d="M500 720 C590 795, 610 835, 590 845" />
+  <path class="thin" d="M1300 720 C1210 795, 1190 835, 1210 845" />
+
+  <rect x="260" y="970" width="1280" height="110" rx="22" fill="#102033" />
+  <text x="900" y="1018" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-weight="700" font-size="28">EDU486 purpose: use STEM technology to reveal and protect access</text>
+  <text x="900" y="1056" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-weight="700" font-size="28">to rigorous thinking.</text>
+  <text x="900" y="1120" text-anchor="middle" class="small">Evidence standard for Planet Protectors, Freedom Scholars, and the public course repo.</text>
+</svg>

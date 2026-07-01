@@ -6,18 +6,18 @@ The repo documents the course scope, deadlines, assignment work, and strategic a
 
 ## Current Throughline
 
-**Working course theme:** Access-to-Agency STEM for Planet Protectors.
+**Working course theme:** EQUITAS Access-to-Agency STEM.
 
-For this course, technology should not be an add-on or a shiny substitute for ordinary worksheets. The target is technology that helps neurodivergent, chronically ill, disabled, CLD, multilingual, and multiply marginalized youth investigate real environmental questions while keeping bodymind access, identity, rigorous thinking, and student agency visible.
+This repo is not a generic camp-technology portfolio. It documents how EDU486 can translate the Puzzle Plan / EQUITAS throughline into STEM teaching: using technology to reveal, protect, and redesign access to rigorous thinking for neurodivergent, chronically ill, disabled, CLD, multilingual, and multiply marginalized students.
 
 My working personal lens is:
 
-> How can accessible science and technology help Freedom Scholars, especially neurodivergent, chronically ill, disabled, CLD, multilingual, and multiply marginalized students, investigate environmental justice questions while protecting agency, identity, bodymind access, and rigorous STEM thinking?
+> How can accessible science and technology help Freedom Scholars investigate environmental justice questions while protecting bodymind access, identity safety, agency, and rigorous STEM thinking?
 
 ## Quick Links
 
 - [Course scope](docs/course-scope.md)
-- [Access-to-Agency course theme](docs/access-to-agency-course-theme.md)
+- [EQUITAS Access-to-Agency foundation](docs/access-to-agency-course-theme.md)
 - [Deadlines and work due](docs/deadlines.md)
 - [Weekly work plan](docs/work-plan.md)
 - [Source map](docs/source-map.md)
@@ -27,13 +27,14 @@ My working personal lens is:
 - [Assignments index](assignments/README.md)
 - [Course calendar import](docs/course-calendar.ics)
 - [Public generated artifacts](public-artifacts/README.md)
+- [Public submission documents](public-submissions/README.md)
 
 ## Major Deliverables
 
 | Due | Deliverable | Repo Draft |
 | --- | --- | --- |
 | June 29, 2026 | Pre-class announcement tasks: learning scientist image, syllabus comments, youth STEM story slides, calendar setup | [Announcement prep](assignments/00-announcement-prep/README.md) |
-| July 14, 2026 | Visualizing our Grounding Frameworks, Part 1, revised around Access-to-Agency STEM | [Part 1 draft](assignments/01-grounding-frameworks/grounding-frameworks-part1.md) |
+| July 14, 2026 | Visualizing our Grounding Frameworks, Part 1, revised around EQUITAS Access-to-Agency STEM | [Part 1 draft](assignments/01-grounding-frameworks/grounding-frameworks-part1.md) |
 | July 21, 2026 | Camp overview and daily lesson plans finalized for sharing/printing, with access paths for neurodivergent and chronically ill learners | [Camp unit plan draft](assignments/03-camp-unit-plan/planet-protectors-camp-unit-plan-draft.md) |
 | July 29, 2026 | Poster file to April by bedtime if printing is needed | [Poster proposal draft](assignments/04-poster-fair/poster-proposal-draft.md) |
 | July 31, 2026 | Poster fair, 1:30-3:00 p.m. in LeChase 215 | [Poster proposal draft](assignments/04-poster-fair/poster-proposal-draft.md) |

@@ -19,7 +19,7 @@ Direct links:
 
 - [Grounding framework visual SVG](grounding-frameworks-visual.svg)
 - [Grounding framework visual PNG export](../../public-artifacts/grounding-frameworks-visual.png)
-- Grounding frameworks Part 1 DOCX export (local only: `/Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/submission_exports/grounding-frameworks-part1.docx`)
+- [Grounding frameworks Part 1 DOCX export](../../public-submissions/grounding-frameworks-part1.docx)
 - [Module 1 source map](../../docs/source-map.md#module-1-local-sources)
 
 ```mermaid

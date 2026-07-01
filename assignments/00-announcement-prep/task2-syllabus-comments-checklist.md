@@ -12,13 +12,17 @@ Public DOCX export:
 
 - [task2-syllabus-comments-checklist.docx](../../public-submissions/task2-syllabus-comments-checklist.docx)
 
-## Live Comment Status Observed July 1, 2026
+## Live Comment Status Updated July 1, 2026
 
-The syllabus already has active comments from classmates and instructors. I also found one live reply under the Freedom Scholars age question from "Peter":
+Task 2 is now complete in the live syllabus Google Doc. A new comment was posted as Piter Garcia near the Course Objectives / guiding principles section:
+
+> Can we explicitly treat neurodivergent and multiply marginalized students as central to justice-centered STEM learning? I want my camp work to ask whose bodymind, language, pace, sensory/energy needs, and communication style the technology assumes, and how we can separate access barriers from thinking barriers.
+
+The syllabus also already had active comments from classmates and instructors. I found one earlier live reply under the Freedom Scholars age question from "Peter":
 
 > I was able to meet the freedom scholars, for science its 6th through 8th graders or their level 3s
 
-That means the Task 2 expectation was at least partially met in the live document.
+That earlier comment appears to refer to the same person, but the new July 1 comment is the cleaner Task 2 evidence to use because it directly names the course theme and access-centered question.
 
 ## Comments That Would Still Fit If More Are Needed
 
@@ -66,4 +70,4 @@ Comment:
 
 ## Note
 
-I did not add new comments retroactively on July 1 because the shared document already had a substantial live comment thread and the pre-class deadline was June 29. This file preserves ready-to-post comments if more participation evidence is needed, and it corrects the course throughline toward access-centered STEM rather than generic technology integration.
+The live syllabus comment was kept short and readable because the goal was to complete Task 2 quickly while still making the course throughline visible: neurodivergent and multiply marginalized students should be central to justice-centered STEM, not treated as an accommodation add-on.

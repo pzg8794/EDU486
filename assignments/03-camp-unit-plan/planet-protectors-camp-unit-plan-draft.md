@@ -6,6 +6,8 @@ Working unit title: Community Microplastic Investigators
 Audience: Freedom Scholars middle school youth
 Status: Complete first draft for group adaptation
 
+Source links: [Module 1 source map](../../docs/source-map.md#module-1-local-sources), [course scope](../../docs/course-scope.md), [local DOCX export](</Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/submission_exports/planet-protectors-camp-unit-plan-draft.docx>)
+
 ## Camp Overview
 
 ### Big Idea

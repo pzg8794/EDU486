@@ -6,7 +6,11 @@ Add comments, questions, hearts, angry faces, or exclamation marks to the syllab
 
 Syllabus Google Doc from announcement:
 
-https://docs.google.com/document/d/1FQ1gwTCD7cqL5Hj5xVIAI4p4WFQ8AXLuqOGCuwKwVFk/edit
+- [2026 Syllabus EDU486 Google Doc](https://docs.google.com/document/d/1FQ1gwTCD7cqL5Hj5xVIAI4p4WFQ8AXLuqOGCuwKwVFk/edit)
+
+Local DOCX export:
+
+- [task2-syllabus-comments-checklist.docx](</Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/submission_exports/task2-syllabus-comments-checklist.docx>)
 
 ## Live Comment Status Observed July 1, 2026
 

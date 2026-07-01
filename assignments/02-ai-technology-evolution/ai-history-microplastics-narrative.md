@@ -49,10 +49,10 @@ AI helped me quickly organize the history into a timeline and notice connections
 
 ## Sources To Verify / Cite
 
-- EPA, Microplastics Research: https://www.epa.gov/water-research/microplastics-research
-- Masura et al. (2015), NOAA, Laboratory Methods for the Analysis of Microplastics in the Marine Environment: https://repository.library.noaa.gov/view/noaa/10296
-- ITRC, Microplastics Sampling and Analysis: https://mp-1.itrcweb.org/sampling-and-analysis/
-- RSC Environmental Science: Processes & Impacts, machine learning tools for microplastics analysis: https://pubs.rsc.org/en/content/articlehtml/2025/em/d4em00605d
+- [EPA, Microplastics Research](https://www.epa.gov/water-research/microplastics-research)
+- [Masura et al. (2015), NOAA, Laboratory Methods for the Analysis of Microplastics in the Marine Environment](https://repository.library.noaa.gov/view/noaa/10296)
+- [ITRC, Microplastics Sampling and Analysis](https://mp-1.itrcweb.org/sampling-and-analysis/)
+- [RSC Environmental Science: Processes & Impacts, machine learning tools for microplastics analysis](https://pubs.rsc.org/en/content/articlehtml/2025/em/d4em00605d)
 
 ## AI Use Disclosure
 

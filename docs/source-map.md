@@ -6,11 +6,11 @@ This source map keeps course provenance visible while keeping third-party and pr
 
 The following source folders/files are present locally but ignored by git:
 
-- `2026 Syllabus EDU 486_ Integrating Technology in Teaching Content Areas - Google Docs.pdf`
-- `2026 Syllabus EDU 486_  Integrating Technology in Teaching Content Areas.docx`
-- `Module1/`
-- `Module2/`
-- `announcements/`
+- [2026 Syllabus EDU 486 PDF](</Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/2026 Syllabus EDU 486_ Integrating Technology in Teaching Content Areas - Google Docs.pdf>)
+- [2026 Syllabus EDU 486 DOCX](</Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/2026 Syllabus EDU 486_  Integrating Technology in Teaching Content Areas.docx>)
+- [Module1 folder](</Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/Module1>)
+- [Module2 folder](</Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/Module2>)
+- [announcements folder](</Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/announcements>)
 
 Reason: the public repo should not publish Blackboard/course readings, copied PDFs, screenshots, copyrighted materials, or raw course exports.
 
@@ -29,50 +29,53 @@ The syllabus establishes:
 
 ## Announcement Requirements Extracted
 
-From `announcements/Getting ready for class on Tuesday - Welcome.pdf`:
+From [Getting ready for class on Tuesday - Welcome](</Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/announcements/Getting ready for class on Tuesday - Welcome.pdf>):
 
 - Task 1: create AI prompt/image/characteristics for teacher as learning scientist; reflect after reading the syllabus; email picture to Zen by June 29
 - Task 2: add questions/reactions/comments to the syllabus Google Doc
 - Task 3: find a youth STEM story, prepare a 5-minute share, create image-only slides, email April by June 29
 - Task 4: add course dates/times/locations to calendar
 
-The recovered task artifacts are in `assignments/00-announcement-prep/`.
+The recovered task artifacts are in the [announcement prep folder](../assignments/00-announcement-prep/README.md).
 
 ## Module 1 Local Sources
 
 For July 1:
 
-- Kimmons, Graham, and West, PICRAT reading, pp. 184-195
-- PICRAT video by Royce Kimmons
-- Colbert, classroom design and behavior
-- Windschitl, Thompson, and Braaten, Ambitious Science Teaching excerpt
-- Science in Action video, California Academy of Sciences
-- "What Equity Means to Me" zine
+- [Kimmons, Graham, and West, PICRAT reading, pp. 184-195](</Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/Module1/Kimmons et al. 2022 PICRAT.pdf>)
+- [PICRAT video by Royce Kimmons](https://www.youtube.com/watch?v=bfvuG620Bto), with local [video notes/transcript](</Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/Module1/NoteGPT_PICRAT for Effective Technology Integration in Teaching.txt>)
+- [Colbert, classroom design and behavior](https://www.communityplaythings.com/resources/articles/classroom-design-and-how-it-influences-behavior), with local [PDF copy](</Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/Module1/Classroom Design and How it Influences Behavior.pdf>)
+- [Windschitl, Thompson, and Braaten, Ambitious Science Teaching excerpt](</Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/Module1/Windschitl, Thompson, Braaten- 2018- Ambitious Science Teaching- Ch. 5.pdf>)
+- [Science in Action video, California Academy of Sciences](https://www.youtube.com/watch?v=Jj9iNphbY88), with local [video notes/transcript](</Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/Module1/NoteGPT_Science in Action_ How Science Works _ California Academy of Sciences.txt>)
+- "What Equity Means to Me" zine, paper copy distributed in class; no local digital file found in the course folder
+- [Ravel and Sneider practical research PDF](</Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/Module1/Ravel Sneider 2023 Scope_PracticalResearch.pdf>)
 
 For July 7:
 
-- Avery, rural science education and local knowledge
-- Seiki, Dominguez, and Asato, border crossing between home and school
-- Yosso, community cultural wealth
-- REL culturally sustaining pedagogy resource
+- [Avery, rural science education and local knowledge](</Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/Module1/Avery_2013_Rural Science Education  Valuing Local Knowledge.pdf>)
+- [Seiki, Dominguez, and Asato, border crossing between home and school](https://files.eric.ed.gov/fulltext/EJ1304646.pdf), with local [course copy](</Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/Module1/Seiki et al_2021_Crossing_Borders.pdf>) and local [ERIC copy](</Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/Module1/EJ1304646-Remaking Science Teaching- Border Crossing Between Home and School.pdf>)
+- [Yosso, community cultural wealth](</Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/Module1/Yosso_2005_Cultural Wealth.pdf>)
+- [REL culturally sustaining pedagogy resource](https://ies.ed.gov/ncee/rel/regions/pacific/pdf/REL_CulturallySustainingPedagogy_508.pdf), with local [PDF copy](</Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/Module1/REL_CulturallySustainingPedagogy_508.pdf>)
 
 For July 9/10:
 
-- AI-assisted technology evolution mini-presentation directions
+- [AI-assisted technology evolution mini-presentation directions](</Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/Module1/Module Content- Readings and links to videos and websites.pdf>)
+- [Module 1 session checklist](</Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/Module1/Need to do- Checklists by session.pdf>)
 - Suggested topic examples include microplastics, water quality, invasive species, and digital sensing
+- Working draft: [microplastics technology evolution narrative](../assignments/02-ai-technology-evolution/ai-history-microplastics-narrative.md)
 
 ## Public Web Sources Used For Microplastics Draft
 
 These public sources support the microplastics technology evolution draft:
 
-- EPA, Microplastics Research: https://www.epa.gov/water-research/microplastics-research
-- NOAA Institutional Repository, Masura et al. (2015), Laboratory Methods for the Analysis of Microplastics: https://repository.library.noaa.gov/view/noaa/10296
-- ITRC, Microplastics Sampling and Analysis: https://mp-1.itrcweb.org/sampling-and-analysis/
-- RSC Environmental Science: Processes & Impacts, machine learning tools for microplastics analysis: https://pubs.rsc.org/en/content/articlehtml/2025/em/d4em00605d
+- [EPA, Microplastics Research](https://www.epa.gov/water-research/microplastics-research)
+- [NOAA Institutional Repository, Masura et al. (2015), Laboratory Methods for the Analysis of Microplastics](https://repository.library.noaa.gov/view/noaa/10296)
+- [ITRC, Microplastics Sampling and Analysis](https://mp-1.itrcweb.org/sampling-and-analysis/)
+- [RSC Environmental Science: Processes & Impacts, machine learning tools for microplastics analysis](https://pubs.rsc.org/en/content/articlehtml/2025/em/d4em00605d)
 
 ## Public Web Sources Used For Announcement Task 3
 
-- Smithsonian Magazine, Mia Heller microplastics filter story: https://www.smithsonianmag.com/innovation/this-high-school-student-invented-a-filter-that-eliminates-96-percent-of-microplastics-from-drinking-water-180988363/
+- [Smithsonian Magazine, Mia Heller microplastics filter story](https://www.smithsonianmag.com/innovation/this-high-school-student-invented-a-filter-that-eliminates-96-percent-of-microplastics-from-drinking-water-180988363/)
 
 ## Google Drive Context Used
 

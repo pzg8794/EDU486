@@ -13,7 +13,7 @@ The course creates a bridge between:
 
 ## Core Puzzle Plan Connection
 
-The Drive planning materials emphasize a unified research ecosystem: technical expertise, equity frameworks, teaching innovation, and portfolio coherence should reinforce each other instead of living as separate course products.
+The [Drive planning materials](artifact-index.md#public-web-sources) emphasize a unified research ecosystem: technical expertise, equity frameworks, teaching innovation, and portfolio coherence should reinforce each other instead of living as separate course products.
 
 EDU486 can contribute to that ecosystem through:
 

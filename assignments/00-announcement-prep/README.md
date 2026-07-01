@@ -1,6 +1,6 @@
 # Assignment 00 - Announcement Prep
 
-This folder covers the pre-class tasks from `announcements/Getting ready for class on Tuesday - Welcome.pdf`.
+This folder covers the pre-class tasks from [Getting ready for class on Tuesday - Welcome](</Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/announcements/Getting ready for class on Tuesday - Welcome.pdf>).
 
 Due date from announcement: June 29, 2026.
 
@@ -12,4 +12,4 @@ Current artifacts:
 - [Task 3 youth STEM story notes](task3-youth-stem-story-mia-heller.md)
 - [Task 4 calendar checklist](task4-calendar-checklist.md)
 
-Local submit/email-ready files are in `submission_exports/`.
+Local submit/email-ready files are linked from the [clickable artifact index](../../docs/artifact-index.md).

@@ -1,16 +1,16 @@
 # EDU486 Deadlines and Work Due
 
-Dates are from the local syllabus and Module 1 course materials. Confirm Blackboard updates before final submission.
+Dates are from the local [syllabus](source-map.md#local-course-files-kept-out-of-public-git) and [Module 1 course materials](source-map.md#module-1-local-sources). Confirm Blackboard updates before final submission.
 
 ## Immediate Work
 
 | Date | Work Due / Event | What To Prepare |
 | --- | --- | --- |
-| June 29, 2026 | Pre-class announcement tasks | Learning scientist image/reflection, syllabus comments, youth STEM story image-only slides, calendar dates |
-| July 1, 2026 | Module 1 reading/prep | PICRAT reading/video, classroom design, Ambitious Science Teaching excerpt, Science in Action video, equity zine, brainstorm camp questions/evidence |
+| June 29, 2026 | [Pre-class announcement tasks](../assignments/00-announcement-prep/README.md) | Learning scientist image/reflection, syllabus comments, youth STEM story image-only slides, calendar dates |
+| July 1, 2026 | [Module 1 reading/prep](source-map.md#module-1-local-sources) | PICRAT reading/video, classroom design, Ambitious Science Teaching excerpt, Science in Action video, equity zine, brainstorm camp questions/evidence |
 | July 7, 2026 | Freedom School neighborhood asset map | Bring questions about local knowledge, youth interests, community assets, and environmental evidence |
-| July 9/10, 2026 | AI technology evolution mini-narrative | Use an AI tool to explore how a camp-theme technology evolved; prepare a 5-minute informal narrative and reflect on AI's usefulness/limits |
-| July 14, 2026 | Visualizing our Grounding Frameworks, Part 1 | Submit a visualization of JuST Framework plus technology's supports, constraints, tensions, and tradeoffs |
+| July 9/10, 2026 | [AI technology evolution mini-narrative](../assignments/02-ai-technology-evolution/ai-history-microplastics-narrative.md) | Use an AI tool to explore how a camp-theme technology evolved; prepare a 5-minute informal narrative and reflect on AI's usefulness/limits |
+| July 14, 2026 | [Visualizing our Grounding Frameworks, Part 1](../assignments/01-grounding-frameworks/grounding-frameworks-part1.md) | Submit a visualization of JuST Framework plus technology's supports, constraints, tensions, and tradeoffs |
 
 ## Planning and Camp
 

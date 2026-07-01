@@ -26,10 +26,10 @@ The syllabus says that when GenAI is used, it should be credited by source, outp
 - Tool/source: OpenAI Codex and OpenAI image generation
 - Purpose: recover the June 29 pre-class announcement tasks, generate an email-ready learning scientist image, draft the learning scientist reflection, document syllabus comment status, prepare the youth STEM story share, and create an image-only slide deck
 - Output created:
-  - `assignments/00-announcement-prep/`
-  - `submission_exports/learning-scientist-image.png`
-  - `submission_exports/youth-stem-mia-heller-images-only.pptx`
-  - `docs/course-calendar.ics`
+  - [announcement prep folder](../assignments/00-announcement-prep/README.md)
+  - [learning-scientist-image.png](</Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/submission_exports/learning-scientist-image.png>)
+  - [youth-stem-mia-heller-images-only.pptx](</Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/submission_exports/youth-stem-mia-heller-images-only.pptx>)
+  - [course-calendar.ics](course-calendar.ics)
 - Human review needed:
   - confirm whether the instructors still want the June 29 email artifacts retroactively
   - decide whether to add any additional syllabus comments now that the live doc already has several comments

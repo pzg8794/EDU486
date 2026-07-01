@@ -11,9 +11,16 @@ This visualization represents my current understanding of the JuST Framework and
 
 ## Visualization
 
-![Justice-centered STEM with technology concept map](grounding-frameworks-visual.svg)
+[![Justice-centered STEM with technology concept map](grounding-frameworks-visual.svg)](grounding-frameworks-visual.svg)
 
 The image above is the submit-ready visual. The Mermaid version below is included so the structure can be revised quickly inside GitHub as my thinking changes.
+
+Direct links:
+
+- [Grounding framework visual SVG](grounding-frameworks-visual.svg)
+- [Grounding framework visual PNG export](</Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/submission_exports/grounding-frameworks-visual.png>)
+- [Grounding frameworks Part 1 DOCX export](</Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/submission_exports/grounding-frameworks-part1.docx>)
+- [Module 1 source map](../../docs/source-map.md#module-1-local-sources)
 
 ```mermaid
 flowchart TD

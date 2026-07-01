@@ -26,7 +26,7 @@ The course asks us to study technology integration in STEM through justice-orien
 
 ## Course Labor
 
-The syllabus frames course labor around attendance, respectful participation, critical engagement with readings, reflection, assignment completion, and active on-site participation in Planet Protectors Camp.
+The [syllabus](source-map.md#local-course-files-kept-out-of-public-git) frames course labor around attendance, respectful participation, critical engagement with readings, reflection, assignment completion, and active on-site participation in Planet Protectors Camp.
 
 For this repository, that means the evidence of work should include:
 

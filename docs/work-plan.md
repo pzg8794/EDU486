@@ -8,10 +8,10 @@ Primary outcome: understand JuST, PICRAT, community cultural wealth, local knowl
 
 Work blocks:
 
-- Read and annotate Module 1 sources.
+- Read and annotate [Module 1 sources](source-map.md#module-1-local-sources).
 - Build a concept map connecting JuST, PICRAT, culturally sustaining pedagogy, local expertise, and technology tradeoffs.
 - Draft camp inquiry questions for the Freedom School asset map.
-- Start AI-use tracking because the course explicitly allows GenAI with crediting.
+- Start [AI-use tracking](ai-use-log.md) because the course explicitly allows GenAI with crediting.
 
 ## Week 2: July 8-July 14 - Framework Visualization and Tech Evolution
 

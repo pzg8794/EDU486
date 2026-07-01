@@ -10,7 +10,7 @@ Syllabus Google Doc from announcement:
 
 Local DOCX export:
 
-- [task2-syllabus-comments-checklist.docx](</Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/submission_exports/task2-syllabus-comments-checklist.docx>)
+- task2-syllabus-comments-checklist.docx (local only: `/Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/submission_exports/task2-syllabus-comments-checklist.docx`)
 
 ## Live Comment Status Observed July 1, 2026
 

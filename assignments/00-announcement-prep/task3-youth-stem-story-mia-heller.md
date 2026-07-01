@@ -8,16 +8,16 @@ Email target from announcement: `april.luehmann@rochester.edu`
 
 Local deck:
 
-- [youth-stem-mia-heller-images-only.pptx](</Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/submission_exports/youth-stem-mia-heller-images-only.pptx>)
-- [deck montage preview](</Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/submission_exports/youth-stem-mia-heller-images-only-montage.png>)
+- youth-stem-mia-heller-images-only.pptx (local only: `/Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/submission_exports/youth-stem-mia-heller-images-only.pptx`)
+- deck montage preview (local only: `/Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/submission_exports/youth-stem-mia-heller-images-only-montage.png`)
 
 Local DOCX export:
 
-- [task3-youth-stem-story-mia-heller.docx](</Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/submission_exports/task3-youth-stem-story-mia-heller.docx>)
+- task3-youth-stem-story-mia-heller.docx (local only: `/Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/submission_exports/task3-youth-stem-story-mia-heller.docx`)
 
 Image deck source note:
 
-- The slide visuals were extracted from the local [Smithsonian article PDF](</Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/announcements/This High School Student Invented a Filter That Eliminates 96 Percent of Microplastics From Drinking Water.pdf>) saved in the local [announcements folder](</Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/announcements>).
+- The slide visuals were extracted from the local Smithsonian article PDF (local only: `/Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/announcements/This High School Student Invented a Filter That Eliminates 96 Percent of Microplastics From Drinking Water.pdf`) saved in the local announcements folder (local only: `/Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/announcements`).
 - The public repo does not track those images because they are third-party article media.
 
 ## Chosen Story

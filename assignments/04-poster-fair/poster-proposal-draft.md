@@ -5,7 +5,7 @@ Course: EDU486 - Integrating Science and Technology
 Poster fair: July 31, 2026, 1:30-3:00 p.m., LeChase 215
 Working title: Access-to-Agency STEM: Technology, Bodymind Access, and Community Evidence
 
-Source links: [Module 1 source map](../../docs/source-map.md#module-1-local-sources), [PhD/Puzzle Plan alignment](../../docs/phd-puzzle-plan-alignment.md), [local DOCX export](</Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/submission_exports/poster-proposal-draft.docx>)
+Source links: [Module 1 source map](../../docs/source-map.md#module-1-local-sources), [PhD/Puzzle Plan alignment](../../docs/phd-puzzle-plan-alignment.md), local DOCX export (local only: `/Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/submission_exports/poster-proposal-draft.docx`)
 
 ## Proposed Poster Question
 

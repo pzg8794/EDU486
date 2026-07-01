@@ -1,6 +1,6 @@
 # Assignment 00 - Announcement Prep
 
-This folder covers the pre-class tasks from [Getting ready for class on Tuesday - Welcome](</Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/announcements/Getting ready for class on Tuesday - Welcome.pdf>).
+This folder covers the pre-class tasks from Getting ready for class on Tuesday - Welcome (local only: `/Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/announcements/Getting ready for class on Tuesday - Welcome.pdf`).
 
 Due date from announcement: June 29, 2026.
 

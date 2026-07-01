@@ -11,6 +11,6 @@ Current draft:
 
 Requirement/source links:
 
-- [Visualizing our grounding frameworks assignment PDF](</Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/Module1/Visualizing our grounding frameworks.pdf>)
+- Visualizing our grounding frameworks assignment PDF (local only: `/Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/Module1/Visualizing our grounding frameworks.pdf`)
 - [Access-to-Agency course theme](../../docs/access-to-agency-course-theme.md)
 - [Module 1 source map](../../docs/source-map.md#module-1-local-sources)

@@ -18,5 +18,10 @@ announcements/
 *.mov
 *.zip
 
+# Public generated artifacts that are safe to render on GitHub.
+!public-artifacts/
+!public-artifacts/*.md
+!public-artifacts/*.png
+
 # Local exports are for Blackboard/Drive submission, not the public repo.
 submission_exports/

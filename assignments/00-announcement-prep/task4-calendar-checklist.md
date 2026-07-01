@@ -12,11 +12,11 @@ An importable calendar file was created:
 
 Local copy:
 
-- [EDU486-course-calendar.ics](</Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/submission_exports/EDU486-course-calendar.ics>)
+- EDU486-course-calendar.ics (local only: `/Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/submission_exports/EDU486-course-calendar.ics`)
 
 Local DOCX export:
 
-- [task4-calendar-checklist.docx](</Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/submission_exports/task4-calendar-checklist.docx>)
+- task4-calendar-checklist.docx (local only: `/Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/submission_exports/task4-calendar-checklist.docx`)
 
 ## Questions To Bring / Keep Tracking
 

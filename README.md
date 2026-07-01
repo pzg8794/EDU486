@@ -26,6 +26,7 @@ My working personal lens is:
 - [AI use log](docs/ai-use-log.md)
 - [Assignments index](assignments/README.md)
 - [Course calendar import](docs/course-calendar.ics)
+- [Public generated artifacts](public-artifacts/README.md)
 
 ## Major Deliverables
 

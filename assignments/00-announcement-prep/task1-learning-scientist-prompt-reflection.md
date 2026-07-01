@@ -8,12 +8,12 @@ Email target from announcement: `zborys@warner.rochester.edu`
 
 Local image file:
 
-- [learning-scientist-image.png](</Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/submission_exports/learning-scientist-image.png>)
-- [learning-scientist-image-full.png](</Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/submission_exports/learning-scientist-image-full.png>)
+- [learning-scientist-image.png](../../public-artifacts/learning-scientist-image.png)
+- [learning-scientist-image-full.png](../../public-artifacts/learning-scientist-image-full.png)
 
 Local DOCX export:
 
-- [task1-learning-scientist-prompt-reflection.docx](</Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/submission_exports/task1-learning-scientist-prompt-reflection.docx>)
+- task1-learning-scientist-prompt-reflection.docx (local only: `/Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/submission_exports/task1-learning-scientist-prompt-reflection.docx`)
 
 ## AI Image Prompt Used
 

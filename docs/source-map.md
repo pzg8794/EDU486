@@ -6,11 +6,11 @@ This source map keeps course provenance visible while keeping third-party and pr
 
 The following source folders/files are present locally but ignored by git:
 
-- [2026 Syllabus EDU 486 PDF](</Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/2026 Syllabus EDU 486_ Integrating Technology in Teaching Content Areas - Google Docs.pdf>)
-- [2026 Syllabus EDU 486 DOCX](</Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/2026 Syllabus EDU 486_  Integrating Technology in Teaching Content Areas.docx>)
-- [Module1 folder](</Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/Module1>)
-- [Module2 folder](</Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/Module2>)
-- [announcements folder](</Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/announcements>)
+- 2026 Syllabus EDU 486 PDF (local only: `/Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/2026 Syllabus EDU 486_ Integrating Technology in Teaching Content Areas - Google Docs.pdf`)
+- 2026 Syllabus EDU 486 DOCX (local only: `/Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/2026 Syllabus EDU 486_  Integrating Technology in Teaching Content Areas.docx`)
+- Module1 folder (local only: `/Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/Module1`)
+- Module2 folder (local only: `/Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/Module2`)
+- announcements folder (local only: `/Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/announcements`)
 
 Reason: the public repo should not publish Blackboard/course readings, copied PDFs, screenshots, copyrighted materials, or raw course exports.
 
@@ -30,7 +30,7 @@ The syllabus establishes:
 
 ## Announcement Requirements Extracted
 
-From [Getting ready for class on Tuesday - Welcome](</Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/announcements/Getting ready for class on Tuesday - Welcome.pdf>):
+From Getting ready for class on Tuesday - Welcome (local only: `/Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/announcements/Getting ready for class on Tuesday - Welcome.pdf`):
 
 - Task 1: create AI prompt/image/characteristics for teacher as learning scientist; reflect after reading the syllabus; email picture to Zen by June 29
 - Task 2: add questions/reactions/comments to the syllabus Google Doc
@@ -43,25 +43,25 @@ The recovered task artifacts are in the [announcement prep folder](../assignment
 
 For July 1:
 
-- [Kimmons, Graham, and West, PICRAT reading, pp. 184-195](</Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/Module1/Kimmons et al. 2022 PICRAT.pdf>)
-- [PICRAT video by Royce Kimmons](https://www.youtube.com/watch?v=bfvuG620Bto), with local [video notes/transcript](</Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/Module1/NoteGPT_PICRAT for Effective Technology Integration in Teaching.txt>)
-- [Colbert, classroom design and behavior](https://www.communityplaythings.com/resources/articles/classroom-design-and-how-it-influences-behavior), with local [PDF copy](</Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/Module1/Classroom Design and How it Influences Behavior.pdf>)
-- [Windschitl, Thompson, and Braaten, Ambitious Science Teaching excerpt](</Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/Module1/Windschitl, Thompson, Braaten- 2018- Ambitious Science Teaching- Ch. 5.pdf>)
-- [Science in Action video, California Academy of Sciences](https://www.youtube.com/watch?v=Jj9iNphbY88), with local [video notes/transcript](</Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/Module1/NoteGPT_Science in Action_ How Science Works _ California Academy of Sciences.txt>)
+- Kimmons, Graham, and West, PICRAT reading, pp. 184-195 (local only: `/Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/Module1/Kimmons et al. 2022 PICRAT.pdf`)
+- [PICRAT video by Royce Kimmons](https://www.youtube.com/watch?v=bfvuG620Bto), with local video notes/transcript (local only: `/Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/Module1/NoteGPT_PICRAT for Effective Technology Integration in Teaching.txt`)
+- [Colbert, classroom design and behavior](https://www.communityplaythings.com/resources/articles/classroom-design-and-how-it-influences-behavior), with local PDF copy (local only: `/Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/Module1/Classroom Design and How it Influences Behavior.pdf`)
+- Windschitl, Thompson, and Braaten, Ambitious Science Teaching excerpt (local only: `/Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/Module1/Windschitl, Thompson, Braaten- 2018- Ambitious Science Teaching- Ch. 5.pdf`)
+- [Science in Action video, California Academy of Sciences](https://www.youtube.com/watch?v=Jj9iNphbY88), with local video notes/transcript (local only: `/Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/Module1/NoteGPT_Science in Action_ How Science Works _ California Academy of Sciences.txt`)
 - "What Equity Means to Me" zine, paper copy distributed in class; no local digital file found in the course folder
-- [Ravel and Sneider practical research PDF](</Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/Module1/Ravel Sneider 2023 Scope_PracticalResearch.pdf>)
+- Ravel and Sneider practical research PDF (local only: `/Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/Module1/Ravel Sneider 2023 Scope_PracticalResearch.pdf`)
 
 For July 7:
 
-- [Avery, rural science education and local knowledge](</Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/Module1/Avery_2013_Rural Science Education  Valuing Local Knowledge.pdf>)
-- [Seiki, Dominguez, and Asato, border crossing between home and school](https://files.eric.ed.gov/fulltext/EJ1304646.pdf), with local [course copy](</Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/Module1/Seiki et al_2021_Crossing_Borders.pdf>) and local [ERIC copy](</Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/Module1/EJ1304646-Remaking Science Teaching- Border Crossing Between Home and School.pdf>)
-- [Yosso, community cultural wealth](</Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/Module1/Yosso_2005_Cultural Wealth.pdf>)
-- [REL culturally sustaining pedagogy resource](https://ies.ed.gov/ncee/rel/regions/pacific/pdf/REL_CulturallySustainingPedagogy_508.pdf), with local [PDF copy](</Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/Module1/REL_CulturallySustainingPedagogy_508.pdf>)
+- Avery, rural science education and local knowledge (local only: `/Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/Module1/Avery_2013_Rural Science Education  Valuing Local Knowledge.pdf`)
+- [Seiki, Dominguez, and Asato, border crossing between home and school](https://files.eric.ed.gov/fulltext/EJ1304646.pdf), with local course copy (local only: `/Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/Module1/Seiki et al_2021_Crossing_Borders.pdf`) and local ERIC copy (local only: `/Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/Module1/EJ1304646-Remaking Science Teaching- Border Crossing Between Home and School.pdf`)
+- Yosso, community cultural wealth (local only: `/Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/Module1/Yosso_2005_Cultural Wealth.pdf`)
+- [REL culturally sustaining pedagogy resource](https://ies.ed.gov/ncee/rel/regions/pacific/pdf/REL_CulturallySustainingPedagogy_508.pdf), with local PDF copy (local only: `/Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/Module1/REL_CulturallySustainingPedagogy_508.pdf`)
 
 For July 9/10:
 
-- [AI-assisted technology evolution mini-presentation directions](</Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/Module1/Module Content- Readings and links to videos and websites.pdf>)
-- [Module 1 session checklist](</Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/Module1/Need to do- Checklists by session.pdf>)
+- AI-assisted technology evolution mini-presentation directions (local only: `/Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/Module1/Module Content- Readings and links to videos and websites.pdf`)
+- Module 1 session checklist (local only: `/Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/Module1/Need to do- Checklists by session.pdf`)
 - Suggested topic examples include microplastics, water quality, invasive species, and digital sensing
 - Working draft: [microplastics technology evolution narrative](../assignments/02-ai-technology-evolution/ai-history-microplastics-narrative.md)
 

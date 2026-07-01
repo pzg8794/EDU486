@@ -44,11 +44,15 @@ My commitment for this course is to treat technology as a design material, not a
 
 ## Email Draft
 
-Subject: EDU486 Learning Scientist Image - Piter Garcia
+Subject: EDU486 Task 1 Learning Scientist Image - Piter Garcia
 
 Hi Zen,
 
 I am sending my image for the "teacher as learning scientist" prompt. I represented the teacher as an evidence-map thinker: someone who studies access load, identity context, student evidence, and redesign moves before interpreting student difficulty as inability.
+
+I also wanted to briefly explain my delay with Task 1. I was checking Blackboard for the course materials and tasks to open through early Monday morning, June 29, but the courses were still closed on my end. Later that same day, I had to take my dad to a doctor's appointment and begin scheduling emergency procedures for him. Unfortunately, the only available doctor for what he needs is available on Tuesdays and Thursdays, so I am trying to handle his health needs this week while also completing the course work now that it is accessible in Blackboard.
+
+The lack of sleep has also affected my health a bit, but I am actively working on the tasks and assignments now. Once my dad's immediate health issues are addressed this week, I expect to be in a better place to recover and catch up over the weekend.
 
 My main characteristics for a learning scientist are: observing before interpreting, treating youth/community knowledge and disability/identity knowledge as evidence, using technology critically, documenting access and participation, separating access barriers from thinking barriers, and revising instruction based on what students actually do and say.
 

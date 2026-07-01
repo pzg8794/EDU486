@@ -23,11 +23,13 @@ My working personal lens is:
 - [PhD and Puzzle Plan alignment](docs/phd-puzzle-plan-alignment.md)
 - [AI use log](docs/ai-use-log.md)
 - [Assignments index](assignments/README.md)
+- [Course calendar import](docs/course-calendar.ics)
 
 ## Major Deliverables
 
 | Due | Deliverable | Repo Draft |
 | --- | --- | --- |
+| June 29, 2026 | Pre-class announcement tasks: learning scientist image, syllabus comments, youth STEM story slides, calendar setup | [Announcement prep](assignments/00-announcement-prep/README.md) |
 | July 14, 2026 | Visualizing our Grounding Frameworks, Part 1 | [Part 1 draft](assignments/01-grounding-frameworks/grounding-frameworks-part1.md) |
 | July 21, 2026 | Camp overview and daily lesson plans finalized for sharing/printing | [Camp unit plan draft](assignments/03-camp-unit-plan/planet-protectors-camp-unit-plan-draft.md) |
 | July 29, 2026 | Poster file to April by bedtime if printing is needed | [Poster proposal draft](assignments/04-poster-fair/poster-proposal-draft.md) |

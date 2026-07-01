@@ -6,6 +6,7 @@ Dates are from the local syllabus and Module 1 course materials. Confirm Blackbo
 
 | Date | Work Due / Event | What To Prepare |
 | --- | --- | --- |
+| June 29, 2026 | Pre-class announcement tasks | Learning scientist image/reflection, syllabus comments, youth STEM story image-only slides, calendar dates |
 | July 1, 2026 | Module 1 reading/prep | PICRAT reading/video, classroom design, Ambitious Science Teaching excerpt, Science in Action video, equity zine, brainstorm camp questions/evidence |
 | July 7, 2026 | Freedom School neighborhood asset map | Bring questions about local knowledge, youth interests, community assets, and environmental evidence |
 | July 9/10, 2026 | AI technology evolution mini-narrative | Use an AI tool to explore how a camp-theme technology evolved; prepare a 5-minute informal narrative and reflect on AI's usefulness/limits |
@@ -27,6 +28,7 @@ Dates are from the local syllabus and Module 1 course materials. Confirm Blackbo
 
 | Date | Work Due | Repo Artifact |
 | --- | --- | --- |
+| June 29, 2026 | Announcement prep tasks | [Announcement prep folder](../assignments/00-announcement-prep/README.md) |
 | August 1, 2026 | Final camp unit plan and daily lesson plans | [Camp draft](../assignments/03-camp-unit-plan/planet-protectors-camp-unit-plan-draft.md) |
 | August 8, 2026 | Visualizing our Grounding Frameworks, Part 2 | Revise [Part 1 draft](../assignments/01-grounding-frameworks/grounding-frameworks-part1.md) with camp evidence |
 

@@ -4,6 +4,7 @@ This folder holds original assignment drafts and working materials.
 
 ## Current Drafts
 
+- [00 - Announcement Prep](00-announcement-prep/README.md)
 - [01 - Visualizing our Grounding Frameworks](01-grounding-frameworks/grounding-frameworks-part1.md)
 - [02 - AI Technology Evolution Narrative](02-ai-technology-evolution/ai-history-microplastics-narrative.md)
 - [03 - Planet Protectors Camp Unit Plan](03-camp-unit-plan/planet-protectors-camp-unit-plan-draft.md)

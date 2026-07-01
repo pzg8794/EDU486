@@ -27,6 +27,17 @@ The syllabus establishes:
   - Group/Individual Proposal Presentation / poster fair
 - GenAI guidance: discuss when uncertain and credit source, output, and purpose when using GenAI
 
+## Announcement Requirements Extracted
+
+From `announcements/Getting ready for class on Tuesday - Welcome.pdf`:
+
+- Task 1: create AI prompt/image/characteristics for teacher as learning scientist; reflect after reading the syllabus; email picture to Zen by June 29
+- Task 2: add questions/reactions/comments to the syllabus Google Doc
+- Task 3: find a youth STEM story, prepare a 5-minute share, create image-only slides, email April by June 29
+- Task 4: add course dates/times/locations to calendar
+
+The recovered task artifacts are in `assignments/00-announcement-prep/`.
+
 ## Module 1 Local Sources
 
 For July 1:
@@ -58,6 +69,10 @@ These public sources support the microplastics technology evolution draft:
 - NOAA Institutional Repository, Masura et al. (2015), Laboratory Methods for the Analysis of Microplastics: https://repository.library.noaa.gov/view/noaa/10296
 - ITRC, Microplastics Sampling and Analysis: https://mp-1.itrcweb.org/sampling-and-analysis/
 - RSC Environmental Science: Processes & Impacts, machine learning tools for microplastics analysis: https://pubs.rsc.org/en/content/articlehtml/2025/em/d4em00605d
+
+## Public Web Sources Used For Announcement Task 3
+
+- Smithsonian Magazine, Mia Heller microplastics filter story: https://www.smithsonianmag.com/innovation/this-high-school-student-invented-a-filter-that-eliminates-96-percent-of-microplastics-from-drinking-water-180988363/
 
 ## Google Drive Context Used
 

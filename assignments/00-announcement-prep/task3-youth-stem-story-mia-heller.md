@@ -92,17 +92,23 @@ Because the required slides are image-only, these are the speaking notes I would
 - Slide 3: Access is part of the STEM design. A student can contribute as observer, mapper, sorter, speaker, artist, data checker, photographer, or questioner.
 - Slide 4: The EDU486 bridge. The story should connect youth STEM to Puzzle Plan / EQUITAS commitments: access, identity, healing, agency, criticality, joy, and transformation.
 
+## Final Theme Check
+
+The final submission version should keep the story centered on community STEM redesign rather than an isolated individual-genius narrative. It should explicitly connect Mia Heller's filtration project to access-to-agency STEM for neurodivergent, chronically ill, disabled, CLD, multilingual, and multiply marginalized students by naming multiple participation roles, bodymind access, language access, sensory access, and agency.
+
 ## AI Use Disclosure
 
 OpenAI Codex was used on July 1, 2026 to rebuild the speaking plan around the Puzzle Plan / EQUITAS foundation and generate an original, public, image-only PowerPoint deck.
 
 ## Email Draft
 
-Subject: EDU486 youth STEM story slides - Piter Garcia
+Subject: EDU486 Task 3 Youth STEM Story Slides - Piter Garcia
 
 Hi April,
 
-I am sending my image-only slides for the youth STEM story share. I chose Mia Heller's microplastics filtration project because it connects youth invention, water quality, magnetic/ferrofluid technology, community access, and the question of how young people can redesign tools when existing systems do not fit community needs.
+I am sending my image-only slides for Task 3. I chose Mia Heller's microplastics filtration project because it shows a young person using STEM to respond to a community water-quality problem, combining ferrofluid/magnetic separation, measurement, and redesign when existing filtration systems did not fit community needs.
+
+In my share, I connect the story to EDU486's Planet Protectors / community STEM focus and to my access-to-agency theme: neurodivergent, chronically ill, disabled, CLD, multilingual, and multiply marginalized students should be able to participate through multiple roles, communication modes, energy levels, and ways of producing evidence.
 
 Best,
 Piter

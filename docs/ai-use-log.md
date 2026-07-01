@@ -38,3 +38,24 @@ The syllabus says that when GenAI is used, it should be credited by source, outp
 ## Reusable Disclosure Sentence
 
 OpenAI Codex (GPT-5) was used on July 1, 2026 to synthesize course materials, organize assignment requirements, and draft an initial version of this artifact. I reviewed, revised, and am responsible for the final content, examples, and submission decisions.
+
+## July 1, 2026 - Corrective Reframing After Human Review
+
+- Tool/source: OpenAI Codex, Google Drive connector, GitHub/local repository context
+- Trigger: human review identified that the first repo pass underrepresented the real course/project theme: neurodivergent, chronically ill, disabled, CLD, multilingual, and multiply marginalized students
+- Sources consulted:
+  - [EDE476 Cultural Ethnography Presentation](https://drive.google.com/file/d/1oG5rOnI608FQCMXxtyUXnVdRMXCFX5Uw)
+  - [ADHD Awareness in Chronic Illness](https://drive.google.com/file/d/1wGQgljS0yeeAYacezoaRLRBNT45-659O)
+  - [EDU498 Layered Genius Minecraft Identity Mini-Unit](https://drive.google.com/file/d/1SDravCaceJOdTSKwCpwYG3jtoXS1_9Lv)
+  - [EDU498 neurodivergent challenges reference index](</Users/pitergarcia/DataScience/Semester4(UofR)/EDU498/assignments/Assignment-Exploring_Literacy_as Power-Bridging_Social_Justice/neurodivergent-challenges-reference-index.md>)
+- Output created or revised:
+  - [Access-to-Agency course theme](access-to-agency-course-theme.md)
+  - [course scope](course-scope.md)
+  - [PhD/Puzzle Plan alignment](phd-puzzle-plan-alignment.md)
+  - [grounding frameworks draft](../assignments/01-grounding-frameworks/grounding-frameworks-part1.md)
+  - [camp unit plan draft](../assignments/03-camp-unit-plan/planet-protectors-camp-unit-plan-draft.md)
+  - [poster proposal draft](../assignments/04-poster-fair/poster-proposal-draft.md)
+- Human review needed:
+  - confirm whether "Access-to-Agency STEM" is the preferred public-facing name
+  - add any course/instructor feedback that further clarifies the learner focus
+  - revise again after actual camp evidence is available

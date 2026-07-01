@@ -6,6 +6,7 @@ This index makes the work easy to inspect. Public repo files use relative links.
 
 - [GitHub repository](https://github.com/pzg8794/EDU486)
 - [GitHub issues tracker](https://github.com/pzg8794/EDU486/issues)
+- [Access-to-Agency course theme](access-to-agency-course-theme.md)
 - [Announcement prep folder](../assignments/00-announcement-prep/README.md)
 - [Assignments index](../assignments/README.md)
 - [Grounding framework visual SVG](../assignments/01-grounding-frameworks/grounding-frameworks-visual.svg)
@@ -93,3 +94,18 @@ This index makes the work easy to inspect. Public repo files use relative links.
 - [STEM Next resources](https://stemnext.org/resources/?categories=288)
 - [The 74: 16 Under 16 STEM achievers](https://www.the74million.org/article/meet-the-74s-2022-class-of-16-under-in16-in-stem/)
 - [Because of Them We Can science search](https://www.becauseofthemwecan.com/?s=science)
+
+## Prior Work And Drive Sources
+
+- [EDE476 Cultural Ethnography Presentation](https://drive.google.com/file/d/1oG5rOnI608FQCMXxtyUXnVdRMXCFX5Uw)
+- [EDE476 Cultural Ethnography Presentation Recording PDF](https://drive.google.com/file/d/12-od91fTnDyp1TkM-qWuTZ3bzwVEdjsT)
+- [ADHD Awareness in Chronic Illness](https://drive.google.com/file/d/1wGQgljS0yeeAYacezoaRLRBNT45-659O)
+- [EDU498 Layered Genius Minecraft Identity Mini-Unit](https://drive.google.com/file/d/1SDravCaceJOdTSKwCpwYG3jtoXS1_9Lv)
+- [EDU498 Class 2 Asynchronous Activity](https://docs.google.com/document/d/1AlcvsNXQ9DIlZ6qbD1mUB2jpnNWyCVay1TUX1LBTCfk)
+- [EDE476 Module 3 UDL/SIOP Reading Summary](https://docs.google.com/document/d/1eg3soVGruNc_cw_G98qviy3A5JxWOG2SEOuuBq97n7Y)
+- [EQUITAS writing sample](https://drive.google.com/file/d/16yl_PVUcV4gCYTj-_o50bYgyVKOnyq-j)
+- [RIT and UOR Courses Supporting Puzzle Plan and EQUITAS Integration](https://docs.google.com/document/d/1US2eOwt3hZ0eWDMtoPiBiLZY7Pz9dZf4Iv8ib73aHs0)
+- [EDU498 neurodivergent challenges reference index](</Users/pitergarcia/DataScience/Semester4(UofR)/EDU498/assignments/Assignment-Exploring_Literacy_as Power-Bridging_Social_Justice/neurodivergent-challenges-reference-index.md>)
+- [ED452C Puzzle Plan evidence map](</Users/pitergarcia/DataScience/Semester4(UofR)/ED452C/portfolio/puzzle-plan-evidence-map.md>)
+- [EDF447 UDL and ADHD-friendly talk notes](</Users/pitergarcia/DataScience/Semester5/Semester3(UofR)/EDF447/Piter_DI_UDL_ADHD_Friendly_Talk.md>)
+- [Puzzle Plan framework](</Users/pitergarcia/DataScience/Semester5/Scholarship/The Puzzle Plan_ An Interdisciplinary Framework for Equitable Diagnostics and Advocacy-Driven Research.md>)

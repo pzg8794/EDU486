@@ -11,9 +11,21 @@
 
 ## Course Purpose
 
-The course asks us to study technology integration in STEM through justice-oriented, culturally sustaining, and place-based teaching. The central design problem is not "How do we use more tools?" but:
+The course asks us to study technology integration in STEM through justice-oriented, culturally sustaining, place-based, and access-centered teaching. The central design problem is not "How do we use more tools?" but:
 
-> How can technology help youth, teachers, families, and communities investigate meaningful STEM questions and use what they learn to make the world better?
+> How can technology help neurodivergent, chronically ill, disabled, CLD, multilingual, and multiply marginalized youth investigate meaningful STEM questions while protecting access, identity, agency, and rigorous thinking?
+
+## Learner And Equity Focus
+
+This course repository should keep the actual learner profile visible. "Freedom Scholars" should not become a generic label. My EDU486 work should be designed for students whose brilliance can be hidden by:
+
+- executive-function load, attention variability, masking, anxiety, trauma responses, or sensory overload
+- chronic illness, pain, fatigue, brain fog, sleep disruption, medication effects, and inconsistent energy
+- language load, translanguaging needs, academic vocabulary demands, and monolingual assumptions
+- race, immigration, class, disability, gender, sexuality, family responsibility, and other intersecting identities
+- digital click-paths, unclear interfaces, device friction, platform rules, surveillance, and data bias
+
+The design stance is: **access barriers are not thinking barriers**. Technology integration should help reveal student reasoning, not punish students for the body, language, pace, or communication mode they bring.
 
 ## Modules
 
@@ -39,8 +51,9 @@ For this repository, that means the evidence of work should include:
 
 ## Working Design Commitments
 
-1. **Community before tool.** The technology should serve Freedom Scholars' questions, family/community knowledge, and place-based environmental action.
-2. **Access before polish.** Neurodivergent, multilingual, and mixed-ability participation should be planned from the beginning through chunking, role clarity, visual supports, flexible output modes, and reduced unnecessary cognitive load.
-3. **Technology as evidence, not decoration.** Tools should help students collect, model, analyze, create, revise, explain, or advocate.
-4. **Justice-centered STEM.** Activities should ask who benefits, who is harmed, whose knowledge counts, and what action becomes possible.
-5. **Learning scientist stance.** I should document not just what I taught, but what I noticed, changed, and learned from youth participation.
+1. **Community before tool.** The technology should serve Freedom Scholars' questions, family/community knowledge, disability culture, multilingual practices, and place-based environmental action.
+2. **Access before polish.** Neurodivergent, chronically ill, disabled, multilingual, and mixed-ability participation should be planned from the beginning through chunking, role clarity, visual supports, sensory options, flexible output modes, low-energy pathways, and reduced unnecessary cognitive load.
+3. **Rigor without unnecessary barriers.** Supports should protect high expectations by separating content understanding from language load, interface friction, fatigue, working memory, and compliance performance.
+4. **Technology as evidence, not decoration.** Tools should help students collect, model, analyze, create, revise, explain, or advocate through multiple modalities.
+5. **Justice-centered STEM.** Activities should ask who benefits, who is harmed, whose knowledge counts, whose bodymind is assumed, and what action becomes possible.
+6. **Learning scientist stance.** I should document not just what I taught, but what I noticed, changed, and learned from youth participation, access, energy, identity safety, and tool friction.

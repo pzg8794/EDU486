@@ -1,6 +1,6 @@
 # EDU486 Assignments
 
-This folder holds original assignment drafts and working materials.
+This folder holds original assignment drafts and working materials. The shared frame is [Access-to-Agency STEM](../docs/access-to-agency-course-theme.md): technology integration for neurodivergent, chronically ill, disabled, CLD, multilingual, and multiply marginalized learners.
 
 ## Current Drafts
 
@@ -20,3 +20,4 @@ Each assignment should include:
 - accessibility and equity notes
 - AI-use disclosure when applicable
 - revision notes after feedback
+- explicit attention to bodymind access, language access, identity safety, and rigorous multiple pathways for evidence

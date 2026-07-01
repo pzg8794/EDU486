@@ -32,11 +32,15 @@ Primary source used:
 
 This story connects directly to the Planet Protectors / plastics pollution thread in the course. It shows a young person using science and technology in response to a local community problem: water contamination and limited public funding for filtration.
 
+The access-centered reason it fits EDU486 is that the invention began from a mismatch between a community need and the tools available to families. I do not want to present Mia Heller only as an individual genius story. I want to use the story to ask what happens when students notice a real barrier, build evidence, test tools, and redesign the system instead of accepting that the current system is all that is possible.
+
+That connects to my course focus on neurodivergent, chronically ill, disabled, CLD, multilingual, and multiply marginalized students. In camp, the STEM challenge is not only "Can students learn about microplastics?" It is also "Can the learning environment make room for different bodies, energy levels, languages, sensory needs, communication styles, and evidence practices while keeping the science rigorous?"
+
 ## 5-Minute Speaking Plan
 
 ### 0:00-0:45 - Brief Overview
 
-Mia Heller read about water quality problems in her Warrenton, Virginia community, including PFAS and microplastic contamination. When public funding was not available to solve the filtering problem, she began designing a lower-maintenance home filtration system.
+Mia Heller read about water quality problems in her Warrenton, Virginia community, including PFAS and microplastic contamination. When public funding was not available to solve the filtering problem, she began designing a lower-maintenance home filtration system. I would frame this as a young person refusing to treat an under-addressed community problem as normal.
 
 ### 0:45-1:45 - Science
 
@@ -48,22 +52,35 @@ The technology is not just a filter. It is a system: contaminated water, ferrofl
 
 ### 2:45-3:45 - Community
 
-What inspires me is that the project began with a community access problem. Heller was not solving an abstract lab puzzle. She was responding to a situation where families were expected to handle filtration on their own, and existing systems were expensive and maintenance-heavy.
+What inspires me is that the project began with a community access problem. Heller was not solving an abstract lab puzzle. She was responding to a situation where families were expected to handle filtration on their own, and existing systems were expensive and maintenance-heavy. That matters for justice-centered STEM because access is not a side issue. Cost, maintenance, trust, language, health risk, and who is expected to do the labor all shape whether a technology is actually usable.
 
 ### 3:45-4:45 - Connection to Camp
 
 For Freedom Scholars, this story can help students see that environmental STEM starts with noticing. A student noticed a problem, asked why existing tools were not enough, tested alternatives, and created evidence. That is a powerful model for Planet Protectors: youth can investigate problems that adults normalize or underfund.
 
+For my EDU486 work, I would add an access question: How do we design the camp investigation so students can participate through multiple roles, energy levels, languages, and communication modes? A student should be able to be a mapper, photographer, sorter, observer, question-asker, artist, data checker, or speaker without one role being treated as the only "real" science.
+
 ### 4:45-5:00 - Closing Question
 
-The question I would bring back to class is: How can we design camp activities where technology helps students turn local environmental noticing into evidence and action?
+The question I would bring back to class is: How can we design camp activities where technology helps students turn local environmental noticing into evidence and action while protecting bodymind access, identity, language, and agency?
 
 ## Inspiring / Intriguing Points
 
 - The project started from local water concerns, not just a contest prompt.
 - The technology tries to reduce maintenance and waste, not only increase filtering power.
 - The system includes testing, iteration, and measurement.
-- It raises justice questions: who gets clean water, who pays for filtration, and whose community problems get treated as urgent?
+- It raises justice questions: who gets clean water, who pays for filtration, whose health risks are believed, and whose community problems get treated as urgent?
+- It helps me teach STEM as redesign: when a tool does not fit the people who need it, students can question the tool, not blame the people.
+
+## Access-Centered Slide Talk Notes
+
+Because the required slides are image-only, these are the speaking notes I would keep beside the deck:
+
+- Do not turn the story into "brilliant teen saves the day" without context. Name the local water-quality concern and the system gap that made filtration a household burden.
+- Ask what makes a technology usable: cost, maintenance, energy required, language needed, trust, feedback, measurement, and whether families can act on the result.
+- Connect microplastics to disability and chronic illness without making unsupported health claims: pollution, uncertainty, risk, and medical dismissal can especially affect students and families whose bodies are already treated as unreliable evidence.
+- Use the story to invite multiple camp roles: students can observe, sort, map, photograph, compare, question, explain, draw, record, test, or advocate.
+- Keep the science rigorous while widening participation. Access-centered design is not lowering the bar. It is removing the barriers that hide student thinking.
 
 ## AI Use Disclosure
 
@@ -75,7 +92,7 @@ Subject: EDU486 youth STEM story slides - Piter Garcia
 
 Hi April,
 
-I am sending my image-only slides for the youth STEM story share. I chose Mia Heller's microplastics filtration project because it connects youth invention, water quality, magnetic/ferrofluid technology, and community access.
+I am sending my image-only slides for the youth STEM story share. I chose Mia Heller's microplastics filtration project because it connects youth invention, water quality, magnetic/ferrofluid technology, community access, and the question of how young people can redesign tools when existing systems do not fit community needs.
 
 Best,
 Piter

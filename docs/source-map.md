@@ -26,6 +26,7 @@ The syllabus establishes:
   - Camp Unit Plan, Lesson Plans, and Implementation
   - Group/Individual Proposal Presentation / poster fair
 - GenAI guidance: discuss when uncertain and credit source, output, and purpose when using GenAI
+- repository correction: EDU486 work must be framed through [Access-to-Agency STEM](access-to-agency-course-theme.md), not generic technology integration alone
 
 ## Announcement Requirements Extracted
 
@@ -82,8 +83,14 @@ These public sources support the microplastics technology evolution draft:
 The shared Drive folder provided by the user contains broader DataScience and program-planning resources. The directly relevant context found there includes:
 
 - a `Semester4(UofR)` folder with related Summer 2026 course folders for EDU498, ED452C, EDE448, and ED400A topics
-- private Warner transcript/program-plan materials confirming EDU486 as part of the Summer 2026 Warner course plan and the Digitally-Rich Teaching pathway
+- [EDE476 Cultural Ethnography Presentation](https://drive.google.com/file/d/1oG5rOnI608FQCMXxtyUXnVdRMXCFX5Uw), which frames neurodivergent adolescents with ADHD, chronic illness, depression, trauma, Spanish-dominant/urban contexts, spoon theory, masking, sensory-overloading labs, UDL/SIOP, family partnership, and disability-rights co-design
+- [ADHD Awareness in Chronic Illness](https://drive.google.com/file/d/1wGQgljS0yeeAYacezoaRLRBNT45-659O), which documents hidden ADHD symptoms, chronic illness overlap, medical gaslighting, misinformation, family advocacy, and the need for accurate access language
+- [EDU498 Layered Genius Minecraft Identity Mini-Unit](https://drive.google.com/file/d/1SDravCaceJOdTSKwCpwYG3jtoXS1_9Lv), which models identity-safe digital making, multimodal literacy, code/debugging, screenshots, oral explanation, and student choice
+- [EDU498 Class 2 Asynchronous Activity](https://docs.google.com/document/d/1AlcvsNXQ9DIlZ6qbD1mUB2jpnNWyCVay1TUX1LBTCfk), which directly names the difference between access barriers and thinking barriers
+- [EDE476 Module 3 UDL/SIOP Reading Summary](https://docs.google.com/document/d/1eg3soVGruNc_cw_G98qviy3A5JxWOG2SEOuuBq97n7Y), which connects content/language objectives, comprehensible input, home-language resources, UDL, SIOP, and equitable assessment
+- [EQUITAS writing sample](https://drive.google.com/file/d/16yl_PVUcV4gCYTj-_o50bYgyVKOnyq-j), which grounds the Puzzle Plan in trauma-informed diagnostics, lived experience, cultural phenotype recognition, and reparative accountability
+- [RIT and UOR Courses Supporting Puzzle Plan and EQUITAS Integration](https://docs.google.com/document/d/1US2eOwt3hZ0eWDMtoPiBiLZY7Pz9dZf4Iv8ib73aHs0), which documents cross-course integration across AI ethics, disability, inclusive pedagogy, CS teaching, health equity, and digitally rich teaching
 - prior Puzzle Plan / PhD Bridge planning documents centered on equitable diagnostics, inclusive AI, work reuse, and portfolio coherence
-- prior EDE484A digitally-rich teaching work using AI ethics, bias detection, EQUITAS, UDL, multilingual supports, and neurodivergent-inclusive pedagogy
+- prior digitally rich teaching work using AI ethics, bias detection, EQUITAS, UDL, multilingual supports, and neurodivergent-inclusive pedagogy
 
 Private Drive documents are not linked here if the title or URL could expose sensitive records.

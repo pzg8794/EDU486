@@ -6,7 +6,7 @@ Purpose: 5-minute informal narrative for the Module 1 AI technology evolution ac
 
 ## Prompt Used
 
-Take on the role of a scientist and educator with expertise in microplastics, water quality, environmental justice, and middle school STEM teaching. Explain how technologies for detecting microplastics have changed over time. Show sources. Then help me turn the history into a 5-minute narrative for Freedom Scholars / Planet Protectors Camp that connects science, technology, community action, and justice-centered teaching.
+Take on the role of a scientist and educator with expertise in microplastics, water quality, environmental justice, disability justice, UDL/SIOP, chronic illness access, neurodivergent learners, and middle school STEM teaching. Explain how technologies for detecting microplastics have changed over time. Show sources. Then help me turn the history into a 5-minute narrative for Freedom Scholars / Planet Protectors Camp that connects science, technology, community action, access-centered design, and justice-centered teaching.
 
 ## 5-Minute Narrative Draft
 
@@ -20,11 +20,11 @@ The next shift was chemical identification. A tiny piece of plastic can look lik
 
 A third shift is happening now with automation, imaging, and machine learning. Microplastics samples can include many particles and fibers. Counting them by hand is slow and can be inconsistent. Machine learning tools are being developed to help classify images and spectra more quickly. That does not mean the computer is magically right. It means scientists still have to ask: What data trained the model? What particles does it miss? Which environments were included? What counts as good evidence?
 
-For Planet Protectors Camp, this history gives us a powerful teaching idea. Youth do not need a full research laboratory to participate in the story. They can start with the same scientific movement: from noticing, to collecting evidence, to questioning tools, to communicating findings.
+For Planet Protectors Camp, this history gives us a powerful teaching idea. Youth do not need a full research laboratory to participate in the story. They can start with the same scientific movement: from noticing, to collecting evidence, to questioning tools, to communicating findings. But access has to be designed into that movement. A student with ADHD, chronic illness, sensory overload, trauma, anxiety, or multilingual processing needs should not have to prove scientific thinking through only one pace, one role, one language, one written format, or one high-energy station.
 
-Students might begin by observing visible plastic around a local space, then sorting types of plastic, mapping patterns, photographing evidence, or comparing what different tools help them see. A phone camera, spreadsheet, simple map, or microscope image can help students move from "I saw litter" to "Here is a pattern, here is why it matters, and here is what we want people to understand."
+Students might begin by observing visible plastic around a local space, then sorting types of plastic, mapping patterns, photographing evidence, or comparing what different tools help them see. A phone camera, spreadsheet, simple map, drawing, oral explanation, role card, microscope image, or captioned photo can help students move from "I saw litter" to "Here is a pattern, here is why it matters, and here is what we want people to understand."
 
-The justice question is important: who gets to decide what counts as pollution evidence? Communities often notice environmental problems before institutions measure them. Technology should help youth make their observations harder to ignore, not replace their local knowledge. A justice-centered lesson should ask what the tool reveals, what it hides, and how students can use evidence to advocate for safer and healthier places.
+The justice question is important: who gets to decide what counts as pollution evidence, and whose bodymind is expected to fit the investigation? Communities often notice environmental problems before institutions measure them. Disabled, chronically ill, neurodivergent, CLD, and multilingual students also notice barriers that school systems often ignore. Technology should help youth make their observations harder to ignore, not replace their local knowledge or force them into inaccessible routines. A justice-centered lesson should ask what the tool reveals, what it hides, who can use it, who gets tired or overloaded by it, and how students can use evidence to advocate for safer and healthier places.
 
 ## Key Breakthroughs To Mention
 
@@ -35,17 +35,18 @@ The justice question is important: who gets to decide what counts as pollution e
 
 ## Teaching Connection
 
-This evolution can inform a camp activity where students:
+This evolution can inform an Access-to-Agency camp activity where students:
 
 1. Notice a local environmental issue.
 2. Collect or document evidence.
-3. Use a simple technology to organize, map, visualize, or explain patterns.
-4. Ask what the technology helps them see and what it leaves out.
-5. Create a message for an audience that can act.
+3. Choose a role and access pathway: observer, photographer, mapper, sorter, explainer, artist, recorder, movement-based investigator, or quiet analyst.
+4. Use a simple technology to organize, map, visualize, or explain patterns.
+5. Ask what the technology helps them see, what it leaves out, and who it includes or excludes.
+6. Create a message for an audience that can act.
 
 ## AI Reflection
 
-AI helped me quickly organize the history into a timeline and notice connections between microplastics detection, spectroscopy, machine learning, and community action. Its limitation is that it can make the history sound more settled than it is. The public sources show that methods are still evolving, standardization remains a challenge, and no single method captures every kind of microplastic or nanoplastic. For teaching, that uncertainty is useful: it lets students see science as an active process, not a finished list of facts.
+AI helped me quickly organize the history into a timeline and notice connections between microplastics detection, spectroscopy, machine learning, and community action. Its first limitation was that it framed the story mostly as technical progress. I needed to add the access question from my Puzzle Plan work: who can participate in this investigation, and what barriers might hide their thinking? The public sources show that methods are still evolving, standardization remains a challenge, and no single method captures every kind of microplastic or nanoplastic. For teaching, that uncertainty is useful: it lets students see science as an active process, not a finished list of facts, and it invites them to critique tools instead of treating tools as neutral.
 
 ## Sources To Verify / Cite
 

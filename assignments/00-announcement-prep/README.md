@@ -4,6 +4,8 @@ This folder covers the pre-class tasks from [Getting ready for class on Tuesday 
 
 Due date from announcement: June 29, 2026.
 
+Course throughline for these tasks: [Access-to-Agency STEM](../../docs/access-to-agency-course-theme.md), with attention to neurodivergent, chronically ill, disabled, CLD, multilingual, and multiply marginalized students.
+
 Current artifacts:
 
 - [announcement task tracker](announcement-task-tracker.md)

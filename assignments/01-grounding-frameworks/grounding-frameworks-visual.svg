@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1100" viewBox="0 0 1600 1100" role="img" aria-labelledby="title desc">
-  <title id="title">Justice-centered STEM with technology concept map</title>
-  <desc id="desc">A concept map connecting the JuST Framework, technology affordances and constraints, PICRAT, and the Puzzle Plan.</desc>
+  <title id="title">Access-to-Agency STEM with technology concept map</title>
+  <desc id="desc">A concept map connecting the JuST Framework, disability and chronic illness access, technology affordances and constraints, PICRAT, and the Puzzle Plan.</desc>
   <defs>
     <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
       <path d="M0,0 L0,6 L9,3 z" fill="#3b3b3b" />
@@ -17,33 +17,33 @@
   </defs>
 
   <rect width="1600" height="1100" fill="#f8fafc" />
-  <text x="80" y="75" class="title">Community Evidence, Technology, and Justice-Centered STEM</text>
+  <text x="80" y="75" class="title">Access-to-Agency STEM: Technology, Bodymind Access, and Justice</text>
   <text x="80" y="112" class="subtitle">Working visualization for EDU486 - Visualizing our Grounding Frameworks, Part 1</text>
 
   <rect x="560" y="205" width="480" height="150" rx="22" fill="#ffffff" stroke="#132238" stroke-width="4" />
-  <text x="800" y="255" text-anchor="middle" class="box-title">Justice-centered STEM</text>
+  <text x="800" y="255" text-anchor="middle" class="box-title">Access-to-Agency STEM</text>
   <text x="800" y="292" text-anchor="middle" class="box-text">Youth use science and technology</text>
-  <text x="800" y="320" text-anchor="middle" class="box-text">to investigate, explain, and act</text>
+  <text x="800" y="320" text-anchor="middle" class="box-text">to access, investigate, explain, and act</text>
 
   <rect x="80" y="190" width="360" height="130" rx="16" fill="#e5f3ff" stroke="#3576a8" stroke-width="3" />
   <text x="260" y="232" text-anchor="middle" class="box-title">Build Community</text>
   <text x="110" y="270" class="box-text">Belonging, sensory access,</text>
-  <text x="110" y="298" class="box-text">language access, roles, trust</text>
+  <text x="110" y="298" class="box-text">language access, energy, trust</text>
 
   <rect x="80" y="370" width="360" height="130" rx="16" fill="#fff3d8" stroke="#b77a10" stroke-width="3" />
   <text x="260" y="412" text-anchor="middle" class="box-title">JuST 1: Plan</text>
-  <text x="110" y="450" class="box-text">Start with meaningful, local,</text>
-  <text x="110" y="478" class="box-text">justice-centered questions</text>
+  <text x="110" y="450" class="box-text">Start with meaningful local</text>
+  <text x="110" y="478" class="box-text">and access-centered questions</text>
 
   <rect x="80" y="550" width="360" height="130" rx="16" fill="#e9f8e7" stroke="#4b8b3b" stroke-width="3" />
   <text x="260" y="592" text-anchor="middle" class="box-title">JuST 2: Elicit Culture</text>
-  <text x="110" y="630" class="box-text">Youth knowledge, family</text>
-  <text x="110" y="658" class="box-text">knowledge, place, language</text>
+  <text x="110" y="630" class="box-text">Youth knowledge, disability</text>
+  <text x="110" y="658" class="box-text">culture, place, language</text>
 
   <rect x="1160" y="370" width="360" height="130" rx="16" fill="#f1eafe" stroke="#7a56b3" stroke-width="3" />
   <text x="1340" y="412" text-anchor="middle" class="box-title">JuST 3: Revise</text>
-  <text x="1190" y="450" class="box-text">Use diverse and local</text>
-  <text x="1190" y="478" class="box-text">expertise to change thinking</text>
+  <text x="1190" y="450" class="box-text">Use diverse, local, access,</text>
+  <text x="1190" y="478" class="box-text">and bodymind expertise</text>
 
   <rect x="1160" y="550" width="360" height="130" rx="16" fill="#ffe9e3" stroke="#b85d3a" stroke-width="3" />
   <text x="1340" y="592" text-anchor="middle" class="box-title">JuST 4: Act</text>
@@ -53,8 +53,8 @@
   <rect x="560" y="470" width="480" height="190" rx="16" fill="#ffffff" stroke="#2f6f73" stroke-width="3" />
   <text x="800" y="512" text-anchor="middle" class="box-title">Technology as Design Material</text>
   <text x="600" y="550" class="box-text">Supports: access, evidence, creation, audience</text>
-  <text x="600" y="584" class="box-text">Complicates: surveillance, unequal access, distraction</text>
-  <text x="600" y="618" class="box-text">Constrains: data gaps, bias, platform rules, time</text>
+  <text x="600" y="584" class="box-text">Complicates: masking, surveillance, language load</text>
+  <text x="600" y="618" class="box-text">Constrains: bias, time, fatigue, platform rules</text>
 
   <rect x="185" y="790" width="470" height="165" rx="16" fill="#eef2f7" stroke="#5a6475" stroke-width="3" />
   <text x="420" y="832" text-anchor="middle" class="box-title">PICRAT / TIF Lens</text>
@@ -64,9 +64,9 @@
 
   <rect x="945" y="790" width="470" height="165" rx="16" fill="#eef2f7" stroke="#5a6475" stroke-width="3" />
   <text x="1180" y="832" text-anchor="middle" class="box-title">Puzzle Plan / EQUITAS</text>
-  <text x="985" y="872" class="box-text">Equity, universality, transparency, inclusion, access</text>
-  <text x="985" y="906" class="box-text">Ask whose data counts and who gets missed</text>
-  <text x="985" y="940" class="small">Translate inclusive AI habits into classroom evidence justice.</text>
+  <text x="985" y="872" class="box-text">Access, Identity, Healing, Agency, Criticality, Joy</text>
+  <text x="985" y="906" class="box-text">Ask which barrier is mislabeled as inability</text>
+  <text x="985" y="940" class="small">Translate diagnostic justice into classroom design.</text>
 
   <path class="line" d="M560 280 C510 250, 485 245, 440 250" />
   <path class="line" d="M575 340 C500 390, 485 410, 440 430" />
@@ -81,5 +81,5 @@
   <path class="thin" d="M870 660 C965 735, 1090 760, 1155 790" />
 
   <rect x="505" y="1000" width="590" height="56" rx="12" fill="#ffffff" stroke="#c8ced8" stroke-width="2" />
-  <text x="800" y="1036" text-anchor="middle" class="box-text">Working commitment: youth are users, builders, critics, and communicators.</text>
+  <text x="800" y="1036" text-anchor="middle" class="box-text">Working commitment: youth are builders, critics, communicators, and access designers.</text>
 </svg>

@@ -2,7 +2,7 @@
 
 Student: Piter Z. Garcia Bautista
 Course: EDU486 - Integrating Science and Technology
-Working unit title: Community Microplastic Investigators
+Working unit title: Access-to-Agency Planet Protectors: Community Microplastic Investigators
 Audience: Freedom Scholars middle school youth
 Status: Complete first draft for group adaptation
 
@@ -12,39 +12,54 @@ Source links: [Module 1 source map](../../docs/source-map.md#module-1-local-sour
 
 ### Big Idea
 
-Students become community science investigators who study plastic pollution as an environmental justice issue. They use accessible technology to notice, document, organize, and communicate evidence while honoring local knowledge about place, water, neighborhoods, and community care.
+Students become community science investigators who study plastic pollution as an environmental justice issue. They use accessible technology to notice, document, organize, and communicate evidence while honoring local knowledge about place, water, neighborhoods, disability culture, bodymind access, multilingual communication, and community care.
 
 ### Essential Question
 
-How can technology help us investigate plastic pollution and communicate what our community already knows, notices, and wants to change?
+How can technology help us investigate plastic pollution and communicate what our community already knows, notices, needs, and wants to change, while making sure different bodies, brains, languages, and energy levels can participate?
 
 ### Justice-Centered STEM Goals
 
 Students will:
 
-1. connect plastic pollution to local places, community care, and environmental justice
-2. practice observation, sorting, questioning, modeling, and explanation
+1. connect plastic pollution to local places, community care, disability/chronic illness access, and environmental justice
+2. practice observation, sorting, questioning, modeling, and explanation through multiple modes
 3. use technology to create evidence rather than only consume information
-4. critique what technology helps reveal and what it might miss
+4. critique what technology helps reveal, what it misses, and who it includes or excludes
 5. create a youth-facing public message for the camp showcase
+6. notice when an access barrier is being confused with a thinking barrier
 
 ### Technology Integration Rationale
 
-Technology is used to amplify and transform student inquiry:
+Technology is used to amplify and transform student inquiry only when it also supports access:
 
 - photographs or microscope-style close-ups help students inspect evidence
-- a shared data table helps students compare observations
+- a shared data table helps students compare observations without relying only on memory
 - a map or visual board helps students connect evidence to place
+- audio notes, captions, drawings, role cards, and photos let students communicate through more than print
 - a poster or digital slide helps students communicate an argument to families, teachers, and peers
 
-The technology should not replace outdoor noticing, discussion, touchable materials, or local stories. Students should be able to participate through drawing, speaking, building, photographing, sorting, or writing.
+The technology should not replace outdoor noticing, discussion, touchable materials, or local stories. Students should be able to participate through drawing, speaking, building, photographing, sorting, writing, pointing, audio recording, role-based teamwork, quiet observation, or low-energy analysis.
+
+### Learner Access Commitments
+
+This plan assumes students may bring ADHD, autism, anxiety, trauma histories, chronic illness, pain, fatigue, sensory sensitivities, multilingual processing, family/community responsibilities, or other visible and invisible needs. The design commitments are:
+
+- no forced disclosure of diagnosis, trauma, culture, family history, or private health information
+- visual agenda and repeated routine every day
+- station choices that include movement, quiet, tactile, visual, oral, and written options
+- low-energy path that still counts as rigorous participation
+- bilingual/multilingual vocabulary supports and permission to rehearse in home language
+- roles that make multiple strengths visible: observer, sorter, photographer, mapper, recorder, explainer, artist, builder, pattern finder, access checker
+- breaks, sensory tools, seating choices, and reset options treated as normal participation supports
+- assessment based on STEM thinking and communication, not compliance with one output mode
 
 ### Framework Alignment
 
-- **JuST Core:** build community through roles, routines, belonging, and shared purpose
+- **JuST Core:** build community through roles, routines, belonging, sensory access, identity safety, and shared purpose
 - **JuST 1 - Plan:** begin with meaningful environmental questions connected to place
-- **JuST 2 - Elicit student culture:** invite youth knowledge about neighborhood spaces, water, food, family practices, and community solutions
-- **JuST 3 - Revise with diverse/local expertise:** compare youth observations with course readings, teacher/community knowledge, and public science sources
+- **JuST 2 - Elicit student culture:** invite youth knowledge about neighborhood spaces, water, food, family practices, disability culture, language, energy, and community solutions
+- **JuST 3 - Revise with diverse/local expertise:** compare youth observations with course readings, teacher/community knowledge, access observations, and public science sources
 - **JuST 4 - Make the world better:** create a message, recommendation, demonstration, or showcase product
 - **PICRAT:** move students toward interactive/creative and amplification/transformation uses of technology
 
@@ -61,11 +76,13 @@ The technology should not replace outdoor noticing, discussion, touchable materi
 1. Quick image sort: visible plastic, hidden plastic, useful plastic, harmful plastic, hard-to-decide plastic.
 2. Neighborhood evidence brainstorm: Where do we see plastic? Where might small plastics travel after rain, wind, or trash pickup?
 3. Investigation question wall: Students write or draw questions such as "Where does plastic collect?" "What is too small to see?" "Who has to clean it up?" "How does it affect water or animals?"
-4. Tool talk: What can our eyes see? What can a camera, map, spreadsheet, or microscope-like tool help us see? What can none of these tools tell us?
+4. Tool talk: What can our eyes see? What can a camera, map, spreadsheet, or microscope-like tool help us see? What can none of these tools tell us? Who might each tool help, and who might it make tired, confused, overloaded, or left out?
 
 **Evidence collected:** question cards, place sketches, group sorting chart, first exit reflection.
 
-**Exit reflection:** One thing I noticed is... One question I want to investigate is...
+**Access supports:** visual agenda, choice to sketch or speak, no cold-calling, quiet observation role, movement option, sentence frames, bilingual vocabulary card.
+
+**Exit reflection:** One thing I noticed is... One question I want to investigate is... One support that helped me participate was...
 
 ### Day 2 - Collect and Organize Evidence: What Patterns Can We Find?
 
@@ -79,19 +96,20 @@ The technology should not replace outdoor noticing, discussion, touchable materi
    - Image station: use a camera or magnifier to inspect texture, size, and shape.
    - Data station: enter counts or observations into a shared table.
    - Map/model station: place evidence cards on a local map or classroom model.
-3. Pattern talk: What patterns are visible? What might we be missing?
+3. Pattern talk: What patterns are visible? What might we be missing? Which station made participation easiest or hardest?
 
 **Accessibility supports:**
 
-- students choose roles: observer, photographer, sorter, mapper, recorder, explainer
+- students choose roles: observer, photographer, sorter, mapper, recorder, explainer, artist, access checker, quiet pattern finder
 - printed visual directions at each station
 - color-coded bins/cards
 - verbal or drawn responses accepted
-- movement and quiet reset option built into station rotation
+- movement, seating, water, and quiet reset option built into station rotation
+- low-energy path: analyze prepared photos/cards instead of moving through every station
 
 **Evidence collected:** station sheets, photos of non-identifying materials, data table, map/model.
 
-**Exit reflection:** The technology helped us see... The technology did not show...
+**Exit reflection:** The technology helped us see... The technology did not show... The technology made participation easier/harder when...
 
 ### Day 3 - Design a Community Message: What Should Others Understand?
 
@@ -107,11 +125,15 @@ The technology should not replace outdoor noticing, discussion, touchable materi
    - map with captions
    - short skit or spoken explanation
    - prototype/demo of filtration or sorting
+   - audio caption or oral explanation paired with an image
+   - access recommendation for making the investigation easier for more students
 4. Peer feedback using "I notice / I wonder / One way this could help people is..."
 
 **Evidence collected:** draft showcase product, peer feedback notes, revision choice.
 
-**Exit reflection:** Our message matters because...
+**Access supports:** choice of product mode, partner rehearsal, sentence frames, visual rubric, sensory break, oral/audio option, private planning before public sharing.
+
+**Exit reflection:** Our message matters because... One way we made our evidence accessible was...
 
 ### Day 4 - Showcase and Reflect: How Can Learning Become Action?
 
@@ -125,29 +147,32 @@ The technology should not replace outdoor noticing, discussion, touchable materi
    - What did we learn from youth/community knowledge?
    - What did technology help us do?
    - What did technology miss?
+   - What access barriers did we notice?
    - What action should happen next?
 
 **Evidence collected:** final product, presentation notes, reflection responses.
 
-**Exit reflection:** A Planet Protector uses science and technology to...
+**Exit reflection:** A Planet Protector uses science and technology to... A Planet Protector makes access better by...
 
 ## Assessment Evidence
 
 | Evidence | What It Shows |
 | --- | --- |
-| Question cards and place sketches | student culture, local knowledge, meaningfulness |
+| Question cards and place sketches | student culture, local knowledge, identity-safe meaningfulness |
 | Sorting and station sheets | observation, classification, evidence practices |
-| Photos/data/map/model | technology-supported evidence creation |
+| Photos/data/map/model/audio/drawing | technology-supported and multimodal evidence creation |
 | Peer feedback notes | revision, audience awareness, collaboration |
 | Showcase product | synthesis and communication |
-| Exit reflections | student thinking about technology, justice, and action |
+| Exit reflections | student thinking about technology, justice, access, and action |
+| Access notes | barriers, supports, energy demands, sensory demands, language demands, role fit |
 
 ## Teacher / Facilitator Look-Fors
 
-- Students connect plastic pollution to places and people, not only objects.
+- Students connect plastic pollution to places, people, health, disability access, and community care, not only objects.
 - Students can explain what evidence they collected and why it matters.
 - Students use technology to make a pattern clearer or easier to share.
 - Students notice limits of tools and data.
+- Students can name when a tool, station, or direction helped or blocked participation.
 - Students revise based on peer, teacher, or community feedback.
 - Students can name one action or recommendation.
 
@@ -162,6 +187,8 @@ The technology should not replace outdoor noticing, discussion, touchable materi
 - local map, hand-drawn map, or classroom model
 - poster supplies
 - printed role cards and station directions
+- visual agenda, bilingual vocabulary cards, sentence stems, access reflection cards
+- headphones or quiet corner if available, water/rest option, timer, low-energy alternate station materials
 
 ## Safety and Privacy
 
@@ -170,6 +197,8 @@ The technology should not replace outdoor noticing, discussion, touchable materi
 - No identifiable student faces in evidence photos.
 - Do not map private homes or sensitive locations.
 - Treat student stories and community knowledge as volunteered, not extracted.
+- Do not ask students to disclose diagnoses, disability, trauma, family status, immigration history, language status, or health needs to participate.
+- Treat rest, quiet, movement, and alternate communication as valid access supports, not rewards or exceptions.
 
 ## Revision Plan During Camp
 
@@ -180,6 +209,7 @@ After each day, the facilitation team should record:
 3. Which tool helped learning.
 4. Which tool created barriers.
 5. What needs to change tomorrow.
+6. Whether directions, language, sensory load, energy demands, or digital steps hid student thinking.
 
 ## AI Use Disclosure
 

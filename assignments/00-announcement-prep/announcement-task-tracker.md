@@ -17,3 +17,5 @@ First class: June 30, 2026, 1:00-4:20 p.m., LeChase 285
 ## Recovery Note
 
 These tasks were in the local [announcements folder](</Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/announcements>) and were not included in the first repository pass. They are now documented as the course's pre-class module so the repo has a complete course-work trail.
+
+The corrected throughline for this module is [Access-to-Agency STEM](../../docs/access-to-agency-course-theme.md): teacher-as-learning-scientist work, syllabus comments, youth STEM story sharing, and calendar planning should all consider neurodivergent, chronically ill, disabled, CLD, multilingual, and multiply marginalized students as central learners, not afterthoughts.

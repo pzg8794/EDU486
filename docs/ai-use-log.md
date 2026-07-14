@@ -112,7 +112,7 @@ OpenAI Codex (GPT-5) was used on July 1, 2026 to synthesize course materials, or
   - [camp-ready youth and facilitator tools](../assignments/05-july14-camp-prep/task7-camp-tools.md)
   - [Invisible Invaders camp-folder index](../assignments/05-july14-camp-prep/invisible-invaders-camp-folder-index.md)
   - [curriculum-to-camp visual](../public-artifacts/task7-curriculum-to-camp-map.png)
-  - accessible DOCX versions and native Google Docs placed in the shared Invisible Invaders folder
+  - [editable Task 7 plan](https://docs.google.com/document/d/1bMzIKuEpoRYIycnNoCv8HcZEbowaD5d57U9wCCq7Z6E/edit) and [editable camp tools](https://docs.google.com/document/d/1loBneel5T8WV3SczFOoNabaw47eHZ-Q2OMGK8smyIbg/edit) placed in the shared Invisible Invaders folder
 - Human guidance and decisions:
   - apply Puzzle Plan claims to the structure and evidence system, not only to an inclusion statement
   - begin justice analysis on Monday and preserve it through sampling, modeling, revision, art, advocacy, and audience feedback

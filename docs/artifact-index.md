@@ -81,6 +81,8 @@ This index is the public GitHub front door. Public repo files, public submission
 - [Task 7 curriculum adaptation and Monday-Friday plan](../assignments/05-july14-camp-prep/task7-curriculum-adaptation-and-week-plan.md)
 - [Task 7 camp-ready tools](../assignments/05-july14-camp-prep/task7-camp-tools.md)
 - [Invisible Invaders camp-folder index](../assignments/05-july14-camp-prep/invisible-invaders-camp-folder-index.md)
+- [Editable Task 7 curriculum and week plan in the shared camp folder](https://docs.google.com/document/d/1bMzIKuEpoRYIycnNoCv8HcZEbowaD5d57U9wCCq7Z6E/edit)
+- [Editable Task 7 camp tools in the shared camp folder](https://docs.google.com/document/d/1loBneel5T8WV3SczFOoNabaw47eHZ-Q2OMGK8smyIbg/edit)
 - [Gapless explanation options for all three camp teams](../assignments/05-july14-camp-prep/gapless-explanation-options.md)
 - [Final Invisible Invaders gapless explanation](../assignments/05-july14-camp-prep/invisible-invaders-gapless-explanation.md)
 - [Invisible Invaders activity plan](../assignments/05-july14-camp-prep/invisible-invaders-activities.md)

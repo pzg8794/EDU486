@@ -4,6 +4,8 @@
 
 These templates turn the curriculum review into usable camp materials. Campers may respond by drawing, writing, speaking, recording audio, using home language, pointing to cards, dictating to a partner, or combining modes. A private experience, diagnosis, identity, or health disclosure is never required.
 
+[Open the editable camp-tools Google Doc](https://docs.google.com/document/d/1loBneel5T8WV3SczFOoNabaw47eHZ-Q2OMGK8smyIbg/edit) | [Open the complete Task 7 plan](task7-curriculum-adaptation-and-week-plan.md)
+
 ## Tool 1 - Initial Model And Question Builder
 
 **Question:** How could suspected particles reach both an outdoor parking lot and an indoor classroom?

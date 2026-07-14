@@ -4,6 +4,11 @@
 
 This is the front door for our camp work. It organizes the shared Drive documents and the public-safe EDU486 planning artifacts without moving or renaming collaborative files that may already be in use.
 
+New editable planning documents placed in the shared folder:
+
+- [00 - Invisible Invaders Task 7 Curriculum and Week Plan](https://docs.google.com/document/d/1bMzIKuEpoRYIycnNoCv8HcZEbowaD5d57U9wCCq7Z6E/edit)
+- [01 - Invisible Invaders Task 7 Camp Tools](https://docs.google.com/document/d/1loBneel5T8WV3SczFOoNabaw47eHZ-Q2OMGK8smyIbg/edit)
+
 ## 00 - Start Here
 
 - [Task 7 curriculum adaptation and Monday-Friday plan](task7-curriculum-adaptation-and-week-plan.md)

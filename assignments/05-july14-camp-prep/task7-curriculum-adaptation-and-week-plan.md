@@ -12,6 +12,8 @@ This is our answer to the instruction not to reinvent the wheel. I reviewed the 
 
 [Open the full-size visual](../../public-artifacts/task7-curriculum-to-camp-map.png) | [Open the camp-ready tools](task7-camp-tools.md) | [Open the camp-folder index](invisible-invaders-camp-folder-index.md)
 
+[Open the editable Task 7 plan in the shared camp folder](https://docs.google.com/document/d/1bMzIKuEpoRYIycnNoCv8HcZEbowaD5d57U9wCCq7Z6E/edit) | [Open the editable camp tools](https://docs.google.com/document/d/1loBneel5T8WV3SczFOoNabaw47eHZ-Q2OMGK8smyIbg/edit)
+
 ## What Counts As Completed
 
 - The four assigned curriculum sources have been explored with their access limits documented.

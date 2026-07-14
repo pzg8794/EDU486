@@ -92,6 +92,8 @@ Public-safe links and original shared workspaces:
 - [Algalita / Wayfinder: NGSS MS-ESS3-3 Plastic Ocean guide](https://algalita.org/wayfinder-society/guide/ngss-ms-ess-3-3-plastic-ocean-human-impact/)
 - [ProQuest: Development of a 7th Grade NGSS-Based Unit, Plastic in Our Ocean](https://www.proquest.com/dissertations-theses/development-7-sup-th-grade-ngss-based-unit/docview/2600793823/se-2)
 - [Task 7 Puzzle Plan curriculum adaptation](../assignments/05-july14-camp-prep/task7-curriculum-adaptation-and-week-plan.md)
+- [Editable Task 7 plan in the Invisible Invaders Drive folder](https://docs.google.com/document/d/1bMzIKuEpoRYIycnNoCv8HcZEbowaD5d57U9wCCq7Z6E/edit)
+- [Editable Task 7 camp tools in the Invisible Invaders Drive folder](https://docs.google.com/document/d/1loBneel5T8WV3SczFOoNabaw47eHZ-Q2OMGK8smyIbg/edit)
 
 Protected local reading files reviewed for the July 14 Heather Table:
 

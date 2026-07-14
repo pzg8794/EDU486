@@ -42,7 +42,7 @@ My working personal lens is:
 | July 29, 2026 | Poster file to April by bedtime if printing is needed | [Poster proposal draft](assignments/04-poster-fair/poster-proposal-draft.md) |
 | July 31, 2026 | Poster fair, 1:30-3:00 p.m. in LeChase 215 | [Poster proposal draft](assignments/04-poster-fair/poster-proposal-draft.md) |
 | August 1, 2026 | Final camp unit/lesson plans submitted | [Camp unit plan draft](assignments/03-camp-unit-plan/planet-protectors-camp-unit-plan-draft.md) |
-| August 8, 2026 | Visualizing our Grounding Frameworks, Part 2 | [Part 1 draft to revise after camp](assignments/01-grounding-frameworks/grounding-frameworks-part1.md) |
+| August 4, 2026 | Visualizing our Grounding Frameworks, Part 2 | [Part 1 framework to revise after camp](assignments/01-grounding-frameworks/grounding-frameworks-part1.md) |
 
 ## Public Repository Boundary
 

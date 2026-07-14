@@ -1,93 +1,65 @@
 # Visualizing Our Grounding Frameworks - Part 1
 
-Student: Piter Z. Garcia Bautista
-Course: EDU486 - Integrating Science and Technology
-Working title: Access-to-Agency STEM: Technology, Bodymind Access, and Justice-Centered Learning
-Due: July 14, 2026
+**Student:** Piter Z. Garcia Bautista<br>
+**Course:** EDU486 - Integrating Technology in STEM<br>
+**Due:** July 14, 2026<br>
+**Working title:** JuST + Technology: From Access to Agency
 
-## Submission Focus
+## Submission Files
 
-This visualization represents my current understanding of the JuST Framework and the role technology can play in justice-centered STEM learning for neurodivergent, chronically ill, disabled, CLD, multilingual, and multiply marginalized students. My central claim is that technology is not automatically liberating or harmful. It becomes meaningful when it helps youth ask stronger questions, access rigorous STEM ideas, communicate through multiple modes, collect and interpret evidence, and act on what they learn without being forced into one narrow body, language, pace, or expression style.
+- [One-page PDF for Blackboard](../../public-submissions/grounding-frameworks-part1.pdf)
+- [Accessible companion DOCX](../../public-submissions/grounding-frameworks-part1.docx)
+- [Full-size PNG](../../public-artifacts/grounding-frameworks-visual.png)
+- [Editable and accessible SVG](grounding-frameworks-visual.svg)
+- [Clean submission text](grounding-frameworks-part1-submission.md)
 
 ## Visualization
 
-[![Access-to-Agency STEM with technology concept map](grounding-frameworks-visual.svg)](grounding-frameworks-visual.svg)
+[![JuST and technology grounding-framework visualization](grounding-frameworks-visual.svg)](grounding-frameworks-visual.svg)
 
-The image above is the submit-ready visual. The Mermaid version below is included so the structure can be revised quickly inside GitHub as my thinking changes.
+## Assignment Requirements Check
 
-Direct links:
+| Requirement | Where it appears |
+|---|---|
+| Represent key JuST ideas | Justice-centered community core, four numbered JuST practices, social transformation, and expanding what counts as science |
+| Explore technology's support and challenge | Three technology lenses show support, complication, and constraint with a critical question for each |
+| Show relationships and tradeoffs | Arrows create a revisable cycle; examples connect access, evidence, uncertainty, community, and action |
+| Include examples and brief explanations | Every JuST practice includes an Invisible Invaders planning example |
 
-- [Grounding framework visual SVG](grounding-frameworks-visual.svg)
-- [Grounding framework visual PNG export](../../public-artifacts/grounding-frameworks-visual.png)
-- [Grounding frameworks Part 1 DOCX export](../../public-submissions/grounding-frameworks-part1.docx)
-- [Module 1 source map](../../docs/source-map.md#module-1-local-sources)
+## Current Interpretation
 
-```mermaid
-flowchart TD
-    A["Access-to-Agency STEM with technology"] --> B["Build community"]
-    A --> C["1. Plan: meaningfulness and centering justice"]
-    A --> D["2. Elicit student culture"]
-    A --> E["3. Revise thinking with diverse and local expertise"]
-    A --> F["4. Use what we learned to make the world better"]
+My central claim is that technology is not automatically inclusive, neutral, or transformative. It changes relationships among youth, community, evidence, and action by shaping who can participate, what knowledge becomes visible, and who carries the burden. Justice-centered technology design must therefore begin with belonging, bodymind variability, language access, identity safety, and shared purpose rather than with a device or app.
 
-    B --> B1["Belonging, trust, sensory access, language access, energy, roles"]
-    C --> C1["Start with a real environmental/access question, not a tool demo"]
-    D --> D1["Youth questions, family knowledge, disability culture, language, place"]
-    E --> E1["Compare evidence from readings, youth observations, access patterns, families, and local experts"]
-    F --> F1["Create a product that can inform, teach, advocate, or invite action"]
+The [JuST Framework](https://doi.org/10.1002/tea.21917) keeps that moral purpose visible through four connected practices: planning toward a meaningful justice-centered purpose, eliciting youth ideas about science/culture/justice, nurturing revisions through diverse perspectives, and using science to advocate for change. The cycle also asks educators to expand what counts as science. Lived experience, local knowledge, disability culture, family knowledge, art, language, observation, modeling, and public communication can all contribute to rigorous meaning-making.
 
-    T["Technology as design material"] --> T1["Supports: access, creation, evidence, audience, collaboration"]
-    T --> T2["Complicates: surveillance, unequal access, masking, distraction, cognitive load"]
-    T --> T3["Constrains: platform rules, data gaps, bias, time, energy, device reliability"]
+## Invisible Invaders Application
 
-    P["PICRAT / TIF lens"] --> P1["Passive, interactive, creative participation"]
-    P --> P2["Replacement, amplification, transformation"]
-    P --> P3["Best use depends on justice purpose, not tool novelty"]
+Piter and Aastha's current camp plan investigates why suspected microplastics may appear in parking-lot and classroom samples. Youth will compare outdoor, indoor, and blank samples; revise causal models; and communicate findings to a real audience. Because visual observation does not establish chemical identity, the work will use **suspected microplastics** unless a valid identification method confirms the polymer, consistent with [NOAA laboratory guidance](https://repository.library.noaa.gov/view/noaa/10296).
 
-    Q["Puzzle Plan / EQUITAS bridge"] --> Q1["Inclusive AI, diagnostic justice, chronic illness access"]
-    Q --> Q2["Access, Identity, Healing, Agency, Criticality, Joy, Transformation"]
-    Q --> Q3["Ask which barrier is being mislabeled as lack of ability"]
+Access is built into the investigation rather than added later. Youth can use a shared microscope view, still image, drawing, text, voice, tally, paper record, or partner role while pursuing the same scientific question. These routes account for neurodivergence, chronic illness, disability, language, culture, sensory differences, changing energy, and multiple identities without treating one pace or communication style as the standard for intelligence.
 
-    B1 --> T
-    C1 --> T
-    D1 --> P
-    E1 --> Q
-    T1 --> F1
-    T2 --> E1
-    T3 --> E1
-```
+Technology can make collective patterns visible, but it can also create surveillance, bias, cost, sensory load, fatigue, working-memory demands, and false certainty. The visual therefore uses three recurring questions: **Who can participate now? What does the tool hide? Who bears the burden?** These questions keep technology accountable to youth and communities rather than treating novelty as transformation.
 
-## Annotations
+## Part 2 Revision Prompts
 
-**Community before tool.** The first move in justice-centered STEM is not choosing an app. It is building the conditions where students can safely bring questions, language, sensory needs, health/energy variability, family knowledge, disability culture, and local experience into the work.
+After camp, revise this model using actual evidence:
 
-**Technology has affordances and risks.** A digital map, microscope camera, AI summary, spreadsheet, or slideshow can help students see patterns and reach audiences. The same tools can also create barriers through surveillance, inaccessible interfaces, inaccurate outputs, unequal access, sensory overload, language load, fatigue, or too many steps held in working memory.
+- Who participated, and through which routes?
+- Which barriers, identities, languages, or kinds of knowledge became visible?
+- How did youth models or feelings change after comparing evidence and perspectives?
+- What did technology reveal, hide, support, complicate, or constrain?
+- Did the final advocacy expand youth agency and address systems rather than individual blame?
 
-**PICRAT helps me ask what students are actually doing.** A tool that only replaces a worksheet might still improve access, but it should not be treated as transformation. In this course, I want technology to move students toward interactive and creative participation when that deepens learning and agency.
+## Direct Sources
 
-**JuST helps me keep the moral center visible.** The framework pushes me to plan for meaningfulness, elicit student culture, revise with diverse expertise, and use learning for action. In my EDU486 work, "culture" must include disability culture, chronic illness pacing, masking/unmasking, multilingual practices, family knowledge, and the multiple identities students carry into STEM spaces.
-
-**My Puzzle Plan connection is diagnostic and evidence justice.** My broader work on equitable diagnostics and inclusive AI keeps asking: whose data counts, whose patterns are missed, and who is harmed when systems appear neutral? In EDU486, I can translate that question into a youth-accessible STEM practice: students can learn to collect, question, and communicate evidence without losing community knowledge, identity safety, or bodymind access.
-
-## Example For Planet Protectors Camp
-
-If our camp theme centers microplastics or water quality, an access-centered technology activity could ask students to investigate how plastic pollution is noticed, measured, and communicated while also noticing how the investigation itself includes or excludes different learners.
-
-- Youth knowledge: Where do we see plastic waste? What places do adults ignore? What does our community already do to protect water, parks, streets, or homes?
-- Access knowledge: Which parts of the task are hard because of noise, fatigue, reading load, attention shifts, language, movement, social demands, or confusing digital steps?
-- STEM evidence: Students observe, sort, count, photograph, map, model, draw, speak, build, or caption plastic pollution patterns.
-- Technology support: A shared map, spreadsheet, phone/microscope image, role card, audio note, or simple data visualization helps students create evidence.
-- Technology caution: The tool should not replace direct observation or local stories. Students should be able to explain what the data does not show and who the tool makes participation harder for.
-- Action: Students create a poster, mini-report, demonstration, or family/community message about what they learned and what should change.
-
-## Brief Reflection
-
-At this point in the course, I understand the JuST Framework as a cycle of relationship, inquiry, revision, and action. It asks me to make STEM learning accountable to students and communities rather than only to content coverage. My earlier mistake would be to treat "community" as only place-based or environmental. For my work, community also includes neurodivergent, chronically ill, disabled, CLD, multilingual, and multiply marginalized students whose ways of thinking are often hidden by school routines.
-
-Technology belongs in that cycle when it expands participation, helps students make meaning, or supports action. It becomes a problem when it narrows the work to screen time, surveillance, inaccessible steps, or polished products without community purpose. For my own teaching, the most important tension is that technology can both reveal and hide injustice. A data tool can make pollution patterns visible, but it can also make students trust numbers more than people. AI can help me explore a topic quickly, but it can also flatten local experience or produce confident but incomplete explanations. A justice-centered teacher has to design routines where students ask who made the tool, what evidence it includes, what it leaves out, whose bodymind it assumes, and how the work can help people.
-
-My working commitment is to design technology-supported STEM where youth are not just users. They are observers, questioners, builders, critics, communicators, access designers, and advocates. That is the connection I want to carry into the camp plan and later revise in Part 2 after I have evidence from actual teaching.
+- [Luehmann et al., *Toward a Justice-Centered Ambitious Teaching Framework*](https://doi.org/10.1002/tea.21917)
+- [Ambitious Science Teaching: JuST Framework interview with April Luehmann](https://ambitiousscienceteaching.org/the-just-framework-an-interview-with-dr-april-luehmann/)
+- [CAST Universal Design for Learning Guidelines 3.0](https://udlguidelines.cast.org/)
+- [EPA Microplastics Research](https://www.epa.gov/water-research/microplastics-research)
+- [NOAA laboratory methods for microplastics](https://repository.library.noaa.gov/view/noaa/10296)
+- [Invisible Invaders gapless explanation](../05-july14-camp-prep/invisible-invaders-gapless-explanation.md)
+- [Invisible Invaders activity plan](../05-july14-camp-prep/invisible-invaders-activities.md)
 
 ## AI Use Disclosure
 
-OpenAI Codex (GPT-5) was used on July 1 and July 13, 2026 to synthesize course materials, organize assignment requirements, draft the initial artifact, and prepare a clean submission export. I reviewed the visualization and reflection and am responsible for the final content, examples, and submission decisions.
+I used OpenAI Codex on July 14, 2026 to make this content more inclusive by structuring, formatting, and enhancing material I provided so it would be easier to access in visual and text formats. I supervised and guided the process, reviewed every part, and made the final decisions. AI also helped locate and validate direct sources; it did not replace my judgment, lived experience, or responsibility for the work. All content was reviewed, provided, or guided by me, Piter Garcia.

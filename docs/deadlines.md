@@ -35,7 +35,7 @@ Dates are from the local [syllabus](source-map.md#local-course-files-kept-out-of
 | --- | --- | --- |
 | June 29, 2026 | Announcement prep tasks | [Announcement prep folder](../assignments/00-announcement-prep/README.md) |
 | August 1, 2026 | Final camp unit plan and daily lesson plans | [Camp draft](../assignments/03-camp-unit-plan/planet-protectors-camp-unit-plan-draft.md) |
-| August 8, 2026 | Visualizing our Grounding Frameworks, Part 2 | Revise [Part 1 draft](../assignments/01-grounding-frameworks/grounding-frameworks-part1.md) with camp evidence |
+| August 4, 2026 | Visualizing our Grounding Frameworks, Part 2 | Revise [Part 1 framework](../assignments/01-grounding-frameworks/grounding-frameworks-part1.md) with camp evidence and submit the brief cumulative reflection |
 
 ## Tracking Rule
 

@@ -39,6 +39,24 @@ The syllabus says that when GenAI is used, it should be credited by source, outp
 
 OpenAI Codex (GPT-5) was used on July 1, 2026 to synthesize course materials, organize assignment requirements, and draft an initial version of this artifact. I reviewed, revised, and am responsible for the final content, examples, and submission decisions.
 
+## July 14, 2026 - Visualizing Our Grounding Frameworks Part 1 Revision
+
+- Tool/source: OpenAI Codex under Piter Garcia's supervision, the protected Blackboard assignment, the course JuST diagram, Piter's existing Puzzle Plan/EQUITAS work, the current Invisible Invaders camp documents, the JuST Framework paper, CAST UDL 3.0, EPA, and NOAA
+- Purpose: make the visualization and companion explanation more inclusive, accessible, source-linked, and specific to Piter's actual camp planning
+- Output created or revised:
+  - [one-page Blackboard-ready PDF](../public-submissions/grounding-frameworks-part1.pdf)
+  - [accessible companion DOCX](../public-submissions/grounding-frameworks-part1.docx)
+  - [full-size PNG](../public-artifacts/grounding-frameworks-visual.png)
+  - [editable SVG](../assignments/01-grounding-frameworks/grounding-frameworks-visual.svg)
+  - [clean submission text and direct sources](../assignments/01-grounding-frameworks/grounding-frameworks-part1-submission.md)
+- Human guidance and decisions:
+  - center neurodivergence, chronic illness, disability, language, culture, and multiple identities through actual participation pathways
+  - use Piter and Aastha's Invisible Invaders indoor/outdoor comparison as the planning example
+  - label particles as suspected microplastics unless polymer identification supports a stronger claim
+  - distinguish pre-camp commitments from evidence that will only exist after camp
+  - show technology as supporting, complicating, or constraining justice-centered STEM rather than as an automatic benefit
+- Disclosure used in the artifact: Piter provided, reviewed, supervised, and guided the content; AI supported inclusive structure, formatting, visual enhancement, and direct-source validation
+
 ## July 12, 2026 - Heather Table Sessions 1-4
 
 - Tool/source: OpenAI Codex, Google Drive/Docs connector, protected local Module 1 readings, course video transcripts, and verified public publisher sources

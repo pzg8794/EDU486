@@ -29,6 +29,7 @@ Save this email for camp links/
 !public-submissions/
 !public-submissions/*.md
 !public-submissions/*.docx
+!public-submissions/*.pdf
 !public-submissions/*.pptx
 !public-submissions/*.png
 !public-submissions/*.svg

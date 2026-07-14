@@ -54,7 +54,7 @@ Work blocks:
 - Gather artifacts that can be referenced without exposing student identities.
 - Update the camp plan as a living document.
 
-## Week 5: July 31-August 8 - Poster and Final Reflection
+## Week 5: July 31-August 4 - Poster and Final Reflection
 
 Primary outcome: present the poster, submit final lesson plans, and revise the grounding framework.
 
@@ -63,4 +63,4 @@ Work blocks:
 - Present poster on July 31.
 - Submit final camp unit/lesson plans by August 1.
 - Revise the framework visualization with actual camp evidence, including access evidence and student agency evidence.
-- Write the Part 2 reflection by August 8.
+- Write and submit the Part 2 reflection by August 4.

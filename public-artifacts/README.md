@@ -17,6 +17,8 @@ These are GitHub-safe generated visuals made from original course work. They rep
 
 ## Preview
 
+![JuST and technology: from access to agency](grounding-frameworks-visual.png)
+
 ![Teacher as learning scientist evidence map](teacher-learning-scientist-evidence-map.png)
 
 ![How invisible invaders reach indoor and outdoor samples](invisible-invaders-causal-chain.png)

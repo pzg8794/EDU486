@@ -14,6 +14,7 @@ New editable planning documents placed in the shared folder:
 - [Task 7 curriculum adaptation and Monday-Friday plan](task7-curriculum-adaptation-and-week-plan.md)
 - [Task 7 camp-ready tools](task7-camp-tools.md)
 - [Invisible Invaders activity plan](invisible-invaders-activities.md)
+- [Plastic, carbon, and rising-temperature model](invisible-invaders-plastic-carbon-temperature-model.md)
 - [Invisible Invaders gapless explanation](invisible-invaders-gapless-explanation.md)
 - [Invisible Invaders materials plan](invisible-invaders-materials-plan.md)
 - [Task 7 curriculum-to-camp visual](../../public-artifacts/task7-curriculum-to-camp-map.png)
@@ -29,6 +30,7 @@ New editable planning documents placed in the shared folder:
 ## 02 - Activities, Access, And Media
 
 - [Activities](invisible-invaders-activities.md): four-day investigation foundation, equivalent participation routes, safety, and evidence goals
+- [Plastic, carbon, and rising-temperature model](invisible-invaders-plastic-carbon-temperature-model.md): physical temperature experience, accurate CO2 simulation, plastic-life-cycle connection, evidence limits, and justice prompts
 - [Monday-Friday Task 7 plan](task7-curriculum-adaptation-and-week-plan.md): Field Friday plus full camp-week sequence
 - [Camp tools](task7-camp-tools.md): initial model, Future We Want, justice map, evidence-to-action planner, model revision, showcase, and facilitator debrief
 - [Media guide](invisible-invaders-media-guide.md): curated video, image, direct-source, and non-video access routes
@@ -52,6 +54,7 @@ New editable planning documents placed in the shared folder:
 | Monday initial model | Sample model, causal visual, source cards plan | Print moveable cards, question-board options, Future We Want prompts, and visual agenda | Piter + Aastha |
 | Tuesday evidence stations | Materials plan, inventory, order request | Count/test microscopes and camera; pilot jar-filter-tape-slide sequence; print identical paper/digital fields | Piter + Aastha |
 | Wednesday justice and solutions | SASSY table, curriculum map, direct sources | Print justice-and-power map; select short accessible solution sources; prepare home-language vocabulary route | Piter + Aastha |
+| Plastic-carbon-temperature extension | Full before/during/after activity and direct sources | Borrow and pilot two matching probes, identical clear chambers, one guarded lamp, transparent cover, heat-safe mat, and offline PhET route | Piter + Aastha |
 | Thursday revision and showcase | Initial model, art materials plan, camp tools | Confirm audience and decision-maker; print evidence-to-action and model-revision tools; test caption/audio options | Piter + Aastha |
 | Friday feedback and next action | Audience-feedback prompts in camp tools | Decide how feedback will be collected, attributed, protected, and returned to youth | Piter + Aastha |
 

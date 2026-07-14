@@ -70,3 +70,9 @@ G06,Purchase gate,Instructor-sealed tire-wear evidence or photographs,PREP,not s
 G07,Purchase gate,Clear optical tape and labeling tape,GAP,depends on L06-L07 verification,core,"buy only if protocol test fails or stock is nearly empty",activity plan,A/B/C confirm
 G08,Purchase gate,Low-odor non-toxic adhesives,GAP,depends on C05 verification,core,"buy only if safe accessible stock is absent",activity plan,A/B/C confirm
 G09,Purchase gate,Beads cord safety pins or badge blanks,GAP,depends on identity routine decision,optional,"buy only if routine is adopted and consumables are absent",activity plan,A/B/C confirm
+E01,Climate model,Matching digital temperature probes,GAP,not confirmed,optional,"borrow two matching probes and pilot side by side before purchase",plastic-carbon-temperature model,A/B/C confirm
+E02,Climate model,Identical clear heat-safe chambers,GAP,not confirmed,optional,"borrow two identical chambers and verify heat safety",plastic-carbon-temperature model,A/B/C confirm
+E03,Climate model,Guarded incandescent or heat lamp,GAP,not confirmed,optional,"adult operated only; verify stable guard and equal placement",plastic-carbon-temperature model,A/B/C confirm
+E04,Climate model,Transparent rigid cover or reusable clear sheet,PREP,may be assembled from existing stock,optional,"use as energy-retention analogy and label model limits",plastic-carbon-temperature model,A/B/C confirm
+E05,Climate model,Heat-resistant mat and marked boundary,GAP,not confirmed,optional,"borrow before use and stop below 40 C",plastic-carbon-temperature model,A/B/C confirm
+E06,Climate model,Offline PhET screenshots and photon cards,PREP,computer tablet and paper stock documented,optional,"prepare equivalent screen and non-screen CO2 mechanism routes",T01-T02; C09-C12,A/B/C confirm

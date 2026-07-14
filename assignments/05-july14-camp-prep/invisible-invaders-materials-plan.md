@@ -103,7 +103,21 @@ The quantities below describe the full camp setup we want available. `Reserve` m
 | Recovered clean plastic and paper art stock | 1 sorted bin | Prepare | Art for advocacy using safe, clean material rather than fresh plastic purchases |
 | Camera, microphone, and tripod | 1-2 complete kits | Reserve/test | Video, audio, captioned, or pre-recorded advocacy routes |
 
-### E. Ideal Additions Beyond The $100 Limit
+### E. Plastic-Carbon-Temperature Extension
+
+This secondary activity is fully specified in the [plastic, carbon, and rising-temperature model](invisible-invaders-plastic-carbon-temperature-model.md). None of these items should be added to the $86.79 order until the team checks the science department and camp inventory for borrowing.
+
+| Material | Target quantity | Source | Purpose and access decision |
+|---|---:|---|---|
+| Matching digital temperature probes | 2 | Borrow/check | Shared large display or partner reading prevents small displays from becoming an access gate |
+| Identical clear heat-safe chambers | 2 | Borrow/check | Controlled comparison; pilot side by side before camp |
+| Guarded incandescent or heat lamp | 1 | Borrow/check | Adult-operated incoming-energy source with stable mount and marked boundary |
+| Transparent rigid cover or reusable clear sheet | 1 | Prepare/borrow | Represents slower energy loss, not a literal CO2 atmosphere |
+| Heat-resistant mat and measuring tape | 1 each | Borrow/check | Protects the surface and preserves equal lamp distance |
+| Computer/tablet with offline PhET route | 1, plus shared display | Reserve/prepare | Establishes the infrared-absorption mechanism that the physical chamber cannot reproduce |
+| Life-cycle cards and two symbol-coded token sets | 1 large set | Prepare | Connects greenhouse-gas emissions and microplastic release without treating them as the same substance |
+
+### F. Ideal Additions Beyond The $100 Limit
 
 These additions strengthen access or evidence quality, but they are not required purchases for Tuesday and should not displace core consumables.
 
@@ -153,6 +167,7 @@ The shared sheet calls our team `Getting Small`. To preserve its validation with
 - [ ] Test microscope camera, display, captions, still-image backup, and paper-recording route.
 - [ ] Print the visual agenda, one-step cards, role cards, scale ladder, source cards, and identical paper/digital data fields.
 - [ ] Prepare large recoverable air-model pieces and tire-wear photographs or a sealed instructor sample; do not create tire dust.
+- [ ] Borrow and pilot the full plastic-carbon-temperature setup; prepare offline PhET screenshots, photon cards, and a no-heat participation route.
 - [ ] Build clean-tools, used-tools, low-sensory, seated, and mobile-role routes with equivalent evidence goals.
 - [ ] Recheck product price, tax, and arrival before Shellie places the order.
 

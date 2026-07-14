@@ -31,6 +31,12 @@ The route can change without lowering the evidence goal. Campers may observe dir
 - Use the term **suspected microplastics** for visual observations unless polymer testing confirms the material.
 - Never ask a camper to trade asthma, pain, fatigue, chemical sensitivity, sensory safety, or mobility needs for participation.
 
+## Plastic, Carbon, And Rising Temperature Connection
+
+Use the [ready-to-run plastic, carbon, and temperature model](invisible-invaders-plastic-carbon-temperature-model.md) as a secondary investigation after campers begin the parking-lot/classroom model. It connects the local phenomenon to the plastic life cycle: greenhouse-gas emissions and microplastics are different invisible outputs that can arise from shared extraction, production, transport, use, wear, weathering, and disposal systems.
+
+The activity pairs a physical temperature experience with the [PhET Greenhouse Effect simulation](https://phet.colorado.edu/sims/html/greenhouse-effect/latest/greenhouse-effect_en.html) and a moveable life-cycle map. The physical chamber represents energy accumulating or leaving more slowly; it does **not** pretend that a solid cover is a CO2 molecule. Campers must distinguish what the physical model shows, what the simulation explains, and what the model cannot establish.
+
 ## Four-Day Investigation
 
 ### Day 1: Notice, Wonder, And Build The First Model

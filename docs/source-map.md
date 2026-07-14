@@ -166,6 +166,20 @@ Visual syntheses:
 
 The activity plan uses the team's sampling and SASSY documents as course-specific anchors. The media guide preserves Aastha's three original video choices, recommends the National Science Foundation video as the short opener, and adds official and peer-reviewed sources for claim checking.
 
+## Plastic, Carbon, And Rising-Temperature Model Sources
+
+- [Camp-ready plastic, carbon, and temperature activity](../assignments/05-july14-camp-prep/invisible-invaders-plastic-carbon-temperature-model.md)
+- [NOAA Global Monitoring Laboratory: greenhouse effect and infrared energy](https://gml.noaa.gov/education/faq_cat-3.html)
+- [UCAR Center for Science Education: greenhouse-effect teaching resources](https://scied.ucar.edu/teaching-box/greenhouse-effect/introduction)
+- [PhET Interactive Simulations: Greenhouse Effect](https://phet.colorado.edu/sims/html/greenhouse-effect/latest/greenhouse-effect_en.html)
+- [NASA inquiry lab: limits of small-scale CO2 and covered-container models](https://gpm.nasa.gov/education/sites/default/files/lesson_plan_files/climate%20change%20inquiry/climate%20change%20inquiry%20carbon%20dioxide%20lab.pdf)
+- [UNEP: plastic pollution, microplastics, and life-cycle climate emissions](https://www.unep.org/news-and-stories/story/everything-you-need-know-about-plastic-pollution)
+- [UNEP: life-cycle approach to plastic pollution](https://www.unep.org/news-and-stories/story/what-life-cycle-approach-and-how-can-it-help-tackle-plastic-pollution)
+- [NOAA Science On a Sphere: CO2 visuals and unequal emissions](https://sos.noaa.gov/education/data-lens/carbon/)
+- [NOAA: climate change and longstanding social inequities](https://www.noaa.gov/news-release/climate-change-impacts-are-increasing-for-americans)
+
+This extension deliberately separates three representational jobs. A physical chamber makes temperature change observable but models slower energy loss partly by reducing convection; PhET and NOAA support the molecular CO2 mechanism; and a life-cycle map connects greenhouse-gas emissions with microplastic release without claiming that microplastics caused the model's warming.
+
 ## Public Web Sources Used For Announcement Task 3
 
 - [Smithsonian Magazine, Mia Heller microplastics filter story](https://www.smithsonianmag.com/innovation/this-high-school-student-invented-a-filter-that-eliminates-96-percent-of-microplastics-from-drinking-water-180988363/)

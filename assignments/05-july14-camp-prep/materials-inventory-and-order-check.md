@@ -142,6 +142,7 @@ The class used three location codes: **A = LeChase 285 classroom, B = preparatio
 | Tire-wear evidence | None safely confirmed | **GAP** | Prepare photographs or an instructor-sealed sample; do not have campers sand a tire |
 | Scale ladder, source cards, role cards, and model arrows | C01-C12 | **PREP** | Print/make from existing stock; include image, text, and one-step formats |
 | Art for advocacy and showcase | C01-C13 | **PRESENT** | Inventory low-odor adhesives and reserve display surface |
+| Plastic-carbon-temperature model | T01-T02 plus climate-model kit not yet inventoried | **CHECK/GAP** | Borrow and pilot two matching probes, two identical heat-safe clear chambers, one guarded lamp, a clear cover, heat-safe mat, and offline PhET route before considering any purchase |
 | Gloves and goggles in appropriate sizes | A01-A02 | **CHECK** | Count and fit-check before deciding whether PPE is a purchase |
 | Clean covers for samples and field blank | Matching lids may serve; foil not confirmed | **GAP** | Confirm matching lids or clean foil/covers after protocol review |
 
@@ -168,6 +169,7 @@ These are **not yet approved orders**. They are the only current categories that
 - **Do not plan camper use of KOH, unlabeled chemicals, centrifuges, vortex mixers, ovens, microwaves, or sterilization equipment.**
 - **Do not assume a photographed device works, has its charger, or is reserved for our team.**
 - **Do not call visually identified particles confirmed microplastics.** Record them as suspected fibers or fragments unless a valid polymer-identification method confirms them.
+- **Do not use dry ice, sealed gas-producing reactions, UV lamps, burning plastic, or camper-made tire/plastic dust in the temperature model.**
 
 ## 9. Physical Check-Out List
 
@@ -178,6 +180,7 @@ Complete this before adding an Amazon link:
 - [ ] Test at least one microscope camera, computer, and projection/camera-feed route together.
 - [ ] Count appropriate gloves and goggles; check sizes, condition, and allergies.
 - [ ] Reserve clipboards, metric rulers, a measuring wheel, cameras/tablets, and paper backup forms.
+- [ ] Borrow and pilot the plastic-carbon-temperature kit: two matching probes, two identical clear heat-safe chambers, guarded lamp, clear cover, heat-resistant mat, measuring tape, and offline PhET screenshots.
 - [ ] Build and label a clean-tools bin, used-tools bin, and low-sensory/seated station kit.
 - [ ] Confirm distilled/filtered water and the already ordered lab-quality salt.
 - [ ] Locate identification keys and reference samples.

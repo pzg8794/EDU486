@@ -123,6 +123,22 @@ OpenAI Codex (GPT-5) was used on July 1, 2026 to synthesize course materials, or
   - leave the final research question, sites, audience, and preparation responsibilities for Piter and Aastha to decide together
 - Disclosure used in the artifacts: Piter provided, reviewed, supervised, and guided the course context, Puzzle Plan purpose, team decisions, inclusion requirements, and final direction; AI supported source organization, accessibility, formatting, visual communication, and causal/justice-gap checking
 
+## July 14, 2026 - Plastic, Carbon, And Rising-Temperature Camp Model
+
+- Tool/source: OpenAI Codex under Piter Garcia's supervision; the existing Invisible Invaders explanation, activities, inventory, and Puzzle Plan documents; NOAA, NASA, UCAR, PhET, and UNEP direct sources
+- Purpose: turn Piter and Aastha's greenhouse-gas idea into an accessible camp experience that connects rising temperature and CO2 to the plastic life cycle without claiming that microplastics directly caused the warming
+- Output created or revised:
+  - [plastic, carbon, and rising-temperature activity](../assignments/05-july14-camp-prep/invisible-invaders-plastic-carbon-temperature-model.md)
+  - [Invisible Invaders activity plan](../assignments/05-july14-camp-prep/invisible-invaders-activities.md)
+  - camp-prep command center, camp-folder index, and source map
+- Human guidance and decisions:
+  - preserve the parking-lot/classroom samples as the camp's anchoring phenomenon
+  - make the rising-temperature experience a secondary phenomenon and system connection
+  - connect greenhouse gases and microplastics as different outputs from a shared plastic life cycle
+  - provide before/during/after structure, multimodal participation, no-heat and low-energy routes, direct sources, safety boundaries, and explicit model limitations
+  - avoid relying on an inconsistent vinegar-and-baking-soda bottle comparison as the sole evidence for the greenhouse effect
+- Disclosure used in the artifact: Piter provided and guided the purpose, course goals, inclusion requirements, and desired camp experience; AI supported structure, accessibility, causal-gap checking, model limitations, and direct-source validation
+
 ## July 14, 2026 - Corrected Team Attribution And Invisible Invaders Redesign
 
 - Tool/source: OpenAI Codex, Google Drive connector, the raw July 9 automatic transcript, the official **2026 Camp Invisible Invaders: Piter & Aastha** folder, the existing group documents, NOAA, EPA, USGS, WHO, CAST UDL 3.0, Ambitious Science Teaching, and peer-reviewed research

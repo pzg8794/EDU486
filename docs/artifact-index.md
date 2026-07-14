@@ -86,6 +86,7 @@ This index is the public GitHub front door. Public repo files, public submission
 - [Gapless explanation options for all three camp teams](../assignments/05-july14-camp-prep/gapless-explanation-options.md)
 - [Final Invisible Invaders gapless explanation](../assignments/05-july14-camp-prep/invisible-invaders-gapless-explanation.md)
 - [Invisible Invaders activity plan](../assignments/05-july14-camp-prep/invisible-invaders-activities.md)
+- [Invisible Invaders plastic, carbon, and rising-temperature model](../assignments/05-july14-camp-prep/invisible-invaders-plastic-carbon-temperature-model.md)
 - [Invisible Invaders media and internet guide](../assignments/05-july14-camp-prep/invisible-invaders-media-guide.md)
 - [Camp materials inventory dictionary and order check](../assignments/05-july14-camp-prep/materials-inventory-and-order-check.md)
 - [Sortable camp materials inventory catalog](../assignments/05-july14-camp-prep/camp-materials-inventory-catalog.csv)

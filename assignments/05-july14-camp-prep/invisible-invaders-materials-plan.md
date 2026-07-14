@@ -131,7 +131,7 @@ Prices were checked on July 14, 2026 and can change. The order intentionally lea
 | Pen+Gear multicolor masking tape, 6 rolls | 1 pack | $6.24 | Station/sample organization with color plus written IDs and symbols | [Open product](https://www.walmart.com/ip/1132207747) |
 | **Estimated subtotal** | **9 line items** | **$86.79** | **Leaves $13.21 for tax or price movement** | [Open budget CSV](invisible-invaders-order-budget.csv) |
 
-The shared sheet calls our team `Getting Small`. To preserve its validation without obscuring ownership, every row uses that value in the Team column and states **Invisible Invaders (Piter + Aastha; sheet label: Getting Small)** in Notes.
+The shared sheet calls our team `Getting Small`. To preserve its validation without obscuring ownership, every Notes cell begins **Added by Piter Garcia for Invisible Invaders (Piter + Aastha; sheet label: Getting Small)** and then briefly explains why the item is needed.
 
 ## Order Priority If Prices Rise
 

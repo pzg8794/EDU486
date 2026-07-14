@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">How a clothing fiber can reach a food web</title>
+  <desc id="desc">Seven-step causal pathway from synthetic clothing through wear, washing, wastewater, treatment, waterways, organism ingestion, and possible human exposure. A caution states that detecting microplastics in food does not by itself prove a health effect.</desc>
+  <defs>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+      <path d="M0,0 L12,6 L0,12 Z" fill="#475569"/>
+    </marker>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="5" stdDeviation="6" flood-color="#0f172a" flood-opacity="0.12"/>
+    </filter>
+  </defs>
+
+  <rect width="1600" height="900" fill="#f8fafc"/>
+  <text x="80" y="82" font-family="Arial, sans-serif" font-size="48" font-weight="700" fill="#0f172a">How a Clothing Fiber Can Reach a Food Web</text>
+  <text x="82" y="128" font-family="Arial, sans-serif" font-size="26" fill="#475569">A pathway supported by evidence, not a guarantee that every fiber completes every step</text>
+
+  <g filter="url(#shadow)">
+    <rect x="80" y="210" width="300" height="170" rx="12" fill="#e8f5e9" stroke="#2f6f3e" stroke-width="4"/>
+    <text x="110" y="255" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#2f6f3e">1  MATERIAL</text>
+    <text x="110" y="305" font-family="Arial, sans-serif" font-size="30" font-weight="700" fill="#0f172a">Synthetic clothing</text>
+    <text x="110" y="345" font-family="Arial, sans-serif" font-size="23" fill="#334155">Polyester and nylon</text>
+    <text x="110" y="374" font-family="Arial, sans-serif" font-size="23" fill="#334155">are plastic polymers.</text>
+  </g>
+
+  <g filter="url(#shadow)">
+    <rect x="465" y="210" width="300" height="170" rx="12" fill="#e3f2fd" stroke="#2563a6" stroke-width="4"/>
+    <text x="495" y="255" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#2563a6">2  RELEASE</text>
+    <text x="495" y="305" font-family="Arial, sans-serif" font-size="30" font-weight="700" fill="#0f172a">Wear, wash, dry</text>
+    <text x="495" y="345" font-family="Arial, sans-serif" font-size="23" fill="#334155">Friction loosens tiny</text>
+    <text x="495" y="374" font-family="Arial, sans-serif" font-size="23" fill="#334155">fibers from fabric.</text>
+  </g>
+
+  <g filter="url(#shadow)">
+    <rect x="850" y="210" width="300" height="170" rx="12" fill="#e3f2fd" stroke="#2563a6" stroke-width="4"/>
+    <text x="880" y="255" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#2563a6">3  TRANSPORT</text>
+    <text x="880" y="305" font-family="Arial, sans-serif" font-size="30" font-weight="700" fill="#0f172a">Water + air</text>
+    <text x="880" y="345" font-family="Arial, sans-serif" font-size="23" fill="#334155">Fibers enter wastewater,</text>
+    <text x="880" y="374" font-family="Arial, sans-serif" font-size="23" fill="#334155">dust, and indoor air.</text>
+  </g>
+
+  <g filter="url(#shadow)">
+    <rect x="1235" y="210" width="285" height="170" rx="12" fill="#e0f2f1" stroke="#287271" stroke-width="4"/>
+    <text x="1265" y="255" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#287271">4  TREATMENT</text>
+    <text x="1265" y="305" font-family="Arial, sans-serif" font-size="30" font-weight="700" fill="#0f172a">Many are caught</text>
+    <text x="1265" y="345" font-family="Arial, sans-serif" font-size="23" fill="#334155">Some leave in water;</text>
+    <text x="1265" y="374" font-family="Arial, sans-serif" font-size="23" fill="#334155">others enter sludge.</text>
+  </g>
+
+  <line x1="385" y1="295" x2="445" y2="295" stroke="#475569" stroke-width="5" marker-end="url(#arrow)"/>
+  <line x1="770" y1="295" x2="830" y2="295" stroke="#475569" stroke-width="5" marker-end="url(#arrow)"/>
+  <line x1="1155" y1="295" x2="1215" y2="295" stroke="#475569" stroke-width="5" marker-end="url(#arrow)"/>
+
+  <g filter="url(#shadow)">
+    <rect x="180" y="485" width="330" height="170" rx="12" fill="#e0f2f1" stroke="#287271" stroke-width="4"/>
+    <text x="210" y="530" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#287271">5  ENVIRONMENT</text>
+    <text x="210" y="580" font-family="Arial, sans-serif" font-size="27" font-weight="700" fill="#0f172a">River, lake, sediment</text>
+    <text x="210" y="620" font-family="Arial, sans-serif" font-size="23" fill="#334155">Fibers float, move, wash</text>
+    <text x="210" y="649" font-family="Arial, sans-serif" font-size="23" fill="#334155">ashore, or settle.</text>
+  </g>
+
+  <g filter="url(#shadow)">
+    <rect x="635" y="485" width="330" height="170" rx="12" fill="#e8f5e9" stroke="#2f6f3e" stroke-width="4"/>
+    <text x="665" y="530" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#2f6f3e">6  FOOD WEB</text>
+    <text x="665" y="580" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#0f172a">Animals may ingest</text>
+    <text x="665" y="620" font-family="Arial, sans-serif" font-size="23" fill="#334155">Zooplankton, shellfish,</text>
+    <text x="665" y="649" font-family="Arial, sans-serif" font-size="23" fill="#334155">and fish can eat fibers.</text>
+  </g>
+
+  <g filter="url(#shadow)">
+    <rect x="1090" y="485" width="330" height="170" rx="12" fill="#fff4e5" stroke="#b45309" stroke-width="4"/>
+    <text x="1120" y="530" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#b45309">7  EXPOSURE</text>
+    <text x="1120" y="580" font-family="Arial, sans-serif" font-size="26" font-weight="700" fill="#0f172a">People may be exposed</text>
+    <text x="1120" y="620" font-family="Arial, sans-serif" font-size="23" fill="#334155">Fibers occur in air,</text>
+    <text x="1120" y="649" font-family="Arial, sans-serif" font-size="23" fill="#334155">water, and some foods.</text>
+  </g>
+
+  <path d="M1378 392 C1378 435, 345 435, 345 465" fill="none" stroke="#475569" stroke-width="5" marker-end="url(#arrow)"/>
+  <line x1="515" y1="570" x2="615" y2="570" stroke="#475569" stroke-width="5" marker-end="url(#arrow)"/>
+  <line x1="970" y1="570" x2="1070" y2="570" stroke="#475569" stroke-width="5" marker-end="url(#arrow)"/>
+
+  <rect x="120" y="735" width="1360" height="105" rx="12" fill="#f3e8ff" stroke="#7c3aed" stroke-width="3"/>
+  <text x="155" y="778" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#6d28d9">EVIDENCE BOUNDARY</text>
+  <text x="155" y="815" font-family="Arial, sans-serif" font-size="27" font-weight="700" fill="#0f172a">Finding microplastics in food shows exposure. It does not, by itself, prove a human health effect.</text>
+</svg>

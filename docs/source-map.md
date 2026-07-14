@@ -105,6 +105,22 @@ These public sources support the microplastics technology evolution draft:
 - [ITRC, Microplastics Sampling and Analysis](https://mp-1.itrcweb.org/sampling-and-analysis/)
 - [RSC Environmental Science: Processes & Impacts, machine learning tools for microplastics analysis](https://pubs.rsc.org/en/content/articlehtml/2025/em/d4em00605d)
 
+## Public Sources Used For The Fiber Fighters Explanation
+
+- [NOAA Marine Debris Program: Microplastics](https://marinedebris.noaa.gov/what-marine-debris/microplastics)
+- [U.S. EPA: Plastic Products and Plastic Pollution](https://www.epa.gov/plastics/about-plastic-products-and-plastic-pollution)
+- [Peer-reviewed review: Microplastics in Wastewater and Drinking Water Treatment Plants](https://www.mdpi.com/2076-3417/11/21/10109)
+- [FDA: Microplastics and Nanoplastics in Foods](https://www.fda.gov/food/environmental-contaminants-food/microplastics-and-nanoplastics-foods)
+- [WHO: Dietary and Inhalation Exposure to Microplastics](https://www.who.int/publications/i/item/9789240054608)
+- [UN Environment Programme: Textiles and Pollution](https://www.unep.org/interactives/beat-pollution/)
+- [CAST UDL Guidelines 3.0](https://udlguidelines.cast.org/more/about-guidelines-3-0/)
+- [Ambitious Science Teaching: Getting Started](https://ambitiousscienceteaching.org/get-started/)
+
+Visual syntheses:
+
+- [How a clothing fiber can reach a food web](../public-artifacts/fiber-fighters-causal-chain.png)
+- [Same rigorous science, multiple ways in](../public-artifacts/fiber-fighters-access-pathways.png)
+
 ## Public Web Sources Used For Announcement Task 3
 
 - [Smithsonian Magazine, Mia Heller microplastics filter story](https://www.smithsonianmag.com/innovation/this-high-school-student-invented-a-filter-that-eliminates-96-percent-of-microplastics-from-drinking-water-180988363/)

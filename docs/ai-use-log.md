@@ -79,6 +79,22 @@ OpenAI Codex (GPT-5) was used on July 1, 2026 to synthesize course materials, or
   - preserve Misong's existing contribution and verify the added working revision with the team
   - use “Fiber Fighters” for official Drive navigation while retaining “Cyber Fighters” as the transcript rendering
 
+## July 14, 2026 - Fiber Fighters Visual And Evidence Redesign
+
+- Tool/source: OpenAI Codex, Google Drive connector, NOAA, EPA, FDA, WHO, UNEP, CAST UDL 3.0, Ambitious Science Teaching, and peer-reviewed wastewater research
+- Trigger: human review identified that naming neurodivergence without changing the document's structure, visual access, and source placement did not demonstrate inclusive design
+- Output created or revised:
+  - [concise, source-linked Fiber Fighters explanation](../assignments/05-july14-camp-prep/fiber-fighters-gapless-explanation.md)
+  - [causal pathway visual](../public-artifacts/fiber-fighters-causal-chain.png)
+  - [multiple access pathways visual](../public-artifacts/fiber-fighters-access-pathways.png)
+  - [live shared Fiber Fighters document](https://docs.google.com/document/d/1onKUk2pjF5nzpMYp_mhhpSb9lGbT40ke9QCgC_EdyDM/edit)
+- Design decisions:
+  - put evidence links beside the claims they support
+  - distinguish science, evidence, access, and justice with both color and text labels
+  - separate the 60-second explanation from optional deeper reading
+  - use visuals to carry the causal chain and participation choices
+  - state uncertainty directly instead of overstating food or health claims
+
 ## July 1, 2026 - Corrective Reframing After Human Review
 
 - Tool/source: OpenAI Codex, Google Drive connector, GitHub/local repository context

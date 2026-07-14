@@ -1,52 +1,59 @@
 # Fiber Fighters Gapless Science Explanation
 
-**Team:** Piter Garcia and Misong<br>
-**Transcript naming note:** the July 9 automatic transcript repeatedly says “Cyber Fighters”; the official course email, t-shirt form, folder, and shared document say “Fiber Fighters.”<br>
-**Shared document:** [Fiber Fighters Gapless Explanation](https://docs.google.com/document/d/1onKUk2pjF5nzpMYp_mhhpSb9lGbT40ke9QCgC_EdyDM/edit)
+Misong and I are the **Fiber Fighters**. Our camp starts with a question that is simple enough for young people to grab onto, but complicated enough to keep all of us investigating:
 
-## Anchoring Phenomenon
+> **Tiny plastic hairs in tuna? How can fibers from our clothing end up in water, fish, and food when we cannot even see them?**
 
-**Tiny plastic hairs in tuna? How can fibers from clothing become microplastics in water, animals, and food even when we cannot see them?**
+## The Theme Driving Our Work
 
-## Gapless Causal Explanation
+The science question gives us something real to investigate, but inclusion is what drives my work. I want this camp to create a STEM space where neurodivergent, chronically ill, disabled, multilingual, culturally diverse, and multiply identified young people can participate without their access needs being mistaken for a lack of interest or ability. I do not want to add accommodations after an activity has already excluded someone. I want us to design the investigation from the beginning so campers can enter the science through different roles, languages, energy levels, sensory needs, ways of communicating, and ways of making meaning.
 
-Many clothes are made partly or entirely from synthetic textiles such as polyester, nylon, acrylic, and spandex. Unlike cotton or wool, these materials are manufactured from polymers: long chains of repeating molecules, often produced from fossil-fuel feedstocks or recycled plastic. Manufacturers stretch and combine the polymers into threads, then spin, knit, or weave those threads into fabric. A synthetic fiber is therefore a very thin piece of plastic, even when it feels soft and looks like ordinary clothing.
+Clothing makes that commitment especially important. What we wear can carry culture, gender expression, religion, disability and sensory needs, family expectations, money, creativity, safety, and belonging. A justice-centered camp cannot talk about clothing only as a consumer choice or pollution source. We need to honor the identities and practical needs connected to clothing while helping young people investigate the larger systems that create microfiber pollution.
 
-Friction acts on the fabric during manufacturing, wearing, washing, and drying. Bending, rubbing, water, detergent, heat, and agitation weaken or detach tiny pieces from the threads. Some detached pieces are shorter than five millimeters and are classified as microplastic fibers, or microfibers. Fabric construction, age, and wash conditions affect shedding, so different garments do not release the same number or kind of fibers. The fibers are often too small to see without filtration and magnification, but being invisible to our eyes does not mean they disappeared.
+## Our Explanation
 
-During washing, wastewater carries detached fibers away from the garment. Wastewater treatment removes many microplastics by trapping them with other solids, but treatment does not capture every size and shape. Some fibers can leave with treated effluent and enter rivers or lakes. Fibers captured in sewage sludge can also reach land and runoff if that sludge is applied to soil. Wearing and drying textiles can release fibers into indoor or outdoor air and dust, creating another route into water and living systems. This means the pathway is not one simple pipe; fibers can move through wastewater, sludge, runoff, air, and dust.
+The story starts in our closets. A lot of the clothing we wear is made with polyester, nylon, acrylic, spandex, or other synthetic materials. These fabrics are made from polymers, which are long chains of repeating molecules. Manufacturers turn those polymers into thin threads and then knit or weave the threads into fabric. That means a soft polyester fiber is still a very small piece of plastic.
 
-Once fibers enter a water body, their movement depends on their density, size, shape, currents, and whether organisms or other material attach to them. Some remain suspended, some wash ashore, and some sink into sediment. Plankton, invertebrates, fish, and other organisms may encounter or ingest fibers when the particles overlap with the size or appearance of food. An organism may expel a fiber, retain it for some time, or be eaten by a predator before the fiber leaves. These mechanisms make movement through a food web possible, but they do not mean that every fiber travels intact from a shirt to a fish to a person.
+Every time we wear, wash, or dry that clothing, the fabric bends and rubs against itself and other surfaces. Water, detergent, heat, and the movement of a washing machine add even more friction. That friction loosens tiny pieces of the threads. When those pieces are smaller than five millimeters, we can call them microplastic fibers or microfibers. Different fabrics shed differently, and older or more loosely made clothing may shed more. Most of these fibers are too small for us to notice without filtering the water and looking under a microscope.
 
-People can encounter microfibers through air, dust, drinking water, and food, including seafood. Finding a fiber in water or food establishes exposure, not a particular health outcome. Possible effects depend on particle size, chemistry, additives, concentration, exposure route, and duration, and important health questions remain under investigation. Our model must therefore show both what the evidence supports and where uncertainty remains. We should not claim that all fish contain the same fibers, that fibers automatically accumulate at every food-web level, or that detecting a fiber alone proves it caused illness.
+When the washing machine drains, the fibers leave with the wastewater. A wastewater treatment plant can trap many of them, but it cannot catch every fiber of every size and shape. Some fibers leave the plant with treated water and enter rivers or lakes. Others become trapped in sewage sludge and may later reach soil or runoff. Clothing and dryers can also release fibers into the air and household dust. There is not just one path from a shirt to the environment. The fibers can travel through water, sludge, soil, runoff, air, and dust.
 
-Fast fashion can intensify this system by increasing how many synthetic garments are produced, transported, washed briefly, discarded, and replaced. Low prices can hide costs carried by textile workers, communities near production and waste sites, and ecosystems receiving pollution. Families and young people do not have equal money, clothing access, laundry options, political power, or control over what companies sell, so justice cannot mean blaming individuals for buying affordable clothing.
+Once fibers reach a lake or river, some float or remain suspended, some wash onto shore, and others sink into sediment. Their movement depends on their size, shape, density, the current, and whatever sticks to them. Small organisms may mistake the fibers for food or swallow them while eating something else. A fish may then eat those organisms. Sometimes an organism can get rid of a fiber, and sometimes the fiber remains long enough to move to another organism through feeding.
 
-Solutions can interrupt different links in the chain. Garments can be designed to shed less and last longer; producers can be responsible for pollution across a product's life; filters and improved wastewater systems can capture more fibers; and policy can reduce overproduction and unsafe disposal. Repair, reuse, and visible mending can extend clothing life while supporting identity, creativity, and resistance to disposable fashion. The existing team work connecting visible mending to Black punk history matters because clothing is not only a pollution source: it is also culture, protection, belonging, expression, and joy. Campers can use science and art together to advocate for structural change without shaming people for what they wear.
+This is how a fiber from clothing can eventually become part of the same food system that includes fish and tuna. I do not want us to oversimplify that story for campers. We can honestly say that microfibers can enter waterways, be eaten by organisms, and move through parts of a food web. We cannot honestly say that every fiber travels directly from one shirt to one fish to one person, or that finding one fiber automatically proves it caused an illness. People can encounter microfibers through air, dust, water, and food, but scientists are still studying how particle size, chemistry, concentration, and length of exposure affect health.
 
-## How Campers Can Build And Test This Explanation
+The justice part matters because people do not have equal control over this system. Fast-fashion companies can produce huge amounts of inexpensive synthetic clothing while workers, communities near factories and waste sites, and ecosystems carry much of the harm. Families also have different budgets, laundry options, access to durable or sensory-safe clothing, and power to influence companies. A young person may need a particular fabric because of texture, pain, temperature regulation, mobility, culture, religion, gender expression, or cost. I do not want our camp to blame young people or their families for wearing what is accessible or affordable. I want campers to ask who designed this system, who benefits from it, who is harmed, whose needs are ignored, and who should be responsible for changing it.
 
-The July 9 class transcript identifies a usable evidence sequence:
+The hopeful part is that there are several places where we can interrupt the chain. Companies can design clothing that sheds less and lasts longer. Producers can take responsibility for pollution across the life of a product. Filters and wastewater improvements can keep more fibers out of waterways. Policies can reduce overproduction and unsafe disposal. Repairing, reusing, and visibly mending clothing can also help garments last longer while giving people a way to express identity, creativity, and resistance. Misong's connection between visible mending and Black punk history gives us a strong way to show that clothing is not only a source of pollution. It is also culture, protection, belonging, expression, activism, and joy.
 
-1. Make an initial model connecting clothing, washing, wastewater, waterways, organisms, people, and possible interventions.
-2. Examine water or sand using the demonstrated filtering protocol: filter paper, tweezers, clear tape, a labeled microscope slide, and a microscope camera.
-3. Classify suspected plastic as fiber, fragment, film, or foam; measure and tally observations while also recording uncertainty and possible contamination.
-4. Keep a paper tally as a backup when using digital tools such as Clean Swell or microscope software.
-5. Compare observations with scientific sources, then revise the model to add mechanisms and remove unsupported claims.
-6. Use visible mending or reclaimed-textile art to communicate an evidence-based demand to a real audience.
+## What We Want Campers To Understand
 
-## Justice And Access Commitments
+By the showcase, Misong and I want campers to be able to explain this chain in their own words:
 
-Camp roles should include sample handling, contamination control, filtering, microscopy, photography, drawing, counting, data entry, model building, oral explanation, home-language discussion, mending, and advocacy. Campers need seated and low-energy roles, quiet options, visible steps, non-screen pathways, and enough time to revise. Scientific understanding should be assessed through causal reasoning and evidence, not stamina, handwriting, speed, English dominance, sustained standing, or comfort speaking to a whole group.
+> **Synthetic clothing is plastic. Friction releases tiny fibers. Washing, drying, air, and waste systems move those fibers into the environment. Water and food webs can move them again. The problem is shaped by industry and unequal power, so real solutions must include both personal creativity and structural change.**
 
-## Sources Already In The Team Document
+I also want campers to leave seeing themselves as people who can do science. Their questions, sensory observations, family knowledge, languages, styles, identities, and experiences with clothing are not distractions from the investigation. They are resources for deciding what to study, what the evidence means, and what a just solution should protect.
+
+We want campers to revise their first model instead of simply being told the final answer. They can filter water or sand, transfer what the filter catches onto a labeled slide, use a microscope or microscope camera, and look for fibers, fragments, film, and foam. They can measure and tally what they observe, keep a paper record in case the technology fails, and mark anything they are not sure about. Then they can compare their evidence with scientific sources and revise their model to show what they now understand and what questions remain.
+
+For the advocacy piece, campers can use visible mending or reclaimed textiles to create art with a message for a real audience. Their message should not be “people should just stop buying clothes.” It should explain where microfiber pollution comes from, who has the power to reduce it, and what changes they want companies, institutions, communities, and individuals to make.
+
+## How I Want The Camp To Feel
+
+I want the way we teach this topic to match the justice message. I am designing with neurodivergent campers, chronically ill and disabled campers, multilingual campers, culturally diverse campers, and young people carrying several of those identities at once in mind. A camper should not have to stand for a long time, speak in front of the whole group, write quickly, use only English, make eye contact, ignore pain or fatigue, or tolerate a noisy room to be recognized as doing serious science.
+
+We can offer roles in sample handling, contamination control, filtering, microscopy, photography, drawing, counting, data entry, model building, discussion, mending, and advocacy. We can provide seated and low-energy roles, quiet options, visible steps, predictable transitions, non-screen choices, home-language discussion, sensory tools, breaks without punishment, and enough time to revise. Campers should be able to change roles when their energy, attention, pain, language needs, or comfort changes.
+
+What matters is whether campers can use evidence to explain the chain, question what the evidence does not show, and imagine a more just response. Their stamina, handwriting, processing speed, speech, language, sensory tolerance, behavior, or comfort with one technology should not be confused with their ability to think scientifically. That difference between an access barrier and a thinking barrier is the thread I want to carry through the entire camp.
+
+## Sources We Are Using
 
 - [PBS Terra: Is Your Fleece Jacket Polluting the Oceans?](https://youtu.be/toU15Q9MAWQ)
 - [Microplastics in Wastewater and Drinking Water Treatment Plants](https://www.mdpi.com/2076-3417/11/21/10109)
 - [Encyclopaedia Britannica: Fast Fashion](https://www.britannica.com/art/fast-fashion)
 - [American Society of Civil Engineers: Fast Fashion and Microplastic Water Pollution](https://www.asce.org/publications-and-news/civil-engineering-source/article/2026/02/03/the-fast-fashion-trend-is-adding-to-microplastic-water-pollution)
-- [Full July 9 transcript](../../transcripts/2026-07-09-class-transcript-clean.md)
+- [Full July 9 class transcript](../../transcripts/2026-07-09-class-transcript-clean.md)
 
 ## AI Use Disclosure
 
-OpenAI Codex was used on July 14, 2026 to organize the July 9 transcript evidence, identify causal gaps in the team's existing explanation, and draft a structured revision. Piter is responsible for reviewing the science, retaining teammate contributions, and deciding what is submitted.
+I used OpenAI Codex on July 14, 2026 to help me organize our sources, identify missing links in our explanation, and turn my notes into a draft I could review. I am responsible for checking the science, revising the language, protecting Misong's contributions, and deciding what we submit.

@@ -10,13 +10,13 @@ This page translates the July 10 camp email into one scannable work queue. It ke
 | 2 | T-shirt size | Complete: Adult Medium, Camp Teacher | [Open roster](https://docs.google.com/spreadsheets/d/1p0zSJzPNdGzKTBoTDYXLzTXItBEHb_CX5bHh1m1cvKg/edit?gid=112167864#gid=112167864) |
 | 3 | Grounding Framework Part 1 | Draft and upload-ready visual exist; Blackboard upload remains | [PNG](../../public-artifacts/grounding-frameworks-visual.png) / [DOCX](../../public-submissions/grounding-frameworks-part1.docx) / [reflection](../01-grounding-frameworks/grounding-frameworks-part1.md) |
 | 4 | Session 5 readings and Heather Table | Content complete and verified; sharing is still private and must be changed to anyone-with-link commenter | [Reading notes](session5-reading-notes.md) / [Heather Table](https://docs.google.com/document/d/1Cnw_v00DsZclHObcmnljwXzEw-kiReCE6oStXrMoGAg/edit) |
-| 5 | Team gapless explanation | Team confirmed from transcript: Piter + Misong, official name Fiber Fighters; complete working revision ready | [Final Fiber Fighters explanation](fiber-fighters-gapless-explanation.md) / [shared Google Doc](https://docs.google.com/document/d/1onKUk2pjF5nzpMYp_mhhpSb9lGbT40ke9QCgC_EdyDM/edit) |
+| 5 | Team gapless explanation | Piter + Misong, Fiber Fighters; complete working revision ready | [Final Fiber Fighters explanation](fiber-fighters-gapless-explanation.md) / [shared Google Doc](https://docs.google.com/document/d/1onKUk2pjF5nzpMYp_mhhpSb9lGbT40ke9QCgC_EdyDM/edit) |
 | 6 | Camp materials | Inventory transcribed; wait for team confirmation and activity decisions before ordering | [Inventory check](materials-inventory-and-order-check.md) / [order sheet](https://docs.google.com/spreadsheets/d/1rAuGt8iT-CAx4Oy1cqz_SsVQqqPzi5mE9v7pRCODSAo/edit?gid=1535708448#gid=1535708448) |
 | 7 | Curriculum exploration | Resource map ready for planning | [Curriculum map](camp-curriculum-resource-map.md) |
 
 ## Team Gapless Explanation
 
-The July 9 transcript confirms Piter and Misong are teammates. The automatic transcript calls the team “Cyber Fighters,” while the official course email, t-shirt form, folder, and document call it **Fiber Fighters**. Invisible Invaders is explicitly identified as another team.
+Misong and I are the **Fiber Fighters**. Our camp investigates how plastic fibers from clothing can travel through water, living systems, and food while treating neurodivergence, chronic illness, disability, language, culture, and multiple identities as central to how we design the science experience.
 
 - [Plankton to People folder](https://drive.google.com/drive/folders/1XXQtoQnXPKyp5GaVBXMwg6m8u1g9f_7K)
 - [Invisible Invaders folder](https://drive.google.com/drive/folders/1ZX08NvxOa5yx3gAOdBEccWFGcw07xZJ6)

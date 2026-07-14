@@ -89,4 +89,4 @@ Clothing can carry culture, religion, gender expression, disability access, sens
 
 ## AI Use Disclosure
 
-I used OpenAI Codex on July 14, 2026 to help organize sources, build the two visual models, test the explanation for missing causal links, and prepare this draft for review. I am responsible for checking the science, revising the language, protecting Misong's contributions, and deciding what we submit.
+OpenAI Codex was used on July 14, 2026 under my supervision and guidance to help make this material more inclusive and accessible. I, Piter Garcia, provided, reviewed, and guided all final content; AI assisted with structuring, formatting, visual presentation, and accessibility enhancements for neurodivergent, chronically ill, disabled, multilingual, culturally diverse, and multiply identified learners. AI also helped check causal gaps, validate claims, and connect the explanation to direct sources. I reviewed the final language, evidence, representation of Misong's contributions, and design, and I remain responsible for what we submit.

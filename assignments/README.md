@@ -11,6 +11,8 @@ This folder holds original assignment drafts and working materials. The shared f
 - [04 - Poster Fair Proposal](04-poster-fair/poster-proposal-draft.md)
 - [05 - July 14 Camp Prep and Session 5 Readings](05-july14-camp-prep/README.md)
 - [Task 6 - Puzzle Plan / EQUITAS Reading Hub](05-july14-camp-prep/readings/README.md)
+- [Task 7 - Puzzle Plan Curriculum Adaptation And Camp Week](05-july14-camp-prep/task7-curriculum-adaptation-and-week-plan.md)
+- [Task 7 - Camp-Ready Youth And Facilitator Tools](05-july14-camp-prep/task7-camp-tools.md)
 
 ## Completion Standard
 

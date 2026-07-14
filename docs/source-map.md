@@ -86,6 +86,12 @@ Public-safe links and original shared workspaces:
 - [ASCD: Understanding by Design framework paper](https://files.ascd.org/staticfiles/ascd/pdf/siteASCD/publications/UbD_WhitePaper0312.pdf)
 - [NSTA: Learning Science and Literacy Together](https://www.nsta.org/learning-science-and-literacy-together)
 - [Task 6 Puzzle Plan reading hub](../assignments/05-july14-camp-prep/readings/README.md)
+- [JuST Lab / Marion Middle School plastics curriculum](https://docs.google.com/document/d/1LJGPe-S99d1vuIUEIi17UZgid6NJyhd4UI7c9g5qYfY/edit?tab=t.0#heading=h.7nuolonm853y)
+- [NextGen Science: An Ocean of Plastics](https://www.nextgenscience.org/resources/middle-school-aspire-public-schools-ocean-plastics)
+- [Official EQuIP review: An Ocean of Plastics](https://www.nextgenscience.org/sites/default/files/NGSS%20EQuIP%20Unit%20feedback%20form_An%20Ocean%20of%20Plastics_Consensus.pdf)
+- [Algalita / Wayfinder: NGSS MS-ESS3-3 Plastic Ocean guide](https://algalita.org/wayfinder-society/guide/ngss-ms-ess-3-3-plastic-ocean-human-impact/)
+- [ProQuest: Development of a 7th Grade NGSS-Based Unit, Plastic in Our Ocean](https://www.proquest.com/dissertations-theses/development-7-sup-th-grade-ngss-based-unit/docview/2600793823/se-2)
+- [Task 7 Puzzle Plan curriculum adaptation](../assignments/05-july14-camp-prep/task7-curriculum-adaptation-and-week-plan.md)
 
 Protected local reading files reviewed for the July 14 Heather Table:
 
@@ -96,6 +102,8 @@ Protected local reading files reviewed for the July 14 Heather Table:
 - Ippolito et al. (2018), *Teaching Teachers: Learning Science and Literacy Together*
 
 Provenance note: the July 10 email labels the Wiggins and McTighe reading as 2021, while the supplied local course PDF identifies itself as the 2005 expanded second edition. The public notes summarize the supplied chapter and record the discrepancy instead of silently choosing a different edition.
+
+Task 7 provenance note: the Marion main unit, official NextGen Science listing and EQuIP review, and official Wayfinder guide/lesson descriptions were reviewed directly. The ProQuest thesis was available only at record/index level, so the plan does not claim access to its full lesson sequence or findings.
 
 ## Camp Materials Inventory Sources
 

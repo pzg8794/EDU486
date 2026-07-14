@@ -71,6 +71,8 @@ This index is the public GitHub front door. Public repo files, public submission
 - [Camp materials inventory dictionary and order check](../assignments/05-july14-camp-prep/materials-inventory-and-order-check.md)
 - [Sortable camp materials inventory catalog](../assignments/05-july14-camp-prep/camp-materials-inventory-catalog.csv)
 - [Camp materials photo evidence index](../assignments/05-july14-camp-prep/camp-materials-photo-evidence-index.md)
+- [Invisible Invaders complete materials plan](../assignments/05-july14-camp-prep/invisible-invaders-materials-plan.md)
+- [Invisible Invaders under-$100 order budget](../assignments/05-july14-camp-prep/invisible-invaders-order-budget.csv)
 - [July 9 transcript index](../transcripts/README.md)
 - [Clean full July 9 transcript](../transcripts/2026-07-09-class-transcript-clean.md)
 

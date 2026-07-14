@@ -96,6 +96,9 @@ OpenAI Codex (GPT-5) was used on July 1, 2026 to synthesize course materials, or
   - inspect 30 local materials-tour photographs and reconcile them with the July 9 sampling demonstration and live `2026 GRS` order-sheet structure
   - separate photographed presence from physical quantity, condition, cleanliness, compatibility, reservation, and purchase authorization
   - retain source-photo provenance without publishing photographs that include people or identifying course-space context
+  - translate the four-day Invisible Invaders investigation into four equivalent station kits, a complete no-budget-limit materials plan, and an under-$100 order request
+  - validate the live order-sheet headers and dropdown values, use its legacy `Getting Small` team label without hiding the Invisible Invaders team name, and leave a price/tax buffer
+  - check direct retailer and laboratory-supplier links and record July 14 prices in a sortable budget file
 
 ## July 1, 2026 - Corrective Reframing After Human Review
 

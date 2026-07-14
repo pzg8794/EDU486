@@ -190,8 +190,10 @@ The live spreadsheet is titled **Sodus Camp Materials Orders**. The target tab i
 
 - `2026 GRS!A5:F5` currently records **Lab quality salt**, **1 lb.**, **All Camp**, and **Ordered**.
 - The live Team dropdown currently lists `Fibers`, `Plankton to People`, `Getting Small`, `All Camp`, and `Won't arrive in time`.
-- **Invisible Invaders is not currently an allowed Team value.** Before we enter team-specific orders, we should ask the instructors which existing label to use or request that the dropdown be updated.
+- **Invisible Invaders is not currently an allowed Team value.** The order uses the validated legacy label `Getting Small` and identifies **Invisible Invaders (Piter + Aastha; sheet label: Getting Small)** in every Notes cell so the team is not obscured.
 - The live Status dropdown permits `Ordered`, `Arrived`, `Bring from home`, `Asked Shellie to order`, and `at LeChase Hall`.
+
+The complete station setup and current under-$100 request are documented in the [Invisible Invaders materials plan](invisible-invaders-materials-plan.md) and [sortable budget CSV](invisible-invaders-order-budget.csv).
 
 ## AI Use Disclosure
 

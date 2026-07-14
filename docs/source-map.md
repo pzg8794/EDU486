@@ -88,6 +88,14 @@ Protected local reading files reviewed for the July 14 Heather Table:
 - Wiggins and McTighe, Understanding by Design, Chapter 1
 - Ippolito et al. (2018), *Teaching Teachers: Learning Science and Literacy Together*
 
+## July 9 Class Transcript
+
+- [Transcript index and team-evidence note](../transcripts/README.md)
+- [Clean full Markdown transcript](../transcripts/2026-07-09-class-transcript-clean.md)
+- [Raw automatic transcript](../transcripts/2026-07-09%2013_43_34-transcript.txt)
+
+The transcript confirms that Piter and Misong are teammates and distinguishes their team from Invisible Invaders. The automatic transcript repeatedly renders the team name as “Cyber Fighters,” while the official July 10 email, t-shirt form, Drive folder, and shared document use “Fiber Fighters.” Both forms are preserved so the evidence remains traceable without breaking official course navigation.
+
 ## Public Web Sources Used For Microplastics Draft
 
 These public sources support the microplastics technology evolution draft:

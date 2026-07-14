@@ -45,6 +45,7 @@ This index is the public GitHub front door. Public repo files, public submission
 - [Planet Protectors camp unit plan DOCX](../public-submissions/planet-protectors-camp-unit-plan-draft.docx)
 - [Poster proposal DOCX](../public-submissions/poster-proposal-draft.docx)
 - [Session 5 reading notes DOCX](../public-submissions/session5-reading-notes.docx)
+- [Fiber Fighters gapless explanation DOCX](../public-submissions/fiber-fighters-gapless-explanation.docx)
 - [Course calendar ICS](../public-submissions/EDU486-course-calendar.ics)
 
 ## Assignment Markdown
@@ -60,7 +61,10 @@ This index is the public GitHub front door. Public repo files, public submission
 - [Session 5 reading notes](../assignments/05-july14-camp-prep/session5-reading-notes.md)
 - [Camp curriculum resource map](../assignments/05-july14-camp-prep/camp-curriculum-resource-map.md)
 - [Gapless explanation options for all three camp teams](../assignments/05-july14-camp-prep/gapless-explanation-options.md)
+- [Final Fiber Fighters gapless explanation](../assignments/05-july14-camp-prep/fiber-fighters-gapless-explanation.md)
 - [Camp materials inventory and order check](../assignments/05-july14-camp-prep/materials-inventory-and-order-check.md)
+- [July 9 transcript index](../transcripts/README.md)
+- [Clean full July 9 transcript](../transcripts/2026-07-09-class-transcript-clean.md)
 
 ## Protected Course Sources
 

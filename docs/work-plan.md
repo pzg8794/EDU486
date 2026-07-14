@@ -28,7 +28,7 @@ Work blocks:
 
 1. Submit the overdue [t-shirt design form](https://docs.google.com/forms/d/e/1FAIpQLSfhFq0XBOP8OhJuP2TT-0EIncmK8h2dQp1vjPEAgjVWurRdUQ/viewform); the size roster is already complete.
 2. Upload the [grounding framework visual](../public-artifacts/grounding-frameworks-visual.png) to Blackboard before class.
-3. Finish the correct team's shared gapless explanation after confirming whether Piter is in Plankton to People, Invisible Invaders, or Fiber Fighters.
+3. Review the completed [Fiber Fighters gapless explanation](../assignments/05-july14-camp-prep/fiber-fighters-gapless-explanation.md) with Misong. The July 9 transcript confirms Piter + Misong and distinguishes Invisible Invaders as another team.
 4. Use the completed [Session 5 reading notes](../assignments/05-july14-camp-prep/session5-reading-notes.md) and [live Heather Table](https://docs.google.com/document/d/1Cnw_v00DsZclHObcmnljwXzEw-kiReCE6oStXrMoGAg/edit) for class preparation.
 5. Review the [camp curriculum map](../assignments/05-july14-camp-prep/camp-curriculum-resource-map.md), then add only confirmed team needs to the materials sheet.
 

@@ -66,6 +66,19 @@ OpenAI Codex (GPT-5) was used on July 1, 2026 to synthesize course materials, or
   - review and authorize final submission of the t-shirt form
   - upload the grounding-framework visual to Blackboard
 
+## July 14, 2026 - Transcript Preservation and Fiber Fighters Explanation
+
+- Tool/source: OpenAI Codex, the raw July 9 automatic transcript, the existing Fiber Fighters shared Google Doc, and its linked science/fashion sources
+- Purpose: preserve a full clean Markdown transcript, resolve the team identity without erasing the transcript's wording, and strengthen the team's gapless causal explanation
+- Output created or updated:
+  - [transcript index](../transcripts/README.md)
+  - [clean full transcript](../transcripts/2026-07-09-class-transcript-clean.md)
+  - [Fiber Fighters gapless explanation](../assignments/05-july14-camp-prep/fiber-fighters-gapless-explanation.md)
+  - [live shared Fiber Fighters document](https://docs.google.com/document/d/1onKUk2pjF5nzpMYp_mhhpSb9lGbT40ke9QCgC_EdyDM/edit)
+- Human review needed:
+  - preserve Misong's existing contribution and verify the added working revision with the team
+  - use “Fiber Fighters” for official Drive navigation while retaining “Cyber Fighters” as the transcript rendering
+
 ## July 1, 2026 - Corrective Reframing After Human Review
 
 - Tool/source: OpenAI Codex, Google Drive connector, GitHub/local repository context

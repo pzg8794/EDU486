@@ -74,6 +74,8 @@ OpenAI Codex (GPT-5) was used on July 1, 2026 to synthesize course materials, or
 - Output created or revised:
   - [transcript correction and evidence note](../transcripts/README.md)
   - [source-linked Invisible Invaders explanation](../assignments/05-july14-camp-prep/invisible-invaders-gapless-explanation.md)
+  - [inclusive and safety-revised activity plan](../assignments/05-july14-camp-prep/invisible-invaders-activities.md)
+  - [curated media and internet guide](../assignments/05-july14-camp-prep/invisible-invaders-media-guide.md)
   - [indoor-outdoor causal pathway visual](../public-artifacts/invisible-invaders-causal-chain.png)
   - [multiple access pathways visual](../public-artifacts/invisible-invaders-access-pathways.png)
   - [live shared Invisible Invaders document](https://docs.google.com/document/d/1IFu_y_sYbNeNs1K4J_lD6KS4I30f8wxggX4SS38acRI/edit)
@@ -85,6 +87,9 @@ OpenAI Codex (GPT-5) was used on July 1, 2026 to synthesize course materials, or
   - treat microscope observations as suspected particles unless chemistry confirms the polymer
   - use covered or pre-prepared tire evidence instead of open sanding
   - make neurodivergent, chronic-illness, disability, language, sensory, and multiple-identity access part of the investigation design
+  - preserve Aastha's original Activities and Videos/Internet Links content while adding clearly labeled team revisions to both tabs
+  - use the team's sampling protocol and SASSY table as planning anchors
+  - recommend the two-minute National Science Foundation video while retaining alternate media and non-video access routes
 
 ## July 1, 2026 - Corrective Reframing After Human Review
 

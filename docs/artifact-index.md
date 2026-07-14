@@ -66,6 +66,8 @@ This index is the public GitHub front door. Public repo files, public submission
 - [Camp curriculum resource map](../assignments/05-july14-camp-prep/camp-curriculum-resource-map.md)
 - [Gapless explanation options for all three camp teams](../assignments/05-july14-camp-prep/gapless-explanation-options.md)
 - [Final Invisible Invaders gapless explanation](../assignments/05-july14-camp-prep/invisible-invaders-gapless-explanation.md)
+- [Invisible Invaders activity plan](../assignments/05-july14-camp-prep/invisible-invaders-activities.md)
+- [Invisible Invaders media and internet guide](../assignments/05-july14-camp-prep/invisible-invaders-media-guide.md)
 - [Camp materials inventory and order check](../assignments/05-july14-camp-prep/materials-inventory-and-order-check.md)
 - [July 9 transcript index](../transcripts/README.md)
 - [Clean full July 9 transcript](../transcripts/2026-07-09-class-transcript-clean.md)

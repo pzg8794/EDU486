@@ -126,6 +126,17 @@ Visual syntheses:
 - [How invisible invaders reach both samples](../public-artifacts/invisible-invaders-causal-chain.png)
 - [Same rigorous investigation, multiple ways in](../public-artifacts/invisible-invaders-access-pathways.png)
 
+## Invisible Invaders Activity And Media Sources
+
+- [Team sampling protocol](https://docs.google.com/document/d/1HP06TOL2cnycQSgDcRfV57cEUYHuwoHTmVGRABv9tys/edit)
+- [Invisible Invaders SASSY table](https://docs.google.com/document/d/1yVJ2Ek76Zrgq6mpxN0lT6nqt5FcuZxqEuatsjLsGg8I/edit)
+- [National Science Foundation: What Are Microplastics? Science For Kids](https://www.youtube.com/watch?v=fyYy58aTs7U)
+- [Environment and Climate Change Canada: What Are Microplastics?](https://www.youtube.com/watch?v=tNBFiTx6PpU)
+- [USGS microplastics slideshow](https://www.usgs.gov/media/slideshows/microplastics)
+- [EPA 2025 youth environmental award projects](https://www.epa.gov/education/presidents-environmental-youth-award-peya-2025-winners)
+
+The activity plan uses the team's sampling and SASSY documents as course-specific anchors. The media guide preserves Aastha's three original video choices, recommends the National Science Foundation video as the short opener, and adds official and peer-reviewed sources for claim checking.
+
 ## Public Web Sources Used For Announcement Task 3
 
 - [Smithsonian Magazine, Mia Heller microplastics filter story](https://www.smithsonianmag.com/innovation/this-high-school-student-invented-a-filter-that-eliminates-96-percent-of-microplastics-from-drinking-water-180988363/)

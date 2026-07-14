@@ -118,6 +118,8 @@ These additions strengthen access or evidence quality, but they are not required
 
 Prices were checked on July 14, 2026 and can change. The order intentionally leaves a buffer instead of spending exactly $100.
 
+The pre-existing one-pound lab-quality salt order remains assigned to **All Camp** and is not counted in our $86.79 request. Invisible Invaders does not need a separate salt purchase unless the instructors later confirm that the shared supply is insufficient for a density-separation procedure.
+
 | Item | Quantity | Price | Why it earns space in the budget | Product link |
 |---|---:|---:|---|---|
 | StonyLab 90 mm qualitative filter paper, 100 sheets | 1 pack | $18.79 | Core filtration consumable; existing stock type/count is unconfirmed | [Open product](https://stonylab.com/products/b0c7877mch-filter-paper-circles) |

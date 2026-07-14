@@ -188,7 +188,7 @@ Complete this before adding an Amazon link:
 
 The live spreadsheet is titled **Sodus Camp Materials Orders**. The target tab is **2026 GRS** (`gid=1535708448`) and uses repeating columns for `Item`, `Quantity`, `Team`, `Amazon Link or other link`, `Status`, and `Notes`.
 
-- `2026 GRS!A5:F5` currently records **Lab quality salt**, **1 lb.**, **All Camp**, and **Ordered**.
+- `2026 GRS!A6:F6` records the original shared **Lab quality salt**, **1 lb.**, **All Camp**, and **Ordered** entry. It is not an Invisible Invaders request and must remain separate from our team rows.
 - The live Team dropdown currently lists `Fibers`, `Plankton to People`, `Getting Small`, `All Camp`, and `Won't arrive in time`.
 - **Invisible Invaders is not currently an allowed Team value.** The order uses the validated legacy label `Getting Small` and identifies **Invisible Invaders (Piter + Aastha; sheet label: Getting Small)** in every Notes cell so the team is not obscured.
 - The live Status dropdown permits `Ordered`, `Arrived`, `Bring from home`, `Asked Shellie to order`, and `at LeChase Hall`.

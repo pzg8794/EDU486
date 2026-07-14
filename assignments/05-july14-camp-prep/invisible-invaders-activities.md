@@ -103,7 +103,7 @@ Every route still requires campers to use evidence, compare samples, document un
 - instructor-prepared sealed tire-wear evidence or photographs;
 - advocacy materials selected after campers identify their audience and message.
 
-Check current inventory before using the team's $100 budget. The camp [materials order sheet](https://docs.google.com/spreadsheets/d/1rAuGt8iT-CAx4Oy1cqz_SsVQqqPzi5mE9v7pRCODSAo/edit?gid=1535708448#gid=1535708448) remains the ordering record.
+Use the [camp materials inventory dictionary](materials-inventory-and-order-check.md) to count, test, clean, and reserve existing stock before using the team's $100 budget. The camp [materials order sheet](https://docs.google.com/spreadsheets/d/1rAuGt8iT-CAx4Oy1cqz_SsVQqqPzi5mE9v7pRCODSAo/edit?gid=1535708448#gid=1535708448) remains the ordering record.
 
 ## AI Use Note
 

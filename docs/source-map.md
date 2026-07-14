@@ -88,6 +88,16 @@ Protected local reading files reviewed for the July 14 Heather Table:
 - Wiggins and McTighe, Understanding by Design, Chapter 1
 - Ippolito et al. (2018), *Teaching Teachers: Learning Science and Literacy Together*
 
+## Camp Materials Inventory Sources
+
+- [Camp materials inventory dictionary](../assignments/05-july14-camp-prep/materials-inventory-and-order-check.md)
+- [Sortable inventory catalog](../assignments/05-july14-camp-prep/camp-materials-inventory-catalog.csv)
+- [Local photo evidence index](../assignments/05-july14-camp-prep/camp-materials-photo-evidence-index.md)
+- [Clean July 9 materials-tour transcript](../transcripts/2026-07-09-class-transcript-clean.md)
+- [Live 2026 GRS order sheet](https://docs.google.com/spreadsheets/d/1rAuGt8iT-CAx4Oy1cqz_SsVQqqPzi5mE9v7pRCODSAo/edit?gid=1535708448#gid=1535708448)
+
+Thirty local photographs in the EDE448 source folder were inspected as evidence but were not copied into the public EDU486 repository because several include people, reflections, or identifying course-space context. The index preserves filenames and visible evidence. Exact counts, conditions, compatibility, and A/B/C storage locations remain physical-check items.
+
 ## July 9 Class Transcript
 
 - [Transcript index and team-evidence note](../transcripts/README.md)

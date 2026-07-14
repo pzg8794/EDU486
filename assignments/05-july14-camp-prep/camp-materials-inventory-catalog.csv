@@ -1,0 +1,72 @@
+item_id,category,item,evidence_status,quantity_evidence,camp_relevance,next_action,source_evidence,location
+S01,Sampling and field,Ball/Mason jars,CHECK,"at least 3 assigned; roughly 20+ assorted visible",core,"match clean jars to intact lids and reserve equivalent sets",P02; transcript; class inventory,A/B/C confirm
+S02,Sampling and field,Jar lids and rings,CHECK,many assorted visible,core,"match to S01 and reject damaged pieces",P02,A/B/C confirm
+S03,Sampling and field,Clear storage tubs and lidded bins,PRESENT,many sizes visible,core,"label clean-tools and used-tools bins",P03; P07; P21; P23-P30,A/B/C confirm
+S04,Sampling and field,Lab measuring vessels and specimen cups,CHECK,multiple assorted pieces visible,support,"select safe contamination-appropriate pieces and inspect",P11,prep room likely
+S05,Sampling and field,Porcelain filter funnels,CHECK,present but count unknown,core,"count and test with selected jars and filters",transcript,prep room
+S06,Sampling and field,Metal sieve stack,PRESENT,one multi-size stack visible,optional,"confirm mesh sequence and cleaning procedure",P14; transcript,prep room likely
+S07,Sampling and field,Metal scoops spoons and strainers,CHECK,several visible,core,"reserve clean tools by sample",P14; P21; P26; transcript,A/B/C confirm
+S08,Sampling and field,Buckets and pails,PRESENT,several visible,support,"label by purpose and separate sample from trash use",P21; P26; P28,A/B/C confirm
+S09,Sampling and field,Small field or aquarium nets,CHECK,at least 2 visible,optional,"confirm activity need",P21; P26; P28,closet likely
+S10,Sampling and field,Trash pickers,PRESENT,several visible,core,"count clean and pair with paper tally route",P21; P28-P29; transcript,closet likely
+S11,Sampling and field,Measuring wheel,PRESENT,at least 1,core,"test wheel and reset counter",P21; P28; class inventory,closet likely
+S12,Sampling and field,Resealable zipper bags,CHECK,one 100-count box plus additional bags visible,support,"confirm unused stock and sizes",P28; P30,A/B/C confirm
+S13,Sampling and field,Small red sampling square or tray,CHECK,one described,optional,"locate and photograph beside ruler",transcript; class inventory,A/B/C confirm
+S14,Sampling and field,Natural/plastic reference pane and found-plastic samples,PRESENT,present but count unknown,core,"reserve as reference not proof",class inventory; transcript,A/B/C confirm
+S15,Sampling and field,Microplastic identification keys and guides,PRESENT,multiple described,core,"place one at each observation station",transcript,closet likely
+S16,Sampling and field,Aquarium or tank with substrate,CHECK,1 visible,optional,"clean and use only for a specific model question",P15,prep room likely
+L01,Microscopy and lab,Compound and dissecting microscopes,CHECK,at least 4 visible,core,"function-test clean optics and reserve",P13; class inventory,prep room
+L02,Microscopy and lab,Microscope camera attachments,CHECK,present but count unknown,core,"test with microscope computer and software",transcript; class inventory,prep room
+L03,Microscopy and lab,Microscope slides,CHECK,labeled stock visible,core,"count clean slides and confirm coverslip need",P14; transcript,prep room
+L04,Microscopy and lab,Filter paper,CHECK,labeled stock visible,core,"verify diameter grade and quantity",P14; transcript,prep room
+L05,Microscopy and lab,Tweezers or forceps,CHECK,labeled stock visible,core,"count clean pairs for separate stations",P14; transcript,prep room
+L06,Microscopy and lab,Clear crystal or jar tape,CHECK,labeled stock visible,core,"test clarity width adhesion and remaining length",P14; transcript,prep room
+L07,Microscopy and lab,Labeling tape,CHECK,labeled stock visible,core,"test on selected containers",P14; transcript,prep room
+L08,Microscopy and lab,Balances and scales,CHECK,multiple types described,core,"select suitable balance and verify calibration",transcript; class inventory,prep room
+L09,Microscopy and lab,Metric rulers,PRESENT,dedicated drawer,core,"reserve metric rulers",P03; class inventory,classroom likely
+L10,Microscopy and lab,Distilled-water carboy,CHECK,1 large carboy visible,support,"confirm contents cleanliness and permission",P11; P18,prep room
+L11,Microscopy and lab,Kimtech delicate-task wipes,PRESENT,at least 5 boxes of 280,core,"reserve for equipment cleaning as directed",P16,prep room likely
+L12,Microscopy and lab,Sink dish soap and drying area,PRESENT,1 station visible,core,"define clean-to-dirty workflow",P11; P18,prep room
+L13,Microscopy and lab,Mini vortex mixers,EXCLUDE,2 visible,not planned,"instructor use only unless protocol changes",P17,prep room
+L14,Microscopy and lab,Small centrifuge-like devices,EXCLUDE,4 visible,not planned,"identify and keep out of camper kit",P17,prep room
+L15,Microscopy and lab,Microwave drying oven and sterilization equipment,EXCLUDE,several devices visible,not planned,"instructor-controlled only",P11-P12; P18,prep room
+L16,Microscopy and lab,HOBO or data-logger equipment,CHECK,multiple devices and boxes visible,optional,"confirm model battery software and research question",P17,prep room likely
+T01,Technology,Computers and laptops,CHECK,several visible and confirmed,core,"reserve charge update and test offline",P05-P06; transcript; class inventory,A/B/C confirm
+T02,Technology,iPads and tablets,CHECK,approximately 7-9 visible,core,"count working devices chargers and prepare paper backup",P05-P06; class inventory,A/B/C confirm
+T03,Technology,DSLR or still camera,CHECK,at least 1 visible,support,"test battery memory date and cable",P08-P09,tech storage
+T04,Technology,Camcorders and video cameras,CHECK,several visible,support,"test one complete kit",P08-P10,tech storage
+T05,Technology,Blue USB microphone,CHECK,1 boxed unit visible,optional,"test recording and playback",P07,tech storage
+T06,Technology,Chargers batteries adapters and cases,CHECK,many unmatched items visible,core,"build labeled complete kits",P05-P10,A/B/C confirm
+T07,Technology,Portable projector screen,CHECK,1 visible,support,"confirm working display source",P04-P05,tech storage
+T08,Technology,Label makers and small printers,CHECK,mentioned but exact stock unclear,support,"locate test and confirm consumables",transcript,tech storage
+A01,Safety and access,Safety goggles,CHECK,dedicated storage confirmed,core,"count clean inspect and fit-check",P18; transcript,prep room
+A02,Safety and access,Protective gloves,CHECK,present but sizes and quantity unknown,core,"confirm powder-free material sizes allergies and count",transcript,prep room
+A03,Safety and access,Lab coats,CHECK,large labeled bin visible,support,"confirm material and contamination implications",P27,closet likely
+A04,Safety and access,Boots and waders,CHECK,several pairs visible,optional,"confirm sizes sanitation mobility and need",P21; P24-P25; P29,closet likely
+A05,Safety and access,Rolling carts and hand trucks,PRESENT,multiple visible,core,"reserve stable cart and seated coordinator route",P21; P26-P27,closet
+A06,Safety and access,Hard equipment cases,PRESENT,at least 2 large cases visible,support,"verify contents before using storage space",P21; P26,closet
+A07,Safety and access,Covered station bins,PREP,many lidded tubs visible,core,"build equivalent evidence kits for multiple access routes",P21; P23-P30,closet
+C01,Teaching art and advocacy,Markers highlighters and writing tools,CHECK,multiple bins visible,core,"remove dried tools and provide varied grips and tips",P03,A/B/C confirm
+C02,Teaching art and advocacy,Scissors,CHECK,several visible,core,"count left right or adaptive options",P03; P09-P10,A/B/C confirm
+C03,Teaching art and advocacy,Post-it notes,CHECK,dedicated drawer but stock uncounted,core,"confirm quantity and avoid color-only coding",P03,classroom likely
+C04,Teaching art and advocacy,Assorted tape,PRESENT,dedicated bin plus lab tapes,core,"separate science-clean from craft tape",P14; P28-P29,A/B/C confirm
+C05,Teaching art and advocacy,Glue and adhesives,CHECK,mentioned but stock unclear,core,"confirm non-toxic low-odor options",transcript,A/B/C confirm
+C06,Teaching art and advocacy,Clipboards,PRESENT,approximately 12+ visible,core,"reserve by team and attach pencils",P21; P26; P28,A/B/C confirm
+C07,Teaching art and advocacy,Mini whiteboards,PRESENT,many large and small boards,core,"count erasers and working markers",P26; P28-P29; transcript,closet likely
+C08,Teaching art and advocacy,Notebooks and folders,PRESENT,many visible,core,"reserve for campers and staff",P21; P28,A/B/C confirm
+C09,Teaching art and advocacy,Kraft colored and bulletin-paper rolls,PRESENT,many rolls visible,core,"measure usable lengths and reserve",P22; P25; P27,closet
+C10,Teaching art and advocacy,Cardboard tubes cardboard and recycled stock,PRESENT,many tubes and boxes visible,core,"inspect edges and prioritize reuse",P21-P23; P27,closet
+C11,Teaching art and advocacy,Poster boards and display panels,CHECK,several visible,core,"confirm sizes and mounting method",P21; P27,closet
+C12,Teaching art and advocacy,Laminating pouches,CHECK,one box labeled 100 at 5 mil,support,"confirm working laminator and size",P06,tech storage
+C13,Teaching art and advocacy,Stickers badges trophies and clapperboard,PRESENT,multiple sets visible,optional,"use as optional recognition",P10,tech or office storage
+C14,Teaching art and advocacy,STEM identity-category reference materials,PRESENT,one poster and routine described,optional,"confirm bead or badge consumables separately",P01; transcript,A/B/C confirm
+C15,Teaching art and advocacy,Books and readers-theater materials,PRESENT,multiple visible,optional,"select only sources tied to camp question",P10; transcript,A/B/C confirm
+G01,Purchase gate,Matching clean sample containers with lids,GAP,depends on S01-S02 physical count,core,"buy only if equivalent sets cannot be reserved",activity plan,A/B/C confirm
+G02,Purchase gate,Protocol-matched filter paper,GAP,depends on L04 verification,core,"buy only if size grade or quantity fails",activity plan,prep room
+G03,Purchase gate,Clean slides and coverslips if required,GAP,depends on L03 verification,core,"buy only if stock is unsafe or insufficient",activity plan,prep room
+G04,Purchase gate,Powder-free gloves in multiple sizes,GAP,depends on A02 verification,core,"buy only if stock is unsuitable or insufficient",activity plan,prep room
+G05,Purchase gate,Clean sample covers or aluminum foil,GAP,not confirmed,core,"confirm lids or purchase clean covers",activity plan,A/B/C confirm
+G06,Purchase gate,Instructor-sealed tire-wear evidence or photographs,PREP,not safely confirmed,core,"prepare without camper tire sanding",activity plan,A/B/C confirm
+G07,Purchase gate,Clear optical tape and labeling tape,GAP,depends on L06-L07 verification,core,"buy only if protocol test fails or stock is nearly empty",activity plan,A/B/C confirm
+G08,Purchase gate,Low-odor non-toxic adhesives,GAP,depends on C05 verification,core,"buy only if safe accessible stock is absent",activity plan,A/B/C confirm
+G09,Purchase gate,Beads cord safety pins or badge blanks,GAP,depends on identity routine decision,optional,"buy only if routine is adopted and consumables are absent",activity plan,A/B/C confirm

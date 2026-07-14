@@ -78,6 +78,9 @@ OpenAI Codex (GPT-5) was used on July 1, 2026 to synthesize course materials, or
   - [curated media and internet guide](../assignments/05-july14-camp-prep/invisible-invaders-media-guide.md)
   - [indoor-outdoor causal pathway visual](../public-artifacts/invisible-invaders-causal-chain.png)
   - [multiple access pathways visual](../public-artifacts/invisible-invaders-access-pathways.png)
+  - [camp materials inventory dictionary](../assignments/05-july14-camp-prep/materials-inventory-and-order-check.md)
+  - [sortable materials inventory catalog](../assignments/05-july14-camp-prep/camp-materials-inventory-catalog.csv)
+  - [materials photo evidence index](../assignments/05-july14-camp-prep/camp-materials-photo-evidence-index.md)
   - [live shared Invisible Invaders document](https://docs.google.com/document/d/1IFu_y_sYbNeNs1K4J_lD6KS4I30f8wxggX4SS38acRI/edit)
 - Design decisions:
   - preserve Aastha's parking-lot/classroom phenomenon and activity concepts
@@ -90,6 +93,9 @@ OpenAI Codex (GPT-5) was used on July 1, 2026 to synthesize course materials, or
   - preserve Aastha's original Activities and Videos/Internet Links content while adding clearly labeled team revisions to both tabs
   - use the team's sampling protocol and SASSY table as planning anchors
   - recommend the two-minute National Science Foundation video while retaining alternate media and non-video access routes
+  - inspect 30 local materials-tour photographs and reconcile them with the July 9 sampling demonstration and live `2026 GRS` order-sheet structure
+  - separate photographed presence from physical quantity, condition, cleanliness, compatibility, reservation, and purchase authorization
+  - retain source-photo provenance without publishing photographs that include people or identifying course-space context
 
 ## July 1, 2026 - Corrective Reframing After Human Review
 

@@ -1,7 +1,7 @@
 # Visualizing Our Grounding Frameworks - Part 1
 
-**Piter Z. Garcia Bautista**  
-EDU486 - Integrating Science and Technology  
+**Piter Z. Garcia Bautista**<br>
+EDU486 - Integrating Science and Technology<br>
 Due July 14, 2026
 
 ## Access-to-Agency STEM: Technology, Bodymind Access, and Justice

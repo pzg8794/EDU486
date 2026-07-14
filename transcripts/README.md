@@ -7,26 +7,26 @@ This folder preserves the original July 9 class transcript and a complete readab
 - [Clean full Markdown transcript](2026-07-09-class-transcript-clean.md)
 - [Raw automatic transcript](2026-07-09%2013_43_34-transcript.txt)
 
-## Camp-Team Evidence
+## Camp-Team Correction
 
-The transcript provides three connected pieces of evidence:
+The transcript contains several moments that were initially combined into the wrong camp-team conclusion:
 
 - At approximately **01:59:52-02:00:43**, the automatic transcript calls the team **Cyber Fighters** and distinguishes **Invisible Invaders** as another team.
 - At approximately **02:04:41**, the instructor assigns Peter/Piter and Misong a shared Clean Swell technology responsibility.
-- At approximately **02:10:11**, the instructor says that Piter and Misong are a team. The transcript recognizes Misong as “me, song” in this sentence.
+- At approximately **02:10:11**, the instructor pairs Piter and Misong for the sampling/materials work happening in that moment. The transcript recognizes Misong as "me, song" in this sentence.
 - At approximately **02:34:50**, the instructor again distinguishes the Cyber Fighters and Invisible Invaders folder links.
 
-The official July 10 email, t-shirt form, and Google Drive folder use **Fiber Fighters**, while the automatic transcript repeatedly renders **Cyber Fighters**. For repository and Drive navigation, this project records the team as:
+Those classroom pairings do not establish Piter's camp team. The official shared-folder title is **2026 Camp Invisible Invaders: Piter & Aastha**, and its files contain the phenomenon and activities Piter and Aastha are developing. For repository and Drive navigation, the authoritative team record is:
 
-> **Piter + Misong = Fiber Fighters (rendered “Cyber Fighters” in the July 9 automatic transcript), not Invisible Invaders.**
+> **Piter + Aastha = Invisible Invaders.**
 
-This wording preserves the transcript while respecting the official Drive document title.
+The raw transcript remains unchanged. This correction distinguishes a temporary classroom pairing from the official camp-team assignment.
 
 ## Work Grounded In This Transcript
 
-- [Fiber Fighters gapless science explanation](../assignments/05-july14-camp-prep/fiber-fighters-gapless-explanation.md)
+- [Invisible Invaders gapless science explanation](../assignments/05-july14-camp-prep/invisible-invaders-gapless-explanation.md)
 - [July 14 camp-prep command center](../assignments/05-july14-camp-prep/README.md)
-- [Live Fiber Fighters shared Google Doc](https://docs.google.com/document/d/1onKUk2pjF5nzpMYp_mhhpSb9lGbT40ke9QCgC_EdyDM/edit)
+- [Live Invisible Invaders shared Google Doc](https://docs.google.com/document/d/1IFu_y_sYbNeNs1K4J_lD6KS4I30f8wxggX4SS38acRI/edit)
 
 ## Reliability
 

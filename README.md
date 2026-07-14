@@ -37,7 +37,7 @@ My working personal lens is:
 | --- | --- | --- |
 | June 29, 2026 | Pre-class announcement tasks: learning scientist image, syllabus comments, youth STEM story slides, calendar setup | [Announcement prep](assignments/00-announcement-prep/README.md) |
 | July 14, 2026 | Visualizing our Grounding Frameworks, Part 1, revised around EQUITAS Access-to-Agency STEM | [Part 1 draft](assignments/01-grounding-frameworks/grounding-frameworks-part1.md) |
-| July 14, 2026 | Fiber Fighters gapless explanation, Session 5 readings/Heather Table, and camp planning preparation | [Fiber Fighters explanation](assignments/05-july14-camp-prep/fiber-fighters-gapless-explanation.md) / [July 14 command center](assignments/05-july14-camp-prep/README.md) |
+| July 14, 2026 | Invisible Invaders gapless explanation, Session 5 readings/Heather Table, and camp planning preparation | [Invisible Invaders explanation](assignments/05-july14-camp-prep/invisible-invaders-gapless-explanation.md) / [July 14 command center](assignments/05-july14-camp-prep/README.md) |
 | July 21, 2026 | Camp overview and daily lesson plans finalized for sharing/printing, with access paths for neurodivergent and chronically ill learners | [Camp unit plan draft](assignments/03-camp-unit-plan/planet-protectors-camp-unit-plan-draft.md) |
 | July 29, 2026 | Poster file to April by bedtime if printing is needed | [Poster proposal draft](assignments/04-poster-fair/poster-proposal-draft.md) |
 | July 31, 2026 | Poster fair, 1:30-3:00 p.m. in LeChase 215 | [Poster proposal draft](assignments/04-poster-fair/poster-proposal-draft.md) |

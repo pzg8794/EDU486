@@ -13,5 +13,5 @@ This folder contains original, GitHub-clickable exports generated from the EDU48
 - [Planet Protectors camp unit plan DOCX](planet-protectors-camp-unit-plan-draft.docx)
 - [Poster proposal DOCX](poster-proposal-draft.docx)
 - [Session 5 reading notes DOCX](session5-reading-notes.docx)
-- [Fiber Fighters gapless explanation DOCX](fiber-fighters-gapless-explanation.docx)
+- [Invisible Invaders gapless explanation DOCX](invisible-invaders-gapless-explanation.docx)
 - [Course calendar ICS](EDU486-course-calendar.ics)

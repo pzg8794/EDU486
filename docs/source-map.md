@@ -94,7 +94,7 @@ Protected local reading files reviewed for the July 14 Heather Table:
 - [Clean full Markdown transcript](../transcripts/2026-07-09-class-transcript-clean.md)
 - [Raw automatic transcript](../transcripts/2026-07-09%2013_43_34-transcript.txt)
 
-The transcript confirms that Piter and Misong are teammates and distinguishes their team from Invisible Invaders. The automatic transcript repeatedly renders the team name as “Cyber Fighters,” while the official July 10 email, t-shirt form, Drive folder, and shared document use “Fiber Fighters.” Both forms are preserved so the evidence remains traceable without breaking official course navigation.
+The transcript pairs Piter and Misong during specific Clean Swell, sampling, and materials work, but those moments were incorrectly treated as proof of the camp-team assignment. The authoritative shared-folder title is **2026 Camp Invisible Invaders: Piter & Aastha**. The raw transcript remains preserved so the correction is traceable rather than silently rewriting the evidence.
 
 ## Public Web Sources Used For Microplastics Draft
 
@@ -105,21 +105,26 @@ These public sources support the microplastics technology evolution draft:
 - [ITRC, Microplastics Sampling and Analysis](https://mp-1.itrcweb.org/sampling-and-analysis/)
 - [RSC Environmental Science: Processes & Impacts, machine learning tools for microplastics analysis](https://pubs.rsc.org/en/content/articlehtml/2025/em/d4em00605d)
 
-## Public Sources Used For The Fiber Fighters Explanation
+## Public Sources Used For The Invisible Invaders Explanation
 
-- [NOAA Marine Debris Program: Microplastics](https://marinedebris.noaa.gov/what-marine-debris/microplastics)
-- [U.S. EPA: Plastic Products and Plastic Pollution](https://www.epa.gov/plastics/about-plastic-products-and-plastic-pollution)
-- [Peer-reviewed review: Microplastics in Wastewater and Drinking Water Treatment Plants](https://www.mdpi.com/2076-3417/11/21/10109)
-- [FDA: Microplastics and Nanoplastics in Foods](https://www.fda.gov/food/environmental-contaminants-food/microplastics-and-nanoplastics-foods)
+- [NOAA Marine Debris Program: What Are Microplastics?](https://marinedebris.noaa.gov/what-are-microplastics-0)
+- [NOAA: How Plastic Fragments](https://response.restoration.noaa.gov/node/1471)
+- [U.S. EPA: Tire-Wear Research](https://www.epa.gov/sciencematters/where-rubber-meets-road-epa-researchers-study-environmental-and-health-impacts-tires)
+- [U.S. EPA: Tire-Wear Particles in Waterways](https://nepis.epa.gov/Exe/ZyPURL.cgi?Dockey=P101741T.txt)
+- [USGS: It Is Raining Plastic](https://www.usgs.gov/publications/it-raining-plastic)
+- [Dris et al.: Indoor and Outdoor Fibers](https://pubmed.ncbi.nlm.nih.gov/27989388/)
+- [U.S. EPA: Limits of Visual Microscopy](https://cfpub.epa.gov/si/si_public_record_report.cfm?Lab=CEMM&dirEntryId=361542)
+- [NOAA: Laboratory Methods for Microplastics](https://marinedebris.noaa.gov/microplastics/laboratory-methods-analysis-microplastics-marine-environment)
 - [WHO: Dietary and Inhalation Exposure to Microplastics](https://www.who.int/publications/i/item/9789240054608)
-- [UN Environment Programme: Textiles and Pollution](https://www.unep.org/interactives/beat-pollution/)
-- [CAST UDL Guidelines 3.0](https://udlguidelines.cast.org/more/about-guidelines-3-0/)
+- [U.S. Schools Near Major Roadways: Nationwide Assessment](https://pmc.ncbi.nlm.nih.gov/articles/PMC4179205/)
+- [U.S. EPA: Why Indoor Air Quality Matters in Schools](https://www.epa.gov/iaq-schools/why-indoor-air-quality-important-schools)
+- [CAST UDL Guidelines 3.0](https://udlguidelines.cast.org/)
 - [Ambitious Science Teaching: Getting Started](https://ambitiousscienceteaching.org/get-started/)
 
 Visual syntheses:
 
-- [How a clothing fiber can reach a food web](../public-artifacts/fiber-fighters-causal-chain.png)
-- [Same rigorous science, multiple ways in](../public-artifacts/fiber-fighters-access-pathways.png)
+- [How invisible invaders reach both samples](../public-artifacts/invisible-invaders-causal-chain.png)
+- [Same rigorous investigation, multiple ways in](../public-artifacts/invisible-invaders-access-pathways.png)
 
 ## Public Web Sources Used For Announcement Task 3
 

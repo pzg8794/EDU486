@@ -10,18 +10,18 @@ This page translates the July 10 camp email into one scannable work queue. It ke
 | 2 | T-shirt size | Complete: Adult Medium, Camp Teacher | [Open roster](https://docs.google.com/spreadsheets/d/1p0zSJzPNdGzKTBoTDYXLzTXItBEHb_CX5bHh1m1cvKg/edit?gid=112167864#gid=112167864) |
 | 3 | Grounding Framework Part 1 | Draft and upload-ready visual exist; Blackboard upload remains | [PNG](../../public-artifacts/grounding-frameworks-visual.png) / [DOCX](../../public-submissions/grounding-frameworks-part1.docx) / [reflection](../01-grounding-frameworks/grounding-frameworks-part1.md) |
 | 4 | Session 5 readings and Heather Table | Content complete and verified; sharing is still private and must be changed to anyone-with-link commenter | [Reading notes](session5-reading-notes.md) / [Heather Table](https://docs.google.com/document/d/1Cnw_v00DsZclHObcmnljwXzEw-kiReCE6oStXrMoGAg/edit) |
-| 5 | Team gapless explanation | Piter + Misong, Fiber Fighters; visual, sourced revision ready | [Explanation](fiber-fighters-gapless-explanation.md) / [science model](../../public-artifacts/fiber-fighters-causal-chain.png) / [access model](../../public-artifacts/fiber-fighters-access-pathways.png) / [shared Google Doc](https://docs.google.com/document/d/1onKUk2pjF5nzpMYp_mhhpSb9lGbT40ke9QCgC_EdyDM/edit) |
+| 5 | Team gapless explanation | Piter + Aastha, Invisible Invaders; visual, sourced revision ready | [Explanation](invisible-invaders-gapless-explanation.md) / [science model](../../public-artifacts/invisible-invaders-causal-chain.png) / [access model](../../public-artifacts/invisible-invaders-access-pathways.png) / [shared Google Doc](https://docs.google.com/document/d/1IFu_y_sYbNeNs1K4J_lD6KS4I30f8wxggX4SS38acRI/edit) |
 | 6 | Camp materials | Inventory transcribed; wait for team confirmation and activity decisions before ordering | [Inventory check](materials-inventory-and-order-check.md) / [order sheet](https://docs.google.com/spreadsheets/d/1rAuGt8iT-CAx4Oy1cqz_SsVQqqPzi5mE9v7pRCODSAo/edit?gid=1535708448#gid=1535708448) |
 | 7 | Curriculum exploration | Resource map ready for planning | [Curriculum map](camp-curriculum-resource-map.md) |
 
 ## Team Gapless Explanation
 
-Misong and I are the **Fiber Fighters**. Our camp investigates how plastic fibers from clothing can travel through water, living systems, and food while treating neurodivergence, chronic illness, disability, language, culture, and multiple identities as central to how we design the science experience.
+I am working with Aastha as the **Invisible Invaders**. Our camp investigates why microplastics can appear in outdoor parking-lot samples and indoor classroom samples even when they are invisible to unaided eyes. Neurodivergence, chronic illness, disability, language, culture, and multiple identities shape how we make the investigation safe, understandable, rigorous, and open to different forms of participation.
 
 Quick visual entry points:
 
-- [How a clothing fiber can reach a food web](../../public-artifacts/fiber-fighters-causal-chain.png)
-- [Same rigorous science, multiple ways in](../../public-artifacts/fiber-fighters-access-pathways.png)
+- [How invisible invaders reach both samples](../../public-artifacts/invisible-invaders-causal-chain.png)
+- [Same rigorous investigation, multiple ways in](../../public-artifacts/invisible-invaders-access-pathways.png)
 
 - [Plankton to People folder](https://drive.google.com/drive/folders/1XXQtoQnXPKyp5GaVBXMwg6m8u1g9f_7K)
 - [Invisible Invaders folder](https://drive.google.com/drive/folders/1ZX08NvxOa5yx3gAOdBEccWFGcw07xZJ6)
@@ -35,7 +35,7 @@ A gapless explanation should show the causal chain, not only list activities:
 4. Identify what evidence would support or challenge each link in the chain.
 5. End with actions youth can evaluate or take, including collective and structural responses rather than only individual responsibility.
 
-Use the [completed Fiber Fighters explanation](fiber-fighters-gapless-explanation.md) for the official shared team document. The earlier [three-team options](gapless-explanation-options.md) remain as planning history.
+Use the [completed Invisible Invaders explanation](invisible-invaders-gapless-explanation.md) for the official shared team document. The earlier [three-team options](gapless-explanation-options.md) remain as planning history.
 
 ## Shared Camp Design Commitments
 

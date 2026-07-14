@@ -6,10 +6,10 @@ These are GitHub-safe generated visuals made from original course work. They rep
 - [Teacher as learning scientist evidence map, PNG](teacher-learning-scientist-evidence-map.png)
 - [Grounding frameworks visual, SVG](../assignments/01-grounding-frameworks/grounding-frameworks-visual.svg)
 - [Grounding frameworks visual, PNG](grounding-frameworks-visual.png)
-- [Fiber Fighters causal pathway, SVG](../assignments/05-july14-camp-prep/fiber-fighters-causal-chain.svg)
-- [Fiber Fighters causal pathway, PNG](fiber-fighters-causal-chain.png)
-- [Fiber Fighters access pathways, SVG](../assignments/05-july14-camp-prep/fiber-fighters-access-pathways.svg)
-- [Fiber Fighters access pathways, PNG](fiber-fighters-access-pathways.png)
+- [Invisible Invaders causal pathway, SVG](../assignments/05-july14-camp-prep/invisible-invaders-causal-chain.svg)
+- [Invisible Invaders causal pathway, PNG](invisible-invaders-causal-chain.png)
+- [Invisible Invaders access pathways, SVG](../assignments/05-july14-camp-prep/invisible-invaders-access-pathways.svg)
+- [Invisible Invaders access pathways, PNG](invisible-invaders-access-pathways.png)
 - [Youth STEM story slide 1](youth-stem-access-slide-1.png)
 - [Youth STEM story slide 2](youth-stem-access-slide-2.png)
 - [Youth STEM story slide 3](youth-stem-access-slide-3.png)
@@ -19,9 +19,9 @@ These are GitHub-safe generated visuals made from original course work. They rep
 
 ![Teacher as learning scientist evidence map](teacher-learning-scientist-evidence-map.png)
 
-![How a clothing fiber can reach a food web](fiber-fighters-causal-chain.png)
+![How invisible invaders reach indoor and outdoor samples](invisible-invaders-causal-chain.png)
 
-![Same rigorous science, multiple ways in](fiber-fighters-access-pathways.png)
+![Same rigorous investigation, multiple ways in](invisible-invaders-access-pathways.png)
 
 ![Youth STEM story slide 1](youth-stem-access-slide-1.png)
 

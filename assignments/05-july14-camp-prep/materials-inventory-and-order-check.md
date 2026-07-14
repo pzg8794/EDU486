@@ -44,8 +44,7 @@ Each team has a $100 budget. The instructors said to ask before assuming a large
 - washable markers, labels, and clipboards
 - art-for-advocacy base materials and safe adhesives
 - printing for role cards, visual schedules, models, or public messages
-- microfiber test fabrics or laundry containers for Fiber Fighters
-- indoor/outdoor dust collection surfaces for Invisible Invaders
+- indoor/outdoor dust collection surfaces, covered containers, and contamination-control blanks for Invisible Invaders
 - food-web/model materials for Plankton to People
 
 These are planning candidates, not authorized purchases. Quantities and exact products depend on the confirmed team activity and the current stock check.

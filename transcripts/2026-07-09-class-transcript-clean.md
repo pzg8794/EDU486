@@ -4,7 +4,7 @@
 
 **Recording represented:** approximately 2 hours 35 minutes
 
-> Editorial note: This is a readability-formatted version of the automatic transcript. The wording, speaker numbers, uncertainty, repetition, and recognition errors are preserved. Only Markdown headings and spacing were added. The transcript renders the team name as “Cyber Fighters”; official course email, form, and Drive materials use “Fiber Fighters.”
+> Editorial note: This is a readability-formatted version of the automatic transcript. The wording, speaker numbers, uncertainty, repetition, and recognition errors are preserved. Only Markdown headings and spacing were added. The transcript renders a team name as "Cyber Fighters" and pairs Piter with Misong during specific class activities; those moments do not identify Piter's camp team. The official shared-folder title identifies **Piter and Aastha as Invisible Invaders**.
 
 
 ## 00:00:02 — Speaker 1

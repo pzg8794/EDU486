@@ -66,35 +66,25 @@ OpenAI Codex (GPT-5) was used on July 1, 2026 to synthesize course materials, or
   - review and authorize final submission of the t-shirt form
   - upload the grounding-framework visual to Blackboard
 
-## July 14, 2026 - Transcript Preservation and Fiber Fighters Explanation
+## July 14, 2026 - Corrected Team Attribution And Invisible Invaders Redesign
 
-- Tool/source: OpenAI Codex, the raw July 9 automatic transcript, the existing Fiber Fighters shared Google Doc, and its linked science/fashion sources
-- Purpose: preserve a full clean Markdown transcript, resolve the team identity without erasing the transcript's wording, and strengthen the team's gapless causal explanation
-- Output created or updated:
-  - [transcript index](../transcripts/README.md)
-  - [clean full transcript](../transcripts/2026-07-09-class-transcript-clean.md)
-  - [Fiber Fighters gapless explanation](../assignments/05-july14-camp-prep/fiber-fighters-gapless-explanation.md)
-  - [live shared Fiber Fighters document](https://docs.google.com/document/d/1onKUk2pjF5nzpMYp_mhhpSb9lGbT40ke9QCgC_EdyDM/edit)
-- Human review needed:
-  - preserve Misong's existing contribution and verify the added working revision with the team
-  - use “Fiber Fighters” for official Drive navigation while retaining “Cyber Fighters” as the transcript rendering
-
-## July 14, 2026 - Fiber Fighters Visual And Evidence Redesign
-
-- Tool/source: OpenAI Codex, Google Drive connector, NOAA, EPA, FDA, WHO, UNEP, CAST UDL 3.0, Ambitious Science Teaching, and peer-reviewed wastewater research
-- Trigger: human review identified that naming neurodivergence without changing the document's structure, visual access, and source placement did not demonstrate inclusive design
+- Tool/source: OpenAI Codex, Google Drive connector, the raw July 9 automatic transcript, the official **2026 Camp Invisible Invaders: Piter & Aastha** folder, the existing group documents, NOAA, EPA, USGS, WHO, CAST UDL 3.0, Ambitious Science Teaching, and peer-reviewed research
+- Correction: the transcript's temporary Piter-Misong class pairings were previously mistaken for the camp-team assignment. The official Drive folder identifies **Piter + Aastha = Invisible Invaders**.
+- Preservation: the AI-added Fiber Fighters section was removed from that team's live document, restoring its original content. Aastha's existing phenomenon and activity ideas remain in the correct Invisible Invaders document.
 - Output created or revised:
-  - [concise, source-linked Fiber Fighters explanation](../assignments/05-july14-camp-prep/fiber-fighters-gapless-explanation.md)
-  - [causal pathway visual](../public-artifacts/fiber-fighters-causal-chain.png)
-  - [multiple access pathways visual](../public-artifacts/fiber-fighters-access-pathways.png)
-  - [live shared Fiber Fighters document](https://docs.google.com/document/d/1onKUk2pjF5nzpMYp_mhhpSb9lGbT40ke9QCgC_EdyDM/edit)
+  - [transcript correction and evidence note](../transcripts/README.md)
+  - [source-linked Invisible Invaders explanation](../assignments/05-july14-camp-prep/invisible-invaders-gapless-explanation.md)
+  - [indoor-outdoor causal pathway visual](../public-artifacts/invisible-invaders-causal-chain.png)
+  - [multiple access pathways visual](../public-artifacts/invisible-invaders-access-pathways.png)
+  - [live shared Invisible Invaders document](https://docs.google.com/document/d/1IFu_y_sYbNeNs1K4J_lD6KS4I30f8wxggX4SS38acRI/edit)
 - Design decisions:
-  - put evidence links beside the claims they support
-  - distinguish science, evidence, access, and justice with both color and text labels
-  - separate the 60-second explanation from optional deeper reading
-  - expand each causal step to three substantive sentences after human review found the first version too compressed
-  - use visuals to carry the causal chain and participation choices
-  - state uncertainty directly instead of overstating food or health claims
+  - preserve Aastha's parking-lot/classroom phenomenon and activity concepts
+  - put direct evidence links beside the claims they support
+  - distinguish science, evidence, access, and justice with text labels as well as color
+  - expand each causal step to three substantive sentences
+  - treat microscope observations as suspected particles unless chemistry confirms the polymer
+  - use covered or pre-prepared tire evidence instead of open sanding
+  - make neurodivergent, chronic-illness, disability, language, sensory, and multiple-identity access part of the investigation design
 
 ## July 1, 2026 - Corrective Reframing After Human Review
 

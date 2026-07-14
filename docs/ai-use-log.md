@@ -92,6 +92,7 @@ OpenAI Codex (GPT-5) was used on July 1, 2026 to synthesize course materials, or
   - put evidence links beside the claims they support
   - distinguish science, evidence, access, and justice with both color and text labels
   - separate the 60-second explanation from optional deeper reading
+  - expand each causal step to three substantive sentences after human review found the first version too compressed
   - use visuals to carry the causal chain and participation choices
   - state uncertainty directly instead of overstating food or health claims
 

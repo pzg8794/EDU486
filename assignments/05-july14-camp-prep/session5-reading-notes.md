@@ -1,65 +1,91 @@
-# Session 5 Reading Notes - July 14, 2026
+# Task 6 - Session 5 Reading Synthesis
 
-These notes match the completed rows in the [personal EDU486 Heather Table](https://docs.google.com/document/d/1Cnw_v00DsZclHObcmnljwXzEw-kiReCE6oStXrMoGAg/edit). The throughline is student-perspective coherence plus access-to-agency: the learning path should be intellectually rigorous and visible without requiring every learner to use the same body, language, pace, stamina, or expression mode.
+**Date:** July 14, 2026
 
-## Reiser et al. - Storyline Units
+**Course:** EDU486 - Integrating Technology in STEM
 
-**Main point:** Storylines create coherence from students' perspective. Each lesson is motivated by a question the class needs to answer about an anchoring phenomenon, and each step advances a shared explanation or solution.
+**Theme:** Puzzle Plan / EQUITAS Access-to-Agency STEM
 
-**Findings/design principles:** Anchoring phenomena, student questions, investigations, navigation, and revision help a class incrementally build and test explanations. Equity depends on student agency and connections between disciplinary practices and culturally meaningful ways of knowing.
+These notes summarize the five assigned readings and official Storylines media through Piter Garcia's Puzzle Plan goals. The throughline is not simply "inclusion." It is a claim about evidence and design: bodymind, language, energy, sensory, communication, identity, or technology barriers can hide rigorous thinking, so a teacher as learning scientist must examine and redesign the environment before diagnosing the learner as deficient.
 
-**Short quotation:** "Students can be collaborators in the process of identifying where they need to go" (p. 808).
+[![Task 6 readings mapped to the Puzzle Plan](../../public-artifacts/session5-puzzle-plan-reading-map.png)](../../public-artifacts/session5-puzzle-plan-reading-map.png)
 
-**Camp question:** Can each activity answer a question campers helped raise, while making the next step explicit enough that neurodivergent, chronically ill, multilingual, and multiply marginalized youth do not have to infer a hidden plan?
+[Open the full reading hub](readings/README.md) | [Open the visual](../../public-artifacts/session5-puzzle-plan-reading-map.png) | [Open the accessible DOCX](../../public-submissions/session5-reading-notes.docx)
 
-The [official Next Generation Science Storylines overview](https://www.nextgenstorylines.org/what-are-storylines) reinforces that students should be able to explain what question or problem they are working on and why the next step is needed.
+## 1. Reiser et al. - Storyline Units
 
-## Wisbrock et al. - Talking Trash
+Storylines make a unit coherent from the students' perspective: each investigation should answer a question the classroom community recognizes as necessary for explaining a phenomenon or solving a problem. The paper connects anchoring phenomena, navigation, putting pieces together, and problematizing with epistemic agency and explicit equity concerns. Its warning about pseudoagency matters to the Puzzle Plan because collecting youth questions without letting them affect knowledge building can reproduce the appearance of inclusion without redistributing authority.
 
-**Main point:** A visible local problem can anchor inquiry that moves from noticing and measuring trash to researching consequences and communicating evidence through a community-facing public service announcement.
+**Puzzle Plan design claim:** Make the intellectual path visible, lower the social risk of revision, and let youth contribute through multiple languages and modes. A question board, navigation record, and model history can reduce unnecessary working-memory and inference demands, but only if quieter, delayed, nonverbal, home-language, and low-energy contributions actually shape the shared record.
 
-**Findings/design:** A local expert, lunch-waste tally, pathway model, supported vocabulary and research, and multimodal public service announcements move students from observation to community communication. The unit includes language and learning supports plus a non-digital presentation option.
+[Open the complete Reiser summary, page anchors, video takeaway, and Invisible Invaders moves](readings/reiser-storyline-units.md)
 
-**Short quotation:** "Trash is a concrete example of pollution, something that students can easily see and relate to" (p. 29).
+## 2. Smetana et al. - Let's Be Litter Free
 
-**Camp question:** How can we preserve the local-data-to-public-action arc while designing access from the start through role choice, low-energy participation, home-language sensemaking, non-screen options, and multiple ways to communicate evidence?
+The unit moves from visible local litter to production trends, cleanup databases, multiple classification systems, graphs, claim limits, policy questions, and public action. Students learn that the same evidence can look different when sorted by use or material and that a dataset cannot answer a causal question when required baseline evidence is missing. The photo-based alternative to physical collection also shows that field participation is not the only rigorous route to analysis.
 
-## Smetana et al. - Let's Be Litter Free
+**Puzzle Plan design claim:** Evidence is shaped by categories, context, missing data, and access conditions. We should preserve equivalent photo, sample, and shared-image routes while asking who produces waste, who has alternatives, whose labor manages it, who benefits, and who bears exposure; "collective responsibility" cannot be flattened into equal individual blame.
 
-**Main point:** Youth investigate anthropogenic litter in local ecosystems, analyze patterns and limits in their evidence, and use what they learn to propose community responses.
+[Open the complete Smetana summary, evidence-justice analysis, and Invisible Invaders moves](readings/smetana-lets-be-litter-free.md)
 
-**Findings/design:** Students collect or examine local litter data, categorize it by use, material, place, and time, graph patterns, and evaluate which claims the evidence can and cannot support. Safety guidance and a photo-based alternative widen participation.
+## 3. Wisbrock et al. - Talking Trash
 
-**Short quotation:** "Measuring litter (what, where, how much) is important because it helps determine future solutions" (p. 42).
+Talking Trash integrates a local expert, lunch-waste data, a trash-cycle model, vocabulary development, source evaluation, collaborative synthesis, script revision, and a public service announcement. It includes sentence supports, flexible grouping, print alternatives, and live presentation when digital tools are unavailable. The sequence demonstrates that science, literacy, technology, creativity, and advocacy can reinforce one another when each has a clear purpose.
 
-**Camp question:** How can campers investigate who produces, bears, and controls plastic waste without placing responsibility only on individuals, and how can students who cannot safely collect outdoors still do rigorous analysis and advocacy?
+**Puzzle Plan design claim:** A polished 60-second product cannot become a hidden test of reading speed, speech fluency, stamina, English dominance, or editing experience. Youth should be able to communicate through art, audio, poster, captioned video, live explanation, or partner-supported formats while the rubric evaluates shared scientific criteria separately from media polish.
 
-## Wiggins and McTighe - Understanding by Design, Chapter 1
+[Open the complete Talking Trash summary, multimodal critique, and Invisible Invaders moves](readings/wisbrock-talking-trash.md)
 
-**Main point:** Planning begins with the understanding and transfer learners should achieve, then the evidence that would demonstrate it, and only then the activities, tools, and materials.
+## 4. Wiggins and McTighe - Understanding by Design, Chapter 1
 
-**Findings/design:** Backward design has three stages: identify desired results, determine acceptable evidence, and plan learning experiences and instruction. The authors warn against activity-oriented teaching without clear intellectual purpose and content coverage without understanding.
+Backward design names the understanding and transfer learners should achieve, determines acceptable evidence, and only then chooses learning experiences, technologies, and materials. This avoids the twin failures of entertaining activities without intellectual direction and content coverage without meaning. The supplied course PDF is the 2005 expanded second-edition chapter, although the assignment email labels the reading as 2021; the summary preserves that provenance difference.
 
-**Short quotation:** "The best designs derive backward from the learnings sought" (p. 14).
+**Puzzle Plan design claim:** Stage 2 is an equitable diagnostic decision. If the goal is causal explanation from evidence, students can demonstrate it through a model plus oral, written, visual, audio, or partner-supported reasoning; handwriting, rapid speech, stamina, and tool familiarity should not be scored as scientific understanding unless they are genuinely part of the learning goal.
 
-**Camp question:** What should campers understand and explain about their phenomenon by Thursday, and what multimodal evidence can show that understanding without confusing stamina, speech, handwriting, or speed with learning?
+[Open the complete backward-design summary and Invisible Invaders Stage 1-2-3 plan](readings/wiggins-mctighe-backward-design.md)
 
-## Ippolito et al. - Teaching Teachers
+## 5. Ippolito et al. - Learning Science and Literacy Together
 
-**Main point:** Science and literacy develop together when youth read, write, talk, observe, and investigate as scientists, while teachers use student work and discussion to adjust instruction.
+The article describes a coastal summer program where youth learn by doing, talking, reading, and writing science while teachers use student work and daily dilemmas to revise instruction. It expands scientific text to include field guides, data displays, transcripts, observations, mentor reports, and other disciplinary forms. Students labeled as struggling readers become investigators, authors, source evaluators, and evidence-based communicators when literacy has an authentic scientific purpose.
 
-**Findings:** In a summer program serving more than 200 students with 30 teachers, students showed science growth and averaged three to four months of reading growth. Teachers shifted toward student-generated questions, research teams, evidence, autonomy, and coaching.
+**Puzzle Plan design claim:** Difficulty with a decontextualized reading task does not establish weak scientific thinking. Multimodal formative evidence can reveal expertise that a narrow diagnostic misses, while co-leader debriefs should ask which barrier hid thinking, whose knowledge became visible, and what the learning environment needs tomorrow.
 
-**Short quotation:** "Teachers described needing to 'get out of the way' of student learning" (p. 95).
+[Open the complete Ippolito summary, disciplinary-literacy analysis, and Heather Table status](readings/ippolito-science-literacy-together.md)
 
-**Camp question:** How can camp treat drawing, oral explanation, home language, data displays, gesture, audio, and collaborative writing as disciplinary literacy while still giving every learner a rigorous path to evidence-based explanation?
+## Combined Invisible Invaders Planning Sequence
 
-## Synthesis For Tuesday
+1. **Name the transfer goal:** youth explain how suspected microplastics can reach indoor and outdoor environments, state evidence limits, and propose system-level action.
+2. **Begin with the discrepancy:** use parking-lot, classroom, and blank evidence to elicit noticing, initial models, related experiences, and youth questions.
+3. **Make navigation visible:** record what the group figured out, what remains uncertain, and why the next investigation is needed.
+4. **Create equivalent evidence routes:** physical or covered sample, shared microscope view, enlarged still image, drawing, sorting, tally, oral explanation, text, home language, partner, and paper.
+5. **Compare claims with limits:** ask what each category, graph, sample, or source reveals; what it hides; and what additional evidence would be needed.
+6. **Revise rather than reward speed:** preserve model versions and treat uncertainty, disagreement, and changed thinking as evidence of learning.
+7. **Act without individual blame:** use art, audio, poster, or video to connect evidence to production, transportation, consumption, labor, policy, exposure, and unequal power.
 
-The readings converge on a planning sequence:
+## What These Readings Do Not Solve Automatically
 
-1. Decide the meaningful understanding and justice-oriented action campers should reach.
-2. Identify flexible evidence that can reveal scientific thinking across communication modes.
-3. Begin with a local phenomenon that campers can notice and question.
-4. Let their questions motivate investigations, data analysis, model revision, and public communication.
-5. Make the path visible and revisable so access barriers do not masquerade as missing understanding.
+No routine is inclusive merely because it includes choice, collaboration, technology, a question board, or a public product. We still need evidence about who speaks, who is credited, who handles the tool, who does invisible group labor, who can sustain the pace, and whose language or identity is treated as scientific. Puzzle Plan alignment must be tested through participation and revision, not announced in a heading.
+
+## Questions To Bring To Class
+
+- How can we preserve honest planning while avoiding pseudoagency when camp materials and time are already constrained?
+- What evidence would show that a learner understands the causal model even if writing, speech, stamina, or technology use becomes a barrier?
+- Which parts of the Invisible Invaders investigation genuinely allow youth knowledge to change the plan?
+- How will we separate scientific reasoning from presentation polish and unequal group labor?
+- What system-level action is supported by our evidence, and what claim would exceed it?
+
+## Heather Table Status
+
+All five readings, including Ippolito et al., are already represented in Piter's [personal EDU486 Heather Table](https://docs.google.com/document/d/1Cnw_v00DsZclHObcmnljwXzEw-kiReCE6oStXrMoGAg/edit). The [Heather Table status record](../../docs/heather-table-status.md) documents current coverage and the remaining sharing-permission check.
+
+## Direct Source Index
+
+- **Reiser et al.:** [open-access article](https://doi.org/10.1080/1046560X.2021.1884784), [official Storylines overview](https://www.nextgenstorylines.org/what-are-storylines), and [official embedded video](https://player.vimeo.com/video/350820566)
+- **Smetana et al.:** [NSTA - Let's Be Litter Free](https://www.nsta.org/lets-be-litter-free)
+- **Wisbrock et al.:** [NSTA - Talking Trash](https://www.nsta.org/science-and-children/science-and-children-aprilmay-2020/talking-trash)
+- **Wiggins and McTighe:** [ASCD book page](https://www.ascd.org/books/understanding-by-design-expanded-2nd-edition?chapter=planning-for-learning) and [ASCD Understanding by Design framework paper](https://files.ascd.org/staticfiles/ascd/pdf/siteASCD/publications/UbD_WhitePaper0312.pdf)
+- **Ippolito et al.:** [NSTA - Learning Science and Literacy Together](https://www.nsta.org/learning-science-and-literacy-together) and [publisher issue record](https://www.tandfonline.com/toc/usch20/56/4)
+
+## AI Use Disclosure
+
+I used OpenAI Codex on July 14, 2026 to help structure and format the reading notes, compare the sources, create the visual map, and connect the readings to Puzzle Plan claims and the Invisible Invaders plan. I provided and guided the purpose, inclusion framework, course context, and final direction; I reviewed the content and remain responsible for the interpretations. AI was used to improve accessibility and source organization, not to replace reading, judgment, or accountability.

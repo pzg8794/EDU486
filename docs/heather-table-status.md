@@ -2,7 +2,7 @@
 
 Live document: [2026- EDU486 Heather Table - PGarciaBautista](https://docs.google.com/document/d/1Cnw_v00DsZclHObcmnljwXzEw-kiReCE6oStXrMoGAg/edit)
 
-Last updated: July 13, 2026
+Last updated: July 14, 2026
 
 ## Current Coverage
 
@@ -14,6 +14,8 @@ Last updated: July 13, 2026
 - Session 6 and later sessions remain open until their assigned sources are reviewed.
 
 The Session 5 rows were read back from Google Docs after editing; all five columns are populated for all five readings.
+
+Expanded public-safe notes are available in the [Task 6 Puzzle Plan reading hub](../assignments/05-july14-camp-prep/readings/README.md). Each source has its own summary separating the author's claims, Piter's Puzzle Plan / EQUITAS interpretation, and the concrete implication for Invisible Invaders.
 
 ## Pending Source Review
 

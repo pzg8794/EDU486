@@ -6,6 +6,8 @@ These are GitHub-safe generated visuals made from original course work. They rep
 - [Teacher as learning scientist evidence map, PNG](teacher-learning-scientist-evidence-map.png)
 - [Grounding frameworks visual, SVG](../assignments/01-grounding-frameworks/grounding-frameworks-visual.svg)
 - [Grounding frameworks visual, PNG](grounding-frameworks-visual.png)
+- [Task 6 Puzzle Plan reading map, SVG](session5-puzzle-plan-reading-map.svg)
+- [Task 6 Puzzle Plan reading map, PNG](session5-puzzle-plan-reading-map.png)
 - [Invisible Invaders causal pathway, SVG](../assignments/05-july14-camp-prep/invisible-invaders-causal-chain.svg)
 - [Invisible Invaders causal pathway, PNG](invisible-invaders-causal-chain.png)
 - [Invisible Invaders access pathways, SVG](../assignments/05-july14-camp-prep/invisible-invaders-access-pathways.svg)
@@ -18,6 +20,8 @@ These are GitHub-safe generated visuals made from original course work. They rep
 ## Preview
 
 ![JuST and technology: from access to agency](grounding-frameworks-visual.png)
+
+![Task 6 readings mapped to the Puzzle Plan](session5-puzzle-plan-reading-map.png)
 
 ![Teacher as learning scientist evidence map](teacher-learning-scientist-evidence-map.png)
 

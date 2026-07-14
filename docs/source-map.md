@@ -79,6 +79,13 @@ Public-safe links and original shared workspaces:
 - [Camp materials order sheet](https://docs.google.com/spreadsheets/d/1rAuGt8iT-CAx4Oy1cqz_SsVQqqPzi5mE9v7pRCODSAo/edit?gid=1535708448#gid=1535708448)
 - [Personal EDU486 Heather Table](https://docs.google.com/document/d/1Cnw_v00DsZclHObcmnljwXzEw-kiReCE6oStXrMoGAg/edit)
 - [Next Generation Science Storylines: What Are Storylines?](https://www.nextgenstorylines.org/what-are-storylines)
+- [Official Storylines overview video: Helping Teachers Bring NGSS to Life](https://player.vimeo.com/video/350820566)
+- [Reiser et al. open-access Storyline Units article](https://doi.org/10.1080/1046560X.2021.1884784)
+- [NSTA: Let's Be Litter Free](https://www.nsta.org/lets-be-litter-free)
+- [NSTA: Talking Trash](https://www.nsta.org/science-and-children/science-and-children-aprilmay-2020/talking-trash)
+- [ASCD: Understanding by Design framework paper](https://files.ascd.org/staticfiles/ascd/pdf/siteASCD/publications/UbD_WhitePaper0312.pdf)
+- [NSTA: Learning Science and Literacy Together](https://www.nsta.org/learning-science-and-literacy-together)
+- [Task 6 Puzzle Plan reading hub](../assignments/05-july14-camp-prep/readings/README.md)
 
 Protected local reading files reviewed for the July 14 Heather Table:
 
@@ -87,6 +94,8 @@ Protected local reading files reviewed for the July 14 Heather Table:
 - Wisbrock et al. (2020), *Talking Trash*
 - Wiggins and McTighe, Understanding by Design, Chapter 1
 - Ippolito et al. (2018), *Teaching Teachers: Learning Science and Literacy Together*
+
+Provenance note: the July 10 email labels the Wiggins and McTighe reading as 2021, while the supplied local course PDF identifies itself as the 2005 expanded second edition. The public notes summarize the supplied chapter and record the discrepancy instead of silently choosing a different edition.
 
 ## Camp Materials Inventory Sources
 

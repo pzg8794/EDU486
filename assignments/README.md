@@ -10,6 +10,7 @@ This folder holds original assignment drafts and working materials. The shared f
 - [03 - Planet Protectors Camp Unit Plan](03-camp-unit-plan/planet-protectors-camp-unit-plan-draft.md)
 - [04 - Poster Fair Proposal](04-poster-fair/poster-proposal-draft.md)
 - [05 - July 14 Camp Prep and Session 5 Readings](05-july14-camp-prep/README.md)
+- [Task 6 - Puzzle Plan / EQUITAS Reading Hub](05-july14-camp-prep/readings/README.md)
 
 ## Completion Standard
 

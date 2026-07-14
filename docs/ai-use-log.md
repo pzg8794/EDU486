@@ -84,6 +84,25 @@ OpenAI Codex (GPT-5) was used on July 1, 2026 to synthesize course materials, or
   - review and authorize final submission of the t-shirt form
   - upload the grounding-framework visual to Blackboard
 
+## July 14, 2026 - Task 6 Puzzle Plan Reading Synthesis
+
+- Tool/source: OpenAI Codex under Piter Garcia's supervision, the five protected course PDFs, the official Next Generation Science Storylines page and video, publisher pages from NSTA and ASCD, and Piter's existing Puzzle Plan/EQUITAS framework documents
+- Purpose: organize the assigned readings into an accessible, source-linked synthesis that evaluates each reading through Piter's claims about access, identity, healing, agency, criticality, joy, and transformation
+- Output created or revised:
+  - [Task 6 Puzzle Plan reading hub](../assignments/05-july14-camp-prep/readings/README.md)
+  - [Session 5 reading synthesis](../assignments/05-july14-camp-prep/session5-reading-notes.md)
+  - [accessible DOCX](../public-submissions/session5-reading-notes.docx)
+  - [Puzzle Plan reading map](../public-artifacts/session5-puzzle-plan-reading-map.png)
+  - one detailed, page-anchored themed summary for each assigned reading
+- Human guidance and decisions:
+  - treat access barriers as design and evidence problems rather than deficits in learners
+  - preserve lived experience and community knowledge as legitimate evidence
+  - distinguish multimodal access from empty choice by asking whether youth contributions alter the shared explanation or plan
+  - judge technology by whether it expands agency, participation, and usable evidence rather than by novelty
+  - connect every reading to concrete Invisible Invaders planning decisions
+  - preserve the source discrepancy between the email's 2021 Wiggins and McTighe citation and the supplied 2005 expanded second-edition PDF
+- Disclosure used in the artifact: Piter provided, reviewed, supervised, and guided the content; AI supported inclusive structure, formatting, visual enhancement, causal-gap checking, and direct-source validation
+
 ## July 14, 2026 - Corrected Team Attribution And Invisible Invaders Redesign
 
 - Tool/source: OpenAI Codex, Google Drive connector, the raw July 9 automatic transcript, the official **2026 Camp Invisible Invaders: Piter & Aastha** folder, the existing group documents, NOAA, EPA, USGS, WHO, CAST UDL 3.0, Ambitious Science Teaching, and peer-reviewed research

@@ -13,8 +13,10 @@ This index is the public GitHub front door. Public repo files, public submission
 - [Source map](source-map.md)
 - [PhD and Puzzle Plan alignment](phd-puzzle-plan-alignment.md)
 - [AI use log](ai-use-log.md)
+- [Heather Table status and maintenance record](heather-table-status.md)
 - [Assignments index](../assignments/README.md)
 - [Announcement prep folder](../assignments/00-announcement-prep/README.md)
+- [July 14 camp-prep command center](../assignments/05-july14-camp-prep/README.md)
 - [Course calendar import](course-calendar.ics)
 
 ## Public Visual Artifacts
@@ -42,6 +44,7 @@ This index is the public GitHub front door. Public repo files, public submission
 - [AI history microplastics narrative DOCX](../public-submissions/ai-history-microplastics-narrative.docx)
 - [Planet Protectors camp unit plan DOCX](../public-submissions/planet-protectors-camp-unit-plan-draft.docx)
 - [Poster proposal DOCX](../public-submissions/poster-proposal-draft.docx)
+- [Session 5 reading notes DOCX](../public-submissions/session5-reading-notes.docx)
 - [Course calendar ICS](../public-submissions/EDU486-course-calendar.ics)
 
 ## Assignment Markdown
@@ -54,9 +57,14 @@ This index is the public GitHub front door. Public repo files, public submission
 - [AI technology evolution narrative](../assignments/02-ai-technology-evolution/ai-history-microplastics-narrative.md)
 - [Planet Protectors camp unit plan draft](../assignments/03-camp-unit-plan/planet-protectors-camp-unit-plan-draft.md)
 - [Poster fair proposal draft](../assignments/04-poster-fair/poster-proposal-draft.md)
+- [Session 5 reading notes](../assignments/05-july14-camp-prep/session5-reading-notes.md)
+- [Camp curriculum resource map](../assignments/05-july14-camp-prep/camp-curriculum-resource-map.md)
+- [Gapless explanation options for all three camp teams](../assignments/05-july14-camp-prep/gapless-explanation-options.md)
+- [Camp materials inventory and order check](../assignments/05-july14-camp-prep/materials-inventory-and-order-check.md)
 
 ## Protected Course Sources
 
+- [Personal EDU486 Heather Table](https://docs.google.com/document/d/1Cnw_v00DsZclHObcmnljwXzEw-kiReCE6oStXrMoGAg/edit) - Sessions 1-5 completed through July 14 readings; metadata confirms it is still private, so change to anyone-with-link commenter before submission
 - [Google Doc syllabus](https://docs.google.com/document/d/1FQ1gwTCD7cqL5Hj5xVIAI4p4WFQ8AXLuqOGCuwKwVFk/edit)
 - Announcement text: protected Blackboard announcement; extracted requirements are documented in the [announcement task tracker](../assignments/00-announcement-prep/announcement-task-tracker.md)
 - Module 1 readings: protected Blackboard/course PDFs; public web equivalents are linked below when available

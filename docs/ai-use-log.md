@@ -39,6 +39,33 @@ The syllabus says that when GenAI is used, it should be credited by source, outp
 
 OpenAI Codex (GPT-5) was used on July 1, 2026 to synthesize course materials, organize assignment requirements, and draft an initial version of this artifact. I reviewed, revised, and am responsible for the final content, examples, and submission decisions.
 
+## July 12, 2026 - Heather Table Sessions 1-4
+
+- Tool/source: OpenAI Codex, Google Drive/Docs connector, protected local Module 1 readings, course video transcripts, and verified public publisher sources
+- Purpose: create the correctly named personal Heather Table copy and add concise, source-grounded notes through the most recently completed class session
+- Output created:
+  - [live Heather Table](https://docs.google.com/document/d/1Cnw_v00DsZclHObcmnljwXzEw-kiReCE6oStXrMoGAg/edit)
+  - [Heather Table status and maintenance record](heather-table-status.md)
+- Human review needed:
+  - change sharing to **Anyone with the link - Commenter**
+  - add notes and a page-specific quotation from the paper *What Equity Means to Me* zine
+  - obtain and review the assigned Rios chapter
+  - update future sessions after each assigned source review
+
+## July 13, 2026 - July 14 Camp Preparation and Heather Table Session 5
+
+- Tool/source: OpenAI Codex, Google Drive/Docs/Sheets connectors, protected July 10 email attachments, and the official Next Generation Science Storylines website
+- Purpose: reconcile the local and remote repository, extract the urgent camp tasks, review the five assigned readings, complete the personal Heather Table, and organize a public-safe preparation packet
+- Output created or updated:
+  - [July 14 camp-prep command center](../assignments/05-july14-camp-prep/README.md)
+  - [Session 5 reading notes](../assignments/05-july14-camp-prep/session5-reading-notes.md)
+  - [camp curriculum resource map](../assignments/05-july14-camp-prep/camp-curriculum-resource-map.md)
+  - [live Heather Table](https://docs.google.com/document/d/1Cnw_v00DsZclHObcmnljwXzEw-kiReCE6oStXrMoGAg/edit), including the newly inserted Ippolito row
+- Human decisions still required:
+  - confirm Piter's camp team before editing a shared gapless explanation or team materials request
+  - review and authorize final submission of the t-shirt form
+  - upload the grounding-framework visual to Blackboard
+
 ## July 1, 2026 - Corrective Reframing After Human Review
 
 - Tool/source: OpenAI Codex, Google Drive connector, GitHub/local repository context

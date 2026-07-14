@@ -24,6 +24,14 @@ Work blocks:
 - Decide whether the camp group lens will stay on microplastics/water justice or shift after team planning, while keeping the learner focus on neurodivergent, chronically ill, disabled, CLD, multilingual, and multiply marginalized students.
 - Capture feedback from class and update the repo work log.
 
+### July 13-14 Priority Order
+
+1. Submit the overdue [t-shirt design form](https://docs.google.com/forms/d/e/1FAIpQLSfhFq0XBOP8OhJuP2TT-0EIncmK8h2dQp1vjPEAgjVWurRdUQ/viewform); the size roster is already complete.
+2. Upload the [grounding framework visual](../public-artifacts/grounding-frameworks-visual.png) to Blackboard before class.
+3. Finish the correct team's shared gapless explanation after confirming whether Piter is in Plankton to People, Invisible Invaders, or Fiber Fighters.
+4. Use the completed [Session 5 reading notes](../assignments/05-july14-camp-prep/session5-reading-notes.md) and [live Heather Table](https://docs.google.com/document/d/1Cnw_v00DsZclHObcmnljwXzEw-kiReCE6oStXrMoGAg/edit) for class preparation.
+5. Review the [camp curriculum map](../assignments/05-july14-camp-prep/camp-curriculum-resource-map.md), then add only confirmed team needs to the materials sheet.
+
 ## Week 3: July 15-July 21 - Camp Design Sprint
 
 Primary outcome: produce a shareable camp overview and daily lesson plans.

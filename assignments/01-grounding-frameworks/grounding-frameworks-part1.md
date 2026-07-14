@@ -90,4 +90,4 @@ My working commitment is to design technology-supported STEM where youth are not
 
 ## AI Use Disclosure
 
-OpenAI Codex (GPT-5) was used on July 1, 2026 to synthesize course materials, organize assignment requirements, and draft an initial version of this artifact. I reviewed, revised, and am responsible for the final content, examples, and submission decisions.
+OpenAI Codex (GPT-5) was used on July 1 and July 13, 2026 to synthesize course materials, organize assignment requirements, draft the initial artifact, and prepare a clean submission export. I reviewed the visualization and reflection and am responsible for the final content, examples, and submission decisions.

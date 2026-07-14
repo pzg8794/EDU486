@@ -8,6 +8,9 @@ Due dates:
 Current draft:
 
 - [grounding-frameworks-part1.md](grounding-frameworks-part1.md)
+- [submission-ready source without revision code](grounding-frameworks-part1-submission.md)
+- [Blackboard-ready DOCX](../../public-submissions/grounding-frameworks-part1.docx)
+- [Blackboard-ready PNG](../../public-artifacts/grounding-frameworks-visual.png)
 
 Requirement/source links:
 

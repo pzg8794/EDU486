@@ -65,6 +65,29 @@ For July 9/10:
 - Suggested topic examples include microplastics, water quality, invasive species, and digital sensing
 - Working draft: [microplastics technology evolution narrative](../assignments/02-ai-technology-evolution/ai-history-microplastics-narrative.md)
 
+## July 10 Camp Email and Session 5 Sources
+
+The July 10 email, five attached readings, two class photographs, and the raw email attachment were downloaded into the local `Save this email for camp links/` folder. That folder is intentionally ignored by Git because it contains copyrighted course readings, student/class photographs, and an email export.
+
+Public-safe links and original shared workspaces:
+
+- [Camp t-shirt design and pin form](https://docs.google.com/forms/d/e/1FAIpQLSfhFq0XBOP8OhJuP2TT-0EIncmK8h2dQp1vjPEAgjVWurRdUQ/viewform)
+- [Camp t-shirt size roster](https://docs.google.com/spreadsheets/d/1p0zSJzPNdGzKTBoTDYXLzTXItBEHb_CX5bHh1m1cvKg/edit?gid=112167864#gid=112167864)
+- [Plankton to People folder](https://drive.google.com/drive/folders/1XXQtoQnXPKyp5GaVBXMwg6m8u1g9f_7K)
+- [Invisible Invaders folder](https://drive.google.com/drive/folders/1ZX08NvxOa5yx3gAOdBEccWFGcw07xZJ6)
+- [Fiber Fighters folder](https://drive.google.com/drive/folders/1OXEY3WNl1dCBLwuNrXo37U3XtxY8n5qw)
+- [Camp materials order sheet](https://docs.google.com/spreadsheets/d/1rAuGt8iT-CAx4Oy1cqz_SsVQqqPzi5mE9v7pRCODSAo/edit?gid=1535708448#gid=1535708448)
+- [Personal EDU486 Heather Table](https://docs.google.com/document/d/1Cnw_v00DsZclHObcmnljwXzEw-kiReCE6oStXrMoGAg/edit)
+- [Next Generation Science Storylines: What Are Storylines?](https://www.nextgenstorylines.org/what-are-storylines)
+
+Protected local reading files reviewed for the July 14 Heather Table:
+
+- Reiser et al. (2021), *Storyline Units*
+- Smetana et al. (2019), *Let's Be Litter Free*
+- Wisbrock et al. (2020), *Talking Trash*
+- Wiggins and McTighe, Understanding by Design, Chapter 1
+- Ippolito et al. (2018), *Teaching Teachers: Learning Science and Literacy Together*
+
 ## Public Web Sources Used For Microplastics Draft
 
 These public sources support the microplastics technology evolution draft:

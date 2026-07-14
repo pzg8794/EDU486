@@ -10,7 +10,12 @@ Dates are from the local [syllabus](source-map.md#local-course-files-kept-out-of
 | July 1, 2026 | [Module 1 reading/prep](source-map.md#module-1-local-sources) | PICRAT reading/video, classroom design, Ambitious Science Teaching excerpt, Science in Action video, equity zine, and access questions for neurodivergent/chronically ill/CLD learners |
 | July 7, 2026 | Freedom School neighborhood asset map | Bring questions about local knowledge, youth interests, community assets, bodymind access, language access, and environmental evidence |
 | July 9/10, 2026 | [AI technology evolution mini-narrative](../assignments/02-ai-technology-evolution/ai-history-microplastics-narrative.md) | Use an AI tool to explore how a camp-theme technology evolved; prepare a 5-minute informal narrative and reflect on AI's usefulness, limits, and access assumptions |
+| July 12, 2026, bedtime | [Camp t-shirt idea form](https://docs.google.com/forms/d/e/1FAIpQLSfhFq0XBOP8OhJuP2TT-0EIncmK8h2dQp1vjPEAgjVWurRdUQ/viewform) | Overdue: complete and submit the design/pin preference form |
+| July 12, 2026, bedtime | [Camp t-shirt size roster](https://docs.google.com/spreadsheets/d/1p0zSJzPNdGzKTBoTDYXLzTXItBEHb_CX5bHh1m1cvKg/edit?gid=112167864#gid=112167864) | Complete: Piter Garcia is listed as Adult Medium, Camp Teacher |
 | July 14, 2026 | [Visualizing our Grounding Frameworks, Part 1](../assignments/01-grounding-frameworks/grounding-frameworks-part1.md) | Submit a visualization of JuST Framework plus technology's supports, constraints, access tensions, and tradeoffs |
+| July 14, 2026 | [Team gapless science explanation](../assignments/05-july14-camp-prep/README.md#team-gapless-explanation) | Collaborate in the correct camp-team Google Doc; team name must be confirmed before editing |
+| July 14, 2026 | [Session 5 readings and Heather Table](../assignments/05-july14-camp-prep/session5-reading-notes.md) | Complete: five reading rows filled in the live table, including the requested Ippolito row |
+| As soon as needs are known | [Camp materials order sheet](https://docs.google.com/spreadsheets/d/1rAuGt8iT-CAx4Oy1cqz_SsVQqqPzi5mE9v7pRCODSAo/edit?gid=1535708448#gid=1535708448) | Team budget is $100; compare requests against the photographed supplies before ordering |
 
 ## Planning and Camp
 

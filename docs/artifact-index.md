@@ -17,6 +17,7 @@ This index is the public GitHub front door. Public repo files, public submission
 - [Assignments index](../assignments/README.md)
 - [Announcement prep folder](../assignments/00-announcement-prep/README.md)
 - [July 14 camp-prep command center](../assignments/05-july14-camp-prep/README.md)
+- [Invisible Invaders gotta-have checklist and evidence map](../assignments/05-july14-camp-prep/invisible-invaders-gotta-have-checklist-evidence-map.md)
 - [Course calendar import](course-calendar.ics)
 
 ## Public Visual Artifacts

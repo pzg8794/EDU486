@@ -173,6 +173,22 @@ OpenAI Codex (GPT-5) was used on July 1, 2026 to synthesize course materials, or
   - validate the live order-sheet headers and dropdown values, use its legacy `Getting Small` team label without hiding the Invisible Invaders team name, and leave a price/tax buffer
   - check direct retailer and laboratory-supplier links and record July 14 prices in a sortable budget file
 
+## July 15, 2026 - Invisible Invaders Gotta-Have Checklist Evidence Map
+
+- Tool/source: OpenAI Codex under Piter Garcia's supervision; protected Module 1 and Module 2 checklists and planning materials; the July 14 environmental-inquiry and camp-planning transcripts; and the existing Invisible Invaders explanation, activity plan, SASSY tools, and Puzzle Plan documents
+- Purpose: show precisely how the team used the course's gotta-have checklist, make the previously implicit checklist visible to campers, and distinguish indispensable causal science from activities, extensions, justice analysis, and participation design
+- Output created or revised:
+  - [five-item checklist and evidence map](../assignments/05-july14-camp-prep/invisible-invaders-gotta-have-checklist-evidence-map.md)
+  - [four-day activity plan](../assignments/05-july14-camp-prep/invisible-invaders-activities.md)
+  - camp-prep command center, camp-folder index, artifact index, source map, and transcript index
+- Human guidance and decisions:
+  - use Piter and Aastha's indoor/outdoor phenomenon and current causal explanation
+  - keep the checklist to five causal ideas rather than turning every activity or interesting extension into another requirement
+  - keep justice, neurodivergence, chronic illness, disability, language, sensory access, and multiple identities visible as drivers of participation and action
+  - preserve July 14 class evidence through timestamps and public-safe paraphrases without publishing classmates' informal transcript content
+  - make the tool usable during camp through visible numbering, model-revision symbols, multiple communication routes, and no color-only meaning
+- Disclosure used in the artifact: Piter provided, reviewed, supervised, and guided the content; AI supported organization, accessible formatting, cross-document synthesis, and traceable evidence mapping
+
 ## July 1, 2026 - Corrective Reframing After Human Review
 
 - Tool/source: OpenAI Codex, Google Drive connector, GitHub/local repository context

@@ -8,6 +8,18 @@
 
 This plan preserves Aastha's original decomposition, scale, sampling, air-movement, tire-wear, and poster ideas. It strengthens the causal sequence, aligns the work with the camp sampling protocol, and makes access and safety part of the scientific design.
 
+## Gotta-Have Checklist
+
+Use the [five-item student-facing checklist and evidence map](invisible-invaders-gotta-have-checklist-evidence-map.md) beside every initial, revised, and consensus model:
+
+1. Plastic persists as it becomes smaller.
+2. Friction and weathering release particles from indoor and outdoor materials.
+3. Air, water, and human activity transport small particles.
+4. Particles settle and accumulate, and a closed room is not a sealed room.
+5. Our methods reveal suspected particles, not automatic proof of plastic.
+
+After each activity, campers identify what they observed, explain why it may have happened, connect the evidence to a numbered checklist clue, and revise the model. Justice and participation remain explicit parallel checks because they drive how the investigation is experienced and used, while the five-item list stays focused on the indispensable causal science.
+
 ## Visual Access Map
 
 [![Multiple ways to observe safely, record evidence, make meaning, and contribute to the same Invisible Invaders investigation](../../public-artifacts/invisible-invaders-access-pathways.png)](../../public-artifacts/invisible-invaders-access-pathways.svg)
@@ -47,6 +59,8 @@ The activity pairs a physical temperature experience with the [PhET Greenhouse E
 
 **Evidence produced:** Initial source-and-pathway model, individual notices and wonders, and a class list of claims that need evidence.
 
+**Checklist move:** Establish idea **1** and record initial hypotheses for ideas **2-4** without correcting the model for campers.
+
 **Access:** Preview the agenda; provide image, object, text, and audio entry points; allow quiet observation and nonverbal contribution; define every scale unit beside a visual reference.
 
 ### Day 2: Collect Paired Samples And A Blank
@@ -56,6 +70,8 @@ The activity pairs a physical temperature experience with the [PhET Greenhouse E
 **Activities:** Photograph or map possible sources, label three collection surfaces or containers, expose the indoor and outdoor samples for the same planned time, open the field blank only during the collection window, and cover all three together. Follow the team's [sampling protocol](https://docs.google.com/document/d/1HP06TOL2cnycQSgDcRfV57cEUYHuwoHTmVGRABv9tys/edit).
 
 **Evidence produced:** Sample IDs, location and time records, source photographs or maps, field notes, and one contamination-control blank.
+
+**Checklist move:** Gather evidence for ideas **2-4** and begin idea **5** by treating the blank and collection procedure as evidence.
 
 **Access:** Offer photographer, mapper, labeler, timer, clean-tools monitor, recorder, and seated coordinator roles. No role requires public speaking, prolonged standing, handwriting, or exclusive control of a device.
 
@@ -67,6 +83,8 @@ The activity pairs a physical temperature experience with the [PhET Greenhouse E
 
 **Evidence produced:** Shared tally, image or drawing record, comparison statement, uncertainty note, and revised model.
 
+**Checklist move:** Use idea **5** to limit claims, then add, change, question, or remove parts of ideas **2-4** in the model.
+
 **Access:** Pair direct microscope viewing with a camera feed; allow paper tally, typing, dictation, pointing, or partner recording; schedule breaks; keep a clean-air and low-sensory route available.
 
 ### Day 4: Explain, Examine Justice, And Advocate
@@ -76,6 +94,8 @@ The activity pairs a physical temperature experience with the [PhET Greenhouse E
 **Activities:** Complete the [Invisible Invaders SASSY table](https://docs.google.com/document/d/1yVJ2Ek76Zrgq6mpxN0lT6nqt5FcuZxqEuatsjLsGg8I/edit), compare the first and revised models, map traffic and building factors, and create an image-led poster, short video, audio message, or plastic-art statement. Use [EPA school indoor-air guidance](https://www.epa.gov/iaq-schools/why-indoor-air-quality-important-schools) and the [U.S. school-roadway study](https://pmc.ncbi.nlm.nih.gov/articles/PMC4179205/) without claiming that either source measured our classroom's microplastics.
 
 **Evidence produced:** Gapless explanation, before-and-after model comparison, evidence-limit statement, and public action message.
+
+**Checklist move:** Confirm that the final explanation connects all five ideas, then apply the separate justice-and-participation checks to the proposed action.
 
 **Access:** Let campers choose medium, language, audience, visibility, and role. Offer private or pre-recorded contribution, processing time, image-first communication, and shared authorship.
 

@@ -13,6 +13,7 @@ New editable planning documents placed in the shared folder:
 
 - [Task 7 curriculum adaptation and Monday-Friday plan](task7-curriculum-adaptation-and-week-plan.md)
 - [Task 7 camp-ready tools](task7-camp-tools.md)
+- [Gotta-have checklist and evidence map](invisible-invaders-gotta-have-checklist-evidence-map.md)
 - [Invisible Invaders activity plan](invisible-invaders-activities.md)
 - [Plastic, carbon, and rising-temperature model](invisible-invaders-plastic-carbon-temperature-model.md)
 - [Invisible Invaders gapless explanation](invisible-invaders-gapless-explanation.md)
@@ -30,6 +31,7 @@ New editable planning documents placed in the shared folder:
 ## 02 - Activities, Access, And Media
 
 - [Activities](invisible-invaders-activities.md): four-day investigation foundation, equivalent participation routes, safety, and evidence goals
+- [Gotta-have checklist](invisible-invaders-gotta-have-checklist-evidence-map.md): five causal ideas, day-by-day evidence map, Module 1 and Module 2 foundations, transcript decisions, and justice/access checks
 - [Plastic, carbon, and rising-temperature model](invisible-invaders-plastic-carbon-temperature-model.md): physical temperature experience, accurate CO2 simulation, plastic-life-cycle connection, evidence limits, and justice prompts
 - [Monday-Friday Task 7 plan](task7-curriculum-adaptation-and-week-plan.md): Field Friday plus full camp-week sequence
 - [Camp tools](task7-camp-tools.md): initial model, Future We Want, justice map, evidence-to-action planner, model revision, showcase, and facilitator debrief

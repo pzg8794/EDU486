@@ -125,6 +125,18 @@ Thirty local photographs in the EDE448 source folder were inspected as evidence 
 
 The transcript pairs Piter and Misong during specific Clean Swell, sampling, and materials work, but those moments were incorrectly treated as proof of the camp-team assignment. The authoritative shared-folder title is **2026 Camp Invisible Invaders: Piter & Aastha**. The raw transcript remains preserved so the correction is traceable rather than silently rewriting the evidence.
 
+## Module 1, Module 2, And July 14 Checklist Evidence
+
+- [Invisible Invaders gotta-have checklist and evidence map](../assignments/05-july14-camp-prep/invisible-invaders-gotta-have-checklist-evidence-map.md)
+- Protected local source: `Module1/Need to do- Checklists by session.pdf`
+- Protected local source: `Module2/Need to do - Checklist by session.pdf`
+- Protected local source: `Module2/Planning Module Content.pdf`
+- Protected local source: `Module2/2026 EDU 486 Day 5 July 14.pptx`
+- Protected local source: `transcripts/07-14 Lecture_ Environmental Pollution Inquiry and Justice-Centered Pedagogy-transcript.txt`
+- Protected local source: `transcripts/07-14 Lecture_ Science Camp Planning — Invisible Invaders, Critical Consciousness, and Modeling Framework-transcript.txt`
+
+The evidence map shows how Module 1's learning-scientist, idea-elicitation, technology, classroom-design, culture, and access commitments became Module 2's anchoring phenomenon, five-item gotta-have checklist, gapless explanation, scientific model, SASSY storyline, backward design, and critical-consciousness work. The raw July 14 transcripts remain local because they include classmates' informal speech and unverified automatic speaker labels; the public artifact uses timestamped paraphrases instead.
+
 ## Public Web Sources Used For Microplastics Draft
 
 These public sources support the microplastics technology evolution draft:

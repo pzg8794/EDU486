@@ -28,6 +28,15 @@ The raw transcript remains unchanged. This correction distinguishes a temporary 
 - [July 14 camp-prep command center](../assignments/05-july14-camp-prep/README.md)
 - [Live Invisible Invaders shared Google Doc](https://docs.google.com/document/d/1IFu_y_sYbNeNs1K4J_lD6KS4I30f8wxggX4SS38acRI/edit)
 
+## July 14, 2026 Protected Planning Transcripts
+
+Two additional automatic transcripts are stored locally for course-planning evidence but are not published in the public repository because they include classmates' informal conversation and unverified speaker labels:
+
+- `07-14 Lecture_ Environmental Pollution Inquiry and Justice-Centered Pedagogy-transcript.txt`
+- `07-14 Lecture_ Science Camp Planning — Invisible Invaders, Critical Consciousness, and Modeling Framework-transcript.txt`
+
+Their public-safe planning record is the [Invisible Invaders gotta-have checklist and evidence map](../assignments/05-july14-camp-prep/invisible-invaders-gotta-have-checklist-evidence-map.md). It records timestamps and paraphrased design decisions for the checklist, gapless explanation, model, SASSY table, anchoring-phenomenon routine, critical consciousness, and accessibility without republishing the class conversation.
+
 ## Reliability
 
 Speaker numbers are not verified identities. The source contains repetitions, garbled names, and recognition errors. Quotations or claims should retain timestamps and be checked against the recording when exact wording matters.

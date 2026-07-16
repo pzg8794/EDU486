@@ -16,15 +16,17 @@ This is the phenomenon Piter and Aastha confirmed on July 15. It replaces the ea
 
 ## The 60-Second Explanation
 
-1. **MATERIAL AND RELEASE [SCIENCE]:** Plastics are present in clothing, packaging, paint, furniture, food and drink containers, school materials, and many other products. Friction, washing, sunlight, heat, oxygen, and weathering can weaken these materials and release small fragments or fibers. Becoming smaller is not the same as disappearing. A plastic particle smaller than 5 millimeters is commonly called a microplastic. [NOAA: plastic fragmentation and persistence](https://marinedebris.noaa.gov/what-marine-debris/plastic)
+**Color key:** 🟩 **Science** | 🟦 **Evidence** | 🟧 **Justice/action** | 🟪 **Access**
 
-2. **MOVEMENT THROUGH CONNECTED SYSTEMS [SCIENCE]:** Released particles can enter air, dust, soil, wastewater, rivers, food, and drinking water. Wind, ventilation, human activity, rain, runoff, and water systems can move particles away from where they were released. Earth systems and human infrastructure are connected, so one particle may cross several environments before it is detected. No single pathway explains every particle.
+1. 🟩 **MATERIAL AND RELEASE [SCIENCE]:** Plastics are present in clothing, packaging, paint, furniture, food and drink containers, school materials, and many other products. Friction, washing, sunlight, heat, oxygen, and weathering can weaken these materials and release small fragments or fibers. Becoming smaller is not the same as disappearing. A plastic particle smaller than 5 millimeters is commonly called a microplastic. [NOAA: plastic fragmentation and persistence](https://marinedebris.noaa.gov/what-marine-debris/plastic)
 
-3. **POSSIBLE ROUTES INTO PEOPLE [SCIENCE]:** People can encounter particles in air, food, and water. Particles in air may be inhaled, while particles in food or water may be ingested. These are possible exposure routes, but current studies cannot reconstruct the exact journey of every particle detected in a body. [WHO: microplastics in drinking water](https://www.who.int/publications/i/item/9789241516198) and [FDA: microplastics in foods](https://www.fda.gov/food/environmental-contaminants-food/microplastics-and-nanoplastics-foods)
+2. 🟩 **MOVEMENT THROUGH CONNECTED SYSTEMS [SCIENCE]:** Released particles can enter air, dust, soil, wastewater, rivers, food, and drinking water. Wind, ventilation, human activity, rain, runoff, and water systems can move particles away from where they were released. Earth systems and human infrastructure are connected, so one particle may cross several environments before it is detected. No single pathway explains every particle.
 
-4. **DETECTION IN HUMAN SAMPLES [EVIDENCE]:** Researchers using chemical identification methods detected plastic particles in blood from a small study of 22 volunteers and in lung tissue from 13 surgical samples. These findings support the claim that plastic particles can reach sampled internal human fluids or tissues. They do not show that every person has the same particles, establish one universal source, or prove a specific health effect. [Blood study](https://pubmed.ncbi.nlm.nih.gov/35367073/) and [lung-tissue study](https://pubmed.ncbi.nlm.nih.gov/35364151/)
+3. 🟩 **POSSIBLE ROUTES INTO PEOPLE [SCIENCE]:** People can encounter particles in air, food, and water. Particles in air may be inhaled, while particles in food or water may be ingested. These are possible exposure routes, but current studies cannot reconstruct the exact journey of every particle detected in a body. [WHO: microplastics in drinking water](https://www.who.int/publications/i/item/9789241516198) and [FDA: microplastics in foods](https://www.fda.gov/food/environmental-contaminants-food/microplastics-and-nanoplastics-foods)
 
-5. **SYSTEM CHANGE [JUSTICE/ACTION]:** Product design, manufacturing, purchasing, buildings, food and water systems, waste systems, research priorities, monitoring, and public policy shape where plastics are released and who receives protection. Individual families and young people do not control this whole system. Campers can use evidence to identify a system point, a decision-maker, a fair request, and an accessible way to advocate without blaming people who have fewer choices. [NOAA: prevention and removal](https://marinedebris.noaa.gov/what-marine-debris/plastic)
+4. 🟦 **DETECTION IN HUMAN SAMPLES [EVIDENCE]:** Researchers using chemical identification methods detected plastic particles in blood from a small study of 22 volunteers and in lung tissue from 13 surgical samples. These findings support the claim that plastic particles can reach sampled internal human fluids or tissues. They do not show that every person has the same particles, establish one universal source, or prove a specific health effect. [Blood study](https://pubmed.ncbi.nlm.nih.gov/35367073/) and [lung-tissue study](https://pubmed.ncbi.nlm.nih.gov/35364151/)
+
+5. 🟧 **SYSTEM CHANGE [JUSTICE/ACTION]:** Product design, manufacturing, purchasing, buildings, food and water systems, waste systems, research priorities, monitoring, and public policy shape where plastics are released and who receives protection. Individual families and young people do not control this whole system. Campers can use evidence to identify a system point, a decision-maker, a fair request, and an accessible way to advocate without blaming people who have fewer choices. [NOAA: prevention and removal](https://marinedebris.noaa.gov/our-work)
 
 ## See The Whole Path
 
@@ -38,10 +40,10 @@ Plastic-containing materials can release fragments and fibers as they wear, wash
 
 ## Our Four Gotta-Haves
 
-1. **Water transports materials.** Rain, runoff, wastewater, rivers, and water systems can move plastic fragments and fibers away from where they were released. Water is one possible pathway, not the only pathway.
-2. **Living organisms respond to environmental conditions.** People and other organisms encounter materials in air, food, water, and their surroundings. Detection can show an interaction or possible exposure, but it does not automatically prove harm.
-3. **Earth systems are interconnected.** Air, water, soil, buildings, food systems, organisms, and human activity exchange materials. A particle may cross several systems before researchers detect it.
-4. **Human infrastructure influences natural systems.** Product design, purchasing, ventilation, drains, wastewater, waste collection, monitoring, and public policy can increase, redirect, capture, or prevent particle movement.
+1. 🟧 **Water transports materials.** Rain, runoff, wastewater, rivers, and water systems can move plastic fragments and fibers away from where they were released. Water is one possible pathway, not the only pathway.
+2. 🟦 **Living organisms respond to environmental conditions.** People and other organisms encounter materials in air, food, water, and their surroundings. Detection can show an interaction or possible exposure, but it does not automatically prove harm.
+3. 🟩 **Earth systems are interconnected.** Air, water, soil, buildings, food systems, organisms, and human activity exchange materials. A particle may cross several systems before researchers detect it.
+4. 🟪 **Human infrastructure influences natural systems.** Product design, purchasing, ventilation, drains, wastewater, waste collection, monitoring, and public policy can increase, redirect, capture, or prevent particle movement.
 
 ## What We Will Not Claim
 
@@ -65,15 +67,16 @@ Neurodivergent, chronically ill, disabled, multilingual, culturally diverse, and
 
 ## Camp Investigation Moves
 
-1. **NOTICE [EVIDENCE]:** Encounter the human-sample evidence and sort what it shows, does not show, and makes us wonder.
-2. **MODEL [SCIENCE/ACCESS]:** Build a first pathway from an everyday plastic-containing material through release, movement, and possible inhalation or ingestion.
-3. **INVESTIGATE [EVIDENCE]:** Examine direct-source cards, scale models, environmental samples, or images and compare possible routes without claiming certainty that the evidence does not provide.
-4. **REVISE [SCIENCE]:** Use the four-item gotta-have checklist to repair missing causal links and mark uncertainty.
-5. **ADVOCATE [JUSTICE/ACTION]:** Choose a system point and real decision-maker, then create an evidence-matched request through art, image-led writing, audio, video, a model, or another accessible route.
+1. 🟦 **NOTICE [EVIDENCE]:** Encounter the human-sample evidence and sort what it shows, does not show, and makes us wonder.
+2. 🟩🟪 **MODEL [SCIENCE/ACCESS]:** Build a first pathway from an everyday plastic-containing material through release, movement, and possible inhalation or ingestion.
+3. 🟦 **INVESTIGATE [EVIDENCE]:** Examine direct-source cards, scale models, environmental samples, or images and compare possible routes without claiming certainty that the evidence does not provide.
+4. 🟩 **REVISE [SCIENCE]:** Use the four-item gotta-have checklist to repair missing causal links and mark uncertainty.
+5. 🟧 **ADVOCATE [JUSTICE/ACTION]:** Choose a system point and real decision-maker, then create an evidence-matched request through art, image-led writing, audio, video, a model, or another accessible route.
 
 ## Trusted Evidence Library
 
 - [NOAA: plastic fragmentation and persistence](https://marinedebris.noaa.gov/what-marine-debris/plastic)
+- [NOAA: prevention and removal](https://marinedebris.noaa.gov/our-work)
 - [WHO: microplastics in drinking water](https://www.who.int/publications/i/item/9789241516198)
 - [FDA: microplastics in foods and current health-evidence limits](https://www.fda.gov/food/environmental-contaminants-food/microplastics-and-nanoplastics-foods)
 - [Leslie et al. (2022): plastic particles in human blood](https://pubmed.ncbi.nlm.nih.gov/35367073/)

@@ -4,13 +4,13 @@
 
 **Immediate purpose:** Give us a clean, reviewable starting point for the opening experience, revised phenomenon, gapless explanation, four agreed checklist ideas, and youth advocacy choices.
 
-**Editable team document:** [02 - Invisible Invaders July 15 Meeting Commitment Pack](https://docs.google.com/document/d/1QsQegxXvaDkFnD_BhWYT9qtfez46bugYwCFkmSHN_OA/edit)
+**Editable team document:** [02 - Invisible Invaders July 15 Meeting Commitment Pack](https://docs.google.com/document/d/1B4MPNMAHEJ_lscjyP9YBBlYeXZxCBvT781sSZoe1N5w/edit)
 
-> **What I heard us agree on:** We will use the human-body idea to widen the investigation beyond tires, while keeping tire wear as one concrete source example. We will not decide the advocacy answer for campers. We will give them enough evidence, structure, and accessible choices to propose an action they can defend.
+> **What we agreed on:** We replaced the tire-based phenomenon with **“Humans aren’t trash cans, but we have plastics in our bodies.”** This is now the focus of our lesson. The earlier tire discussion belongs to the old brainstorm; it is not our anchoring phenomenon or a required activity. We will give campers enough evidence, structure, and accessible choices to explain how plastics can reach human bodies and propose an action they can defend.
 
-[![A five-step pathway from everyday plastic through release, movement, and exposure evidence to several youth-selected action routes](../../public-artifacts/invisible-invaders-evidence-to-agency-map.png)](invisible-invaders-evidence-to-agency-map.svg)
+![A five-step pathway from everyday plastic through release, movement, and exposure evidence to several youth-selected action routes](../../public-artifacts/invisible-invaders-evidence-to-agency-map.png)
 
-*Click the image for the full-size visual. Color is paired with numbered steps, labels, arrows, and shapes so it is never the only source of meaning.*
+[Open the full-size editable visual](invisible-invaders-evidence-to-agency-map.svg). *Color is paired with numbered steps, labels, arrows, and shapes so it is never the only source of meaning.*
 
 ## 1. What I Committed To Prepare
 
@@ -19,7 +19,7 @@
 | Clean up the old plan and create a less busy template | This document begins with the decisions, then moves through moment, checklist, explanation, and advocacy | Confirm what is ready to paste into the team's official plan |
 | Brainstorm feasible opening moments | Four choices are below, with one recommended launch written in detail | Choose one moment and assign facilitator roles |
 | Use the four checklist ideas selected together | Each idea now has a precise Invisible Invaders meaning and lesson evidence | Confirm the wording with April if the course examples must remain verbatim |
-| Revise the gapless explanation for the new phenomenon | A complete five-part causal explanation and 60-second version are below | Review the science and decide how much human-body evidence belongs in the youth-facing version |
+| Revise the gapless explanation for the new phenomenon | A complete five-part causal explanation and 60-second version are below | Review how the evidence will be introduced without creating fear or overstating health effects |
 | Make advocacy inclusive rather than limiting campers to water cleanup | Five evidence-based action pathways are provided | Campers choose, adapt, combine, or challenge the options |
 | Keep the work empowering and accessible | Multiple ways to observe, model, communicate, regulate, and act are built into the routine | Confirm camper needs, site constraints, and available staff |
 
@@ -27,13 +27,13 @@
 
 ### Headline
 
-> **Humans are not trash cans, yet scientists have detected plastic particles in some human samples.**
+> **Humans aren’t trash cans, but we have plastics in our bodies.**
 
 ### Anchoring phenomenon
 
-> **Researchers using chemical identification methods detected plastic particles in human blood and lung-tissue samples, even though people did not intentionally put plastic there.**
+> **Humans aren’t trash cans, but we have plastics in our bodies.**
 
-This is more precise than saying that everyone has plastic in their body. The [blood study](https://pubmed.ncbi.nlm.nih.gov/35367073/) examined 22 volunteers, and the [lung study](https://pubmed.ncbi.nlm.nih.gov/35364151/) examined 13 tissue samples. These studies establish a puzzling **detection**, not how common every exposure is and not a proven health outcome.
+This is the phenomenon Piter and Aastha selected during the meeting. The science explanation underneath it must stay precise: the [blood study](https://pubmed.ncbi.nlm.nih.gov/35367073/) examined 22 volunteers, and the [lung study](https://pubmed.ncbi.nlm.nih.gov/35364151/) examined 13 tissue samples. These studies show plastic-particle detection in sampled human blood and lung tissue; they do not establish that every person has the same particles, identify every pathway into the body, or prove a particular health outcome.
 
 ### Driving question
 
@@ -52,7 +52,7 @@ This keeps the mystery structure from the team's **Friday - Anchoring Phenomenon
 #### Before campers arrive
 
 - Post a five-part visual agenda: **Notice -> Connect -> Model -> Question -> Choose**.
-- Prepare one image-and-object evidence set per group: tire-wear photograph, synthetic clothing label, plastic packaging, classroom material, storm-drain photograph, waterway photograph, and a human silhouette.
+- Prepare one image-and-object evidence set per group: synthetic clothing label, food or drink packaging, classroom plastic, paint or household-material photograph, indoor-dust photograph, water or food-pathway photograph, and a human silhouette.
 - Prepare two short research cards: **plastic detected in a small blood study** and **plastic detected in a small lung-tissue study**. Put the evidence-limit card beside them.
 - Provide movable arrows and pathway words: **friction, weathering, air, water, food, shoes/clothing, runoff, infrastructure, inhale, ingest, uncertain**.
 - Offer paper, magnetic, digital, spoken, audio, partner-supported, and home-language modeling routes.
@@ -67,7 +67,7 @@ Place the blood and lung evidence cards on the human silhouette. Say: **"These s
 
 #### Step 3 - Build a first pathway model: 12 minutes
 
-Campers choose one everyday material and make a **before -> during -> after** model showing how a larger product might release particles, how particles might move, and how exposure could occur. Tires are one strong friction example, not the only answer. The model may include more than one route and may end with **unknown**.
+Campers choose one everyday plastic-containing material and make a **before -> during -> after** model showing how a larger material might release particles, how particles might move through connected systems, and how inhalation or ingestion could lead to exposure. The model may include more than one route and may end with **unknown** where the evidence does not establish a connection.
 
 #### Step 4 - Build the question board: 8 minutes
 
@@ -81,10 +81,10 @@ Show the five advocacy pathways without asking campers to choose yet. Ask: **"Wh
 
 | Moment | Shared experience | Strength | Boundary |
 | --- | --- | --- | --- |
-| **Where did the tire go?** | Compare photographs and measurements of newer and worn tire tread; use a sealed prepared sample or video of abrasion | Concrete friction and release mechanism | Do not have campers sand a tire or inhale generated dust |
-| **Closed room, connected world** | Compare covered classroom, outdoor, and blank samples or images | Direct connection to the existing investigation and contamination controls | Call visually observed material **suspected particles** unless chemically confirmed |
-| **One object, many routes** | Give groups clothing, packaging, tire, paint, or school-supply cards and let them build competing pathway models | Broad enough to invite youth examples and multiple identities | Do not imply all routes or products create equal exposure |
-| **Evidence pathway mystery** | Connect everyday materials to movement routes and carefully limited human-sample evidence | Best match for the new phenomenon and advocacy choice | Use calm language, content preview, evidence limits, and a non-body-focused route |
+| **What did researchers find?** | Reveal a human silhouette with blood- and lung-study evidence cards, then separate what the studies show from what remains unknown | Begins directly with the selected human-body phenomenon | Preview body content and provide an equivalent environment-only evidence route |
+| **Invisible but detectable** | Use an image-led size ladder from visible plastic to micro- and nanoscale particles, followed by the human-sample evidence | Makes scale and invisibility concrete without claiming campers can see body particles themselves | Distinguish a scale model from actual laboratory detection |
+| **One material, many routes** | Give groups clothing, packaging, paint, food-container, or school-material cards and let them build competing routes toward air, food, water, and possible exposure | Invites several experiences and identities instead of prescribing one source | Do not imply all materials or routes create equal exposure |
+| **Evidence pathway mystery** | Connect everyday materials to movement routes and carefully limited human-sample evidence | Best match for the selected phenomenon and youth advocacy choice | Use calm language, content preview, evidence limits, and a non-body-focused route |
 
 ## 4. The Four Checklist Ideas We Selected
 
@@ -93,7 +93,7 @@ These are the four course ideas selected in the team document after the meeting.
 | Course checklist idea | Invisible Invaders meaning | Evidence or activity that develops it |
 | --- | --- | --- |
 | **Earth systems are interconnected.** | Plastic moves among products, buildings, roads, air, water, soil, organisms, and waste systems. A pathway may cross several systems before anyone detects a particle. | Life-cycle/pathway card model; indoor/outdoor comparison; before/during/after model |
-| **Water transports materials.** | Rain and runoff can carry road dust, tire-wear material, litter fragments, fibers, sediment, and other particles toward drains and waterways. Water is an important route, but it is not the only route. | Site map; storm-drain tracing; matched water or sediment observations; [Monroe County watershed explanation](https://www.monroecounty.gov/des-stormwater-education) |
+| **Water transports materials.** | Rain, runoff, wastewater, rivers, and distribution systems can move plastic fragments and fibers away from their sources. Water is one possible environmental and exposure pathway, but it is not the only route into human bodies. | Water-pathway model; watershed tracing; food-and-water evidence cards; [WHO drinking-water evidence review](https://www.who.int/publications/i/item/9789241516198) |
 | **Living organisms respond to environmental conditions.** | Organisms interact with materials in their surroundings through processes such as ingestion and inhalation. Detecting a particle documents interaction or possible exposure; it does not automatically establish harm. | Human-sample evidence cards; wildlife-source cards; evidence-limit sort |
 | **Human infrastructure influences natural systems.** | Product design, purchasing, roads, traffic, buildings, ventilation, drains, wastewater, waste collection, and green infrastructure can increase, redirect, capture, or prevent particle movement. | School and neighborhood system map; stormwater model; decision-maker and power map |
 
@@ -111,15 +111,15 @@ After every activity, campers answer five short prompts:
 
 ### 1. Everyday materials can release persistent particles
 
-Plastics are used in tires, clothing, packaging, paint, furniture, school materials, and many other products. Friction, sunlight, heat, oxygen, and weathering can weaken these materials and separate small fragments or fibers. Becoming smaller is not the same as disappearing; particles under 5 millimeters are commonly called microplastics. [NOAA: plastic fragmentation and persistence](https://marinedebris.noaa.gov/what-marine-debris/plastic)
+Plastics are used in clothing, packaging, paint, furniture, food and drink containers, school materials, and many other products. Friction, washing, sunlight, heat, oxygen, and weathering can weaken these materials and separate small fragments or fibers. Becoming smaller is not the same as disappearing; particles under 5 millimeters are commonly called microplastics. [NOAA: plastic fragmentation and persistence](https://marinedebris.noaa.gov/what-marine-debris/plastic)
 
 ### 2. Connected Earth systems move particles away from their sources
 
 Once released, particles may enter dust, air, soil, runoff, wastewater, rivers, lakes, or food webs. Wind, ventilation, human movement, rain, and flowing water can transport particles, while gravity and contact can deposit them elsewhere. This is why the product, the place where a particle is released, and the place where it is eventually detected may be different.
 
-### 3. Water is one important transport pathway
+### 3. People can encounter particles through more than one pathway
 
-Rain can wash road and parking-lot particles into storm drains, streams, and lakes. Rochester and Monroe County explain that runoff crosses developed surfaces, collects pollutants, and moves through connected stormwater or combined-sewer infrastructure. Tire-wear research and stormwater studies show that capture devices, retention ponds, wetlands, and permeable pavement can reduce some particle transport, although no method removes every particle. [City of Rochester stormwater program](https://www.cityofrochester.gov/departments/department-environmental-services-des/stormwater-management), [tire particles in stormwater](https://pubmed.ncbi.nlm.nih.gov/37578171/), and [permeable-pavement study](https://pubmed.ncbi.nlm.nih.gov/37939940/)
+Particles present in air may be inhaled, while particles present in food or water may be ingested. These routes connect the four checklist ideas: Earth systems move materials, water transports some of them, living organisms encounter their environments, and human infrastructure changes where particles travel. The evidence does not support choosing one universal pathway for every particle found in a body, so campers should model several possible routes and mark uncertainty. [WHO: microplastics in drinking water](https://www.who.int/publications/i/item/9789241516198) and [FDA: microplastics in foods](https://www.fda.gov/food/environmental-contaminants-food/microplastics-and-nanoplastics-foods)
 
 ### 4. Living organisms can encounter particles through environmental pathways
 
@@ -127,7 +127,7 @@ People and other organisms may encounter small particles through air, food, wate
 
 ### 5. Infrastructure and collective decisions can change the pathway
 
-The amount and movement of microplastic pollution are shaped by choices made in product design, manufacturing, purchasing, transportation, buildings, waste systems, stormwater systems, and public policy. Cleanup can help with larger debris, but very small particles are difficult to remove after release, so prevention and capture both matter. No single camper or family controls the whole system; meaningful action can target decision-makers who control products, school purchasing, roads, drains, monitoring, or policy. [EPA tire-wear research](https://www.epa.gov/sciencematters/where-rubber-meets-road-epa-researchers-study-environmental-and-health-impacts-tires) and [NOAA prevention and removal overview](https://marinedebris.noaa.gov/what-marine-debris/plastic)
+The amount and movement of microplastic pollution are shaped by choices made in product design, manufacturing, food and water systems, purchasing, buildings, waste systems, environmental monitoring, and public policy. Cleanup can help with larger debris, but very small particles are difficult to remove after release, so prevention and system redesign both matter. No single camper or family controls the whole system; meaningful action can target decision-makers who control products, school materials, food and water systems, research, monitoring, or policy. [NOAA prevention and removal overview](https://marinedebris.noaa.gov/what-marine-debris/plastic)
 
 ### 60-second version
 
@@ -140,10 +140,10 @@ Campers do not receive a predetermined solution. We teach how to match **evidenc
 | Possible pathway | Question campers can investigate | Possible real audience | Feasible advocacy product |
 | --- | --- | --- | --- |
 | **Products and purchasing** | Which school or camp purchases create avoidable plastic release or waste, and what accessible alternative would work? | School administrator, purchasing office, cafeteria, camp director | Illustrated purchasing recommendation, comparison chart, or short meeting request |
-| **Transportation and tire wear** | Where might traffic or braking create particle pathways near youth spaces, and what changes reduce release or exposure without blaming families? | Transportation office, city planner, school leadership | Safer-route map, traffic-management request, transit-support message, or tire-research question |
-| **Stormwater and green infrastructure** | Where does runoff travel, what does it carry, and where could capture or infiltration occur? | [City of Rochester stormwater program](https://www.cityofrochester.gov/departments/department-environmental-services-des/stormwater-management) or Monroe County Stormwater Coalition | Drain map, rain-garden/permeable-surface proposal, monitoring request, or public comment |
-| **School indoor environment** | What materials and movement patterns may contribute particles indoors, and what can facilities or purchasing change? | Principal, facilities team, custodial team, purchasing office | Source audit, cleaning/ventilation questions, material-change proposal, or monitoring plan |
-| **Monitoring, communication, and policy** | What evidence is missing, whose neighborhoods are monitored, and who gets to decide what happens next? | Community organization, local scientist, elected official, public audience | Data story, interview, public exhibit, letter, audio message, or youth-designed research proposal |
+| **Indoor air and school materials** | Which materials or practices may contribute particles indoors, and what evidence would be needed before recommending change? | Principal, facilities team, custodial team, purchasing office | Material audit, cleaning or ventilation questions, purchasing recommendation, or monitoring plan |
+| **Food and water systems** | Where could plastic enter food or water pathways, and which institutions have the power to prevent or monitor it? | Cafeteria, water authority, public-health office, food supplier | Evidence request, container comparison, monitoring question, or prevention proposal |
+| **Community research and monitoring** | What evidence is missing, whose environments and bodies are studied, and whose questions guide the research? | Community organization, local scientist, university lab, public-health department | Youth-designed research question, interview, monitoring request, or community data story |
+| **Policy and environmental justice** | Who experiences more exposure or less protection, and what system-level change would be fair? | School board, elected official, agency, public audience | Public comment, illustrated policy request, audio message, exhibit, or advocacy art |
 
 ### Justice check before youth finalize an action
 
@@ -181,11 +181,11 @@ Every route still asks campers to build a causal pathway, use evidence, identify
 - [x] Five advocacy pathways with real audiences
 - [x] Human-health and particle-identification evidence limits
 - [x] Neurodivergent, chronic-illness, disability, language, sensory, energy, and multiple-identity access routes
+- [x] Human-body phenomenon confirmed as the replacement for the earlier tire-based phenomenon
 
 ### Piter and Aastha decide together
 
 - [ ] Which opening moment will we use?
-- [ ] Will the human-body evidence be the anchor, a supporting discrepancy, or an extension of the indoor/outdoor anchor?
 - [ ] Which materials and images will be prepared for each group?
 - [ ] Who facilitates each step and who monitors time, access, and evidence language?
 - [ ] Which advocacy audiences are realistically reachable during camp?
@@ -195,7 +195,10 @@ Every route still asks campers to build a causal pathway, use evidence, identify
 
 This packet responds directly to the July 15 planning conversation:
 
-- **00:36:51-00:39:15:** I agreed to create a cleaner template tied to the revised phenomenon, checklist, class notes, and inclusion goals.
+- **00:05:51-00:06:12:** We changed the wording from the tire-based idea to **“Humans aren’t trash cans, but we have plastics in our bodies.”**
+- **00:18:19-00:18:34:** We recognized that the new phenomenon opens the investigation to indoor pollution and many possible plastic sources.
+- **00:29:27-00:30:26:** Aastha confirmed that the phenomenon was settled; I acknowledged that we could leave the tire idea and use the human-body phenomenon.
+- **00:36:51-00:39:15:** I agreed to move the old phenomenon aside and create a cleaner template focused on **“Humans aren’t trash cans, but we have plastics in our bodies,”** the checklist, class notes, and inclusion goals.
 - **00:41:53-00:47:18:** We selected four course checklist ideas for the lesson.
 - **00:47:38-00:48:08:** We named the opening moment and gapless explanation as the two immediate deliverables.
 - **00:49:48-00:53:31:** I committed to preserve more than one advocacy possibility so youth are not steered toward one answer, while keeping the options feasible for a short middle-school camp.

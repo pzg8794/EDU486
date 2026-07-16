@@ -36,7 +36,7 @@ Backward design begins with the understanding and transfer learners should achie
 
 **Stage 2 - acceptable evidence:** A youth can demonstrate understanding through a revised model plus an oral, written, visual, audio, or partner-supported explanation. Evidence must include source, transport, sample comparison, uncertainty, and a system-level action; presentation polish is scored separately, if at all.
 
-**Stage 3 - learning plan:** Start with the phenomenon, elicit questions and initial models, practice contamination-aware observation, compare parking-lot/classroom/blank evidence, consult direct sources, revise models, examine unequal burdens and decision-making power, and create advocacy for a real audience.
+**Stage 3 - learning plan:** Start with the human-body phenomenon, elicit questions and initial pathway models, examine environmental evidence as support rather than the anchor, consult direct human-sample and evidence-limit sources, revise models, examine unequal burdens and decision-making power, and create advocacy for a real audience.
 
 ## Tension To Carry Into Tuesday
 

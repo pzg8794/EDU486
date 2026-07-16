@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
   <title id="title">Same rigorous investigation, multiple ways in</title>
-  <desc id="desc">A neuroinclusive participation map shows four flexible routes into the same indoor and outdoor microplastics investigation: observe safely, record evidence, make meaning, and contribute sustainably. Campers use evidence to explain sources, movement, deposition, uncertainty, and system change.</desc>
+  <desc id="desc">A neuroinclusive participation map shows four flexible routes into the same investigation of plastics in human bodies: observe safely, record evidence, make meaning, and contribute sustainably. Campers use evidence to explain release, movement, possible exposure, detection limits, and system change.</desc>
   <defs>
     <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
       <path d="M0,0 L12,6 L0,12 Z" fill="#475569"/>
@@ -18,9 +18,10 @@
     <rect x="555" y="286" width="490" height="270" rx="8" fill="#ffffff" stroke="#0f172a" stroke-width="5"/>
     <text x="800" y="340" text-anchor="middle" font-family="Arial, sans-serif" font-size="21" font-weight="700" fill="#475569">SHARED SCIENCE GOAL</text>
     <text x="800" y="395" text-anchor="middle" font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="#0f172a">Build and revise a model</text>
-    <text x="800" y="443" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" fill="#334155">Use indoor, outdoor, and blank evidence</text>
-    <text x="800" y="480" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" fill="#334155">to explain sources, movement, settling,</text>
-    <text x="800" y="517" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" fill="#334155">uncertainty, and what should change.</text>
+    <text x="800" y="438" text-anchor="middle" font-family="Arial, sans-serif" font-size="21" fill="#334155">Use material and pathway evidence</text>
+    <text x="800" y="470" text-anchor="middle" font-family="Arial, sans-serif" font-size="21" fill="#334155">with limited human-sample findings</text>
+    <text x="800" y="502" text-anchor="middle" font-family="Arial, sans-serif" font-size="21" fill="#334155">to explain release, movement, exposure,</text>
+    <text x="800" y="534" text-anchor="middle" font-family="Arial, sans-serif" font-size="21" fill="#334155">uncertainty, and what should change.</text>
   </g>
 
   <g filter="url(#shadow)">
@@ -29,7 +30,7 @@
     <text x="102" y="288" font-family="Arial, sans-serif" font-size="30" font-weight="700" fill="#0f172a">Choose how to look</text>
     <text x="102" y="334" font-family="Arial, sans-serif" font-size="23" fill="#334155">Microscope or camera feed</text>
     <text x="102" y="367" font-family="Arial, sans-serif" font-size="23" fill="#334155">Handle samples or observe</text>
-    <text x="102" y="398" font-family="Arial, sans-serif" font-size="20" fill="#1e3a8a">Covered samples; no open tire sanding</text>
+    <text x="102" y="398" font-family="Arial, sans-serif" font-size="17" fill="#1e3a8a">Sealed materials; body-content choice</text>
   </g>
 
   <g filter="url(#shadow)">

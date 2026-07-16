@@ -1,131 +1,99 @@
-# Invisible Invaders: How We Used The Gotta-Have Checklist
+# Invisible Invaders: How We Use The Four Gotta-Have Ideas
 
 **Team:** Piter Garcia and Aastha
 
-**Anchoring phenomenon:** Suspected microplastics can appear in samples from an outdoor parking lot and inside a closed classroom, even when we cannot see them with our unaided eyes.
+**Current anchoring phenomenon:** **Humans aren’t trash cans, but we have plastics in our bodies.**
 
-**Driving question:** How can invisible plastic particles reach both places, how certain can we be about what we find, and what should our community do with that evidence?
+**Driving question:** How can plastics from everyday materials become small enough to move through connected systems and reach human bodies, and what changes could reduce those pathways fairly?
 
-> **Bottom line:** We used the checklist to decide which science ideas every activity must help campers discover, test, and add to their model. The gapless explanation supplied the causal science, the checklist reduced it to five indispensable ideas, and the SASSY table turns each activity into evidence for one or more of those ideas. Our earlier plan followed this structure, but the checklist was not visible enough; this version makes it an explicit student tool.
+The human-body phenomenon replaces the earlier tire-based and parking-lot/classroom candidates. The four ideas below are the ideas Piter and Aastha selected together from the course checklist during the July 15 meeting.
 
-## The Five Gotta-Have Ideas
+## The Four Selected Ideas
 
-The checklist contains **causal ideas**, not activity names, broad topics, or every interesting fact about plastics.
-
-- [ ] **1. Plastic persists as it becomes smaller.** Plastic can weather and fracture into pieces smaller than 5 millimeters without disappearing. This explains why plastic may remain present after it becomes difficult or impossible to see with unaided eyes.
-- [ ] **2. Friction and weathering release particles from indoor and outdoor materials.** Tire and road wear, litter, paint, textiles, furnishings, and classroom materials can all release particles. These sources help explain why both the parking lot and classroom can contain suspected microplastics.
-- [ ] **3. Air, water, and human activity transport small particles.** Moving air, walking, cleaning, ventilation, rain, runoff, shoes, clothing, and equipment can carry particles away from their original sources. A particle does not have to stay where it was released.
-- [ ] **4. Particles settle and accumulate, and a closed room is not a sealed room.** Gravity and contact deposit suspended particles onto floors, desks, dust, and collection surfaces. Doors, ventilation, people, clothing, and past activity continue to connect an apparently closed classroom with other spaces.
-- [ ] **5. Our methods reveal suspected particles, not automatic proof of plastic.** Filters and microscopes let us describe and compare fibers or fragments, while blanks and clean procedures help us notice contamination. Visual appearance alone does not confirm polymer type, so our claims must match the limits of our evidence.
+- [ ] **1. Earth systems are interconnected.** Plastic particles can move among air, water, soil, food systems, buildings, organisms, and waste systems. A particle may cross several systems before it is detected.
+- [ ] **2. Water transports materials.** Rain, runoff, wastewater, rivers, drinking-water systems, and food production can move plastic particles. Water is one pathway, not the only pathway into human bodies.
+- [ ] **3. Living organisms respond to environmental conditions.** People and other organisms interact with surrounding air, food, water, and materials through processes such as inhalation and ingestion. Detection documents presence or possible exposure; it does not automatically establish harm.
+- [ ] **4. Human infrastructure influences natural systems.** Product design, manufacturing, buildings, food and water systems, waste systems, monitoring, and policy can increase, redirect, capture, prevent, or reveal particle movement.
 
 ```mermaid
 flowchart LR
-    A["1. Plastic persists"] --> B["2. Materials release particles"]
-    B --> C["3. Air, water, and people transport them"]
-    C --> D["4. Particles settle in both places"]
-    D --> E["5. We test the evidence and its limits"]
-    E -. "new evidence revises the model" .-> B
+    A["1. Connected Earth systems"] --> B["2. Water moves some materials"]
+    B --> C["3. Living organisms encounter environments"]
+    C --> D["4. Infrastructure changes pathways"]
+    D -. "system changes alter the pathway" .-> A
 ```
 
-## How The Lesson Uses It
+## How The Lesson Uses The Checklist
 
-| Lesson moment | What campers do | Checklist evidence added to the model | Why it belongs |
+| Lesson moment | What campers do | Checklist evidence | Model revision |
 | --- | --- | --- | --- |
-| **Day 1: Notice, wonder, first model** | Encounter the indoor/outdoor discrepancy, compare banana and plastic, use the scale ladder, make a before/during/after model, and build a question wall | **1** plus initial ideas for **2-4** | Campers begin with their own explanations before we give them answers. The first model shows what they already think and what the class needs to investigate. |
-| **Day 2: Sources, pathways, paired sampling** | Map possible sources; collect matched parking-lot, classroom, and blank samples; label and cover them consistently | **2-4** and the beginning of **5** | Source mapping makes release and movement visible. Matched samples and a blank make the collection process part of the evidence rather than treating every observed particle as environmental proof. |
-| **Day 3: Observe, compare, revise** | Filter or view samples; classify suspected fibers and fragments; compare indoor, outdoor, and blank results; revise the model | **5**, then revisions to **2-4** | The observations may support, complicate, or weaken an earlier pathway. Campers revise rather than decorate a finished answer. |
-| **Day 4: Explain, interrogate justice, advocate** | Check the final model for all five ideas; write or record the gapless explanation; compare model history; map power, burden, benefit, and possible action | **1-5**, followed by a separate justice-and-action check | The model must explain the phenomenon and respect evidence limits. Youth then use the explanation to evaluate systems and communicate a defensible action to a real audience. |
+| **Launch: human-sample evidence** | Examine blood- and lung-study evidence cards; sort what the evidence shows, does not show, and makes us wonder | Initial questions for **1-4** | Place known, possible, and unknown markers on the first model |
+| **Build possible pathways** | Connect everyday plastic-containing materials to air, food, water, buildings, and possible inhalation or ingestion | **1-3** | Add more than one route and avoid claiming one universal source |
+| **Investigate systems and evidence** | Use environmental observations, scale models, direct sources, and evidence-limit cards | **1-4** | Revise routes that the evidence supports, complicates, or cannot answer |
+| **Explain and act** | Check the final model for all four ideas; identify a system point, decision-maker, fair request, and evidence limit | **1-4** plus justice/action | Produce an evidence-matched explanation and advocacy product |
 
-## The Checklist-SASSY-Model Connection
+## The Checklist-SASSY-Model Routine
 
-For every activity, we ask the same five questions:
+After every experience, campers answer the same five questions:
 
-1. **Activity:** What will we do or examine?
-2. **Observation:** What did we notice?
-3. **Why:** What mechanism could explain it?
-4. **Clue:** Which numbered checklist idea does this evidence help us understand?
-5. **Model move:** What should we add, remove, question, or change in our model?
+1. **What did we do or examine?**
+2. **What did we observe or learn from the source?**
+3. **Why might it happen?**
+4. **Which checklist idea does the evidence support, complicate, or leave unanswered?**
+5. **What should we add, change, question, or remove from our model?**
 
-The checklist is therefore not a quiz at the end. It is a navigation tool kept beside the model throughout the week. A camper can point to, draw, speak, type, dictate, or use home language to explain a checklist connection; every route still requires evidence and causal reasoning.
+Campers may point, draw, speak, type, dictate, record audio, work with a partner, or use home language. Every route still requires evidence, causal reasoning, uncertainty, and model revision.
 
-## Activity Is Not The Same As A Gotta-Have Idea
+## What Is Not A Separate Gotta-Have Idea
 
-| Useful activity or extension | What it supports | Why it is not another checklist item |
+| Activity or extension | What it supports | Why it stays outside the four-item checklist |
 | --- | --- | --- |
-| Banana-and-plastic comparison | Idea **1**, persistence and visible change | It is one experience used to investigate persistence, not a required part of every causal explanation. |
-| Tire image, sealed sample, or source map | Idea **2**, release from materials | Tire wear is an important example, but the broader transferable idea is that friction and weathering release particles. |
-| Recoverable paper pieces and controlled air movement | Ideas **3-4**, transport and settling | The paper model represents a mechanism; it is not direct evidence of actual microplastic behavior. |
-| Microscope or camera station | Idea **5**, observation and uncertainty | A microscope is a tool. The scientific idea is that observations and controls support limited claims. |
-| Greenhouse-gas and temperature extension | Plastic life-cycle systems connection | It is a valuable secondary phenomenon, but it is not necessary to explain why suspected particles appear in our two samples. |
-| Food webs, density, identity activities, videos, and advocacy art | Transfer, engagement, justice, or communication | These may deepen the camp, but adding all of them to the checklist would hide the five causal ideas campers must model. |
+| Plastic persistence comparison | Supports how larger materials can become smaller without disappearing | It is one experience, not the broader Earth-systems idea |
+| Size ladder | Supports scale from visible plastic to micro- and nanoscale particles | Scale helps explain invisibility but does not explain the whole phenomenon |
+| Human blood and lung evidence cards | Supports organism interaction and evidence limits | A study is evidence for the idea, not the idea itself |
+| Environmental sampling and microscopy | Supports movement, monitoring, and uncertainty | A tool or method is not a causal mechanism |
+| Greenhouse-gas extension | Supports plastic life-cycle and infrastructure connections | It is a secondary system connection, not required to explain plastics in bodies |
+| Advocacy art or public communication | Supports agency, justice, and communication | The action follows the science and is not another scientific mechanism |
 
-## Module 1: Where The Approach Began
+## Module 1 And Module 2 Foundations
 
-| Module 1 foundation | How it appears in Invisible Invaders |
+| Course foundation | How it appears here |
 | --- | --- |
-| **Teacher as learning scientist** | We compare initial and revised models, notice which supports expand participation, and study how our design choices affect reasoning, motivation, and belonging. |
-| **Ambitious Science Teaching: eliciting student ideas** | Notice/wonder, the first model, wait time, and the question wall come before authoritative explanations. Incorrect or incomplete first models are useful evidence of thinking. |
-| **PICRAT and purposeful technology** | A microscope camera, shared image, audio response, or digital record is used when it expands observation or contribution. Technology is not a checklist item and is not allowed to become the gatekeeper to the science. |
-| **Classroom design and accessibility** | A visible agenda, scaffolded model, defined roles, quiet and low-energy routes, repeated labels, and predictable transitions make the causal sequence easier to hold and revisit. |
-| **JuST, culture, and community knowledge** | Youth questions, Rochester places, lived experience, language, identity, and community knowledge shape the investigation and the action it supports. |
+| **Teacher as learning scientist** | Compare initial and revised models and study which supports expand reasoning, belonging, and authority. |
+| **Eliciting student ideas** | Notice, wonder, first model, private thinking time, and question-building come before authoritative explanations. |
+| **Purposeful technology** | Images, microscope cameras, audio, digital diagrams, or shared records are used when they expand observation or contribution; no device owns the science. |
+| **Accessibility and bodymind safety** | A visible agenda, body-content preview, environment-only route, quiet and low-energy roles, repeated labels, and predictable transitions protect access without lowering rigor. |
+| **Storyline coherence** | Each activity produces evidence for one or more checklist ideas and creates a reason to revise the model or ask the next question. |
+| **Backward design** | The four ideas define the desired understanding; the final model and explanation are the evidence; daily experiences are selected to build that understanding. |
+| **Critical consciousness** | Campers ask who benefits, who experiences burdens, whose bodies and environments are studied, who controls research and policy, and what collective change is possible. |
 
-## Module 2: How We Turned It Into A Storyline
+## July 15 Meeting Evidence
 
-| Module 2 planning tool | How we used it |
+| Approximate timestamp | Decision used |
 | --- | --- |
-| **Anchoring phenomenon** | The surprising indoor/outdoor finding creates questions without giving away the answer. It is bigger than the opening activity and remains visible all week. |
-| **Gotta-have checklist** | We condensed the gapless explanation into five necessary, transferable causal ideas. Each activity must produce a clue that helps campers understand or revise one of them. |
-| **Gapless explanation** | It is the complete teacher-facing explanation connecting source, release, transport, deposition, detection, and uncertainty without a causal jump. |
-| **Scientific modeling** | Campers diagram and describe invisible mechanisms using a scaffolded before/during/after model, make revisions as evidence arrives, and preserve the history of their thinking. |
-| **SASSY table and storyline coherence** | Activities are ordered by student questions and linked through observation, mechanism, checklist clue, and the next question. This keeps the camp from becoming disconnected stations. |
-| **Backward design** | The five ideas define the desired understanding; the final model and gapless explanation are the evidence; the daily experiences are selected to build that evidence. |
-| **Critical consciousness** | After the science is defensible, campers ask who benefits, who bears exposure or cleanup labor, whose evidence counts, who decides, and what collective or structural change is possible. Justice also enters the launch through local patterns and lived experience. |
-
-## What The July 14 Class Evidence Shows
-
-| Approximate timestamp | Planning decision we used |
-| --- | --- |
-| **00:02:36-00:04:33, camp-planning transcript** | Our six possible ideas were narrowed because the checklist should contain only three to five indispensable causal ideas, not every interesting detail. |
-| **00:05:05-00:07:38, camp-planning transcript** | The checklist must match the gapless explanation, guide the lessons, and appear directly beside the model so campers can check ideas as they add them. Individual, partner, and consensus models are all valid routes. |
-| **00:09:40-00:10:46, camp-planning transcript** | Our lesson arc became notice/wonder/first model; collect paired samples and a blank; observe/classify/compare/revise; then explain, examine justice, and apply. |
-| **00:16:22-00:20:22, camp-planning transcript** | Models are dynamic, causal, public, and revisable. The SASSY sequence links an activity to an observation, an explanation, a checklist clue, and the next question. |
-| **00:22:23-00:26:09, camp-planning transcript** | Piter asked to make justice visible from the beginning. The response was to begin with patterns youth can question, then trace the plastic life cycle, benefits, harms, power, and community action. |
-| **00:11:56-00:17:16, environmental-inquiry transcript** | Labels, zoom-in bubbles, diagram-and-describe, incomplete first models, wait time, and question Post-its were demonstrated as ways to make invisible mechanisms and unfinished thinking discussable. |
-| **00:35:24-00:37:53, environmental-inquiry transcript** | The driving-question board begins with questions rather than teacher answers and organizes youth questions into the planned investigation without pretending the unit has no structure. |
-| **01:11:59-01:15:53, environmental-inquiry transcript** | The anchoring-phenomenon routine should connect to lived experience, represent collective voices, and generate investigation and action; the launch activity is not the phenomenon itself. |
-
-The automatic transcripts contain speaker and recognition errors. These entries preserve the planning meaning and timestamps without treating the transcript as a perfect quotation record.
+| **00:05:51-00:06:12** | The team changed the phenomenon to **“Humans aren’t trash cans, but we have plastics in our bodies.”** |
+| **00:18:19-00:18:34** | The new phenomenon was recognized as opening several possible sources and pathways instead of restricting the lesson to one material. |
+| **00:29:27-00:30:26** | Aastha confirmed the phenomenon was settled; Piter acknowledged that the tire idea could be left behind. |
+| **00:36:51-00:39:15** | Piter committed to move the old phenomenon aside and create a clean template around the new phenomenon and checklist. |
+| **00:41:53-00:47:18** | Piter and Aastha selected water transport, living organisms, connected Earth systems, and human infrastructure as the four course ideas. |
 
 ## Justice And Participation Checks
 
-Justice and access drive the whole lesson, but they are kept visible **beside** the causal checklist rather than disguised as additional science mechanisms.
-
-- [ ] **Experience:** Whose local knowledge, language, identity, and questions are represented?
-- [ ] **Participation:** Can campers observe, record, model, explain, and regulate through more than one rigorous route?
-- [ ] **Burden and power:** Who benefits from plastic systems, who encounters pollution or cleanup labor, and who controls decisions?
-- [ ] **Evidence:** Are we separating suspected particles from confirmed plastic and exposure from proven health effects?
-- [ ] **Agency:** Does the action fit the evidence, reach a real audience, and move beyond blaming individual youth or families?
-
-No camper should have to exchange respiratory safety, pain, fatigue, mobility, sensory regulation, processing time, language, or privacy for the right to participate as a scientist.
-
-## Ready-To-Use Facilitator Routine
-
-1. Post the five-item checklist next to the large class model and provide personal copies in text-first and image-first formats.
-2. After each activity, ask: **What did we observe? Why might it happen? Which checklist clue does it support or complicate?**
-3. Add a numbered symbol to the model: **+ add**, **~ change**, **? question**, or **- remove**. Do not rely on color alone.
-4. Let campers revise individually, with a partner, or through the consensus model, and preserve earlier versions so growth remains visible.
-5. Before the showcase, check that the final model represents all five ideas and that every major claim is connected to evidence or clearly marked uncertainty.
+- [ ] **Experience:** Whose language, identity, community knowledge, and questions shape the model?
+- [ ] **Bodymind safety:** Is body-related content previewed, and is there an equivalent environment-only evidence route?
+- [ ] **Participation:** Can campers observe, model, explain, regulate, and advocate through more than one rigorous route?
+- [ ] **Evidence:** Are detection, route, prevalence, and health effect kept separate?
+- [ ] **Power:** Who controls products, research, food and water systems, monitoring, and policy?
+- [ ] **Agency:** Does the request fit the evidence, reach a real decision-maker, and avoid blaming youth or families?
 
 ## Connected Work
 
-- [Shared Invisible Invaders Google Doc](https://docs.google.com/document/d/1IFu_y_sYbNeNs1K4J_lD6KS4I30f8wxggX4SS38acRI/edit)
-- [Gapless science explanation](invisible-invaders-gapless-explanation.md)
-- [Four-day activity plan](invisible-invaders-activities.md)
-- [Camp-ready SASSY and modeling tools](task7-camp-tools.md)
-- [Source map for protected Module 1 and Module 2 materials](../../docs/source-map.md#module-1-module-2-and-july-14-checklist-evidence)
-
-The source map names the protected local PDFs, slides, and transcripts. They are intentionally not linked as public files because the course materials and class conversations are not part of the public repository.
+- [Shared Invisible Invaders Google Doc](https://docs.google.com/document/d/1IFu_y_sYbNeNs1K4J_lD6KS4I30f8wxggX4SS38acRI/edit?tab=t.0)
+- [Current gapless explanation](invisible-invaders-gapless-explanation.md)
+- [Current lesson activities](invisible-invaders-activities.md)
+- [July 15 meeting commitment pack](july15-meeting-commitment-pack.md)
+- [Evidence-to-agency visual](../../public-artifacts/invisible-invaders-evidence-to-agency-map.png)
 
 ## AI Use Disclosure
 
-I used OpenAI Codex on July 15, 2026 under my supervision and guidance to organize the course documents and transcripts, make the checklist visible, connect the lesson decisions to Module 1 and Module 2, and improve the accessibility of this evidence map. I, Piter Garcia, provided, reviewed, and guided the content and remain responsible for the final lesson decisions, scientific claims, representation of Aastha's contributions, and materials I approve or submit.
+I used OpenAI Codex on July 16, 2026 under my supervision and guidance to organize the four ideas selected during our meeting, connect them to the current human-body phenomenon, and make the checklist usable through multiple access routes. I, Piter Garcia, provided, reviewed, and guided the content and correction. I remain responsible for the final lesson decisions, scientific claims, representation of Aastha's contributions, and materials I approve or submit.

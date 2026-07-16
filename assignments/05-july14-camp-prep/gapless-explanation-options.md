@@ -20,9 +20,9 @@ This becomes a justice issue because communities do not have equal control over 
 
 ## Invisible Invaders
 
-**Phenomenon:** Microplastics can be found outdoors and indoors even when people cannot see them with unaided eyes.
+**Phenomenon:** **Humans aren’t trash cans, but we have plastics in our bodies.**
 
-Plastics become microscopic through several routes. Tires and road markings abrade during traffic. Synthetic textiles shed fibers during wearing, washing, and drying. Packaging, paint, flooring, furniture, toys, and other products weather or rub against surfaces. Some materials are manufactured at microscopic sizes. These sources continually release particles into air, dust, soil, and water.
+Plastics become microscopic through several routes. Synthetic textiles shed fibers during wearing, washing, and drying. Packaging, paint, flooring, furniture, food and drink containers, toys, and other products weather, wash, or rub against surfaces. Some materials are manufactured at microscopic sizes. These sources can release particles into air, dust, soil, food, and water systems.
 
 Small size makes the particles difficult to notice, not absent. Air movement can suspend and transport light fibers and fragments. Gravity and contact deposit particles in dust and on surfaces. Outdoors, rain and runoff move road and surface particles into soil, drains, streams, and lakes. Indoors, ventilation, cleaning practices, room use, materials, and movement affect where particles collect.
 
@@ -30,9 +30,9 @@ People and other organisms can encounter particles by breathing air, swallowing 
 
 Exposure and protection are unequal. Housing location, proximity to traffic or industry, workplace conditions, building maintenance, ventilation, waste systems, and access to reliable information shape what people encounter and what choices are realistically available. Blaming families for products and environments they do not control hides these systems.
 
-Solutions can act at several levels: reduce unnecessary plastic and shedding at the source; redesign products and tires; strengthen workplace, building, stormwater, and producer rules; improve measurement; and let communities help choose where monitoring occurs and how findings are communicated.
+Solutions can act at several levels: reduce unnecessary plastic and shedding at the source; redesign products; strengthen workplace, building, food, water, waste, and producer rules; improve measurement; and let communities help choose whose environments and bodies are studied and how findings are communicated.
 
-**Evidence campers can use:** paired indoor/outdoor dust or deposition samples; controlled blank samples; microscope images; source-shape comparisons; room or neighborhood maps; counts with uncertainty; and models showing source, transport, deposition, exposure, and intervention.
+**Evidence campers can use:** blood- and lung-study evidence cards; FDA and WHO evidence limits; environmental observations; microscope images; source-pathway comparisons; counts with uncertainty; and models showing release, movement, possible exposure, detection, uncertainty, and intervention.
 
 ## Fiber Fighters
 

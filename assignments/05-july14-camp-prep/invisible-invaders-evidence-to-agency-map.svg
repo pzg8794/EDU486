@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1400" height="820" viewBox="0 0 1400 820" role="img" aria-labelledby="title desc">
   <title id="title">Invisible Invaders: from evidence to agency</title>
-  <desc id="desc">A five-step diagram showing everyday plastic materials releasing small particles, particles moving through connected systems, limited evidence of human exposure, and five youth-selected action pathways.</desc>
+  <desc id="desc">A five-step diagram showing plastic-containing materials releasing small particles, possible movement through air, food, and water, limited evidence of plastics in human samples, and five youth-selected action pathways.</desc>
   <defs>
     <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
       <path d="M0,0 L12,6 L0,12 z" fill="#243447"/>
@@ -11,15 +11,16 @@
   </defs>
 
   <rect width="1400" height="820" fill="#f7f8f5"/>
-  <text x="70" y="70" font-family="Arial, sans-serif" font-size="38" font-weight="700" fill="#18232f">Invisible Invaders: From Evidence To Agency</text>
-  <text x="70" y="108" font-family="Arial, sans-serif" font-size="20" fill="#425466">A pathway to investigate, revise, and choose action without pretending the evidence says more than it does</text>
+  <text x="70" y="58" font-family="Arial, sans-serif" font-size="38" font-weight="700" fill="#18232f">Invisible Invaders: From Evidence To Agency</text>
+  <text x="70" y="101" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#7a263c">Humans aren't trash cans, but we have plastics in our bodies.</text>
+  <text x="70" y="136" font-family="Arial, sans-serif" font-size="19" fill="#425466">Investigate pathways, mark uncertainty, and choose action without claiming more than the evidence supports</text>
 
   <g filter="url(#shadow)">
     <rect x="70" y="165" width="235" height="220" rx="8" fill="#d8eee6" stroke="#287a63" stroke-width="3"/>
     <circle cx="108" cy="205" r="22" fill="#287a63"/>
     <text x="108" y="213" text-anchor="middle" font-family="Arial, sans-serif" font-size="23" font-weight="700" fill="#ffffff">1</text>
     <text x="145" y="214" font-family="Arial, sans-serif" font-size="25" font-weight="700" fill="#18232f">MATERIALS</text>
-    <text x="95" y="260" font-family="Arial, sans-serif" font-size="19" fill="#18232f">Tires and roads</text>
+    <text x="95" y="260" font-family="Arial, sans-serif" font-size="19" fill="#18232f">Food containers</text>
     <text x="95" y="296" font-family="Arial, sans-serif" font-size="19" fill="#18232f">Clothing and carpets</text>
     <text x="95" y="332" font-family="Arial, sans-serif" font-size="19" fill="#18232f">Packaging, paint,</text>
     <text x="95" y="358" font-family="Arial, sans-serif" font-size="19" fill="#18232f">school materials</text>
@@ -45,10 +46,10 @@
     <circle cx="698" cy="205" r="22" fill="#2f6fa5"/>
     <text x="698" y="213" text-anchor="middle" font-family="Arial, sans-serif" font-size="23" font-weight="700" fill="#ffffff">3</text>
     <text x="735" y="214" font-family="Arial, sans-serif" font-size="25" font-weight="700" fill="#18232f">MOVEMENT</text>
-    <text x="685" y="260" font-family="Arial, sans-serif" font-size="19" fill="#18232f">Air and ventilation</text>
-    <text x="685" y="296" font-family="Arial, sans-serif" font-size="19" fill="#18232f">Rain and runoff</text>
-    <text x="685" y="332" font-family="Arial, sans-serif" font-size="19" fill="#18232f">People, buildings,</text>
-    <text x="685" y="358" font-family="Arial, sans-serif" font-size="19" fill="#18232f">roads and drains</text>
+    <text x="685" y="260" font-family="Arial, sans-serif" font-size="19" fill="#18232f">Air and inhalation</text>
+    <text x="685" y="296" font-family="Arial, sans-serif" font-size="19" fill="#18232f">Food, water, ingestion</text>
+    <text x="685" y="332" font-family="Arial, sans-serif" font-size="19" fill="#18232f">Earth systems and</text>
+    <text x="685" y="358" font-family="Arial, sans-serif" font-size="19" fill="#18232f">human infrastructure</text>
   </g>
 
   <line x1="895" y1="275" x2="940" y2="275" stroke="#243447" stroke-width="4" marker-end="url(#arrow)"/>
@@ -78,20 +79,20 @@
     <text x="202" y="656" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#425466">design and purchasing</text>
 
     <rect x="340" y="585" width="215" height="105" rx="7" fill="#ffffff" stroke="#52772a" stroke-width="2"/>
-    <text x="447" y="625" text-anchor="middle" font-family="Arial, sans-serif" font-size="19" font-weight="700" fill="#18232f">TRANSPORT</text>
-    <text x="447" y="656" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#425466">traffic and tire wear</text>
+    <text x="447" y="625" text-anchor="middle" font-family="Arial, sans-serif" font-size="19" font-weight="700" fill="#18232f">INDOOR AIR</text>
+    <text x="447" y="656" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#425466">materials and buildings</text>
 
     <rect x="585" y="585" width="215" height="105" rx="7" fill="#ffffff" stroke="#52772a" stroke-width="2"/>
-    <text x="692" y="625" text-anchor="middle" font-family="Arial, sans-serif" font-size="19" font-weight="700" fill="#18232f">STORMWATER</text>
-    <text x="692" y="656" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#425466">capture and design</text>
+    <text x="692" y="625" text-anchor="middle" font-family="Arial, sans-serif" font-size="19" font-weight="700" fill="#18232f">FOOD + WATER</text>
+    <text x="692" y="656" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#425466">systems and prevention</text>
 
     <rect x="830" y="585" width="215" height="105" rx="7" fill="#ffffff" stroke="#52772a" stroke-width="2"/>
-    <text x="937" y="625" text-anchor="middle" font-family="Arial, sans-serif" font-size="19" font-weight="700" fill="#18232f">SCHOOL</text>
-    <text x="937" y="656" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#425466">materials and indoor air</text>
+    <text x="937" y="625" text-anchor="middle" font-family="Arial, sans-serif" font-size="19" font-weight="700" fill="#18232f">RESEARCH</text>
+    <text x="937" y="656" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#425466">questions and monitoring</text>
 
     <rect x="1075" y="585" width="230" height="105" rx="7" fill="#ffffff" stroke="#52772a" stroke-width="2"/>
-    <text x="1190" y="625" text-anchor="middle" font-family="Arial, sans-serif" font-size="19" font-weight="700" fill="#18232f">EVIDENCE + POLICY</text>
-    <text x="1190" y="656" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#425466">monitoring and voice</text>
+    <text x="1190" y="625" text-anchor="middle" font-family="Arial, sans-serif" font-size="19" font-weight="700" fill="#18232f">JUSTICE + POLICY</text>
+    <text x="1190" y="656" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#425466">power and collective voice</text>
   </g>
 
   <text x="70" y="790" font-family="Arial, sans-serif" font-size="17" fill="#425466">Access rule: campers may observe, model, communicate, regulate, and advocate through different rigorous routes.</text>

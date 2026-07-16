@@ -36,7 +36,7 @@ The unit turns visible local litter into a middle-grades investigation of enviro
 2. Let youth classify suspected particles in more than one way, such as shape, color, suspected source, or location, then compare what each scheme reveals and hides.
 3. Ask a claim-limit question after every graph: **Can these data answer this question? What evidence is missing?**
 4. Offer equivalent analysis routes using physical samples, covered samples, enlarged still images, printed photo cards, and shared microscope images.
-5. Connect proposed action to systems such as product design, tire wear, textiles, ventilation, cleaning, stormwater, waste policy, and purchasing rather than assigning equal blame to every person.
+5. Connect proposed action to systems such as product design, textiles, ventilation, food and water systems, cleaning, waste policy, research, monitoring, and purchasing rather than assigning equal blame to every person.
 
 ## Tension To Carry Into Tuesday
 

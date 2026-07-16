@@ -2,7 +2,7 @@
 
 **Team:** Piter Garcia and Aastha
 
-**Use in camp:** Short secondary investigation after campers begin the parking-lot/classroom microplastics model
+**Use in camp:** Short secondary investigation after campers begin the human-body microplastics pathway model
 
 **Recommended time:** 45-55 minutes
 
@@ -10,7 +10,7 @@
 
 > **Secondary phenomenon:** The same plastic system can release two kinds of invisible invaders: greenhouse-gas emissions that change Earth's energy balance and tiny plastic particles that move through air, water, soil, and indoor spaces.
 
-This activity does **not** replace our anchoring phenomenon about suspected particles in parking-lot and closed-classroom samples. It helps campers connect that local evidence to the larger plastic life cycle without making the false claim that microplastics themselves caused the temperature change in our model.
+This activity does **not** replace our anchoring phenomenon, **“Humans aren’t trash cans, but we have plastics in our bodies.”** It helps campers connect possible exposure pathways to the larger plastic life cycle without making the false claim that microplastics themselves caused the temperature change in our model.
 
 ## The Connection We Want Campers To Build
 
@@ -29,7 +29,8 @@ flowchart LR
     D --> I["Weathering and fragmentation"]
     H --> J["Microplastics move through air, water, soil, and rooms"]
     I --> J
-    J --> K["Suspected particles in parking-lot and classroom samples"]
+    J --> K["Possible inhalation or ingestion pathways"]
+    K --> M["Plastic detected in some human samples"]
     L["Justice check: Who benefits, who is exposed, who does the labor, and who can change the system?"] --- A
     L --- D
     L --- K
@@ -70,7 +71,7 @@ No single part has to pretend it represents the entire Earth system.
 ### CO2 And Plastic-System Model
 
 - one computer or tablet with the [PhET Greenhouse Effect simulation](https://phet.colorado.edu/sims/html/greenhouse-effect/latest/greenhouse-effect_en.html) loaded in advance;
-- printed or moveable cards for extraction, production, transport, use, wear, weathering, disposal, CO2, microplastics, air, water, classroom, parking lot, people, and decision-makers;
+- printed or moveable cards for extraction, production, transport, use, wear, weathering, disposal, CO2, microplastics, air, food, water, buildings, inhalation, ingestion, human-sample evidence, and decision-makers;
 - two token types with text and symbols: **GHG emissions** and **suspected microplastics**;
 - large paper, magnetic board, felt board, or shared digital canvas;
 - markers, arrows, sticky notes, and an audio-recording option.
@@ -99,13 +100,13 @@ No single part has to pretend it represents the entire Earth system.
 
 ## Before: Notice, Predict, And Protect The Anchor
 
-Show campers one familiar plastic object, the parking-lot/classroom model, and two covered labels: **greenhouse-gas emissions** and **microplastics**.
+Show campers one familiar plastic object, the human-body pathway model, and two covered labels: **greenhouse-gas emissions** and **microplastics**.
 
 Ask:
 
 - What invisible outputs might be connected to this object before, during, and after we use it?
 - Which output can change Earth's energy balance?
-- Which output might appear in our parking-lot or classroom samples?
+- Which output might move through air, food, or water and become part of a possible exposure pathway?
 - Where would we need evidence before drawing an arrow?
 
 Campers predict which chamber will warm or cool differently and choose a participation route: setup checker, timer, probe reader, recorder, grapher, simulator controller, card mover, photographer, evidence checker, or seated systems coordinator.
@@ -157,8 +158,8 @@ Campers build one shared plastic-life-cycle model:
 
 1. Place **extraction**, **plastic production**, **transport**, **use**, **wear**, **weathering**, and **disposal** in a defensible sequence.
 2. Add **GHG emissions** tokens where fossil fuels are used, industrial energy is consumed, or plastic is burned.
-3. Add **microplastic** tokens where tires, textiles, paint, packaging, or larger debris can wear, shed, or fragment.
-4. Move GHG tokens toward the atmosphere and microplastic tokens toward air, dust, water, soil, the parking lot, and the classroom.
+3. Add **microplastic** tokens where textiles, paint, packaging, food and drink containers, school materials, or larger debris can wear, shed, or fragment.
+4. Move GHG tokens toward the atmosphere and microplastic tokens toward air, dust, food, water, soil, buildings, and possible inhalation or ingestion pathways.
 5. Label each arrow as **evidence**, **possible pathway**, or **question**.
 
 The key comparison is:
@@ -172,7 +173,7 @@ The key comparison is:
 
 ## After: Revise, Check Justice, And Choose Action
 
-Campers revise the original Invisible Invaders model by adding a **plastic-life-cycle boundary** around the local parking-lot and classroom pathways. They do not need to add climate arrows to every suspected particle. Instead, they show that climate emissions and particle pollution can share upstream systems while following different physical pathways.
+Campers revise the original Invisible Invaders model by adding a **plastic-life-cycle boundary** around the possible routes toward human exposure. They do not add climate arrows to every detected particle. Instead, they show that climate emissions and particle pollution can share upstream systems while following different physical pathways.
 
 Use four closing prompts:
 
@@ -181,7 +182,7 @@ Use four closing prompts:
 3. **Evidence limit:** What did our physical chamber show, and what required the simulation or trusted source?
 4. **Justice and action:** Who benefits from plastic production and use, who experiences heat or pollution burdens, who performs cleanup labor, and who has the power to redesign products and systems?
 
-Possible evidence-supported actions include reducing unnecessary single-use production, designing products and tires that shed less, using lower-emission energy and transportation, improving monitoring and waste systems, protecting workers and affected communities, and giving youth and communities meaningful authority in decisions. Do not reduce the conclusion to “families should recycle more.”
+Possible evidence-supported actions include reducing unnecessary single-use production, designing products that shed less, improving food, water, building, monitoring, and waste systems, protecting workers and affected communities, and giving youth and communities meaningful authority in decisions. Do not reduce the conclusion to “families should recycle more.”
 
 ## Access Is Part Of The Scientific Design
 
@@ -199,7 +200,7 @@ Possible evidence-supported actions include reducing unnecessary single-use prod
 - Do not use UV bulbs. Keep temperatures below 40 degrees Celsius and stop immediately if plastic softens, odors appear, equipment shifts, or anyone is uncomfortable.
 - Do not seal vinegar and baking soda, dry ice, or any gas-producing reaction in a rigid container.
 - Do not have campers breathe into experimental chambers; breath adds water vapor and creates hygiene and interpretation problems.
-- Do not burn plastic or create tire, textile, or plastic dust.
+- Do not burn plastic or create textile or plastic dust.
 - Say **greenhouse-gas emissions**, not “greenhouse emissions.” A greenhouse is a building; greenhouse gases are atmospheric gases.
 - Say **carbon dioxide (CO2)**, with the letter O, not C02 with a zero.
 - Never claim that microplastics caused the measured warming. The activity connects two outputs of the plastic system.

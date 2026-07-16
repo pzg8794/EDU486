@@ -95,7 +95,7 @@ The quantities below describe the full camp setup we want available. `Reserve` m
 |---|---:|---|---|
 | Covered banana and plastic comparison jars | 2-3 | Prepare | Same-condition observation across camp days; do not claim plastic never changes |
 | Large recoverable paper/felt particles | 1 set | Prepare | Safe air-movement model; no loose powder or aerosolized particles |
-| Tire-wear photographs or sealed instructor sample | 1 image set; 1 sealed sample optional | Prepare/partner | Examine the pathway without sanding a tire or exposing campers to dust |
+| Human-sample evidence cards | 1 blood-study card, 1 lung-study card, 1 evidence-limit card per group | Prepare | Launch the agreed phenomenon without overstating prevalence, route, or health effects |
 | Poster/display boards | 4 plus 1 shared panel | Reserve | Image-led group explanations and advocacy |
 | Washable, non-toxic, low-odor glue sticks | 12 | Buy | Visible purple application supports precision; solid glue reduces odor and spills |
 | Assorted drawing tools | 4 station sets | Reserve/test | Offer thick/fine tips and high-contrast choices |
@@ -166,7 +166,7 @@ The shared sheet calls our team `Getting Small`. To preserve its validation with
 - [ ] Run one indoor sample, one outdoor sample, and one blank as a complete pilot.
 - [ ] Test microscope camera, display, captions, still-image backup, and paper-recording route.
 - [ ] Print the visual agenda, one-step cards, role cards, scale ladder, source cards, and identical paper/digital data fields.
-- [ ] Prepare large recoverable air-model pieces and tire-wear photographs or a sealed instructor sample; do not create tire dust.
+- [ ] Prepare human-sample evidence cards, possible-pathway cards, and a non-body-focused equivalent route.
 - [ ] Borrow and pilot the full plastic-carbon-temperature setup; prepare offline PhET screenshots, photon cards, and a no-heat participation route.
 - [ ] Build clean-tools, used-tools, low-sensory, seated, and mobile-role routes with equivalent evidence goals.
 - [ ] Recheck product price, tax, and arrival before Shellie places the order.

@@ -2,6 +2,8 @@
 
 **Team:** Piter Garcia and Aastha
 
+**Current anchoring phenomenon:** **Humans aren’t trash cans, but we have plastics in our bodies.** This replaces the earlier tire-based and parking-lot/classroom candidates. Environmental sampling remains supporting evidence, not the anchor.
+
 **Camp theme:** Invisible Invaders
 
 **Planning lens:** Puzzle Plan / EQUITAS Access-to-Agency STEM
@@ -12,7 +14,7 @@ This is our answer to the instruction not to reinvent the wheel. I reviewed the 
 
 [Open the full-size visual](../../public-artifacts/task7-curriculum-to-camp-map.png) | [Open the camp-ready tools](task7-camp-tools.md) | [Open the camp-folder index](invisible-invaders-camp-folder-index.md)
 
-[Open the editable Task 7 plan in the shared camp folder](https://docs.google.com/document/d/1bMzIKuEpoRYIycnNoCv8HcZEbowaD5d57U9wCCq7Z6E/edit) | [Open the editable camp tools](https://docs.google.com/document/d/1loBneel5T8WV3SczFOoNabaw47eHZ-Q2OMGK8smyIbg/edit)
+[Open the editable Task 7 plan in the shared camp folder](https://docs.google.com/document/d/1doFltN1y0EsNO_ZxHsPNjMLpEAMb1EcYQqeurzTVWQg/edit) | [Open the editable camp tools](https://docs.google.com/document/d/1Y7vrjOQUhrqohwFgrT-mA5Qu0apQSnFMyYXv85Ct2H8/edit)
 
 ## What Counts As Completed
 
@@ -106,7 +108,7 @@ The unit's strongest reusable pattern is a long arc from a visible problem to mo
 
 ### Invisible Invaders Adaptation
 
-- Use our parking-lot, classroom, field blank, sand, and water evidence as the local anchor instead of importing a California ocean context.
+- Use the human-body phenomenon as the anchor. Use parking-lot, classroom, field blank, sand, and water evidence only as supporting investigations into possible environmental pathways.
 - Return to the question board after every investigation and mark which youth questions changed the plan, which remain open, and which cannot be answered with our current evidence.
 - Use one shared evidence standard across paper, image, model, oral, audio, home-language, and partner-supported routes.
 - Treat formative evidence as a redesign signal: if a route hides thinking, change the route or support before lowering the intellectual goal.
@@ -149,7 +151,7 @@ The [camp-ready tools packet](task7-camp-tools.md) contains the corresponding yo
 
 ### Proposed Instructional Question
 
-> How can suspected microplastic particles reach and remain in indoor and outdoor spaces, what can our samples support, and what should change?
+> How can plastics from everyday materials become small enough to move through connected systems and reach human bodies, and what changes could reduce those pathways fairly?
 
 ### Proposed Learning-Sciences Research Question
 
@@ -158,7 +160,7 @@ The [camp-ready tools packet](task7-camp-tools.md) contains the corresponding yo
 ### Decisions For The Co-Leader Conversation
 
 - Confirm or revise the research question without treating it as data collection about diagnoses.
-- Choose the Field Friday sites and the indoor/outdoor comparison that will remain central during camp.
+- Choose which Field Friday and indoor/outdoor evidence can support the human-body pathway model without becoming a competing anchor.
 - Decide what participation evidence can be gathered ethically: contribution route, role access, idea uptake, model revision, and optional anonymous feedback.
 - Choose the Thursday showcase audience and one or more realistic decision-makers.
 - Decide how facilitation, preparation, sensory access, equipment, and documentation labor will be shared.
@@ -182,9 +184,9 @@ The [camp-ready tools packet](task7-camp-tools.md) contains the corresponding yo
 
 ### Monday - Notice, Model, And Name The Future
 
-**Driving question:** How could suspected particles reach both a parking lot and a classroom?
+**Driving question:** What did researchers detect in human samples, what does that evidence mean, and how might plastic reach a body?
 
-**Core work:** Examine field images and selected samples; compare banana/plastic change and the scale ladder; build an initial model; create a multimodal question board; begin the Future We Want board.
+**Core work:** Complete the human-sample Evidence Pathway Mystery; sort what the studies show and do not show; use the scale ladder; build an initial pathway model; create a multimodal question board; begin the Future We Want board.
 
 **Justice and identity:** Invite community, building, traffic, clothing, work, health, culture, and neighborhood knowledge without requiring personal disclosure. Ask whose experiences or observations are missing.
 
@@ -194,7 +196,7 @@ The [camp-ready tools packet](task7-camp-tools.md) contains the corresponding yo
 
 ### Tuesday - Compare Evidence And Protect Uncertainty
 
-**Driving question:** What patterns appear across indoor, outdoor, field, and blank evidence?
+**Driving question:** What can environmental evidence tell us about possible release and movement pathways, and what can it not establish about a human body?
 
 **Core work:** Use matched stations to filter or observe samples; classify suspected fibers/fragments; compare sample and blank records; use still images when direct microscope viewing is inaccessible; document contamination concerns.
 
@@ -206,7 +208,7 @@ The [camp-ready tools packet](task7-camp-tools.md) contains the corresponding yo
 
 ### Wednesday - Build The Causal Explanation And Map Power
 
-**Driving question:** Which sources and transport pathways could explain our observations, and who can influence them?
+**Driving question:** Which release, movement, inhalation, and ingestion pathways are supported, possible, or still unknown, and who can influence them?
 
 **Core work:** Add source, release, transport, settling, sampling, and uncertainty links to the model; compare direct sources; complete the justice-and-power map; examine solutions at several system levels.
 

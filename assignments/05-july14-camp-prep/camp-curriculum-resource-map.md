@@ -2,7 +2,7 @@
 
 Use these sources as starting points, then adapt them around the team's phenomenon, Freedom Scholars' questions, local knowledge, disability and chronic-illness access, multilingual participation, environmental justice, and youth advocacy.
 
-[Open the completed Task 7 curriculum adaptation and Monday-Friday plan](task7-curriculum-adaptation-and-week-plan.md) | [Open the camp-ready tools](task7-camp-tools.md) | [Open the Invisible Invaders camp-folder index](invisible-invaders-camp-folder-index.md) | [Open the editable shared-folder plan](https://docs.google.com/document/d/1bMzIKuEpoRYIycnNoCv8HcZEbowaD5d57U9wCCq7Z6E/edit)
+[Open the completed Task 7 curriculum adaptation and Monday-Friday plan](task7-curriculum-adaptation-and-week-plan.md) | [Open the camp-ready tools](task7-camp-tools.md) | [Open the Invisible Invaders camp-folder index](invisible-invaders-camp-folder-index.md) | [Open the editable shared-folder plan](https://docs.google.com/document/d/1doFltN1y0EsNO_ZxHsPNjMLpEAMb1EcYQqeurzTVWQg/edit)
 
 [![Four curriculum sources become one Puzzle Plan camp arc](../../public-artifacts/task7-curriculum-to-camp-map.png)](../../public-artifacts/task7-curriculum-to-camp-map.svg)
 

@@ -39,7 +39,7 @@ Their public-safe planning record is the [Invisible Invaders gotta-have checklis
 
 ## July 15, 2026 Protected Team Meeting
 
-The local automatic transcript `07-15 Meeting_Lesson Plan for Microplastic Pollution-transcript.txt` records Piter and Aastha's planning conversation about the revised human-body phenomenon, four course checklist ideas, opening moment, gapless explanation, and advocacy choices. It remains outside the public repository because it contains informal team conversation and unverified automatic speaker labels.
+The local automatic transcript `07-15 Meeting_Lesson Plan for Microplastic Pollution-transcript.txt` records Piter and Aastha's decision to replace the tire-based phenomenon with **“Humans aren’t trash cans, but we have plastics in our bodies,”** followed by their planning for four course checklist ideas, an opening moment, a gapless explanation, and advocacy choices. It remains outside the public repository because it contains informal team conversation and unverified automatic speaker labels.
 
 The public-safe work resulting from Piter's commitments is the [July 15 meeting commitment pack](../assignments/05-july14-camp-prep/july15-meeting-commitment-pack.md). It preserves the decisions and approximate timestamps, validates the science with direct sources, and separates Piter's prepared work from decisions the team still needs to make together.
 

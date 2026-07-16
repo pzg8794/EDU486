@@ -2,23 +2,24 @@
 
 **Team:** Piter Garcia and Aastha
 
+**Current anchoring phenomenon:** **Humans aren’t trash cans, but we have plastics in our bodies.** This replaces the earlier parking-lot/classroom question.
+
 These templates turn the curriculum review into usable camp materials. Campers may respond by drawing, writing, speaking, recording audio, using home language, pointing to cards, dictating to a partner, or combining modes. A private experience, diagnosis, identity, or health disclosure is never required.
 
-[Open the editable camp-tools Google Doc](https://docs.google.com/document/d/1loBneel5T8WV3SczFOoNabaw47eHZ-Q2OMGK8smyIbg/edit) | [Open the complete Task 7 plan](task7-curriculum-adaptation-and-week-plan.md)
+[Open the editable camp-tools Google Doc](https://docs.google.com/document/d/1Y7vrjOQUhrqohwFgrT-mA5Qu0apQSnFMyYXv85Ct2H8/edit) | [Open the complete Task 7 plan](task7-curriculum-adaptation-and-week-plan.md)
 
 ## Tool 1 - Initial Model And Question Builder
 
-**Question:** How could suspected particles reach both an outdoor parking lot and an indoor classroom?
+**Question:** How can plastics from everyday materials become small enough to move through connected systems and reach human bodies?
 
 Show what you think happens using arrows, words, drawing, objects, audio, or another mode.
 
-- Possible source:
-- What releases or moves the material:
-- Path outdoors:
-- Path indoors:
-- Where particles may settle:
-- What our sample could show:
-- What our sample could not prove:
+- Plastic-containing material or possible source:
+- What releases the particle:
+- How it may move through air, food, water, buildings, or another system:
+- Possible exposure route: inhalation | ingestion | uncertain
+- What the human-sample evidence shows:
+- What the evidence does not prove:
 - One thing I notice:
 - One thing I wonder:
 - A related experience or community observation I choose to contribute:
@@ -35,7 +36,7 @@ Finish one or more prompts in any mode.
 - I want decision-makers to start...
 - I want us to protect...
 - I want us to repair...
-- I want products, buildings, roads, clothing, or waste systems to be designed so that...
+- I want products, buildings, clothing, food and water systems, or waste systems to be designed so that...
 - I do not want a solution that creates this new burden...
 
 Cluster ideas under: **Stop | Start | Protect | Repair | Redesign**.
@@ -107,8 +108,8 @@ Compare the Monday model with the Thursday model.
 
 ### Shared Scientific Criteria
 
-- The explanation includes a source, release or movement mechanism, transport pathway, observation, and evidence limit.
-- The product distinguishes suspected particles from confirmed polymer identification.
+- The explanation includes a plastic-containing material, release mechanism, movement through connected systems, possible exposure route, human-sample evidence, and evidence limit.
+- The product distinguishes detection from prevalence, route, and health effect.
 - The action request fits the available evidence.
 - The justice analysis considers benefit, burden, labor, alternatives, and decision power.
 - The revised model shows what changed and why.

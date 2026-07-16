@@ -34,7 +34,7 @@ The [JuST Framework](https://doi.org/10.1002/tea.21917) keeps that moral purpose
 
 ## Invisible Invaders Application
 
-Piter and Aastha's current camp plan investigates why suspected microplastics may appear in parking-lot and classroom samples. Youth will compare outdoor, indoor, and blank samples; revise causal models; and communicate findings to a real audience. Because visual observation does not establish chemical identity, the work will use **suspected microplastics** unless a valid identification method confirms the polymer, consistent with [NOAA laboratory guidance](https://repository.library.noaa.gov/view/noaa/10296).
+When Part 1 was prepared on July 14, the camp example used an indoor/outdoor investigation comparing parking-lot, classroom, and blank samples. On July 15, Piter and Aastha replaced that anchor with **“Humans aren’t trash cans, but we have plastics in our bodies.”** The current plan begins with limited human-sample evidence, models possible pathways through connected systems, and uses environmental observations only as supporting evidence. The evidence boundary remains essential: detection does not establish prevalence, a universal route, or a particular health effect. [Current Invisible Invaders explanation](../05-july14-camp-prep/invisible-invaders-gapless-explanation.md)
 
 Access is built into the investigation rather than added later. Youth can use a shared microscope view, still image, drawing, text, voice, tally, paper record, or partner role while pursuing the same scientific question. These routes account for neurodivergence, chronic illness, disability, language, culture, sensory differences, changing energy, and multiple identities without treating one pace or communication style as the standard for intelligence.
 

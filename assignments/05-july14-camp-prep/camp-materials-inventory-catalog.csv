@@ -66,7 +66,7 @@ G02,Purchase gate,Protocol-matched filter paper,GAP,depends on L04 verification,
 G03,Purchase gate,Clean slides and coverslips if required,GAP,depends on L03 verification,core,"buy only if stock is unsafe or insufficient",activity plan,prep room
 G04,Purchase gate,Powder-free gloves in multiple sizes,GAP,depends on A02 verification,core,"buy only if stock is unsuitable or insufficient",activity plan,prep room
 G05,Purchase gate,Clean sample covers or aluminum foil,GAP,not confirmed,core,"confirm lids or purchase clean covers",activity plan,A/B/C confirm
-G06,Purchase gate,Instructor-sealed tire-wear evidence or photographs,PREP,not safely confirmed,core,"prepare without camper tire sanding",activity plan,A/B/C confirm
+G06,Preparation gate,Human-sample evidence and pathway cards,PREP,not prepared,core,"include blood study; lung study; evidence limit; environment-only route",current human-body plan,A/B/C confirm
 G07,Purchase gate,Clear optical tape and labeling tape,GAP,depends on L06-L07 verification,core,"buy only if protocol test fails or stock is nearly empty",activity plan,A/B/C confirm
 G08,Purchase gate,Low-odor non-toxic adhesives,GAP,depends on C05 verification,core,"buy only if safe accessible stock is absent",activity plan,A/B/C confirm
 G09,Purchase gate,Beads cord safety pins or badge blanks,GAP,depends on identity routine decision,optional,"buy only if routine is adopted and consumables are absent",activity plan,A/B/C confirm

@@ -92,8 +92,8 @@ Public-safe links and original shared workspaces:
 - [Algalita / Wayfinder: NGSS MS-ESS3-3 Plastic Ocean guide](https://algalita.org/wayfinder-society/guide/ngss-ms-ess-3-3-plastic-ocean-human-impact/)
 - [ProQuest: Development of a 7th Grade NGSS-Based Unit, Plastic in Our Ocean](https://www.proquest.com/dissertations-theses/development-7-sup-th-grade-ngss-based-unit/docview/2600793823/se-2)
 - [Task 7 Puzzle Plan curriculum adaptation](../assignments/05-july14-camp-prep/task7-curriculum-adaptation-and-week-plan.md)
-- [Editable Task 7 plan in the Invisible Invaders Drive folder](https://docs.google.com/document/d/1bMzIKuEpoRYIycnNoCv8HcZEbowaD5d57U9wCCq7Z6E/edit)
-- [Editable Task 7 camp tools in the Invisible Invaders Drive folder](https://docs.google.com/document/d/1loBneel5T8WV3SczFOoNabaw47eHZ-Q2OMGK8smyIbg/edit)
+- [Editable Task 7 plan in the Invisible Invaders Drive folder](https://docs.google.com/document/d/1doFltN1y0EsNO_ZxHsPNjMLpEAMb1EcYQqeurzTVWQg/edit)
+- [Editable Task 7 camp tools in the Invisible Invaders Drive folder](https://docs.google.com/document/d/1Y7vrjOQUhrqohwFgrT-mA5Qu0apQSnFMyYXv85Ct2H8/edit)
 
 Protected local reading files reviewed for the July 14 Heather Table:
 
@@ -135,18 +135,20 @@ The transcript pairs Piter and Misong during specific Clean Swell, sampling, and
 - Protected local source: `transcripts/07-14 Lecture_ Environmental Pollution Inquiry and Justice-Centered Pedagogy-transcript.txt`
 - Protected local source: `transcripts/07-14 Lecture_ Science Camp Planning — Invisible Invaders, Critical Consciousness, and Modeling Framework-transcript.txt`
 
-The evidence map shows how Module 1's learning-scientist, idea-elicitation, technology, classroom-design, culture, and access commitments became Module 2's anchoring phenomenon, five-item gotta-have checklist, gapless explanation, scientific model, SASSY storyline, backward design, and critical-consciousness work. The raw July 14 transcripts remain local because they include classmates' informal speech and unverified automatic speaker labels; the public artifact uses timestamped paraphrases instead.
+The evidence map shows how Module 1's learning-scientist, idea-elicitation, technology, classroom-design, culture, and access commitments became Module 2's anchoring phenomenon, four-item gotta-have checklist, gapless explanation, scientific model, SASSY storyline, backward design, and critical-consciousness work. The raw July 14 transcripts remain local because they include classmates' informal speech and unverified automatic speaker labels; the public artifact uses timestamped paraphrases instead.
 
 ## July 15 Team Meeting And Revised Lesson Work
 
 - [Public-safe meeting commitment pack](../assignments/05-july14-camp-prep/july15-meeting-commitment-pack.md)
-- [Editable team commitment pack in the shared camp folder](https://docs.google.com/document/d/1QsQegxXvaDkFnD_BhWYT9qtfez46bugYwCFkmSHN_OA/edit)
+- [Editable team commitment pack in the shared camp folder](https://docs.google.com/document/d/1B4MPNMAHEJ_lscjyP9YBBlYeXZxCBvT781sSZoe1N5w/edit)
+- [Current opening routine](../assignments/05-july14-camp-prep/invisible-invaders-opening-routine.md)
+- [Editable current opening routine in the shared camp folder](https://docs.google.com/document/d/1LOS9EiIFyTB-8rDQ8Q1MUnUhrqxzllQiy-oEB9J_uFs/edit)
 - [Evidence-to-agency visual](../public-artifacts/invisible-invaders-evidence-to-agency-map.png)
 - Protected local source: `transcripts/07-15 Meeting_Lesson Plan for Microplastic Pollution-transcript.txt`
-- Team Drive source: [Friday - Anchoring Phenomenon Routine](https://docs.google.com/document/d/1hU4lpI__QZLBLoFb7JqUoE5OieErkFvLeAx4hWTqVLM/edit)
+- Superseded collaborative source, preserved unchanged: [Friday - Anchoring Phenomenon Routine](https://docs.google.com/document/d/1hU4lpI__QZLBLoFb7JqUoE5OieErkFvLeAx4hWTqVLM/edit)
 - Team Drive source: [Invisible Invaders' Gapless Explanation](https://docs.google.com/document/d/1IFu_y_sYbNeNs1K4J_lD6KS4I30f8wxggX4SS38acRI/edit)
 
-The commitment pack preserves the team's July 15 decision to explore a human-body phenomenon, use four course checklist ideas, create an opening moment, write a revised gapless explanation, and protect more than one youth advocacy route. It also corrects evidence risks in the newer Friday routine: suspected particles are not called plastic without confirmation, staged evidence is not presented as discovered, unknown materials are not used for forced touching, and human detection is not treated as proof of harm.
+The commitment pack preserves the team's July 15 decision to **replace the tire-based phenomenon** with **“Humans aren’t trash cans, but we have plastics in our bodies,”** use four course checklist ideas, create an opening moment, write a revised gapless explanation, and protect more than one youth advocacy route. It also keeps human detection from being treated as proof of harm and provides a non-body-focused access route without changing the agreed phenomenon.
 
 ## Public Web Sources Used For Microplastics Draft
 
@@ -161,8 +163,10 @@ These public sources support the microplastics technology evolution draft:
 
 - [NOAA Marine Debris Program: What Are Microplastics?](https://marinedebris.noaa.gov/what-are-microplastics-0)
 - [NOAA: How Plastic Fragments](https://response.restoration.noaa.gov/node/1471)
-- [U.S. EPA: Tire-Wear Research](https://www.epa.gov/sciencematters/where-rubber-meets-road-epa-researchers-study-environmental-and-health-impacts-tires)
-- [U.S. EPA: Tire-Wear Particles in Waterways](https://nepis.epa.gov/Exe/ZyPURL.cgi?Dockey=P101741T.txt)
+- [Leslie et al.: Plastic Particles in Human Blood](https://pubmed.ncbi.nlm.nih.gov/35367073/)
+- [Jenner et al.: Microplastics in Human Lung Tissue](https://pubmed.ncbi.nlm.nih.gov/35364151/)
+- [FDA: Microplastics in Foods and Health-Evidence Limits](https://www.fda.gov/food/environmental-contaminants-food/microplastics-and-nanoplastics-foods)
+- [WHO: Microplastics in Drinking Water](https://www.who.int/publications/i/item/9789241516198)
 - [USGS: It Is Raining Plastic](https://www.usgs.gov/publications/it-raining-plastic)
 - [Dris et al.: Indoor and Outdoor Fibers](https://pubmed.ncbi.nlm.nih.gov/27989388/)
 - [U.S. EPA: Limits of Visual Microscopy](https://cfpub.epa.gov/si/si_public_record_report.cfm?Lab=CEMM&dirEntryId=361542)
@@ -175,7 +179,7 @@ These public sources support the microplastics technology evolution draft:
 
 Visual syntheses:
 
-- [How invisible invaders reach both samples](../public-artifacts/invisible-invaders-causal-chain.png)
+- [Current evidence-to-agency pathway](../public-artifacts/invisible-invaders-evidence-to-agency-map.png)
 - [Same rigorous investigation, multiple ways in](../public-artifacts/invisible-invaders-access-pathways.png)
 
 ## Invisible Invaders Activity And Media Sources

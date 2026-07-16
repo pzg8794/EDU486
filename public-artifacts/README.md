@@ -10,8 +10,6 @@ These are GitHub-safe generated visuals made from original course work. They rep
 - [Task 6 Puzzle Plan reading map, PNG](session5-puzzle-plan-reading-map.png)
 - [Task 7 curriculum-to-camp map, SVG](task7-curriculum-to-camp-map.svg)
 - [Task 7 curriculum-to-camp map, PNG](task7-curriculum-to-camp-map.png)
-- [Invisible Invaders causal pathway, SVG](../assignments/05-july14-camp-prep/invisible-invaders-causal-chain.svg)
-- [Invisible Invaders causal pathway, PNG](invisible-invaders-causal-chain.png)
 - [Invisible Invaders access pathways, SVG](../assignments/05-july14-camp-prep/invisible-invaders-access-pathways.svg)
 - [Invisible Invaders access pathways, PNG](invisible-invaders-access-pathways.png)
 - [Invisible Invaders evidence-to-agency map, SVG](../assignments/05-july14-camp-prep/invisible-invaders-evidence-to-agency-map.svg)
@@ -30,8 +28,6 @@ These are GitHub-safe generated visuals made from original course work. They rep
 ![Task 7 curricula adapted into a Puzzle Plan camp arc](task7-curriculum-to-camp-map.png)
 
 ![Teacher as learning scientist evidence map](teacher-learning-scientist-evidence-map.png)
-
-![How invisible invaders reach indoor and outdoor samples](invisible-invaders-causal-chain.png)
 
 ![Same rigorous investigation, multiple ways in](invisible-invaders-access-pathways.png)
 

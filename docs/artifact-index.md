@@ -19,7 +19,9 @@ This index is the public GitHub front door. Public repo files, public submission
 - [July 14 camp-prep command center](../assignments/05-july14-camp-prep/README.md)
 - [Invisible Invaders gotta-have checklist and evidence map](../assignments/05-july14-camp-prep/invisible-invaders-gotta-have-checklist-evidence-map.md)
 - [Invisible Invaders July 15 meeting commitment pack](../assignments/05-july14-camp-prep/july15-meeting-commitment-pack.md)
-- [Editable Invisible Invaders July 15 meeting commitment pack](https://docs.google.com/document/d/1QsQegxXvaDkFnD_BhWYT9qtfez46bugYwCFkmSHN_OA/edit)
+- [Editable Invisible Invaders July 15 meeting commitment pack](https://docs.google.com/document/d/1B4MPNMAHEJ_lscjyP9YBBlYeXZxCBvT781sSZoe1N5w/edit)
+- [Current Invisible Invaders opening routine](../assignments/05-july14-camp-prep/invisible-invaders-opening-routine.md)
+- [Editable current Invisible Invaders opening routine](https://docs.google.com/document/d/1LOS9EiIFyTB-8rDQ8Q1MUnUhrqxzllQiy-oEB9J_uFs/edit)
 - [Course calendar import](course-calendar.ics)
 
 ## Public Visual Artifacts
@@ -33,8 +35,6 @@ This index is the public GitHub front door. Public repo files, public submission
 - [Task 6 Puzzle Plan reading map SVG](../public-artifacts/session5-puzzle-plan-reading-map.svg)
 - [Task 7 curriculum-to-camp map PNG](../public-artifacts/task7-curriculum-to-camp-map.png)
 - [Task 7 curriculum-to-camp map SVG](../public-artifacts/task7-curriculum-to-camp-map.svg)
-- [Invisible Invaders causal pathway PNG](../public-artifacts/invisible-invaders-causal-chain.png)
-- [Invisible Invaders causal pathway SVG](../assignments/05-july14-camp-prep/invisible-invaders-causal-chain.svg)
 - [Invisible Invaders access pathways PNG](../public-artifacts/invisible-invaders-access-pathways.png)
 - [Invisible Invaders access pathways SVG](../assignments/05-july14-camp-prep/invisible-invaders-access-pathways.svg)
 - [Invisible Invaders evidence-to-agency map PNG](../public-artifacts/invisible-invaders-evidence-to-agency-map.png)
@@ -62,6 +62,8 @@ This index is the public GitHub front door. Public repo files, public submission
 - [Task 7 curriculum adaptation and Monday-Friday plan DOCX](../public-submissions/task7-curriculum-adaptation-and-week-plan.docx)
 - [Task 7 camp-ready tools DOCX](../public-submissions/task7-camp-tools.docx)
 - [Invisible Invaders gapless explanation DOCX](../public-submissions/invisible-invaders-gapless-explanation.docx)
+- [Invisible Invaders July 15 commitment pack DOCX](../public-submissions/invisible-invaders-july15-meeting-commitment-pack.docx)
+- [Invisible Invaders current opening routine DOCX](../public-submissions/invisible-invaders-opening-routine.docx)
 - [Course calendar ICS](../public-submissions/EDU486-course-calendar.ics)
 
 ## Assignment Markdown
@@ -86,11 +88,12 @@ This index is the public GitHub front door. Public repo files, public submission
 - [Task 7 curriculum adaptation and Monday-Friday plan](../assignments/05-july14-camp-prep/task7-curriculum-adaptation-and-week-plan.md)
 - [Task 7 camp-ready tools](../assignments/05-july14-camp-prep/task7-camp-tools.md)
 - [Invisible Invaders camp-folder index](../assignments/05-july14-camp-prep/invisible-invaders-camp-folder-index.md)
-- [Editable Task 7 curriculum and week plan in the shared camp folder](https://docs.google.com/document/d/1bMzIKuEpoRYIycnNoCv8HcZEbowaD5d57U9wCCq7Z6E/edit)
-- [Editable Task 7 camp tools in the shared camp folder](https://docs.google.com/document/d/1loBneel5T8WV3SczFOoNabaw47eHZ-Q2OMGK8smyIbg/edit)
+- [Editable Task 7 curriculum and week plan in the shared camp folder](https://docs.google.com/document/d/1doFltN1y0EsNO_ZxHsPNjMLpEAMb1EcYQqeurzTVWQg/edit)
+- [Editable Task 7 camp tools in the shared camp folder](https://docs.google.com/document/d/1Y7vrjOQUhrqohwFgrT-mA5Qu0apQSnFMyYXv85Ct2H8/edit)
 - [Gapless explanation options for all three camp teams](../assignments/05-july14-camp-prep/gapless-explanation-options.md)
 - [Final Invisible Invaders gapless explanation](../assignments/05-july14-camp-prep/invisible-invaders-gapless-explanation.md)
 - [Invisible Invaders activity plan](../assignments/05-july14-camp-prep/invisible-invaders-activities.md)
+- [Invisible Invaders current opening routine](../assignments/05-july14-camp-prep/invisible-invaders-opening-routine.md)
 - [Invisible Invaders plastic, carbon, and rising-temperature model](../assignments/05-july14-camp-prep/invisible-invaders-plastic-carbon-temperature-model.md)
 - [Invisible Invaders media and internet guide](../assignments/05-july14-camp-prep/invisible-invaders-media-guide.md)
 - [Camp materials inventory dictionary and order check](../assignments/05-july14-camp-prep/materials-inventory-and-order-check.md)

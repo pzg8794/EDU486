@@ -139,7 +139,7 @@ The class used three location codes: **A = LeChase 285 classroom, B = preparatio
 | Source mapping and sample-area measurement | S10-S11, T02-T03 | **PRESENT** | Test equipment and prepare a seated mapper/coordinator role |
 | Banana/plastic comparison | S01-S02 | **PREP** | Use existing jars; obtain one banana and a documented comparison material close to activity day |
 | Air-movement model | C09-C10 | **PREP** | Cut large recoverable pieces; do not release loose powder |
-| Tire-wear evidence | None safely confirmed | **GAP** | Prepare photographs or an instructor-sealed sample; do not have campers sand a tire |
+| Human-sample evidence cards | None prepared | **GAP** | Print blood-study, lung-study, and evidence-limit cards plus an environment-only equivalent route |
 | Scale ladder, source cards, role cards, and model arrows | C01-C12 | **PREP** | Print/make from existing stock; include image, text, and one-step formats |
 | Art for advocacy and showcase | C01-C13 | **PRESENT** | Inventory low-odor adhesives and reserve display surface |
 | Plastic-carbon-temperature model | T01-T02 plus climate-model kit not yet inventoried | **CHECK/GAP** | Borrow and pilot two matching probes, two identical heat-safe clear chambers, one guarded lamp, a clear cover, heat-safe mat, and offline PhET route before considering any purchase |
@@ -157,7 +157,7 @@ These are **not yet approved orders**. They are the only current categories that
 | G03 | 1 | Clean microscope slides and, if required, coverslips | L03 stock is dirty, chipped, or insufficient | Observation stations need safe, consistent slides |
 | G04 | 1 | Powder-free protective gloves in multiple sizes | A02 is insufficient or unsuitable | PPE must fit without introducing avoidable allergy/access barriers |
 | G05 | 1 | Clean sample covers or aluminum foil | Matching lids cannot provide equivalent coverage | Samples and the field blank need contamination control |
-| G06 | 1 | Instructor-sealed tire-wear evidence or photographs | No safe sealed sample or usable source images can be prepared from existing resources | The mechanism can be examined without producing airborne tire dust |
+| G06 | 1 set per group | Human-sample evidence and pathway cards | No complete accessible card set is prepared | The agreed phenomenon requires accurate, calm evidence with visible uncertainty |
 | G07 | 2 | Clear optical tape and labeling tape | L06-L07 fail the protocol test or are nearly empty | Tape lifts and durable IDs are central to the evidence trail |
 | G08 | 2 | Low-odor non-toxic adhesives | C05 stock is absent, dried, or inaccessible | Advocacy work needs an inclusive sensory-safe route |
 | G09 | 2 | Beads, cord, safety pins, or badge blanks | The team adopts the STEM-identity recognition routine and no consumables exist | Recognition should be optional and support multiple identities |
@@ -165,11 +165,11 @@ These are **not yet approved orders**. They are the only current categories that
 ## 8. Do Not Order Or Use Yet
 
 - **Do not order duplicate microscopes, tablets, cameras, clipboards, jars, sieves, buckets, paper, or general art supplies** before the physical check.
-- **Do not ask campers to sand tires, aerosolize powder, or handle an open tire-wear sample.**
+- **Do not aerosolize powders or require campers to handle unknown materials.**
 - **Do not plan camper use of KOH, unlabeled chemicals, centrifuges, vortex mixers, ovens, microwaves, or sterilization equipment.**
 - **Do not assume a photographed device works, has its charger, or is reserved for our team.**
 - **Do not call visually identified particles confirmed microplastics.** Record them as suspected fibers or fragments unless a valid polymer-identification method confirms them.
-- **Do not use dry ice, sealed gas-producing reactions, UV lamps, burning plastic, or camper-made tire/plastic dust in the temperature model.**
+- **Do not use dry ice, sealed gas-producing reactions, UV lamps, burning plastic, or camper-made plastic dust in the temperature model.**
 
 ## 9. Physical Check-Out List
 

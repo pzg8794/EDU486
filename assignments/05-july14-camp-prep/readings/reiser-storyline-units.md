@@ -36,7 +36,7 @@ The official Storylines page and its embedded video, *Helping Teachers Bring NGS
 
 ## Invisible Invaders Design Moves
 
-1. Begin with the discrepancy: suspected particles may appear in both parking-lot and classroom samples. Let youth notice, model, and raise questions before presenting the full causal explanation.
+1. Begin with the agreed discrepancy: humans are not trash cans, but researchers have detected plastic particles in some human samples. Let youth notice, model possible pathways, and raise questions before presenting the full causal explanation.
 2. Build a question board that accepts sticky notes, drawing, dictated questions, home language, partner contributions, and private digital entry. Do not make fast whole-group speech the gate to agenda setting.
 3. End each investigation with two visible records: **what we figured out** and **what we still need to know**. Use those records to justify the next activity.
 4. Preserve model versions so revision is visible. A changed idea is evidence of learning, not failure.

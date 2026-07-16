@@ -112,7 +112,7 @@ OpenAI Codex (GPT-5) was used on July 1, 2026 to synthesize course materials, or
   - [camp-ready youth and facilitator tools](../assignments/05-july14-camp-prep/task7-camp-tools.md)
   - [Invisible Invaders camp-folder index](../assignments/05-july14-camp-prep/invisible-invaders-camp-folder-index.md)
   - [curriculum-to-camp visual](../public-artifacts/task7-curriculum-to-camp-map.png)
-  - [editable Task 7 plan](https://docs.google.com/document/d/1bMzIKuEpoRYIycnNoCv8HcZEbowaD5d57U9wCCq7Z6E/edit) and [editable camp tools](https://docs.google.com/document/d/1loBneel5T8WV3SczFOoNabaw47eHZ-Q2OMGK8smyIbg/edit) placed in the shared Invisible Invaders folder
+  - [editable Task 7 plan](https://docs.google.com/document/d/1doFltN1y0EsNO_ZxHsPNjMLpEAMb1EcYQqeurzTVWQg/edit) and [editable camp tools](https://docs.google.com/document/d/1Y7vrjOQUhrqohwFgrT-mA5Qu0apQSnFMyYXv85Ct2H8/edit) placed in the shared Invisible Invaders folder
 - Human guidance and decisions:
   - apply Puzzle Plan claims to the structure and evidence system, not only to an inclusion statement
   - begin justice analysis on Monday and preserve it through sampling, modeling, revision, art, advocacy, and audience feedback
@@ -132,7 +132,7 @@ OpenAI Codex (GPT-5) was used on July 1, 2026 to synthesize course materials, or
   - [Invisible Invaders activity plan](../assignments/05-july14-camp-prep/invisible-invaders-activities.md)
   - camp-prep command center, camp-folder index, and source map
 - Human guidance and decisions:
-  - preserve the parking-lot/classroom samples as the camp's anchoring phenomenon
+  - at the time, preserve the parking-lot/classroom samples as the anchor; this was superseded by the team's July 15 human-body phenomenon decision
   - make the rising-temperature experience a secondary phenomenon and system connection
   - connect greenhouse gases and microplastics as different outputs from a shared plastic life cycle
   - provide before/during/after structure, multimodal participation, no-heat and low-energy routes, direct sources, safety boundaries, and explicit model limitations
@@ -149,19 +149,19 @@ OpenAI Codex (GPT-5) was used on July 1, 2026 to synthesize course materials, or
   - [source-linked Invisible Invaders explanation](../assignments/05-july14-camp-prep/invisible-invaders-gapless-explanation.md)
   - [inclusive and safety-revised activity plan](../assignments/05-july14-camp-prep/invisible-invaders-activities.md)
   - [curated media and internet guide](../assignments/05-july14-camp-prep/invisible-invaders-media-guide.md)
-  - [indoor-outdoor causal pathway visual](../public-artifacts/invisible-invaders-causal-chain.png)
+  - the earlier indoor-outdoor causal pathway visual, retired after the July 15 phenomenon change
   - [multiple access pathways visual](../public-artifacts/invisible-invaders-access-pathways.png)
   - [camp materials inventory dictionary](../assignments/05-july14-camp-prep/materials-inventory-and-order-check.md)
   - [sortable materials inventory catalog](../assignments/05-july14-camp-prep/camp-materials-inventory-catalog.csv)
   - [materials photo evidence index](../assignments/05-july14-camp-prep/camp-materials-photo-evidence-index.md)
   - [live shared Invisible Invaders document](https://docs.google.com/document/d/1IFu_y_sYbNeNs1K4J_lD6KS4I30f8wxggX4SS38acRI/edit)
 - Design decisions:
-  - preserve Aastha's parking-lot/classroom phenomenon and activity concepts
+  - at the time, preserve Aastha's parking-lot/classroom phenomenon and activity concepts; the environmental investigations now remain as supporting evidence rather than the anchor
   - put direct evidence links beside the claims they support
   - distinguish science, evidence, access, and justice with text labels as well as color
   - expand each causal step to three substantive sentences
   - treat microscope observations as suspected particles unless chemistry confirms the polymer
-  - use covered or pre-prepared tire evidence instead of open sanding
+  - at the time, replace open sanding with covered or prepared evidence; the tire activity was later removed from the active plan
   - make neurodivergent, chronic-illness, disability, language, sensory, and multiple-identity access part of the investigation design
   - preserve Aastha's original Activities and Videos/Internet Links content while adding clearly labeled team revisions to both tabs
   - use the team's sampling protocol and SASSY table as planning anchors
@@ -173,17 +173,17 @@ OpenAI Codex (GPT-5) was used on July 1, 2026 to synthesize course materials, or
   - validate the live order-sheet headers and dropdown values, use its legacy `Getting Small` team label without hiding the Invisible Invaders team name, and leave a price/tax buffer
   - check direct retailer and laboratory-supplier links and record July 14 prices in a sortable budget file
 
-## July 15, 2026 - Invisible Invaders Gotta-Have Checklist Evidence Map
+## July 15, 2026 - Invisible Invaders Gotta-Have Checklist Evidence Map, Reconciled July 16
 
 - Tool/source: OpenAI Codex under Piter Garcia's supervision; protected Module 1 and Module 2 checklists and planning materials; the July 14 environmental-inquiry and camp-planning transcripts; and the existing Invisible Invaders explanation, activity plan, SASSY tools, and Puzzle Plan documents
 - Purpose: show precisely how the team used the course's gotta-have checklist, make the previously implicit checklist visible to campers, and distinguish indispensable causal science from activities, extensions, justice analysis, and participation design
 - Output created or revised:
-  - [five-item checklist and evidence map](../assignments/05-july14-camp-prep/invisible-invaders-gotta-have-checklist-evidence-map.md)
+  - [four-item checklist and evidence map](../assignments/05-july14-camp-prep/invisible-invaders-gotta-have-checklist-evidence-map.md)
   - [four-day activity plan](../assignments/05-july14-camp-prep/invisible-invaders-activities.md)
   - camp-prep command center, camp-folder index, artifact index, source map, and transcript index
 - Human guidance and decisions:
-  - use Piter and Aastha's indoor/outdoor phenomenon and current causal explanation
-  - keep the checklist to five causal ideas rather than turning every activity or interesting extension into another requirement
+  - use Piter and Aastha's confirmed human-body phenomenon and current causal explanation
+  - use the four course ideas Piter and Aastha selected during the July 15 meeting rather than retaining the earlier five-item draft
   - keep justice, neurodivergence, chronic illness, disability, language, sensory access, and multiple identities visible as drivers of participation and action
   - preserve July 14 class evidence through timestamps and public-safe paraphrases without publishing classmates' informal transcript content
   - make the tool usable during camp through visible numbering, model-revision symbols, multiple communication routes, and no color-only meaning
@@ -191,21 +191,26 @@ OpenAI Codex (GPT-5) was used on July 1, 2026 to synthesize course materials, or
 
 ## July 16, 2026 - July 15 Team-Meeting Commitment Pack
 
-- Tool/source: OpenAI Codex under Piter Garcia's supervision; the protected July 15 Piter-Aastha meeting transcript; current Invisible Invaders Drive documents; the existing camp plans and Puzzle Plan materials; PubMed-indexed blood, lung, tire-wear, and stormwater studies; FDA, WHO, NOAA, EPA, City of Rochester, and Monroe County sources
+- Tool/source: OpenAI Codex under Piter Garcia's supervision; the protected July 15 Piter-Aastha meeting transcript; current Invisible Invaders Drive documents; the existing camp plans and Puzzle Plan materials; PubMed-indexed blood and lung studies; FDA, WHO, NOAA, and CAST sources
 - Purpose: complete the planning work Piter committed to during the meeting before class: a cleaner template, feasible opening moments, four checklist connections, a revised human-body gapless explanation, and inclusive youth advocacy choices
 - Output created or revised:
   - [July 15 meeting commitment pack](../assignments/05-july14-camp-prep/july15-meeting-commitment-pack.md)
-  - [editable team document in the shared Invisible Invaders folder](https://docs.google.com/document/d/1QsQegxXvaDkFnD_BhWYT9qtfez46bugYwCFkmSHN_OA/edit)
+  - [editable team document in the shared Invisible Invaders folder](https://docs.google.com/document/d/1B4MPNMAHEJ_lscjyP9YBBlYeXZxCBvT781sSZoe1N5w/edit)
+  - [current opening routine](../assignments/05-july14-camp-prep/invisible-invaders-opening-routine.md) and [editable Drive copy](https://docs.google.com/document/d/1LOS9EiIFyTB-8rDQ8Q1MUnUhrqxzllQiy-oEB9J_uFs/edit)
   - [evidence-to-agency visual](../public-artifacts/invisible-invaders-evidence-to-agency-map.png)
   - camp-prep command center, camp-folder index, artifact index, transcript index, and source map
 - Human guidance and decisions:
-  - preserve Aastha's tire-wear mechanism as a concrete example while widening the phenomenon beyond one material
+  - use the team's confirmed phenomenon, **“Humans aren’t trash cans, but we have plastics in our bodies,”** as the lesson focus and move the earlier tire-based phenomenon out of the active plan
   - do not select water cleanup as the only youth advocacy outcome
-  - give youth feasible product, transportation, stormwater, school, monitoring, communication, and policy routes
+  - give youth feasible product, indoor-air, food/water, research/monitoring, communication, and justice/policy routes
   - center neurodivergence, chronic illness, disability, language, sensory access, energy, privacy, and multiple identities through the actual opening routine and action planner
   - distinguish detection from health effects and suspected particles from chemically confirmed plastic
-  - preserve the existing Friday routine while preparing a safer evidence-centered revision for team review
+  - preserve the superseded collaborative Friday brainstorm unchanged for provenance while replacing the active work with a clearly named human-body Evidence Pathway Mystery
 - Disclosure used in the artifact: Piter provided, reviewed, supervised, and guided the project context and inclusion goals; AI supported organization, source validation, accessible structure, causal-gap checking, and visual communication
+
+### Correction Recorded July 16
+
+The first version of this entry incorrectly said the team would preserve tire wear as a concrete focus. The meeting transcript and live team document show that Piter and Aastha had already replaced the tire-based phenomenon with **“Humans aren’t trash cans, but we have plastics in our bodies.”** The commitment pack, visual, editable Drive copy, source map, and repository indexes were corrected to follow that decision.
 
 ## July 1, 2026 - Corrective Reframing After Human Review
 

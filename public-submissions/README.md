@@ -17,4 +17,6 @@ This folder contains original, GitHub-clickable exports generated from the EDU48
 - [Task 7 curriculum adaptation and Monday-Friday plan DOCX](task7-curriculum-adaptation-and-week-plan.docx)
 - [Task 7 camp-ready tools DOCX](task7-camp-tools.docx)
 - [Invisible Invaders gapless explanation DOCX](invisible-invaders-gapless-explanation.docx)
+- [Invisible Invaders July 15 commitment pack DOCX](invisible-invaders-july15-meeting-commitment-pack.docx)
+- [Invisible Invaders current opening routine DOCX](invisible-invaders-opening-routine.docx)
 - [Course calendar ICS](EDU486-course-calendar.ics)

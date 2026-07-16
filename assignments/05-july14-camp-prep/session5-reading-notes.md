@@ -55,7 +55,7 @@ The article describes a coastal summer program where youth learn by doing, talki
 ## Combined Invisible Invaders Planning Sequence
 
 1. **Name the transfer goal:** youth explain how suspected microplastics can reach indoor and outdoor environments, state evidence limits, and propose system-level action.
-2. **Begin with the discrepancy:** use parking-lot, classroom, and blank evidence to elicit noticing, initial models, related experiences, and youth questions.
+2. **Begin with the agreed phenomenon:** use the human-sample evidence and its limits to elicit noticing, initial models, related experiences, and youth questions. Use parking-lot, classroom, and blank evidence later as supporting pathway evidence.
 3. **Make navigation visible:** record what the group figured out, what remains uncertain, and why the next investigation is needed.
 4. **Create equivalent evidence routes:** physical or covered sample, shared microscope view, enlarged still image, drawing, sorting, tally, oral explanation, text, home language, partner, and paper.
 5. **Compare claims with limits:** ask what each category, graph, sample, or source reveals; what it hides; and what additional evidence would be needed.

@@ -189,6 +189,24 @@ OpenAI Codex (GPT-5) was used on July 1, 2026 to synthesize course materials, or
   - make the tool usable during camp through visible numbering, model-revision symbols, multiple communication routes, and no color-only meaning
 - Disclosure used in the artifact: Piter provided, reviewed, supervised, and guided the content; AI supported organization, accessible formatting, cross-document synthesis, and traceable evidence mapping
 
+## July 16, 2026 - July 15 Team-Meeting Commitment Pack
+
+- Tool/source: OpenAI Codex under Piter Garcia's supervision; the protected July 15 Piter-Aastha meeting transcript; current Invisible Invaders Drive documents; the existing camp plans and Puzzle Plan materials; PubMed-indexed blood, lung, tire-wear, and stormwater studies; FDA, WHO, NOAA, EPA, City of Rochester, and Monroe County sources
+- Purpose: complete the planning work Piter committed to during the meeting before class: a cleaner template, feasible opening moments, four checklist connections, a revised human-body gapless explanation, and inclusive youth advocacy choices
+- Output created or revised:
+  - [July 15 meeting commitment pack](../assignments/05-july14-camp-prep/july15-meeting-commitment-pack.md)
+  - [editable team document in the shared Invisible Invaders folder](https://docs.google.com/document/d/1QsQegxXvaDkFnD_BhWYT9qtfez46bugYwCFkmSHN_OA/edit)
+  - [evidence-to-agency visual](../public-artifacts/invisible-invaders-evidence-to-agency-map.png)
+  - camp-prep command center, camp-folder index, artifact index, transcript index, and source map
+- Human guidance and decisions:
+  - preserve Aastha's tire-wear mechanism as a concrete example while widening the phenomenon beyond one material
+  - do not select water cleanup as the only youth advocacy outcome
+  - give youth feasible product, transportation, stormwater, school, monitoring, communication, and policy routes
+  - center neurodivergence, chronic illness, disability, language, sensory access, energy, privacy, and multiple identities through the actual opening routine and action planner
+  - distinguish detection from health effects and suspected particles from chemically confirmed plastic
+  - preserve the existing Friday routine while preparing a safer evidence-centered revision for team review
+- Disclosure used in the artifact: Piter provided, reviewed, supervised, and guided the project context and inclusion goals; AI supported organization, source validation, accessible structure, causal-gap checking, and visual communication
+
 ## July 1, 2026 - Corrective Reframing After Human Review
 
 - Tool/source: OpenAI Codex, Google Drive connector, GitHub/local repository context

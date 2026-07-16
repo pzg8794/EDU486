@@ -137,6 +137,17 @@ The transcript pairs Piter and Misong during specific Clean Swell, sampling, and
 
 The evidence map shows how Module 1's learning-scientist, idea-elicitation, technology, classroom-design, culture, and access commitments became Module 2's anchoring phenomenon, five-item gotta-have checklist, gapless explanation, scientific model, SASSY storyline, backward design, and critical-consciousness work. The raw July 14 transcripts remain local because they include classmates' informal speech and unverified automatic speaker labels; the public artifact uses timestamped paraphrases instead.
 
+## July 15 Team Meeting And Revised Lesson Work
+
+- [Public-safe meeting commitment pack](../assignments/05-july14-camp-prep/july15-meeting-commitment-pack.md)
+- [Editable team commitment pack in the shared camp folder](https://docs.google.com/document/d/1QsQegxXvaDkFnD_BhWYT9qtfez46bugYwCFkmSHN_OA/edit)
+- [Evidence-to-agency visual](../public-artifacts/invisible-invaders-evidence-to-agency-map.png)
+- Protected local source: `transcripts/07-15 Meeting_Lesson Plan for Microplastic Pollution-transcript.txt`
+- Team Drive source: [Friday - Anchoring Phenomenon Routine](https://docs.google.com/document/d/1hU4lpI__QZLBLoFb7JqUoE5OieErkFvLeAx4hWTqVLM/edit)
+- Team Drive source: [Invisible Invaders' Gapless Explanation](https://docs.google.com/document/d/1IFu_y_sYbNeNs1K4J_lD6KS4I30f8wxggX4SS38acRI/edit)
+
+The commitment pack preserves the team's July 15 decision to explore a human-body phenomenon, use four course checklist ideas, create an opening moment, write a revised gapless explanation, and protect more than one youth advocacy route. It also corrects evidence risks in the newer Friday routine: suspected particles are not called plastic without confirmation, staged evidence is not presented as discovered, unknown materials are not used for forced touching, and human detection is not treated as proof of harm.
+
 ## Public Web Sources Used For Microplastics Draft
 
 These public sources support the microplastics technology evolution draft:

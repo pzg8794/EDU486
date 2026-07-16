@@ -18,6 +18,8 @@ This index is the public GitHub front door. Public repo files, public submission
 - [Announcement prep folder](../assignments/00-announcement-prep/README.md)
 - [July 14 camp-prep command center](../assignments/05-july14-camp-prep/README.md)
 - [Invisible Invaders gotta-have checklist and evidence map](../assignments/05-july14-camp-prep/invisible-invaders-gotta-have-checklist-evidence-map.md)
+- [Invisible Invaders July 15 meeting commitment pack](../assignments/05-july14-camp-prep/july15-meeting-commitment-pack.md)
+- [Editable Invisible Invaders July 15 meeting commitment pack](https://docs.google.com/document/d/1QsQegxXvaDkFnD_BhWYT9qtfez46bugYwCFkmSHN_OA/edit)
 - [Course calendar import](course-calendar.ics)
 
 ## Public Visual Artifacts
@@ -35,6 +37,8 @@ This index is the public GitHub front door. Public repo files, public submission
 - [Invisible Invaders causal pathway SVG](../assignments/05-july14-camp-prep/invisible-invaders-causal-chain.svg)
 - [Invisible Invaders access pathways PNG](../public-artifacts/invisible-invaders-access-pathways.png)
 - [Invisible Invaders access pathways SVG](../assignments/05-july14-camp-prep/invisible-invaders-access-pathways.svg)
+- [Invisible Invaders evidence-to-agency map PNG](../public-artifacts/invisible-invaders-evidence-to-agency-map.png)
+- [Invisible Invaders evidence-to-agency map SVG](../assignments/05-july14-camp-prep/invisible-invaders-evidence-to-agency-map.svg)
 - [Youth STEM story slide 1](../public-artifacts/youth-stem-access-slide-1.png)
 - [Youth STEM story slide 2](../public-artifacts/youth-stem-access-slide-2.png)
 - [Youth STEM story slide 3](../public-artifacts/youth-stem-access-slide-3.png)

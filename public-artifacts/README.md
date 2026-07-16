@@ -14,6 +14,8 @@ These are GitHub-safe generated visuals made from original course work. They rep
 - [Invisible Invaders causal pathway, PNG](invisible-invaders-causal-chain.png)
 - [Invisible Invaders access pathways, SVG](../assignments/05-july14-camp-prep/invisible-invaders-access-pathways.svg)
 - [Invisible Invaders access pathways, PNG](invisible-invaders-access-pathways.png)
+- [Invisible Invaders evidence-to-agency map, SVG](../assignments/05-july14-camp-prep/invisible-invaders-evidence-to-agency-map.svg)
+- [Invisible Invaders evidence-to-agency map, PNG](invisible-invaders-evidence-to-agency-map.png)
 - [Youth STEM story slide 1](youth-stem-access-slide-1.png)
 - [Youth STEM story slide 2](youth-stem-access-slide-2.png)
 - [Youth STEM story slide 3](youth-stem-access-slide-3.png)
@@ -32,6 +34,8 @@ These are GitHub-safe generated visuals made from original course work. They rep
 ![How invisible invaders reach indoor and outdoor samples](invisible-invaders-causal-chain.png)
 
 ![Same rigorous investigation, multiple ways in](invisible-invaders-access-pathways.png)
+
+![Everyday plastic pathways leading to several youth-selected action routes](invisible-invaders-evidence-to-agency-map.png)
 
 ![Youth STEM story slide 1](youth-stem-access-slide-1.png)
 

@@ -37,6 +37,12 @@ Two additional automatic transcripts are stored locally for course-planning evid
 
 Their public-safe planning record is the [Invisible Invaders gotta-have checklist and evidence map](../assignments/05-july14-camp-prep/invisible-invaders-gotta-have-checklist-evidence-map.md). It records timestamps and paraphrased design decisions for the checklist, gapless explanation, model, SASSY table, anchoring-phenomenon routine, critical consciousness, and accessibility without republishing the class conversation.
 
+## July 15, 2026 Protected Team Meeting
+
+The local automatic transcript `07-15 Meeting_Lesson Plan for Microplastic Pollution-transcript.txt` records Piter and Aastha's planning conversation about the revised human-body phenomenon, four course checklist ideas, opening moment, gapless explanation, and advocacy choices. It remains outside the public repository because it contains informal team conversation and unverified automatic speaker labels.
+
+The public-safe work resulting from Piter's commitments is the [July 15 meeting commitment pack](../assignments/05-july14-camp-prep/july15-meeting-commitment-pack.md). It preserves the decisions and approximate timestamps, validates the science with direct sources, and separates Piter's prepared work from decisions the team still needs to make together.
+
 ## Reliability
 
 Speaker numbers are not verified identities. The source contains repetitions, garbled names, and recognition errors. Quotations or claims should retain timestamps and be checked against the recording when exact wording matters.

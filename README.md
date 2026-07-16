@@ -27,6 +27,7 @@ My working personal lens is:
 - [Assignments index](assignments/README.md)
 - [July 14 camp-prep command center](assignments/05-july14-camp-prep/README.md)
 - [Invisible Invaders gotta-have checklist and evidence map](assignments/05-july14-camp-prep/invisible-invaders-gotta-have-checklist-evidence-map.md)
+- [July 15 meeting commitments: editable team document](https://docs.google.com/document/d/1QsQegxXvaDkFnD_BhWYT9qtfez46bugYwCFkmSHN_OA/edit) / [public-safe repo version](assignments/05-july14-camp-prep/july15-meeting-commitment-pack.md)
 - [July 9 full transcript and team evidence](transcripts/README.md)
 - [Course calendar import](docs/course-calendar.ics)
 - [Public generated artifacts](public-artifacts/README.md)

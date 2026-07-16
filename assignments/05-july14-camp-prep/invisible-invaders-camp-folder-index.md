@@ -8,12 +8,14 @@ New editable planning documents placed in the shared folder:
 
 - [00 - Invisible Invaders Task 7 Curriculum and Week Plan](https://docs.google.com/document/d/1bMzIKuEpoRYIycnNoCv8HcZEbowaD5d57U9wCCq7Z6E/edit)
 - [01 - Invisible Invaders Task 7 Camp Tools](https://docs.google.com/document/d/1loBneel5T8WV3SczFOoNabaw47eHZ-Q2OMGK8smyIbg/edit)
+- [02 - Invisible Invaders July 15 Meeting Commitment Pack](https://docs.google.com/document/d/1QsQegxXvaDkFnD_BhWYT9qtfez46bugYwCFkmSHN_OA/edit)
 
 ## 00 - Start Here
 
 - [Task 7 curriculum adaptation and Monday-Friday plan](task7-curriculum-adaptation-and-week-plan.md)
 - [Task 7 camp-ready tools](task7-camp-tools.md)
 - [Gotta-have checklist and evidence map](invisible-invaders-gotta-have-checklist-evidence-map.md)
+- [July 15 meeting commitment pack](july15-meeting-commitment-pack.md) / [editable team document](https://docs.google.com/document/d/1QsQegxXvaDkFnD_BhWYT9qtfez46bugYwCFkmSHN_OA/edit)
 - [Invisible Invaders activity plan](invisible-invaders-activities.md)
 - [Plastic, carbon, and rising-temperature model](invisible-invaders-plastic-carbon-temperature-model.md)
 - [Invisible Invaders gapless explanation](invisible-invaders-gapless-explanation.md)
@@ -32,6 +34,7 @@ New editable planning documents placed in the shared folder:
 
 - [Activities](invisible-invaders-activities.md): four-day investigation foundation, equivalent participation routes, safety, and evidence goals
 - [Gotta-have checklist](invisible-invaders-gotta-have-checklist-evidence-map.md): five causal ideas, day-by-day evidence map, Module 1 and Module 2 foundations, transcript decisions, and justice/access checks
+- [July 15 meeting commitment pack](july15-meeting-commitment-pack.md): revised human-body phenomenon, opening experience, four selected checklist ideas, gapless explanation, and youth-selected advocacy routes
 - [Plastic, carbon, and rising-temperature model](invisible-invaders-plastic-carbon-temperature-model.md): physical temperature experience, accurate CO2 simulation, plastic-life-cycle connection, evidence limits, and justice prompts
 - [Monday-Friday Task 7 plan](task7-curriculum-adaptation-and-week-plan.md): Field Friday plus full camp-week sequence
 - [Camp tools](task7-camp-tools.md): initial model, Future We Want, justice map, evidence-to-action planner, model revision, showcase, and facilitator debrief

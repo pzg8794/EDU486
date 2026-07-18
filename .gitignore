@@ -2,10 +2,16 @@
 
 # Keep third-party course files and private source artifacts local.
 # The public repo documents these sources in docs/source-map.md instead.
+_local-course-materials/
+
+# Keep legacy locations protected if a download recreates them.
 Module1/
 Module2/
 announcements/
+camping/
 Save this email for camp links/
+assignments/receipt-*.txt
+transcripts/*-transcript.txt
 *.pdf
 *.doc
 *.docx
@@ -37,3 +43,4 @@ Save this email for camp links/
 
 # Local exports are for Blackboard/Drive submission, not the public repo.
 submission_exports/
+tmp/

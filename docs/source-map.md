@@ -2,6 +2,8 @@
 
 This source map keeps course provenance visible while keeping third-party and private files out of the public repository.
 
+Private files are organized under the ignored `_local-course-materials/` directory. See the [repository organization guide](repository-organization.md) for the local folder map and synchronization rules.
+
 ## Protected Course Files Kept Out of Public Git
 
 The following course sources are protected, copyrighted, or local-only. They are named for provenance, but not linked as local paths because this repository is public:
@@ -67,7 +69,7 @@ For July 9/10:
 
 ## July 10 Camp Email and Session 5 Sources
 
-The July 10 email, five attached readings, two class photographs, and the raw email attachment were downloaded into the local `Save this email for camp links/` folder. That folder is intentionally ignored by Git because it contains copyrighted course readings, student/class photographs, and an email export.
+The July 10 email, five attached readings, two class photographs, and the raw email attachment are stored in `_local-course-materials/camp/Save this email for camp links/`. That folder is intentionally ignored by Git because it contains copyrighted course readings, student/class photographs, and an email export.
 
 Public-safe links and original shared workspaces:
 
@@ -122,18 +124,19 @@ Thirty local photographs in the EDE448 source folder were inspected as evidence 
 - [Transcript index and team-evidence note](../transcripts/README.md)
 - [Clean full Markdown transcript](../transcripts/2026-07-09-class-transcript-clean.md)
 - [Raw automatic transcript](../transcripts/2026-07-09%2013_43_34-transcript.txt)
+- Protected alternate workshop export: `_local-course-materials/transcripts/raw/07-09 Teacher Workshop on Integrating Environmental Science and Social Justice-transcript.txt`
 
 The transcript pairs Piter and Misong during specific Clean Swell, sampling, and materials work, but those moments were incorrectly treated as proof of the camp-team assignment. The authoritative shared-folder title is **2026 Camp Invisible Invaders: Piter & Aastha**. The raw transcript remains preserved so the correction is traceable rather than silently rewriting the evidence.
 
 ## Module 1, Module 2, And July 14 Checklist Evidence
 
 - [Invisible Invaders gotta-have checklist and evidence map](../assignments/05-july14-camp-prep/invisible-invaders-gotta-have-checklist-evidence-map.md)
-- Protected local source: `Module1/Need to do- Checklists by session.pdf`
-- Protected local source: `Module2/Need to do - Checklist by session.pdf`
-- Protected local source: `Module2/Planning Module Content.pdf`
-- Protected local source: `Module2/2026 EDU 486 Day 5 July 14.pptx`
-- Protected local source: `transcripts/07-14 Lecture_ Environmental Pollution Inquiry and Justice-Centered Pedagogy-transcript.txt`
-- Protected local source: `transcripts/07-14 Lecture_ Science Camp Planning — Invisible Invaders, Critical Consciousness, and Modeling Framework-transcript.txt`
+- Protected local source: `_local-course-materials/modules/module-1/Need to do- Checklists by session.pdf`
+- Protected local source: `_local-course-materials/modules/module-2/Need to do - Checklist by session.pdf`
+- Protected local source: `_local-course-materials/modules/module-2/Planning Module Content.pdf`
+- Protected local source: `_local-course-materials/modules/module-2/2026 EDU 486 Day 5 July 14.pptx`
+- Protected local source: `_local-course-materials/transcripts/raw/07-14 Lecture_ Environmental Pollution Inquiry and Justice-Centered Pedagogy-transcript.txt`
+- Protected local source: `_local-course-materials/transcripts/raw/07-14 Lecture_ Science Camp Planning — Invisible Invaders, Critical Consciousness, and Modeling Framework-transcript.txt`
 
 The evidence map shows how Module 1's learning-scientist, idea-elicitation, technology, classroom-design, culture, and access commitments became Module 2's anchoring phenomenon, four-item gotta-have checklist, gapless explanation, scientific model, SASSY storyline, backward design, and critical-consciousness work. The raw July 14 transcripts remain local because they include classmates' informal speech and unverified automatic speaker labels; the public artifact uses timestamped paraphrases instead.
 
@@ -144,11 +147,20 @@ The evidence map shows how Module 1's learning-scientist, idea-elicitation, tech
 - [Current opening routine](../assignments/05-july14-camp-prep/invisible-invaders-opening-routine.md)
 - [Editable current opening routine in the shared camp folder](https://docs.google.com/document/d/1LOS9EiIFyTB-8rDQ8Q1MUnUhrqxzllQiy-oEB9J_uFs/edit)
 - [Evidence-to-agency visual](../public-artifacts/invisible-invaders-evidence-to-agency-map.png)
-- Protected local source: `transcripts/07-15 Meeting_Lesson Plan for Microplastic Pollution-transcript.txt`
+- Protected local source: `_local-course-materials/transcripts/raw/07-15 Meeting_Lesson Plan for Microplastic Pollution-transcript.txt`
 - Superseded collaborative source, preserved unchanged: [Friday - Anchoring Phenomenon Routine](https://docs.google.com/document/d/1hU4lpI__QZLBLoFb7JqUoE5OieErkFvLeAx4hWTqVLM/edit)
 - Team Drive source: [Invisible Invaders' Gapless Explanation](https://docs.google.com/document/d/1IFu_y_sYbNeNs1K4J_lD6KS4I30f8wxggX4SS38acRI/edit)
 
 The commitment pack preserves the team's July 15 decision to **replace the tire-based phenomenon** with **“Humans aren’t trash cans, but we have plastics in our bodies,”** use four course checklist ideas, create an opening moment, write a revised gapless explanation, and protect more than one youth advocacy route. It also keeps human detection from being treated as proof of harm and provides a non-body-focused access route without changing the agreed phenomenon.
+
+## July 16 Team Planning Transcripts
+
+Two additional automatic meeting transcripts remain local because they contain informal team conversation and unverified speaker labels:
+
+- `_local-course-materials/transcripts/raw/07-16 Meeting_ Camp Planning, Environmental Justice, and Student Engagement-transcript.txt`
+- `_local-course-materials/transcripts/raw/07-16 Meeting_ Microplastics Health Education Program Planning and Schedule-transcript.txt`
+
+These files are preserved as planning evidence for future camp revisions. Any public derivative should paraphrase decisions, verify claims against direct sources, and omit private or identifying conversation.
 
 ## Public Web Sources Used For Microplastics Draft
 

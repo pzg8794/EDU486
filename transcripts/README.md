@@ -6,6 +6,7 @@ This folder preserves the original July 9 class transcript and a complete readab
 
 - [Clean full Markdown transcript](2026-07-09-class-transcript-clean.md)
 - [Raw automatic transcript](2026-07-09%2013_43_34-transcript.txt)
+- Protected alternate workshop export: `_local-course-materials/transcripts/raw/07-09 Teacher Workshop on Integrating Environmental Science and Social Justice-transcript.txt`
 
 ## Camp-Team Correction
 
@@ -32,16 +33,27 @@ The raw transcript remains unchanged. This correction distinguishes a temporary 
 
 Two additional automatic transcripts are stored locally for course-planning evidence but are not published in the public repository because they include classmates' informal conversation and unverified speaker labels:
 
-- `07-14 Lecture_ Environmental Pollution Inquiry and Justice-Centered Pedagogy-transcript.txt`
-- `07-14 Lecture_ Science Camp Planning — Invisible Invaders, Critical Consciousness, and Modeling Framework-transcript.txt`
+- `_local-course-materials/transcripts/raw/07-14 Lecture_ Environmental Pollution Inquiry and Justice-Centered Pedagogy-transcript.txt`
+- `_local-course-materials/transcripts/raw/07-14 Lecture_ Science Camp Planning — Invisible Invaders, Critical Consciousness, and Modeling Framework-transcript.txt`
 
 Their public-safe planning record is the [Invisible Invaders gotta-have checklist and evidence map](../assignments/05-july14-camp-prep/invisible-invaders-gotta-have-checklist-evidence-map.md). It records timestamps and paraphrased design decisions for the checklist, gapless explanation, model, SASSY table, anchoring-phenomenon routine, critical consciousness, and accessibility without republishing the class conversation.
 
 ## July 15, 2026 Protected Team Meeting
 
-The local automatic transcript `07-15 Meeting_Lesson Plan for Microplastic Pollution-transcript.txt` records Piter and Aastha's decision to replace the tire-based phenomenon with **“Humans aren’t trash cans, but we have plastics in our bodies,”** followed by their planning for four course checklist ideas, an opening moment, a gapless explanation, and advocacy choices. It remains outside the public repository because it contains informal team conversation and unverified automatic speaker labels.
+The local automatic transcript `_local-course-materials/transcripts/raw/07-15 Meeting_Lesson Plan for Microplastic Pollution-transcript.txt` records Piter and Aastha's decision to replace the tire-based phenomenon with **“Humans aren’t trash cans, but we have plastics in our bodies,”** followed by their planning for four course checklist ideas, an opening moment, a gapless explanation, and advocacy choices. It remains outside the public repository because it contains informal team conversation and unverified automatic speaker labels.
 
 The public-safe work resulting from Piter's commitments is the [July 15 meeting commitment pack](../assignments/05-july14-camp-prep/july15-meeting-commitment-pack.md). It preserves the decisions and approximate timestamps, validates the science with direct sources, and separates Piter's prepared work from decisions the team still needs to make together.
+
+## July 16, 2026 Protected Team Meetings
+
+Two raw automatic transcripts are stored under `_local-course-materials/transcripts/raw/`:
+
+- `07-16 Meeting_ Camp Planning, Environmental Justice, and Student Engagement-transcript.txt`
+- `07-16 Meeting_ Microplastics Health Education Program Planning and Schedule-transcript.txt`
+
+They remain local because they contain informal team conversation and unverified speaker labels. Public camp revisions should use verified decisions and public-safe paraphrases rather than republishing these transcripts.
+
+See the [repository organization guide](../docs/repository-organization.md) for the public/private boundary.
 
 ## Reliability
 

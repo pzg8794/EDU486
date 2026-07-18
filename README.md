@@ -21,6 +21,7 @@ My working personal lens is:
 - [Deadlines and work due](docs/deadlines.md)
 - [Weekly work plan](docs/work-plan.md)
 - [Source map](docs/source-map.md)
+- [Repository organization and sync boundary](docs/repository-organization.md)
 - [Clickable artifact/source index](docs/artifact-index.md)
 - [PhD and Puzzle Plan alignment](docs/phd-puzzle-plan-alignment.md)
 - [AI use log](docs/ai-use-log.md)
@@ -51,4 +52,6 @@ My working personal lens is:
 
 This repository is public. It intentionally tracks original planning, assignment drafts, source maps, and reflection work. Third-party readings, Blackboard exports, PDFs, DOCX source files, screenshots, private transcript materials, health/disability details, and other copyrighted or private course resources stay local or in Google Drive.
 
-That boundary lets the repo become a professional portfolio artifact without accidentally publishing course materials or private records.
+Local source files are consolidated under the ignored `_local-course-materials/` directory. Local and remote repositories are considered synchronized when their tracked commits are identical; ignored private sources intentionally remain local.
+
+That boundary lets the repo become a professional portfolio artifact without accidentally publishing course materials or private records. See the [repository organization guide](docs/repository-organization.md) before adding or moving files.

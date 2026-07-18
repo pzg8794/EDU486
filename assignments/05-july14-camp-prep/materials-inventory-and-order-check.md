@@ -196,7 +196,7 @@ The live spreadsheet is titled **Sodus Camp Materials Orders**. The target tab i
 - **Invisible Invaders is not currently an allowed Team value.** The order uses the validated legacy label `Getting Small` and identifies **Invisible Invaders (Piter + Aastha; sheet label: Getting Small)** in every Notes cell so the team is not obscured.
 - The live Status dropdown permits `Ordered`, `Arrived`, `Bring from home`, `Asked Shellie to order`, and `at LeChase Hall`.
 
-The complete station setup and current under-$100 request are documented in the [Invisible Invaders materials plan](invisible-invaders-materials-plan.md) and [sortable budget CSV](invisible-invaders-order-budget.csv).
+The current station setup and under-$100 request are documented in the [Invisible Invaders Camp Operations Guide](../03-camp-unit-plan/invisible-invaders-camp-operations-guide.md) and [sortable budget CSV](invisible-invaders-order-budget.csv). The more expansive predecessor remains available in the [dated archive](archive/2026-07-18-pre-consolidation/invisible-invaders-materials-plan.md).
 
 ## AI Use Disclosure
 

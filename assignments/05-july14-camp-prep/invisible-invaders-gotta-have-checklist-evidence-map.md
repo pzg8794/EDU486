@@ -10,10 +10,10 @@ The human-body phenomenon replaces the earlier tire-based and parking-lot/classr
 
 ## The Four Selected Ideas
 
-- [ ] **1. Earth systems are interconnected.** Plastic particles can move among air, water, soil, food systems, buildings, organisms, and waste systems. A particle may cross several systems before it is detected.
-- [ ] **2. Water transports materials.** Rain, runoff, wastewater, rivers, drinking-water systems, and food production can move plastic particles. Water is one pathway, not the only pathway into human bodies.
-- [ ] **3. Living organisms respond to environmental conditions.** People and other organisms interact with surrounding air, food, water, and materials through processes such as inhalation and ingestion. Detection documents presence or possible exposure; it does not automatically establish harm.
-- [ ] **4. Human infrastructure influences natural systems.** Product design, manufacturing, buildings, food and water systems, waste systems, monitoring, and policy can increase, redirect, capture, prevent, or reveal particle movement.
+- [ ] 🔵 **1. SCIENCE: Earth systems are interconnected.** Plastic particles can move among air, water, soil, food systems, buildings, organisms, and waste systems. A particle may cross several systems before it is detected.
+- [ ] 🔵 **2. SCIENCE: Water transports materials.** Rain, runoff, wastewater, rivers, drinking-water systems, and food production can move plastic particles. Water is one pathway, not the only pathway into human bodies.
+- [ ] 🔵 **3. SCIENCE: Living organisms respond to environmental conditions.** People and other organisms interact with surrounding air, food, water, and materials through processes such as inhalation and ingestion. Detection documents presence or possible exposure; it does not automatically establish harm.
+- [ ] 🔵 **4. SCIENCE: Human infrastructure influences natural systems.** Product design, manufacturing, buildings, food and water systems, waste systems, monitoring, and policy can increase, redirect, capture, prevent, or reveal particle movement.
 
 ```mermaid
 flowchart LR
@@ -36,11 +36,11 @@ flowchart LR
 
 After every experience, campers answer the same five questions:
 
-1. **What did we do or examine?**
-2. **What did we observe or learn from the source?**
-3. **Why might it happen?**
-4. **Which checklist idea does the evidence support, complicate, or leave unanswered?**
-5. **What should we add, change, question, or remove from our model?**
+1. 🟢 **EVIDENCE: What did we do or examine?**
+2. 🟢 **EVIDENCE: What did we observe or learn from the source?**
+3. 🔵 **SCIENCE: Why might it happen?**
+4. 🟢 **EVIDENCE: Which checklist idea does the evidence support, complicate, or leave unanswered?**
+5. 🟠 **JUSTICE/ACTION: What should we add, change, question, or remove from our model, and what might people change in the system?**
 
 Campers may point, draw, speak, type, dictate, record audio, work with a partner, or use home language. Every route still requires evidence, causal reasoning, uncertainty, and model revision.
 
@@ -89,10 +89,12 @@ Campers may point, draw, speak, type, dictate, record audio, work with a partner
 ## Connected Work
 
 - [Shared Invisible Invaders Google Doc](https://docs.google.com/document/d/1IFu_y_sYbNeNs1K4J_lD6KS4I30f8wxggX4SS38acRI/edit?tab=t.0)
+- [Current Camp Operations Guide](../03-camp-unit-plan/invisible-invaders-camp-operations-guide.md)
+- [Current editable SASSY Storyline Table](https://docs.google.com/document/d/1fGOjSkEFxsy5UC5n75UIi9aE_-sKOhyeRx9sY8CAUWU/edit)
+- [Completed daily lesson plans](https://drive.google.com/drive/folders/1safaE0FAhNHiHRCgexqPKf0WXME8lcQg)
 - [Current gapless explanation](invisible-invaders-gapless-explanation.md)
-- [Current lesson activities](invisible-invaders-activities.md)
-- [July 15 meeting commitment pack](july15-meeting-commitment-pack.md)
 - [Evidence-to-agency visual](../../public-artifacts/invisible-invaders-evidence-to-agency-map.png)
+- [Archived July 15 commitment pack](archive/2026-07-18-pre-consolidation/july15-meeting-commitment-pack.md)
 
 ## AI Use Disclosure
 

@@ -1,48 +1,41 @@
-# EDU486 Deadlines and Work Due
+# EDU486 Deadlines And Work Due
 
-Dates are from the local [syllabus](source-map.md#local-course-files-kept-out-of-public-git) and [Module 1 course materials](source-map.md#module-1-local-sources). Confirm Blackboard updates before final submission.
+Dates combine the syllabus, July 10 email, July 16 class planning, and current team decisions. Items marked **confirm** were not completely settled in the transcript.
 
-## Immediate Work
+## Current Camp Timeline
 
-| Date | Work Due / Event | What To Prepare |
+| Date | Work / Event | What must be ready |
 | --- | --- | --- |
-| June 29, 2026 | [Pre-class announcement tasks](../assignments/00-announcement-prep/README.md) | Learning scientist image/reflection, syllabus comments, youth STEM story image-only slides, calendar dates |
-| July 1, 2026 | [Module 1 reading/prep](source-map.md#module-1-local-sources) | PICRAT reading/video, classroom design, Ambitious Science Teaching excerpt, Science in Action video, equity zine, and access questions for neurodivergent/chronically ill/CLD learners |
-| July 7, 2026 | Freedom School neighborhood asset map | Bring questions about local knowledge, youth interests, community assets, bodymind access, language access, and environmental evidence |
-| July 9/10, 2026 | [AI technology evolution mini-narrative](../assignments/02-ai-technology-evolution/ai-history-microplastics-narrative.md) | Use an AI tool to explore how a camp-theme technology evolved; prepare a 5-minute informal narrative and reflect on AI's usefulness, limits, and access assumptions |
-| July 12, 2026, bedtime | [Camp t-shirt idea form](https://docs.google.com/forms/d/e/1FAIpQLSfhFq0XBOP8OhJuP2TT-0EIncmK8h2dQp1vjPEAgjVWurRdUQ/viewform) | Overdue: complete and submit the design/pin preference form |
-| July 12, 2026, bedtime | [Camp t-shirt size roster](https://docs.google.com/spreadsheets/d/1p0zSJzPNdGzKTBoTDYXLzTXItBEHb_CX5bHh1m1cvKg/edit?gid=112167864#gid=112167864) | Complete: Piter Garcia is listed as Adult Medium, Camp Teacher |
-| July 14, 2026 | [Visualizing our Grounding Frameworks, Part 1](../assignments/01-grounding-frameworks/grounding-frameworks-part1.md) | Submit a visualization of JuST Framework plus technology's supports, constraints, access tensions, and tradeoffs |
-| July 14, 2026 | [Invisible Invaders gapless science explanation](../assignments/05-july14-camp-prep/invisible-invaders-gapless-explanation.md) | Complete: Piter + Aastha working revision added to the [shared Google Doc](https://docs.google.com/document/d/1IFu_y_sYbNeNs1K4J_lD6KS4I30f8wxggX4SS38acRI/edit) while preserving Aastha's original phenomenon and activity ideas |
-| July 14, 2026 | [Session 5 readings and Heather Table](../assignments/05-july14-camp-prep/session5-reading-notes.md) | Complete: five reading rows filled in the live table, including the requested Ippolito row |
-| As soon as needs are known | [Camp materials order sheet](https://docs.google.com/spreadsheets/d/1rAuGt8iT-CAx4Oy1cqz_SsVQqqPzi5mE9v7pRCODSAo/edit?gid=1535708448#gid=1535708448) | Team budget is $100; compare requests against the photographed supplies before ordering |
+| **July 18-20, 2026** | Invisible Invaders preparation | Pilot four-jar model; check out equipment; prepare map, cards, forms, and daily plans |
+| **Tuesday, July 21** | Freedom School staff review | Bring materials and lesson plans; meet teachers/staff; gather feedback; this is not full setup |
+| **July 21-23** | Revise and pack | Apply staff feedback; assign co-teaching roles; pack Field Friday bins |
+| **Friday, July 24** | Charlotte Beach Field Friday | Four-jar model, six-site sand sampling, team formation, family showcase note |
+| **July 25-26** | Process and prepare | Preserve youth questions; process evidence; prepare Monday stations |
+| **Monday, July 27** | Camp: anchor and first model | Human-body anchor, fragmentation, first pathway model, map launch |
+| **Tuesday, July 28** | Camp: evidence analysis | Sand/filter observation, prepared fish evidence if approved, source jigsaw, model revision |
+| **Wednesday, July 29** | Camp: justice and advocacy | Neighborhood/power maps, scientist circle, advocacy art, tri-fold draft |
+| **Wednesday, July 29, 10 p.m. working target** | Poster file to April if printing is needed | **Confirm exact cutoff** before relying on this time |
+| **Thursday, July 30, around noon** | Camp showcase | Final model, titled advocacy art, science/justice/action tri-fold, multiple presentation modes |
+| **Friday, July 31** | Camp feedback, reflection, and goodbye | Feedback map, final reflection, next action, cleanup |
+| **Friday, July 31, 1:30-3:00 p.m.** | Course poster fair, LeChase 215 | Piter's individual research-informed practice poster |
+| **Saturday, August 1** | Final camp unit and daily lesson plans | Submit revised plan with implementation evidence |
+| **Tuesday, August 4** | Grounding Frameworks Part 2 | Revised visualization and cumulative reflection |
 
-## Planning and Camp
+## Current Source Of Truth
 
-| Date | Work Due / Event | What To Prepare |
+- [Invisible Invaders Camp Operations Guide](../assignments/03-camp-unit-plan/invisible-invaders-camp-operations-guide.md)
+- [Preparation and decision board](../assignments/03-camp-unit-plan/invisible-invaders-camp-operations-guide.md#preparation-board)
+- [Shared Invisible Invaders folder](https://drive.google.com/drive/folders/1ZX08NvxOa5yx3gAOdBEccWFGcw07xZJ6)
+
+## Earlier Completed Work
+
+| Due | Deliverable | Evidence |
 | --- | --- | --- |
-| July 16, 2026 | Planning module work | Draft unit/camp arc, activity flow, access roles, materials, and assessment evidence |
-| July 21, 2026 | Camp overview and daily lesson plans finalized | Printed/shareable draft for Freedom Scholars teachers with visual routines, low-energy paths, role cards, and multimodal evidence |
-| July 24, 2026 | CAMP Day 1 / setup and field trip | Materials, facilitation roles, access observation plan, daily reflection system |
-| July 27-28, 2026 | Freedom School camp days | Facilitate, collect STEM and access evidence, revise lesson plans daily |
-| July 29, 2026 | Freedom School showcase, 12-1 p.m.; poster printing deadline by bedtime if April prints | Showcase materials; poster draft/file if requesting printing |
-| July 30, 2026 | Reflect and say goodbye with campers | Final youth-facing reflection and cleanup |
-| July 31, 2026 | Poster fair, 1:30-3:00 p.m., LeChase 215 | Research-informed practice poster; be ready to serve as lead explainer |
-
-## Final Submissions
-
-| Date | Work Due | Repo Artifact |
-| --- | --- | --- |
-| June 29, 2026 | Announcement prep tasks | [Announcement prep folder](../assignments/00-announcement-prep/README.md) |
-| August 1, 2026 | Final camp unit plan and daily lesson plans | [Camp draft](../assignments/03-camp-unit-plan/planet-protectors-camp-unit-plan-draft.md) |
-| August 4, 2026 | Visualizing our Grounding Frameworks, Part 2 | Revise [Part 1 framework](../assignments/01-grounding-frameworks/grounding-frameworks-part1.md) with camp evidence and submit the brief cumulative reflection |
+| June 29 | Pre-class announcement tasks | [Announcement prep](../assignments/00-announcement-prep/README.md) |
+| July 14 | Grounding Frameworks Part 1 | [Part 1](../assignments/01-grounding-frameworks/grounding-frameworks-part1.md) |
+| July 14 | Gapless explanation and Session 5 readings | [Camp-prep reference](../assignments/05-july14-camp-prep/README.md) |
+| As soon as needs were known | Team materials request | [$86.79 order](../assignments/05-july14-camp-prep/invisible-invaders-order-budget.csv) |
 
 ## Tracking Rule
 
-Every major deadline should leave one of these traces in the repo:
-
-- a submitted draft
-- a revision note, especially when access barriers or identity-safety issues appear
-- a source/evidence note
-- an AI-use note if GenAI helped
-- a next-action item for final polish
+Every major deadline should leave a reviewed artifact, source/evidence note, access revision, and AI-use disclosure when applicable.

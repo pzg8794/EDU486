@@ -32,8 +32,8 @@ The design stance is: **access barriers are not thinking barriers**. Technology 
 | Module | Dates | Core Work |
 | --- | --- | --- |
 | I. Getting Grounded | June 30-July 14 | JuST Framework, technology integration frameworks, community knowledge, classroom design, equity, local expertise |
-| II. Planning | July 16-July 23 | Design Planet Protectors camp overview and daily STEM lessons |
-| III. Camping | July 24-July 30 | Facilitate camp at Freedom School; revise plans responsively |
+| II. Planning | July 16-July 23 | Design the Invisible Invaders camp storyline, Field Friday investigation, and daily STEM lessons |
+| III. Camping | July 24-July 31 | Facilitate Field Friday and camp week at Freedom School; revise plans responsively |
 | IV. Reflecting | June 30-July 31, with poster fair on July 31 | Synthesize learning as a "learning scientist" through a research-informed poster |
 
 ## Course Labor

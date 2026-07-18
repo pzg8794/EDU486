@@ -1,0 +1,1714 @@
+# July 16, 2026 - Camp Planning, Environmental Justice, and Student Engagement
+
+**Source:** Automatic meeting transcript.
+
+**Editorial note:** This is a complete readability-formatted copy of the automatic transcript. Timestamps and speaker labels are preserved, but speaker identities and machine-recognized wording have not been verified. Check the recording before using exact quotations.
+
+
+## 00:00:00 Speaker 1
+
+Economic students. So how can we get kids to show that these things matter? That's going to involve us talking about the content and the ideas and also thinking about what kids are likely to do. So both of those kind of main areas are at the table. But the way that this one's going to go is remember our norms of wanting to hear all the voices. I don't want to do a full popcorns. What I mean is like you have an idea, you just kind of jump in it. Idea of one mic at a time, so we're going to ask for the volunteers going.
+
+## 00:00:30 Speaker 1
+
+Share their answer. But then when you look up, what was really great is everyone had stuff they wanted to add in. So either with eye contact or body language, I want you to show the person that you have something to add. And that person will choose, because there's gonna be more than one I hope, and say 'oh what do you think?' or 'what are you thinking, so and so?' Then they're gonna build on it that way. The person speaking has all the power of who gets to go next with a collective goal of wanting to hear from everybody. Sound good?
+
+## 00:00:57 Speaker 2
+
+And we'll try to use names.
+
+## 00:00:59 Speaker 1
+
+There's a huge change there. Do you want to go first because I know your hand was up first last time? Sure.
+
+## 00:01:05 Speaker 3
+
+Can you restate the question?
+
+## 00:01:07 Speaker 1
+
+Thank you.
+
+## 00:01:10 Speaker 4
+
+How can we get kids to understand that these topics matter?
+
+## 00:01:15 Speaker 5
+
+That was Bobby, right? It was more like health and socioeconomic something.
+
+## 00:01:20 Speaker 1
+
+It was at the systems level, trying to go through just beyond the science but this impacts human health, socioeconomics and it's a justice.
+
+## 00:01:35 Speaker 2
+
+I think the fact that we're rooting this in their community and basing our investigations with materials that come from their space is a great start in terms of making it realize that it matters to them because it's one thing to be, here's a video of people in California who found this stuff over there.
+
+## 00:01:58 Speaker 3
+
+Versus, let's go to the beach that you've probably swam at or you've at least know people that have swam there. Take that water and look at that. And maybe you don't eat fish, but I've accidentally swallowed water at the beach.
+
+## 00:02:16 Speaker 3
+
+That's a little scary. So I think just making it really personal and not be the root of our activities are coming from their community and using materials that largely come from their community is a good first step. Moss, do you have something to add?
+
+## 00:02:41 Speaker 7
+
+So I haven't seen these memes in a while, but for me, I love to connect with kids about memes. I find six seven incredibly funny. I love anything like Slav. Or like, I don't have TikTok. So whenever I go to my friend's houses, I'm like, please can we watch Slav? Can we watch Slav? Because I can't be allowed to have it on my phone. It's not. It will suck my time away. But I'm allowed to have it as a treat. But I know that there are memes about microplastics and like kids do speculation and do science all the time without realizing it through their memes. And sometimes those memes carry political messages that they're not.
+
+## 00:03:26 Speaker 7
+
+Quite aware, are being or maybe they don't understand. So for example, when the genocide in Gaza was making the news, there was a lot of memes around Netanyahu and Trump. But unfortunately these memes were taking an antisemitic perspective. And while there are so many valid critiques of what's going on, that's not using that line of reasoning is not one of them. So I want to know, how are kids memeing about microplastics? Because I know they know about microplastics because it's a buzz term. It's something that people joke about. It's like if you're drinking a hot water bottle that's been sitting in the car for weeks, you'll be like all right, time for my dose of microplastics.
+
+## 00:04:23 Speaker 7
+
+How are kids joking about it, and how can we analyze their political insights into it and their scientific questions and misconceptions that are put out there in the form of humor?
+
+## 00:04:42 Speaker 4
+
+How can we meet them where they are?
+
+## 00:04:45 Speaker 1
+
+What had a new dynamic hopefully because I saw people get ideas halfway through Moss's explanation, like taking notes. In a good way. Also, make your wanting to jump in more visible too, so that the speaker knows. You're writing stuff. Like and not in a bad way, but so then the person knows, ooh, other people are making are thinking. Right so.
+
+## 00:05:06 Speaker 7
+
+And my eyes go all over the place when I'm thinking and talking, so you might have to wave me down to do it.
+
+## 00:05:12 Speaker 5
+
+Do you remember the video Molly had shown us? There's a video of a turtle.
+
+## 00:05:17 Speaker 8
+
+What is that? It's like a portal. It's a really famous movie or animation. I would say, it's showing a little young one. Not Nemo, it's Totoro. I bet you've seen this one. It's one you cannot not feel sad. It's a baby Totoro. It's a main character. For the camp.
+
+## 00:05:42 Speaker 5
+
+I was thinking of comparing water from a normal water bottle versus comparing it when you add hot water. Remember you told me not to drink coffee in that thing. What if we add hot water, normal water and then compare it? See the rule of one variable. I was thinking in terms of variables.
+
+## 00:06:04 Speaker 4
+
+Of one variable?
+
+## 00:06:06 Speaker 9
+
+If you only change one variable, you can consider it to be causal. I was thinking, if we only change the one variable of how hot the water is in the bottle and then look at the water inside, we could probably see more microplastics in the tap water.
+
+## 00:06:24 Speaker 5
+
+Observation. And then there was, who gets access to health facilities more? And then if kids get to see that, see, in COVID, who got more health facilities if their community gets that access if they go through that process.
+
+## 00:06:48 Speaker 8
+
+I like raise my hands. I actually write down really similar idea what she said. But I'll go back to the socio economic state. I really like the idea when we went to the freedom school there. Brandon showed us that there's two different streets that even though it's just the street that like the crosswalk, crossing but he shows us that. Street and I was always trying to figure out there's must be a reason behind why he does this, and I think it's going back to the socio economic state which is there are people that like the main idea of the plastic is obviously important for our health, but there are people that eat that more than others. And then that kind of connects to those two separate street ideas.
+
+## 00:07:45 Speaker 8
+
+There is a street that looks super clean. There are trash cans everywhere on the street, and then we have another street where the trash is just around those streets. I obviously think those streets impact more plastic pollution than others. It's unfair. People do not choose to live around plastic obviously, but I was always wondering why this matters. Why does knowing this unfairness always matter? That's what I was thinking the whole time, and I hope one of you guys answers this for me.
+
+## 00:08:21 Speaker 4
+
+Why what was the question?
+
+## 00:08:22 Speaker 8
+
+Why knowing the unfairness is a matter, and that's things I always couldn't figure out. Because I feel like sometimes if they know this is unfair than others, they're gonna just feel hopeless, which is something I don't want kids to feel like that.
+
+## 00:08:42 Speaker 10
+
+Oh yeah, sorry. So respond one be sunset. One, slightly tangential. If you went on that walk, that's the same street but like it was split. It was like this street here, and then like almost like a block over the street continued. And it was that there where she described. I also learned that the plastic free street side of the street, they have something called green lights. The other side does not. One of the people at the church shared that with me. For those who don't know, green light is an internet service where you have to be connected to each other's internet services and have a shared commitment in your most immediate neighborhood, like on your block. The other side of the street doesn't have that. Oh! Which says something about connectedness and affordability and what people pay for. But that's not here. Which side has?
+
+## 00:09:41 Speaker 10
+
+The side that is more up, the side of less trash.
+
+## 00:09:49 Speaker 3
+
+Because this is where Freedom's Hall is. They do have green lights here.
+
+## 00:09:54 Speaker 10
+
+So green light here, not where the coffee shop goes on.
+
+## 00:09:57 Speaker 7
+
+Can I jump on that for one second?
+
+## 00:10:01 Speaker 10
+
+Sorry I didn't mean to throw it aside. It's all right.
+
+## 00:10:04 Speaker 7
+
+And then it's a meeting with you chats. That is really pertinent because I live in the nineteenth ward. My Wi Fi sucks, but no other companies will service our area because of redlining. We are stuck with Spectrum and that's it. So we are stuck with the shitty Wi Fi because the other companies will not build infrastructure out to us.
+
+## 00:10:30 Speaker 10
+
+So cause that was piece one cause I only know she had brought up the idea of frustration. And getting them upset, I'll be fast. I agree, or I've also wrestled with that because what happens if we tell them in this case, moss? We don't know. We know that the clothes you wear have plastics in it, and it's possibly poisoning your body. And you have no choice but to wear those exact same clothes the next day. Then what if framed correctly?
+
+## 00:11:10 Speaker 10
+
+There's often something you can do about it, and that is still a very powerful thing. You're teaching them about how to reuse certain clothes. How patches can be a reclamation of your identity. And that helps you decrease your diet intake even if you can't control it. So yes.
+
+## 00:11:30 Speaker 1
+
+I think "quick" in mind is more of a thank you. Where I struggled in the beginning of the conversation.
+
+## 00:11:40 Speaker 1
+
+Georgie started, and there was a very much of connecting the student to the problem. And I got that. And I was having a really hard time, and I always do. It's something you have to wrestle with, connecting it to the broader systems until Nisong mentioned the streets and the map and seeing it at a broader societal level. I didn't get the why would I care? I can get it at the personal level, but once you see it at the bigger scale, like what's that connection to me? And through that conversation, I was able to feel and see that through line which was.
+
+## 00:12:10 Speaker 1
+
+I think, I just wanted to call it out in a good way. Cause I did, I started leaning and I'm like we're not getting to the society part. And then for me it shifted once you brought up the streets. Cause that brought the problem to a whole new level and new scale. But it maintained the connection to the student which I think that mattered. And anyway was leading into this as well.
+
+## 00:12:27 Speaker 9
+
+So I think one of the things about teaching kids stuff like this is that it doesn't get to the systems level. I think we stay at the literal level, and the literal level puts blame on individual humans. Like we talked yesterday or Tuesday about Amazon purchases and choices and how many choices you have and all of that. I really would love to help kids see at the big level who makes money off of making plastic and who pays the price for all the plastic that's made.
+
+## 00:13:08 Speaker 9
+
+The systems level, we can impact it. It's just not a personal choice. Awareness matters. Knowledge matters. Individual choices matter because it helps us vote differently. But policy and policies are at a level that isn't so kid friendly, they don't vote yet. But the people in positions of power make really important decisions. And I would love for us to help them think about the fact that.
+
+## 00:13:38 Speaker 9
+
+It does not hurt everybody the same. It hurts the most vulnerable amongst us the worst.
+
+## 00:13:46 Speaker 4
+
+I just wanted to say two things before I forget. The first thing was that I like the fact that you brought two personalizers, so kids can relate to it. The first thing I had in mind was kind of like showing them exactly what it looks like, whether it is a five to ten minutes video and then asking them questions like, Do you eat fish? Do you like swimming, which most kids do like swimming, or any activity that clearly exposes them to the harm. That is that we can show in the video. And I think that will give them some way to start thinking about whether that matters to them or not. So, the one that loves eating fish or the one that loves swimming for example. Oh shoot! I'm actually drinking water every time I swim.
+
+## 00:14:35 Speaker 4
+
+Something I did when I was a kid. So it's the second aspect of that, which started with, as and then you know, kind of like we're like, oh I wanna see. How does that look like the furniture aspect of it? And you touch, you know very good point of that. But there is something that it's even more clear that we most of us actually are aware of, if you see most of the pollution that is dumped is mostly done in the marginalized community. It will never be done in a community where people are highly educated or it's rich in resources. It'll never happen, and it actually got so bad to a point in which there's a state I forgot, which one it is, where so many kids are so sick right now because of the water, and this is a chronic illness. There's no cure. They're sick for life, and it's something that happened because.
+
+## 00:15:28 Speaker 4
+
+The water was polluted. And because of materials, micro stuff, you know that went whether it's metal or plastic. It's the same way mechanism in which it travels. So I think showing them how marginalized communities are affected. The most is also a way to show them how fairness is important here. And that this, for example, your friends, you the people that you care that you relate to. They are being affected the most because you might live in an area where you don't see this. But there are other areas in which kids like you are being exposed and harmed.
+
+## 00:16:06 Speaker 1
+
+I'm gonna jump in for a quick second. Now could be a great time to jump in, revisit your model and be like, ooh, what have we learned? That was the first milestone in that. That was with that style of kind of going everyone spoke once. So that's why I wanted to cut it off there. I know we were supposed to do it for like half an hour, and that was great. But I wanted to give a chance to unpack what happened and give you more time to get back to work too. We made a couple of announcements as well. Two different ways of facilitating discussions. We want kids to talk couple things that hopefully you'd notice you listen differently for the different styles. It's hard to not like want to jump in but who was there? I guess I need.
+
+## 00:16:54 Speaker 1
+
+Quick reactions from you all in terms of
+
+## 00:16:57 Speaker 3
+
+I personally like the second style better because when I have something to say, I disengage from listening. So if I'm late in the circle and I don't want to forget the thing I want to say, I stop listening and I even felt it from Moss, because I knew I wanted to say something when he first said, and I had a wait, and I was trying to be attentive, but I couldn't forget what I wanted to say. It's like talking to myself in my head rather than listening. I had the advantage of starting, so I didn't. I was like, 'Oh, I spoke,' so then I could just listen the second time. But I think it helps to be able to be like, 'Okay, I am ready to speak now and give the signal and speak,' so then I can listen again. That's just my self.
+
+## 00:17:41 Speaker 1
+
+Only reason we did it that way is because I want to take. It's not an either or. And I agree, because I know there is it takes risk to be like well, have someone saying I have to lean in. That's active for you to initiate it, and that doesn't always work.
+
+## 00:17:55 Speaker 3
+
+And like that is something I am, I like to talk and I am pretty outgoing. I am someone that can do that. I'll be like April. But not everyone can do the other.
+
+## 00:18:04 Speaker 1
+
+The other fun part about that dynamic. As soon as someone wants to jump in, people start speeding up in a different way. The waiting changes when you are just taking your.
+
+## 00:18:13 Speaker 4
+
+Have an idea why, don't we do both?
+
+## 00:18:16 Speaker 1
+
+It's not meant to be an either or You know what I am saying?
+
+## 00:18:18 Speaker 4
+
+It just gave me an idea of what she was saying. Sometimes maybe the person next to you is actually ready. See if he's ready. If not ready, then the person that was talking picks one. Whoever the person thinks it was, ready to speak. Kind of you gave me that idea.
+
+## 00:18:37 Speaker 1
+
+No wrong way that other quick thing that I wish we did, especially in the first circle. So many good scientific ideas came out that would be the perfect time for someone at the board jotting them down. Because it's really, I know, and I was like, "Oh, the ship sailed."
+
+## 00:18:54 Speaker 9
+
+We have our whiteboards being wonderfully used. Scribing is really great. And if there's two of you as camp teachers and one person's facilitating, it would be great for the other person to jump up and just be scribe.
+
+## 00:19:10 Speaker 7
+
+How they describe?
+
+## 00:19:11 Speaker 9
+
+And if there's a kid who needs a little special love, have them scribe and be their whisper in the ear.
+
+## 00:19:19 Speaker 5
+
+Your scribe. Do we have permission to audio record this?
+
+## 00:19:23 Speaker 9
+
+Sure. You just ask them if it's okay if I record. I want to pay attention to this later for our planning my lesson.
+
+## 00:19:32 Speaker 4
+
+I don't audio record but I transcribe it so I can facilitate that for you. I literally have a device that transcribes.
+
+## 00:19:41 Speaker 9
+
+So science circles are something that's actually transformed science classrooms. It says something serious is happening and that we need to be paying attention, and it's different than the individualistic work that school has taught us to do. So some people swear that this is like it. So any one of your four routines that we talked about on Tuesday, the navigational routine, any of those routines best happen here with something in hand.
+
+## 00:20:11 Speaker 9
+
+Something where they've done some thinking and can look back at and use as a support is super important.
+
+## 00:20:22 Speaker 3
+
+The most annoying thing in classrooms is desks without wheels. Why? Desks without wheels.
+
+## 00:20:29 Speaker 4
+
+Desks without wheels.
+
+## 00:20:29 Speaker 3
+
+I've been thinking about it lately.
+
+## 00:20:36 Speaker 5
+
+Are you a science major? Like, who's the science major? Bioengineering. What type of science? Cause I'm a computer science major. So be specific. I'm a computer and data science major.
+
+## 00:20:52 Speaker 3
+
+We have the rolling chairs with the flip up desk arm, and even in math, I was like you just turned to partner with someone, then you can turn to the front, then you can push them on besides to get up. I went to private school so had that system. But you can stim in your chair though. You could put the thing down if you want to sit like openly. You put it up when you have to work. And I was frustrated by it. Because in the readings last night, we were talking about the layout of a classroom and how we could have a circle discussion in a math class or getting up to do boards, board work.
+
+## 00:21:33 Speaker 4
+
+It was me and then down.
+
+## 00:21:40 Speaker 2
+
+Can't afford to do it. I know. Or just move it here.
+
+## 00:21:44 Speaker 1
+
+And I don't know where to start because they were all over in two minutes.
+
+## 00:21:48 Speaker 9
+
+Can you go to slide six first? Yes. These are the scientist circle: True Circle: Bring something to the circle, establish the norms and pretend you did a great job; ask open-ended questions that require explanation; give independent time to think.
+
+## 00:22:10 Speaker 9
+
+Avoid judgment. Ask questions like, "What do you think of that?" "What data might support that claim?" Can someone rephrase what Maya just said in their own words? And keep a public record.
+
+## 00:22:21 Speaker 2
+
+Of the discussion.
+
+## 00:22:24 Speaker 1
+
+You guys are all grad students and did many of these things naturally. The students pulled it out. You would need to be in a good way, I think we're going to end up facilitating some of it. There was a noticeable change when we just started using each other's names; it was different. Encourage that, encourage all of the other things. But they both reminded me to do things. It was easy to just be part of it. You'll need to feel more ownership.
+
+## 00:22:54 Speaker 9
+
+And as a poster of talk moves, I would like to disagree with so and so's idea because those talk moves, if you have a poster, and Brandon has really nice handwriting clearly, so people love to write for you. But those would be great artifacts to have in your space. Next pointers Friday. So big questions about what's happening on our first Friday camp day. It's going to be complicated but it's going to be great. These times might be adjusted by a little bit we're figuring that out, but Brandon and one member of.
+
+## 00:23:38 Speaker 9
+
+Team will attend with students at school, and then you'll all ride the bus out to us. You guys decide who's going to set up at the beach and who's going to school. Then April and the other member of each team will bring materials out to Charlotte Beach to set up with wagons. Every team should have their own wagon because that's how you can store materials, all nice and organized. We have wagons here; we'll get a wagon.
+
+## 00:24:08 Speaker 9
+
+Bus arrives at Charlotte Beach, we'll say at nine forty five. And we are all going to be enthusiastically welcoming them. And we're going to give them an overview of what's happening. Then as soon as you can, you are going to land and launch round one. So you'll be working with you two will be working to do round one. Everybody has twenty five minutes to do all round. And all around means some little activity about your team, and then some sampling whether it's sand, water, or litter.
+
+## 00:24:47 Speaker 3
+
+Do we do it with everyone all at once, or is it like they rotate? They rotate.
+
+## 00:24:52 Speaker 9
+
+So you'll have about three kids each round. So round one, three kids, I will blow a whistle or Zen or Brandon. Somebody will say time to move like one minute until. Then everybody moves clockwise. You get a new group of kids, and you're going to collect two different samples. So that you may have collected two samples closest to the water tower or whatever the thing is.
+
+## 00:25:22 Speaker 1
+
+The pier? The lighthouse!
+
+## 00:25:23 Speaker 9
+
+Lighthouse! Thank you. Maybe it's the farthest way. You can take two samples of water, one on each side closest to the lighthouse. The next group of kids comes, and you're going to do two samples, one on each side of the pier midway. And then the last one will be two kids at the beginning. And same with sand or litter. You are going to be thoughtful about six different locations, and you are going to be scientific with your kids about where you are collecting. So latitude and longitude would be great. Latitude and longitude of those sites. And then water samples, we're going to go with numbers. Start with one closest to the sand, two, three, four, five, six farthest away.
+
+## 00:26:05 Speaker 9
+
+Sand samples, we're going to go with A B C D E F.
+
+## 00:26:11 Speaker 7
+
+So we have that map the grid. Where is that? And can we slash? Will we be printing versions of that for the kids to have in their further?
+
+## 00:26:27 Speaker 9
+
+Sure, I think that's a good idea. Another thing we did at Marion is we put flags so the kids could see where samples have been taken while they're still there—little orange flags. And then we could write the latitude and longitude on those flags, bring those flags back and put them on Google Earth.
+
+## 00:26:50 Speaker 3
+
+Wait, how do we actually collect the water? Go down here and just reach it. You're gonna get a metal.
+
+## 00:26:57 Speaker 9
+
+Bucket with a rope. And you're gonna drop it in, scoot it up, got it, and not use a child in the water.
+
+## 00:27:09 Speaker 3
+
+I am a good swimmer, in case I'll have to dive in and get them. You said 'child.' I don't want to. I am going to tell them all. We're going to find microplastic in the water. I don't want to dive in after you into this one. There is waders
+
+## 00:27:24 Speaker 9
+
+Water people, there are hip waders. That is so one thing I want to stress is if you can do something in an embodied way. That involves your whole body, do it. Embodied learning is hugely, hugely valuable and we don't get to do that in school very often. So if you can do it little or you could do it big. Put on the hip waders and splash out in and get a water sample. That would be great. Now would that be one of us or would that be the kid? You take the kid! And the kid gets waders on? Yeah!
+
+## 00:27:58 Speaker 9
+
+You just have to be careful because waders get stuck. The safety of waders is that they can get stuck. You have to be willing to let your later wader go if you get stuck and you are feeling scared. Just step out of the wader and let your shoe get wet; it's fine. You'll be fine. But towels, spare towels probably be if we're bringing waders, which I am a big fan of, then we'll bring towels. Messes good messes too. So we'll do round two, then we'll do round three. And at round three, we stop wherever the three kids that are with you on round three, we go around and we hand them choice cards. And while they're with you, you help that group say, 'This my first choice of camp. This my second choice of camp team. This my third. This my first choice of fellow camper, which is a friend I want to be with. Second, third.' And then you hand it to Brandon and Brandon will go away and make magically make teams that won't explode and that have equal numbers. And then we'll know who our teams are.
+
+## 00:28:57 Speaker 9
+
+Before they leave on Friday
+
+## 00:28:58 Speaker 7
+
+Magically, that's grouping is hard.
+
+## 00:29:02 Speaker 9
+
+That's going to take hours. I believe in you. So that's choice parts we'll have lunch. I think I don't know what no means.
+
+## 00:29:10 Speaker 3
+
+It's no way it's the activity.
+
+## 00:29:13 Speaker 9
+
+Or activity.
+
+## 00:29:16 Speaker 3
+
+Was gonna do today after this, I got to go get soil.
+
+## 00:29:19 Speaker 9
+
+So we're gonna get pizza. That's just all right. They were going to lead an activity with all the kids about the fact that if you put
+
+## 00:29:27 Speaker 3
+
+So we're gonna get organic materials like food scraps and plastic materials and bury them in soil and let them start decomposing over the next week. And bring them to the beach. During lunch, we'll pass around these jars with gloves. The kids can dig in and look at what happens to the food scraps versus what happens to the plastic. Hint: nothing will happen to the plastic. Food's gonna be gross. That's gonna be their little. Can we take a picture of the before? We're gonna do that and we're gonna pass around the befores first. They'll make their observations of what it looked like and what they think hypothesize what it'll look like.
+
+## 00:30:12 Speaker 7
+
+Are you doing a cooking show style where you have ones that you've made that day that are day one?
+
+## 00:30:18 Speaker 3
+
+We could do that. We'll take pictures in case I don't. I'm not that organized to recreate them.
+
+## 00:30:27 Speaker 9
+
+Then Brandon will say, "Here is our team's," and you'll take your group somewhere, and that's going to be your special little bonding time. You could do some team bonding activity, maybe that ends with a bracelet or a sand sample in a necklace or some such thing. Then you are going to send that home with them to get excited for what's going to happen on Monday. So if you are going to fish dissect fish on Monday, work it in. This introducing your camp team. That's your anchoring phenomenon routine. Do you remember that? You guys are going to do your anchoring phenomenon routine and collect some questions on post-it notes, hopefully or some version at the beach. And somehow get them to say, gosh, well how would we know if there's any microplastics in a fish? Like how would we know that it's anywhere if we can't see it right? Like so you can get to microscopes, but you could also get to, well, let's look into a fish.
+
+## 00:31:24 Speaker 9
+
+And then we can dissect fish with it. Monday, I mean eleven forty five bond, and you are going to send a note home. One of your to do lists is to write a note to the families, dear parents and guardians. This is Asta and Peter.
+
+## 00:31:41 Speaker 1
+
+I skipped slides. So that was oops.
+
+## 00:31:43 Speaker 9
+
+And showcase is coming on Thursday at twelve. Please join us. Brandon, is there a normal way that your team, like the scholars, stay in touch with parents? Is it just emails or phones? It is primarily email.
+
+## 00:32:04 Speaker 10
+
+Primarily email. The main point of contact for parents is pickup and drop off. That's the most guaranteed time, so you make it extremely meaningful because parents are busy. Parents' availability for a variety of reasons can be very restricted. We value that the most, but with that being said, email and text are important too.
+
+## 00:32:27 Speaker 3
+
+So we're there for pickup and drop off, not necessarily pickup every day.
+
+## 00:32:32 Speaker 9
+
+We should be there for both.
+
+## 00:32:33 Speaker 3
+
+We are there on drop off and pickup.
+
+## 00:32:35 Speaker 9
+
+We won't be the first Friday, but we should if you rode out to switch places, if you got to bond with the kids on the way out, switch places. What about cars? I mean I could, no, that just stay the same person. But when you come back, the people who rode the bus, your goal is to remember a recognition for your three kids and say it to the parents. So like it was so great to work with Jamiqua today. She had the most insightful question to ask us about my project. I can't wait to work with her all week. Something short like that and have a recognition.
+
+## 00:33:22 Speaker 9
+
+So then we'll circle up. We'll do identity beads, chant, announcements, recognitions and chant. On the recognitions, it's day one. So people are going to be nervous and not want to do it. So we have to do it soon. The kids will take over and you won't be needed except to make sure that every kid gets one. So as adults, we pay attention to who didn't get one, and we make sure they don't miss out.
+
+## 00:33:46 Speaker 3
+
+They'll just take over. And everyone will want everyone to get one.
+
+## 00:33:52 Speaker 3
+
+I know.
+
+## 00:33:55 Speaker 9
+
+So last Friday, if you scroll down a little bit, the maybe not. You guys are taking care of water. The invisible invaders are going to take care of sand, and you guys are going to take care of plastic clothing, litter seeps, litter pickup, which is with the apps and the iPads. Things, yeah. Any questions about Friday? So you'll come home with six samples of sand, six samples of water, and all kinds of data on litter that needs to be analyzed. Hey, math person. We could be graphing right? Computer science people, maybe we could be doing some analysis with our right? So be thinking about that, but that's where.
+
+## 00:34:48 Speaker 9
+
+You need to analyze either sand or water or litter, or all three or any two. Make sure the data they collect makes sense.
+
+## 00:34:59 Speaker 7
+
+So while we're collecting samples with the kids, our group is focused on one kind of litter pickup. One group will be doing the marbles.
+
+## 00:35:14 Speaker 9
+
+You'll have access to all the groups.
+
+## 00:35:18 Speaker 9
+
+We'll have six samples of sand, six samples of water. We'll know where those came from. The litter samples have GPS tags that you take a picture of. So the data analysis.
+
+## 00:35:28 Speaker 3
+
+Every group will have six and six.
+
+## 00:35:30 Speaker 9
+
+We, as a camp, will have six samples, of which everybody can tap into.
+
+## 00:35:37 Speaker 3
+
+So are we putting together all the samples from one location into one pool?
+
+## 00:35:42 Speaker 9
+
+They'll be one jar of sand that we can all take out of. One jar of water that we can all take out of, right? You don't need that much to sample from.
+
+## 00:35:54 Speaker 3
+
+But wait, I don't know why I'm still confused. So six jars of water total. But if we're taking the kids through the process of sampling, are they every group sampling from all six places? Got it.
+
+## 00:36:09 Speaker 9
+
+So you're collecting two samples in the first round, and in the next round with kids, they're collecting two different samples. The next round you're collecting the final two samples. Each group gets two water, two sand, two. You can or you could share like it really depends then on your research question. If somebody wants the water's going to be more applicable to us. You could say I want to see if going away from the pier, farther away from the pier makes a difference.
+
+## 00:36:44 Speaker 9
+
+Or going farther away from the beach makes a difference, or the two sides make a difference. And then you could average the two, all of the choices on both sides, and compare east to west. Because the jet streams go from west to east. So you would expect more to be that side than this side. But maybe it gets all clogged on the pier. They could have different reasons to ask different questions, and they have samples to choose from. We want to help them think, like scientists, in picking which samples do we need if we ask what question. Does that make sense? And then what that means for you guys when you're helping them choose where to collect the samples, you want to leave as many possible choices open as possible. Help them think systematically, thoughtfully, not just randomly.
+
+## 00:37:37 Speaker 5
+
+So basically they're not directly jumping into collecting samples.
+
+## 00:37:45 Speaker 7
+
+Welcome and overview of the morning.
+
+## 00:37:48 Speaker 9
+
+But then even when they get to your group, you get to decide whether you want to start by saying, 'I'm going to do my anchoring phenomenon routine with you guys first,' or we're going to do our sampling collection. You need about ten to twelve minutes for each one. And I'm always bad at doing time the first time and leave a little extra because we're all brand new at it, and then we get tighter.
+
+## 00:38:15 Speaker 3
+
+Friday's.
+
+## 00:38:18 Speaker 1
+
+This was just my I should have screenshotted all the talking about it reminders for you. There are at least two of you and then April, Brendan and I, we support do kind of our job is to make sure that you are successful and whether or not it's jumping in with you or saying, this kid needs a quick water break, take him for a walk. That's fine too. Like, there's all kinds of folks collectively, kids have fun, learn, learn science that are seen and are valued. The recognition matters. Those are the things that we really want to happen. The things to be thoughtful about team teaching doesn't just happen. It takes thought it's relationship building it matters so share wins, there's always going to be stuff that you're excited to do and facilitate
+
+## 00:39:12 Speaker 1
+
+Can be an issue if your partner is excited to do and facilitate all the same things. Make sure you guys share. That idea of sharing the ways to deal with different roles as you facilitate. Have someone be note taker, have someone else. They also experiment. You want learners as well. Kids first, but we also want you to see different things. Talk with kids, especially between activities, either content wise, like so many cool, scientific insights and conjectures and ideas are going to come through that. Also just what did this weekend? Don't draw lines that don't need to be drawn. It's all on the table. But use those transition times because even just looking at all the activities on what day is it today? Thursday. On Tuesday, it's like oh my god, what are we going to do? And now you're like oh my god, I have so much to do. How's it all going to fit? Using those again in between times snack time, just like a check in. Introducing kids
+
+## 00:40:16 Speaker 5
+
+So that's in your. I know we talked about having reading sessions with the kids. So are we doing that as an individual group?
+
+## 00:40:30 Speaker 9
+
+Individual? So that's a great point. One I didn't say before, I gave you the reading about literacy and discipline, like learning English, learning literacy while you're learning a discipline. The reason is because we're all reading teachers, right? We just need to be kids need us to be reading teachers as well as whatever other things we do. That's this was that example, if we wanted to have some reading in our camp.
+
+## 00:41:01 Speaker 7
+
+One plastic bag that book's great because it's talking about taking plastic bags and crocheting them into new fabrics and textiles. I should go with you.
+
+## 00:41:12 Speaker 9
+
+There are five books that are all really great. I love them. I've been collecting them for my husband's museum. This is a very simple lesson plan, and the goal is not to make your life harder but to make your life easier. If you had one for each day, you could decide who's bringing what materials. Then, if you like, the puzzle piece is just what's the gotta have element? This is supposed to hit. What's the technology you're integrating so that you have some of those time checks? Nobody's gonna say you didn't write a lesson plan. Like that's not the point. The point is to have a plan. Consistency.
+
+## 00:41:57 Speaker 3
+
+It's just a way to organize it.
+
+## 00:41:59 Speaker 9
+
+And that leads to Tuesday. What's going to happen on Tuesdays is you're going to have all of your materials ready. And then you're going to have whatever you have ready by Tuesday. We're going to be here first, get some stuff in our cars and touch base. We don't need to park. Flashing is fine. We can just flash her because that's what we did last year. I think it's awesome and then we'll get our act together and answer questions. But then what we're going to do is go.
+
+## 00:42:39 Speaker 9
+
+School and leadership for people who've been working at Freedom School, and you're just going to talk through your plans. People who know the kids really well are going to give you advice. That's going to be our first attempt to go, we can be responsive to that. That's great.
+
+## 00:42:54 Speaker 4
+
+I have a question. Tuesday, July twenty-first is when we set up over there?
+
+## 00:43:03 Speaker 9
+
+It'll be all over by then. What July thirty-first?
+
+## 00:43:06 Speaker 4
+
+Twenty first.
+
+## 00:43:07 Speaker 9
+
+The twenty-first is Tuesday. That's when we're going to bring all of our stuff over to the Freedom School.
+
+## 00:43:14 Speaker 4
+
+Over to a school. We stay there?
+
+## 00:43:17 Speaker 9
+
+We're just to meet with the teachers and talk through our plans, and then we're gonna go home. And then on Friday
+
+## 00:43:25 Speaker 4
+
+When we go and settle
+
+## 00:43:27 Speaker 9
+
+All of our stuff will be there at the Freedom School, except for the stuff that we're bringing to the beach, which we'll keep off site. But then when we start next Monday, hopefully everything's mapped out and will be there. Except you are going to go, 'Oh crap, April, I forgot,' and we're going to just make it not happen.
+
+## 00:43:46 Speaker 3
+
+So that's good because I need a lot. But that we have till Friday because I am just bringing them to the beach. And you are going to forget stuff.
+
+## 00:43:57 Speaker 9
+
+And you are going to decide on new stuff. All that's fine. We're just gonna do the best that we can.
+
+## 00:44:02 Speaker 3
+
+My airport activity is Amazon shopping for this class.
+
+## 00:44:08 Speaker 9
+
+I know that feeling, but you can let me do it too.
+
+## 00:44:11 Speaker 3
+
+I told Mi Song I was like, "I love online shopping," so any excuse to go online shopping.
+
+## 00:44:19 Speaker 7
+
+Before I go to bed, I am on Craigslist and Facebook Marketplace. I am looking at the free section to see what people are giving away. I got some vintage card tables. One is a chessboard with two cutouts for counters, and one has a scene of horses on it.
+
+## 00:44:34 Speaker 3
+
+That's really fun.
+
+## 00:44:35 Speaker 7
+
+It's free. It's for me.
+
+## 00:44:39 Speaker 1
+
+Quick reminder: I am sure it's going to happen. You will have everything that you need. Middle of next week, or not the week after? The one next part, so we do it in Sodus and then go out harder. U L R is not that far down the road, and we have yeah, if it's something we can get, we will get it to you. If it's something that they'll make do with what we have there, we'll do that. Figure out now. Expect to have that whole crap moment. What do I do? I thought I had this, but I don't.
+
+## 00:45:10 Speaker 3
+
+Got it. And then that's not good.
+
+## 00:45:12 Speaker 9
+
+And I gave also this pep talk yesterday, because it was a little she was a little like, what am I going to do? You're going to go back and forth between oh my gosh, I am not ready. And that's when you feel like oh my gosh, I'm totally freaking out. Those feelings you put in your head, you can undo those by saying this is Camp. If I care about kids and we have fun, it's a win-win. We're successful, right? And then if you are over here having a ball and you are like, 'I don't know if they're learning anything,' then you know maybe you like lean into this side, right? Like but really fun is the priority. Relationships matter. Your job is to learn culture that's different than your own. If you are doing those things and then trying to throw some technology in there and trying to do some justice-centered pedagogy, awesome.
+
+## 00:46:04 Speaker 9
+
+This is your chance to practice in a low stakes space, and our job is to amplify your input. You are putting effort in. Our job is to make sure it goes well. And we're going to do that with the kids. The kids are going to put in some effort; your job is to make sure it goes well. And we can all do that. We can all make sure that nine kids have an amazing week and learn some really great stuff. And like we've learned many times, once they pick up trash on the beach and notice how much is there, they will never unsee that. Like plastic will be something that they have deeply seated memories about them being change agents in their own lives for the rest of their life. So you're changing lives and that's really, really cool. And it makes all of this work worth it most days. I think that's it.
+
+## 00:46:59 Speaker 1
+
+I didn't bring anyone to post here.
+
+## 00:47:02 Speaker 2
+
+It's great.
+
+## 00:47:06 Speaker 1
+
+It's meant to take things off the plate. We know there were worries, and we have our presentation on Friday. What does that look like and do? This is a little bit different. But we created a template for you of what this academic poster looked like. We're hoping it looks a little bit different than other academic posters. We'll email this. We'll put it on Blackboard for you. It's already pre.
+
+## 00:47:32 Speaker 3
+
+Preformatted. I've never had to make anything like this just because of my major, but that's it.
+
+## 00:47:36 Speaker 1
+
+That's true. And it was like new for me once I came over here.
+
+## 00:47:39 Speaker 3
+
+I've seen them, I've admired them, I've just never made one.
+
+## 00:47:43 Speaker 1
+
+This template should be preset to go to the printer. It's already three feet by four feet. The smallest font on there is twenty four or twenty smaller than that. So you're getting at these like our goal for a poster is not the come in words. It's that's not the point. This is meant to be a starting place. We tried keeping it very. Try stuff around, move it. But what you will hopefully see, this at least gives you a sense of like, here is the stuff that I am supposed to talk about. Research question right? So it's not your phenomenon, it's not your essential question. Just like all right, we're going into camp looking at learning or kids learning.
+
+## 00:48:26 Speaker 5
+
+Time sorry oh okay sorry Each.
+
+## 00:48:36 Speaker 9
+
+Each person that's correct. It's crazy. Each person is making one and you're paying attention. If you want to pay to have the same research question, great. If you want to collect the same data, great, but your pictures, your layout, your interpretation of the data that you collected will be your own. So good. That's what I really want to do, to have your research question with your activities because you mark the activities that have data that you're going to collect for your research question. If you care about identities, maybe you're asking them some questions that you're going to audio record about. Did you feel like a scientist today? Or, maybe it's just identity beads that you pay attention to. When did they feel what? Identity beads would be great.
+
+## 00:49:29 Speaker 9
+
+Great data. If you just like my three kids across the week, what did they choose for themselves? Why did they say what they chose? Audio record, tell me why you chose beads. You chose. That's beautiful. That's identity if you want to talk about engagement. And one other thing I forgot to tell you, I'll show you right before you walk out the door. It's a online repository for photos.
+
+## 00:49:59 Speaker 9
+
+And I'm going to keep bugging you to put them all there, all the ones you take. I'm a mom. I take lots of pictures. So you will have pictures of your children whether you took them or not, they will be there. And those will be great on your posters as well. And I'm also a big fan of printing them, because not everybody has the money to buy photographs and put them on their refrigerator. And I think everyone should have the possibility of seeing their kid in a lab coat doing science that they can hang on their refrigerator. Are the parents coming to our exhibition? If you invite them, to the first. On Friday? You can invite them. You can say your kids is going to be on Thursday, and ours is going to be on Friday and there'll be food at both.
+
+## 00:50:56 Speaker 7
+
+So true, food is the best way to show up.
+
+## 00:51:03 Speaker 1
+
+Sorry, just change it, move stuff around, make things sense. Any type of things are just stuff to care about. It's not going to be the crazy significant figures and graphs and the tables. There might be some tables. You're going to have a lot of pictures. You're going to have a lot of quotes. You're going to have pictures of, again, identity beads, no one else, but you will. No one, an identity is. So at the presentation, just having a picture of it. Ooh, what is this? How does this work? And then you hold the posters to foster interaction. You tell the story.
+
+## 00:51:36 Speaker 3
+
+And this is based on camp, we don't have to do sources and research.
+
+## 00:51:41 Speaker 9
+
+Cool. However, if something pops up and I look it up, you could have your discussion. Findings are the data; discussion is why does this matter? If you've read something and you want to connect it to something else, whether it's this class or a different class.
+
+## 00:51:57 Speaker 3
+
+On my own. That's fine.
+
+## 00:51:59 Speaker 1
+
+It's there, but don't go get everyone is using the just framework is kind of right.
+
+## 00:52:04 Speaker 6
+
+Your question about learning is probably going to tie into that in some way, shape or form because that's going to say why those quotes matter. That's going to say so all the way that I phrase. So you have to tell us what camp was a phenomenon. Put the data together with a theoretical framework. What does it say? Use the framework to.
+
+## 00:52:23 Speaker 1
+
+So stuff is, and it's something that feels a little overwhelming now. This is meant to structure it. Don't worry about formatting; that's kind of less important. Here is a template you can change as much as you want. Living camp is going to do so much of this for you. And just paying attention to the kids like things are going to rise to the surface by asking that question before camp, you are already going to be tuned into it differently. Got it?
+
+## 00:52:50 Speaker 9
+
+Ooh, great question Wednesday!
+
+## 00:52:54 Speaker 9
+
+Thursday, right? Thursday night.
+
+## 00:52:56 Speaker 3
+
+Would you submit your.
+
+## 00:52:58 Speaker 9
+
+I know who the printed order they are, because I got them on the ready. But like this question of twenty third thirty syllabus, so I do need that by ten p m because I want to stay awake until ten p m. And I am going to mail them to her so that whenever she gets to the office they're there and she's printing them. Got it because they're going to be sent.
+
+## 00:53:24 Speaker 3
+
+And they're printing them on Friday morning. That's a luxury that we even get. Ten p.m. Thursday night is the due date for the project basically.
+
+## 00:53:38 Speaker 9
+
+And the just framework could be your framework. But also it could be that amazing visual that you made, picrack together with the just framework. Remember you made that visual.
+
+## 00:53:49 Speaker 3
+
+That project here framework.
+
+## 00:53:52 Speaker 9
+
+The framework you made.
+
+## 00:53:55 Speaker 8
+
+Wait, I'm sorry.
+
+## 00:54:02 Speaker 9
+
+I'll tell you a deadline too. The framework, just framework? You did oh, you didn't do it because you're auditing the class. But everyone else has made the picrack, the choosing your technology to do important things for you with the just framework.
+
+## 00:54:21 Speaker 6
+
+And that visual could be what you put on your poster.
+
+## 00:54:27 Speaker 2
+
+Or it could be just.
+
+## 00:54:30 Speaker 3
+
+Is this a good time to go to my house to get soil and food scraps?
+
+## 00:54:38 Speaker 9
+
+Everything work time, assemble stuffs time again, this is our room, so I'm going to put some mugs up before you leave here.
+
+## 00:55:09 Speaker 5
+
+Is it possible to call someone and talk to students? Who does the cleaning in their area? Let's do that. I'm going to make that happen for my group.
+
+## 00:55:28 Speaker 9
+
+I love it around their homes. I'm going to show you how to log into something. I'm going to find out.
+
+## 00:55:49 Speaker 1
+
+The question I think. What do you have? It's all too late. I was going to get them ready because the thinking is still taking a race.
+
+## 00:56:06 Speaker 7
+
+I erase this question? Because I'm going to start deconstructing this and making sure everything's clear.
+
+## 00:56:10 Speaker 2
+
+My passwords are there. I have one day pictures of all my important things, and one day Kevin gave me myself.
+
+## 00:56:18 Speaker 9
+
+Probably not that way. I don't know if this is in that. Now I always search for Kevin to find anything. It's my Kevin note. Does he know where?
+
+## 00:56:36 Speaker 1
+
+Kevin Leusen? That quote that you love, that's always my search to get Kevin's email.
+
+## 00:56:42 Speaker 9
+
+So if you could try this, go to smugmug.com.
+
+## 00:56:53 Speaker 2
+
+See if this carries. Try to get real science all one word. At I think I'm putting Warner. And then if it's still correct but it's Capital Lumen L.
+
+## 00:57:15 Speaker 7
+
+The sound as I migrate stuff over here onto this. I think that 2020, we have an interesting thing because we're kind of starting at the end of this whole process and working our way backwards. So I'm going to make some progress here. We have some data from this landfill, and then as our very first step down here, they'll be filling 2026 initial model in observing the microplastics.
+
+## 00:57:52 Speaker 2
+
+You can see all kinds of interesting stuff.
+
+## 00:58:22 Speaker 7
+
+How are we going to go? 2026. Who would make these carbon-first? Plastic can't be turned into normal pathways of doing it from the fossil fuel fibers and doing it from recycled ones. It's not always just from recycled ones. Then we get to the drop of the fast fashion, where we're talking about how does it get from the factories to us. We've seen the end of the process, the beginning of the process, and how it gets to us. How does it get from us to the end of the process? What can we do about it?
+
+## 00:59:13 Speaker 10
+
+What is our typical Italian scientist? How do we develop this idea?
+
+## 00:59:24 Speaker 5
+
+The thing we did with making a circle, finding just a circle. Is that called the Socratic method?
+
+## 00:59:32 Speaker 2
+
+It's similar to the Socratic method. It's actually in the literature. It's just called a Socratic circle because it's not exactly. 26 readings per week. I'm going to create a new folder for before previewing.
+
+## 01:00:06 Speaker 9
+
+I think they're going well. I have one concern, a kind of silly concern, but I can't help feeling it's a little too many. I know it's better than nothing, but I think that's to be expected.
+
+## 01:00:24 Speaker 8
+
+It's weird. We have a lot that's not addressed. It's a lot, and we've obviously been using a lot of materials to make the gallery. That doesn't really matter, but still, there are a lot of fun things, and then we can decide which ones should go into the gallery because we like all the ideas very much.
+
+## 01:00:50 Speaker 1
+
+And you might think about doing it, but it might not be cutting quite a way. We're going to do the same thing. Say there's two activities, one day there's not time for both. And we have two who want to do this with me and wants to do that. That's true. And you can like everyone doesn't have to do the same thing.
+
+## 01:01:06 Speaker 8
+
+For the art activity that they love art.
+
+## 01:01:10 Speaker 1
+
+And I guarantee you're gonna have one person who would do art every single day.
+
+## 01:01:14 Speaker 8
+
+Yeah, the thing is, we wouldn't have three kids. So like I'm, not sure if that's like, yeah, great. Yeah.
+
+## 01:01:42 Speaker 1
+
+So I'm thinking of adding a few things, adding a scientific circle and a reading session every day.
+
+## 01:01:48 Speaker 5
+
+A short reading session. So what's that look like? It looks like we come into a circle, right? Five of us and then we bring a short article every day according to theme. And then if we have yet to choose the pieces that we're going to bring, we're trying to read.
+
+## 01:02:24 Speaker 1
+
+Here we go. The idea I love the intention. I think we're gonna pick Brandon's brain in a second. The worry, not in a bad way, is it too much like school? Doesn't mean that it's not don't do it. There's lots of other ways to do it as well. My routine every day, you'll see I know Freedom School or the Freedom Scholars literacy is a big push there. So they do have a lot of reading. They do anyway. If it's on top of that, it might be too much. If it's just as a something, but I think that changes. I wouldn't the teacher and sees that as like a purposes like there is a lot of good content we're going to bring in. And the reading is how you get the content. Are there other ways to do it? Might be, might not be. Then it might be discussions or it might be instead of every day, maybe a couple the few kids you have partner up.
+
+## 01:03:22 Speaker 1
+
+You're gonna become, we're gonna do this one together. We're gonna do this one together and then do a jigsaw and share what you found out. So there's that. That was only a concern.
+
+## 01:03:32 Speaker 5
+
+I was thinking of starting a circle on how you would communicate this to your parents.
+
+## 01:03:43 Speaker 2
+
+Mhm Like that maybe like that.
+
+## 01:03:48 Speaker 5
+
+And another idea, I will actually support that idea. I'll make this happen. Calling an official. If this was Nepal, I would do it on my own, but I don't know where to call. Calling an official to ask where the dumping area is for the area, like the garbage is collected from the area where does it go? How about the road cleaning system in their area? Just like calling one person and maybe the entire camp can do this.
+
+## 01:04:20 Speaker 5
+
+Just. And then like having you know having a soup pot.
+
+## 01:04:28 Speaker 1
+
+Just to hear about it kind of thing. It made me think of another idea too. Have the kids sometimes just giving them something to think about before they leave, like, if you guys can pay attention. Are your streets going to be cleaned over the weekend? Or when was the last time you saw the street cleaner out? Because it's something I'm sure they have seen before. Just as I got it, I'll wait for them to think about it over the camp over the weekend.
+
+## 01:04:56 Speaker 5
+
+Or like first, on Friday, asking them if they know when their area gets cleaned.
+
+## 01:05:06 Speaker 6
+
+And then if they don't know, it becomes a joint venture to find out because I know I'm
+
+## 01:05:12 Speaker 1
+
+I used to do it probably like for a summer job way back in college. I was like, Ooh, I know. I've been to local dumps in the area because we've had to bring a bunch of garbage there. I'm like, I don't know even though I live in Rochester, I don't know the answer to that.
+
+## 01:05:30 Speaker 5
+
+The reason I ask this is the reason I really want this to happen is in Meridian, Doctor April in Meridian. When we were trying to do an advocacy project, they were throwing out names of governor and mayor. They were kind of feeling lost.
+
+## 01:05:49 Speaker 9
+
+Didn't know who their mayor was, which is funny, but they also don't have a mayor. But they have a town supervisor. Town, supervisor. And then the woman that we thought was their town supervisor, no longer is so we would have to help them. I think they'll know Malik Evans as their mayor, but maybe not. I bet we could get Malik Evans to come to our thing.
+
+## 01:06:13 Speaker 1
+
+This is a complete tangent. He's been super active.
+
+## 01:06:17 Speaker 10
+
+He's had positive relationships with the Freedom Scholars. He actually came to our last social action last year.
+
+## 01:06:25 Speaker 9
+
+So we could invite him if he has time.
+
+## 01:06:28 Speaker 7
+
+Okay, yeah,
+
+## 01:06:32 Speaker 9
+
+But we just need to figure out who's going to speak to him and about what. If we're going to have him there, I would just really like for us to be prepared. Please, good American person, please do this. Yes.
+
+## 01:06:46 Speaker 1
+
+Are you thinking like for camp or for showcase to just come in and see?
+
+## 01:06:49 Speaker 5
+
+I was thinking about the showcase.
+
+## 01:06:50 Speaker 1
+
+That's what I was picturing too.
+
+## 01:06:52 Speaker 5
+
+I was thinking of any official
+
+## 01:06:54 Speaker 1
+
+Like any.
+
+## 01:06:56 Speaker 5
+
+Official, someone who works.
+
+## 01:06:59 Speaker 9
+
+I wonder about Mitch Gruber. Do you know Mitch?
+
+## 01:07:01 Speaker 10
+
+Did he come to class last year? He also has a positive relationship.
+
+## 01:07:06 Speaker 9
+
+Mitch Gruber's at me.
+
+## 01:07:07 Speaker 10
+
+And Jeremy got to meet with him soon in August.
+
+## 01:07:12 Speaker 9
+
+You need to meet with him.
+
+## 01:07:14 Speaker 10
+
+Oh, like.
+
+## 01:07:16 Speaker 9
+
+We need to get him to come. I think he might be a good person to talk with before the showcase, which would be when we invite press. So I think Malik would be it; it would be a reciprocal thing. He'd be happy to have that press, and we'd be happy to have his attention. So I think that might be a win-win. But I think we could get Mitch Gruber to come to just be interviewed by kids. Or maybe Mitch Gruber's aide—like I think we can get something. I can work on that.
+
+## 01:07:47 Speaker 10
+
+Who is Mitch Gruber?
+
+## 01:07:54 Speaker 9
+
+He came to our tree talk. We had a tree talk showcase when we were running an after school club. He presented and it was great. So I think we could get Mitch Gruber.
+
+## 01:08:08 Speaker 5
+
+What's the spelling GRUPE R.
+
+## 01:08:11 Speaker 1
+
+B E R.
+
+## 01:08:24 Speaker 2
+
+I got this. I think it's time to my fingers. The numbers are hard.
+
+## 01:08:37 Speaker 1
+
+This yours?
+
+## 01:08:40 Speaker 10
+
+Just want to make sure it's thank you for reminding me. Can you unplug it so I don't forget? I can thank you so much, appreciate it.
+
+## 01:08:52 Speaker 1
+
+But the musical chairs. I don't know who's the template email. I feel like the dogs with the squirrel and just chase the next ball that's bouncing.
+
+## 01:09:12 Speaker 2
+
+So our showcase now is on the 31st. It's thirty. Oh my god, in this podcast 30. Yeah. So this is day five. It's 20th to 29th. The 29th is Wednesday. Day five, I was going to send it to day four. It's still day four. So July 30th is day five showcase and day six for camp will be just advice.
+
+## 01:09:48 Speaker 1
+
+We are going through six.
+
+## 01:09:50 Speaker 1
+
+Before We're just out of time.
+
+## 01:09:52 Speaker 9
+
+Just for Harambe and a quick goodbye.
+
+## 01:10:01 Speaker 5
+
+Not my question. So.
+
+## 01:10:11 Speaker 7
+
+Everybody's trying to have you heard the activity? Please go to an American person.
+
+## 01:10:18 Speaker 7
+
+Inclusive, American person out like it's basically a challenge of how do you make as many kids fit on one chair as possible. So that way no one gets left out. It's more and more of a challenge to get people to fit on the same chair.
+
+## 01:10:37 Speaker 5
+
+Is it a challenge with people who are playing?
+
+## 01:10:46 Speaker 8
+
+And his wife were married at the public market.
+
+## 01:10:50 Speaker 10
+
+You can't even make that up.
+
+## 01:10:57 Speaker 1
+
+Just so everyone knows, I'm posting that poster template in the final module, so it's there, and I'm emailing it to everyone as well. You have it in two spots.
+
+## 01:11:15 Speaker 5
+
+Is what?
+
+## 01:11:30 Speaker 7
+
+I was thinking about the question, where are your clothes going to be in five years? And that is a foundation of model making. Then I was thinking about where my clothes would be in five years. Hand-me-downs to somebody else in my community, to somebody my mom knew. Or I would get hand-me-downs from my mom's friends' kids. How do hand-me-downs affect identity? Because I know.
+
+## 01:12:01 Speaker 7
+
+I have a couple of my friends who are trans girls, and they have a bunch of their clothes from their mom. It doesn't necessarily represent their identity, but you still grew up with your mom, and your mom's identity is influencing you through your fashion and that's fun expression. That's cool. I don't know if that's in scope.
+
+## 01:12:21 Speaker 10
+
+It might be tangential to Jason, but still a cool thing to keep thinking about or incorporating into conversations.
+
+## 01:12:31 Speaker 5
+
+I'm thinking of giving them three jars when we're at the beach, and then the idea is to see how plastic differs in each jar, the number of plastics. And for that, I was trying to keep it justice oriented in a sense that each jar is labeled with a place name. Yes. And those places I wanted it to be the place name from where the kids are. But I don't know. Could you help me with that?
+
+## 01:13:06 Speaker 10
+
+Let me see where the kids are, so where they are in the camp? Or where they like to live individually?
+
+## 01:13:11 Speaker 5
+
+Live like. Which areas do they live? If I could know the name.
+
+## 01:13:18 Speaker 10
+
+That's a very good question because there are nine kids. I don't know which of the three that your team will get. And even amongst those three might be in different neighborhoods. So they're not all from the same neighborhood.
+
+## 01:13:32 Speaker 5
+
+If I could, right now, if I could just get that list.
+
+## 01:13:37 Speaker 10
+
+What's the possible neighborhoods that they're from?
+
+## 01:13:39 Speaker 5
+
+Yes. Or we could do it on Tuesday as well if you miss it.
+
+## 01:13:42 Speaker 10
+
+One hundred percent. Off the top of my head, if you want something now, one is probably Beachwood. Which is the area that we're in. Another is probably nineteenth ward.
+
+## 01:14:05 Speaker 10
+
+And another. Three's. One four six two one.
+
+## 01:14:20 Speaker 5
+
+One four?
+
+## 01:14:21 Speaker 10
+
+Six two one, that's the area code.
+
+## 01:14:24 Speaker 5
+
+I thought that was the name.
+
+## 01:14:26 Speaker 10
+
+But that area is often defined by area code. Cause that area code actually represents a couple of different neighborhoods, like small neighborhoods. But it's a very specific part of the east side of Rochester. It's the neighborhood next to Beachwood.
+
+## 01:14:53 Speaker 10
+
+and then there are like sub neighborhoods within this one area here so.
+
+## 01:14:58 Speaker 5
+
+Were you there when we did this slide with what happened in COVID? Which class was this where we talked of the map in Rochester? Then there was this data on COVID during COVID time. Something had happened with those different.
+
+## 01:15:23 Speaker 10
+
+Yeah, yeah,
+
+## 01:15:25 Speaker 5
+
+And I actually don't know what class
+
+## 01:15:27 Speaker 10
+
+But I know what you are talking about.
+
+## 01:15:29 Speaker 5
+
+Just trying to connect some more with that.
+
+## 01:15:33 Speaker 10
+
+If what I'm thinking about is matching what you're explaining, it kind of showed which neighborhoods were more impacted by COVID. Is that right? Yes.
+
+## 01:15:53 Speaker 5
+
+The idea was that those neighborhoods had fewer populations of white and black.
+
+## 01:16:01 Speaker 10
+
+And it showed kind of like the tradition, and you know the lower economic ones, the more black, the more brown ones being called. So those neighborhoods that are listed are our neighborhoods that would have been more impacted by COVID. Especially this one.
+
+## 01:16:32 Speaker 10
+
+That's what you're talking about. There's a part of this neighborhood called the Upper Crescent that was heavily impacted by COVID, but with that said, I don't know how many kids you'll be having coming from one through six to one. So Tuesday, you'll be able to get more exact information. Thank you. In fact, let me see if I can look something up real quick. I might have it access this way.
+
+## 01:17:06 Speaker 1
+
+Because you are talking, I hear it. I was like, "Oh, is it codes?" Because I grew up in one for so long.
+
+## 01:17:11 Speaker 10
+
+So you are going home? That's right.
+
+## 01:17:19 Speaker 1
+
+Oh, what street do you call my line? Ask Eastern Road. Do you know Littleton Pardee? Like back there, right there. Grantham was. My parents were still there.
+
+## 01:17:30 Speaker 10
+
+Mr. Pierre. Did your parents grow up there too, or did they move there?
+
+## 01:17:43 Speaker 1
+
+That was their first house in the United States. What did they grow up? I have soil.
+
+## 01:17:52 Speaker 3
+
+And then I have some onions that's gonna go bad like I'm not gonna use it. So I was like should I just.
+
+## 01:18:03 Speaker 10
+
+And Portland. So that's still Old Guggenheim. That's all nine, ten, thirty six between Goodwin and Portland because I feel like Portland is like the one four, six, two one divide. It stops being too warm around there. It was all super close to the corner.
+
+## 01:18:24 Speaker 6
+
+Some reason or other.
+
+## 01:18:56 Speaker 2
+
+I'm sorry, I was talking to you.
+
+## 01:18:58 Speaker 7
+
+Keep talking. I'm so glad this bucket of water is here.
+
+## 01:19:03 Speaker 7
+
+Ontario. Is it this one? But no, did I take it with me? It's you. Thank you. I'm gonna recreate my chart because this is getting.
+
+## 01:19:21 Speaker 4
+
+I ate some of the crackers because I needed to take my medication here. Kill me. Go ahead. Let's see if we can restart.
+
+## 01:19:30 Speaker 1
+
+There were pictures of that.
+
+## 01:19:33 Speaker 1
+
+That's what I was talking about. Make sure that I can check the garage tonight.
+
+## 01:19:38 Speaker 9
+
+Guys are rocking it by the way.
+
+## 01:19:41 Speaker 1
+
+We will definitely do a little card, but the bike is the best.
+
+## 01:19:44 Speaker 4
+
+I will have to go upstairs. Let's have A, B and C go ahead.
+
+## 01:19:50 Speaker 5
+
+You were saying, so having a sketch circle on the topic, how would you communicate this to your parents? I like that, a cool dad.
+
+## 01:20:05 Speaker 4
+
+Or Wednesday. What about how you would share this with your community? It would be great to get ideas from them.
+
+## 01:20:12 Speaker 5
+
+Let's do parents and kids. Let's do parents and community. I like that. Because I want to think in terms of my friends' families.
+
+## 01:20:22 Speaker 4
+
+We can also say in or community, so they have an option that way. If they just want to say how they do it with their parents, right? All they can say, there's gonna be on some kids don't want to surprise. And some kids like me don't even have access to their parents. When I was a kid I didn't have access to my parents. So that's actually a good strategy. I wasn't even thinking about it until all the girls and I'm like alright, so that's one thing.
+
+## 01:21:01 Speaker 5
+
+And because I'm trying to focus my research question more on their awareness, not identity. Their awareness, how their awareness about their street or where they live changes over a period of a week. That's our research question.
+
+## 01:21:19 Speaker 4
+
+Don't remove the one that you said. I like that too. I like the awareness, but I like the identity too. That's why we didn't have enough to do it as well as we wanted to do it. Identity is like but it's okay. So keep going with awareness. I'm just saying what you said actually fits perfect in there.
+
+## 01:21:35 Speaker 5
+
+So for that, we'll try our best to see if they can journal about every day when they walk back home, what they encountered. All of a sudden people are walking around and it's interesting.
+
+## 01:21:49 Speaker 4
+
+Why don't we do an activity about that? Is this it?
+
+## 01:21:54 Speaker 2
+
+Not everyone here.
+
+## 01:21:55 Speaker 4
+
+But we don't know everyone here. Let's make it an activity. Have you seen what we've done in our class where we have, like, if you're heading toward the pier or the lighthouse, there's a background with anonymous cards that you can put in? Think close to the merry go round. We can have circle points and all that. We can have stuff scattered there to guide them. They can come and add to that.
+
+## 01:22:28 Speaker 4
+
+They can connect it and then they can write. They can take pictures of that, take it with them and write whatever they want about that. So that becomes their journal. You mean the map? A map. Mind map. That's what I'm talking about a mind map. A mind map. There are many ways of doing it. We can use a map like you said. Or mind mapping was what I was talking about, but I think I like your idea. I think I know where you're heading. You're talking about physical maps. I was born.
+
+## 01:23:01 Speaker 4
+
+Because a physical map will give them visual. It would be of course more work for us, but it's not a bad idea, right? We can still do them like we can do a mind map with a physical map. We have circles with some things that we can start like a starter, right? And I like the fact. It's funny you would not have it that way, but having a physical map for the mind map allows them to see animals, fish. Stuff like that. It's just gonna be more work for us. But it's definitely more inclusive and allows them to participate differently, because if they don't have anything to say, they can just circle the animal or the garbage.
+
+## 01:23:54 Speaker 4
+
+And they can, and that gives serves as their source for their journal. They can write whatever you know. Now we can say, hey, you take whatever you know. You have a picture of whatever or the paper we can share with them also, so however they want it and write something about that. That was a good idea. I like that.
+
+## 01:24:24 Speaker 10
+
+So I looked up our roster. These are the four main area codes that they're in. I will look back at that article if you just Google it like Rochester COVID maps. It'll pop up, and I'm sure that the zip codes will be on that map. If you wanted to investigate and see if there's any correlation around those impacted heavily by COVID, my guess is this zip code and this zip code. And this one are probably going to be more heavily hit. I circled these because these are the main zip codes that kids come from, which were Beechwood or in nineteenth ward. Both of these know how we did the walk around in the neighborhood. Both of these are neighborhoods that were not historically redlined, but then when white flight took place and white people left the city, then black and brown people started moving in here.
+
+## 01:25:23 Speaker 10
+
+So it was they weren't original designations of Beechwood and Nineteenth Ward, but now there is a lot of black people, Hispanic people living in these areas. This one historically redlined from the beginning, and this one maybe too.
+
+## 01:25:42 Speaker 7
+
+Let's go 14608. What was that? Are you.
+
+## 01:25:48 Speaker 10
+
+Grew up from over there?
+
+## 01:25:49 Speaker 7
+
+Well, not from but now that's where I live.
+
+## 01:25:52 Speaker 4
+
+It's 145 eight six. That's where I am. It's right behind Rochester, right behind the school. Alright cool.
+
+## 01:26:03 Speaker 10
+
+Oh nice, behind alright there. If I'm remembering this, we call it Ghost Town, but it's Dutchtown. Okay, yeah, Dutchtown was the original neighborhood name. But growing up, it's called Ghost Town. Because all the white people left? That's actually a good question. Honestly, I think, well ironically, I think this is one of the pockets in the city where I feel like there are still a decent amount of like working class, low income generating white folks. If I'm not mistaken because this is.
+
+## 01:26:37 Speaker 7
+
+I see some white people. Most of the people, most of my neighbors are black, and I see more white people as I go towards Corn Hill, like where the Flying Squirrel is. Those are all the brownstone buildings.
+
+## 01:26:53 Speaker 10
+
+And matter of fact, you saying that I think I might have confused neighborhoods. Let me double check. One four six zero eight.
+
+## 01:27:07 Speaker 10
+
+I might have confused neighborhoods 14608.
+
+## 01:27:13 Speaker 7
+
+Do we have water here? Spring water?
+
+## 01:27:18 Speaker 10
+
+Yes. So West Main, but you are staying by West Main, Susan B. Anthony, all that stuff. You were one hundred percent right. I was confusing neighborhoods.
+
+## 01:27:25 Speaker 4
+
+My bad. I realized I brought the wrong water.
+
+## 01:27:27 Speaker 10
+
+There aren't many white people over there. Mushroom water?
+
+## 01:27:31 Speaker 4
+
+Which is fine, but the thing is that I ate a cracker, and it's killing me. Explain that to me, Mushroom water? I mean, I have the powder that they have or like, yeah, it has like.
+
+## 01:27:44 Speaker 5
+
+Oh. But water fountain is outside.
+
+## 01:27:49 Speaker 4
+
+That's exactly what I was like. That's why I was gonna. I was wondering if they had like a little okay. So going back to what we were saying. So we are okay with the question, the scientistfic circle. So the question you call it scientistfic question this one. Scientistfic circle. Okay scientist oh, okay, scientistst circle. Thank you. I was like no I don't think that's a scientistfic question.
+
+## 01:28:10 Speaker 5
+
+Just spelling of scientist is wrong.
+
+## 01:28:12 Speaker 4
+
+So that's fine science. A circle of scientist. That's fine. I am sorry. The English teacher. I didn't notice that. Wow, my goodness, my eyes. Thank you. We needed that. We're talking about that. Don't touch my stuff. So you want to drink water.
+
+## 01:28:33 Speaker 5
+
+Out of this jar.
+
+## 01:28:34 Speaker 4
+
+For the science circle, the question we're going with is, how would you communicate this to your parents and or community?
+
+## 01:28:48 Speaker 4
+
+That's locked in. Then we are thinking about an activity that has this, how do you call this? I keep forgetting.
+
+## 01:29:04 Speaker 5
+
+How do I do what?
+
+## 01:29:05 Speaker 4
+
+How do you call this? Posters? How do you call this material? Chart paper. Chart paper, okay. Chart paper posters. So we are talking about an activity with a chart paper, right? Where each one, let's say like how many kids are we gonna have? Three. That makes it even more practical.
+
+## 01:29:29 Speaker 5
+
+Because that's what I'm understanding. Let me rephrase it. Are you saying in a chart paper, let's say we have three kids. Let's say we have three kids and hypothetically magically create this tree map. Every day when they come back, they're going to add one extra thing they noticed in the street.
+
+## 01:30:01 Speaker 4
+
+It doesn't have to be necessarily their street; it could be just any map. But something they can relate to, like a street. They relate to that. Like garbage, that's the other.
+
+## 01:30:13 Speaker 10
+
+That's what we do it on.
+
+## 01:30:17 Speaker 4
+
+No random street. I'm saying just like a street that they could relate to because assuming that we're doing our homework right, we know more or less than they did the zip code right now as we can think of, in the middle, do something that looks like this question. Maybe that will relate to them.
+
+## 01:30:33 Speaker 10
+
+I mean? Sorry, but let's say like, but what's your? Let me see. And prey that's effective on the street. They can't go to school. Like this is my street.
+
+## 01:30:47 Speaker 5
+
+And maybe I assume you're going to see it. It's like school is here. Then hypothetically, there has the street they've named has going to be any one of the streets they walk on a daily basis. So they can't just choose a street they went to a fair last week.
+
+## 01:31:08 Speaker 4
+
+I see what you're going for. You're going for physical relate, I'm going for a specific activity.
+
+## 01:31:15 Speaker 5
+
+I'm going with this scenario. I'm going for the street, they're going to walk every day to come to school this week, because every day they have to notice something and come to class, so we could add on to that message. That just amazes me about this group. It's extraordinary and amazing. And I'm sitting here cutting up. I want to talk about their awareness and their insight increases with the language. I wanted to have my research question on that. For that, we can do a map on the world, and they got every sentence. Oh, I said this month, which I hadn't noticed before was there, but I hadn't noticed before in my area.
+
+## 01:32:03 Speaker 5
+
+And then they give the keys specifically to the workers.
+
+## 01:32:06 Speaker 4
+
+That's I mean, and then we talked to them. I wasn't going exactly for that, but that works.
+
+## 01:32:18 Speaker 5
+
+Then they went up into these.
+
+## 01:32:20 Speaker 10
+
+Different neighborhoods and never had to pay attention. If I would say this. So yeah, because we didn't have a journal test for it.
+
+## 01:32:32 Speaker 4
+
+That's called self awareness.
+
+## 01:32:34 Speaker 5
+
+So that's why I got. And then because they have evidence of the map in the classroom where this added stuff at the end becomes easier to answer questions. It shows how they have a resource chart.
+
+## 01:32:52 Speaker 4
+
+Of course. Now you can tell me what you were saying. I was thinking of something very simple. Initially, I was thinking about a mind map and letting them brainstorm with some guiding words that can guide their thoughts. This is a strategy that we use in our teaching. You can have certain bubbles somewhere, a shape. Now we've done most of them with hexagons. I forgot what it was. The idea is that they have words in there and they create their own, then they can connect it to the. That allows them to brainstorm.
+
+## 01:33:45 Speaker 4
+
+Nothing like specific. They're just going there and said, I don't know. Let's say the thing that we have in this circle is something about our topic invisible invaders. Let's say about something like What's the word, boy. That's a fish. We can't dig it. Oh yeah. Perfect. Thank you for the idea of fish. So, let's think about um like a You should take pictures though Eating sushi.
+
+## 01:34:33 Speaker 9
+
+Everyone should take pictures just to back up.
+
+## 01:34:36 Speaker 4
+
+So that's one example, eating fish.
+
+## 01:34:43 Speaker 9
+
+Anybody who works here at all?
+
+## 01:34:50 Speaker 2
+
+Your questions.
+
+## 01:35:00 Speaker 4
+
+One example is you have in the middle eating fish for example, and then you can have around even with pictures. Something about eating a fish, eating a garbage. Or another fish eating another fish. A person fishing the fish. And then you gave me the idea about the map where we could have a physical map in there and then a mind map on top of that. So now they can see something that they can relate to, whether it's a street or a park they go to or whatever if it's in our research.
+
+## 01:35:38 Speaker 4
+
+I have a magnified in there. And now they have these things in there with shapes, and they can connect it. The idea is to allow them to give them something that allows them to brainstorm, and it doesn't have to mean anything. It's just things that they relate to and they start connecting. Then they can make something on their own. That's what I was thinking.
+
+## 01:36:06 Speaker 4
+
+Yes.
+
+## 01:36:09 Speaker 5
+
+Wait.
+
+## 01:36:09 Speaker 4
+
+That could lead us to that because then they can start putting in their own words, right? How they feel about it first and what they can do about it. I like that, keep it going.
+
+## 01:36:27 Speaker 1
+
+Oh there we go. Yeah and they have this because this we need to sit.
+
+## 01:37:03 Speaker 1
+
+I was gonna write something.
+
+## 01:37:05 Speaker 4
+
+I can't even do this. For that modeling, it was something on how they got the greenhouse emissions. It's similar to what I showed you earlier.
+
+## 01:37:20 Speaker 5
+
+You might want to double check drop paper on that because modeling is not what you're thinking of.
+
+## 01:37:25 Speaker 4
+
+No. I know what you're going to say, but it's not like we're going to model anything. Go ahead actually, I want to teach something like that. I want to start with that as an example for its application and teaching them in a five-minute session. Then they can build their own greenhouse out of it and explain the next step.
+
+## 01:38:04 Speaker 4
+
+But you know, but we didn't get to talk about it. Bring some up. We can bring some about it.
+
+## 01:38:10 Speaker 5
+
+Thursday is I can't believe this for that. We should start here for a full start on Thursday. But if you come up with an idea, we can always talk about it.
+
+## 01:38:20 Speaker 4
+
+It has to be something simple. All right? I have to leave. Let's go. I'll keep thinking here.
+
+## 01:38:47 Speaker 5
+
+I was thinking of creating something as anybody can be creative.
+
+## 01:38:49 Speaker 4
+
+Yes. I like what you were saying. And also, this is no, I live on this street. You keep adding new things.
+
+## 01:39:05 Speaker 4
+
+But I would love for us to have something to guide them to.
+
+## 01:39:14 Speaker 6
+
+Yes
+
+## 01:39:16 Speaker 6
+
+See you. Bye everyone.
+
+## 01:39:23 Speaker 9
+
+Bye everyone. See you later. Good luck. Hey Asa, you leave. Do you want to try your key just so you don't walk over? Is she in my room? She's.
+
+## 01:39:42 Speaker 2
+
+A summer intern with me.
+
+## 01:40:26 Speaker 6
+
+I don't know where your dryer would. Go scrape out your dryer.
+
+## 01:40:31 Speaker 1
+
+Have a big oh, you oh you cannot but I have do you need some? I can definitely bring some in if you need it. I'm gonna have the students bring in their own hoping that's okay. No. I can also bring some.
+
+## 01:40:44 Speaker 1
+
+Always having a backup is useful. I use it for fire starters sometimes.
+
+## 01:40:48 Speaker 7
+
+Yeah, exactly. I normally like this one. I don't think a lot of them burn where I live. I have all the fire in the basket. It's kind of like something that Boy Scouts actually. That's like the one thing I remember from Boy Scouts is always having this stuff around. What do you remember from Seven Iron Man? He would always be like," Look at Zeroton! This is the best fire starter." Is it all chemicals in it?
+
+## 01:41:07 Speaker 1
+
+No more spinets and let's see how.
+
+## 01:41:41 Speaker 9
+
+Thank you for
+
+## 01:41:46 Speaker 2
+
+Your service. Can I skip questions?
+
+## 01:41:55 Speaker 4
+
+I am having a life crisis. A crisis? Don't worry. A life crisis, yeah. So talking about this, it's something really personal, so I don't. I'm. Unfortunately, my father-in-law is dying. And there was gonna be like a plan for me to see my father-in-law. And the thing is I have to fly. I had to, I actually said I cannot go and it got so bad that we are.
+
+## 01:42:39 Speaker 4
+
+My partner and I are about to file for divorce. What I wanted to share with you is my mindset because I was trying to see if I could at least show up there. It's not in this days, it's in nineteen. But the thing is that this is the part here where I'm having trouble. Because even if I make it there, I have to come back.
+
+## 01:43:11 Speaker 9
+
+Where is there? Seattle.
+
+## 01:43:14 Speaker 4
+
+And the reason I'm stressing is because I'm having my dad go to medical procedures at the same time, and it's a lot in my head.
+
+## 01:43:22 Speaker 9
+
+It's a lot.
+
+## 01:43:23 Speaker 4
+
+So that's why I would say no, but then it got so bad that I have that crisis that I told you about. I don't know if it's anywhere possible.
+
+## 01:43:37 Speaker 4
+
+For me to do what I'm doing here on the twenty third.
+
+## 01:43:42 Speaker 9
+
+But you can connect with Asa.
+
+## 01:43:45 Speaker 4
+
+But Asa? Because I feel horrible because I know she's already caring so much, and that's why I've done so much work to make sure that we are on par with everything that we need. So it's not like, you know what I mean? Yep. But I don't know. I want your advice. I think that's more or less why I'm talking to you about this.
+
+## 01:44:15 Speaker 9
+
+I think it doesn't sound like you have a choice. You need to go. That definitely takes precedence. Your wife is right. It's family and people are dying.
+
+## 01:44:30 Speaker 4
+
+This is somebody I had to block. Because mentally it triggers me and then my chronic condition gets worse. So is she in Seattle? At home here and in New York City. New York City? My condo is in Forest Hills, New York.
+
+## 01:44:55 Speaker 9
+
+In New York City?
+
+## 01:44:56 Speaker 4
+
+Borderline New York City, Queens. It's called Forest Hills.
+
+## 01:45:01 Speaker 9
+
+And you're here to do your master's program?
+
+## 01:45:03 Speaker 4
+
+Which we already talked about because I went into another crisis where I didn't find any purpose, and I didn't know what I was doing. That's why I came here. We were fine. It's just the timing that I picked now our parents are both getting sick. My father in law wasn't expected to get Parkinson's all of a sudden, and now he can't even walk. He's in a rough shape.
+
+## 01:45:33 Speaker 9
+
+I can't make the decision for you as far as when you go. I think it's definitely more important than any course.
+
+## 01:45:40 Speaker 4
+
+That's why I wanted to share with you more about like. Also seizures, right? Like down to the activities sometimes. It was eating me. Thinking about this, I wanted to have some and I hope you don't mind.
+
+## 01:45:58 Speaker 9
+
+So your options are, I am sure I would have to tell them, but it's probably fine. This is not nearly as important as that week.
+
+## 01:46:13 Speaker 4
+
+That's what I was thinking, because initially I didn't even consider to communicate it to you. This is something I need. I understand and I understood.
+
+## 01:46:27 Speaker 3
+
+I understand
+
+## 01:46:28 Speaker 4
+
+The importance of, that. And but, you know like we have to move on right? And, this is something I need purposeful. You know this is and.
+
+## 01:46:45 Speaker 9
+
+So Friday. It will be important to start, and then those days.
+
+## 01:46:49 Speaker 4
+
+Can I go and check things out on the twenty-third? Just to be familiar. Sure. Is that something I can do? Sure.
+
+## 01:46:59 Speaker 4
+
+Who should I reach out to? Brandon.
+
+## 01:47:04 Speaker 9
+
+To go to the Freedom School? Is that what you're saying?
+
+## 01:47:06 Speaker 4
+
+On the twenty-third, maybe Asha can reach out to her and see how I can check this setup and everything.
+
+## 01:47:13 Speaker 9
+
+There's not really going to be a setup yet. Monday, we'll be at the lake. Nobody's really setting anything up. We're going to be at the lake, and then on Monday we're going to get there early, and that's going to be the setup.
+
+## 01:47:28 Speaker 4
+
+Okay, all right.
+
+## 01:47:30 Speaker 9
+
+We're just dropping stuff off in a closet before then. So that part you are not missing anything. The part that you are missing is sitting down by.
+
+## 01:47:39 Speaker 9
+
+Sitting with the Freedom School teachers and listening to them.
+
+## 01:47:44 Speaker 2
+
+Reflect on your lessons. Asa could audio record it.
+
+## 01:47:48 Speaker 4
+
+Thank you.
+
+## 01:47:49 Speaker 9
+
+And then she should send that digital file to you. And you could listen to it on the flight back and help her make the adjustments that need to be made.
+
+## 01:47:58 Speaker 4
+
+Thank you. I have a device I'm gonna give it to her. Great. I'm gonna I have a device. She can use, and she has a phone too.
+
+## 01:48:08 Speaker 9
+
+She could do with that, but she could send it to you. You're welcome. Life is hard, man.
+
+## 01:48:18 Speaker 4
+
+I'm so beautiful.

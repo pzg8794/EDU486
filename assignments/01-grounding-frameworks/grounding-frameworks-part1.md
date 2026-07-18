@@ -58,7 +58,7 @@ After camp, revise this model using actual evidence:
 - [EPA Microplastics Research](https://www.epa.gov/water-research/microplastics-research)
 - [NOAA laboratory methods for microplastics](https://repository.library.noaa.gov/view/noaa/10296)
 - [Invisible Invaders gapless explanation](../05-july14-camp-prep/invisible-invaders-gapless-explanation.md)
-- [Invisible Invaders activity plan](../05-july14-camp-prep/invisible-invaders-activities.md)
+- [Current Invisible Invaders Camp Operations Guide](../03-camp-unit-plan/invisible-invaders-camp-operations-guide.md)
 
 ## AI Use Disclosure
 

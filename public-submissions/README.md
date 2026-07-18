@@ -11,12 +11,10 @@ This folder contains original, GitHub-clickable exports generated from the EDU48
 - [Grounding frameworks Part 1 one-page PDF](grounding-frameworks-part1.pdf)
 - [Grounding frameworks Part 1 accessible companion DOCX](grounding-frameworks-part1.docx)
 - [AI history microplastics narrative DOCX](ai-history-microplastics-narrative.docx)
-- [Planet Protectors camp unit plan DOCX](planet-protectors-camp-unit-plan-draft.docx)
+- [CURRENT Invisible Invaders Camp Operations Guide DOCX](invisible-invaders-camp-operations-guide.docx)
 - [Poster proposal DOCX](poster-proposal-draft.docx)
 - [Task 6 Puzzle Plan reading synthesis DOCX](session5-reading-notes.docx)
-- [Task 7 curriculum adaptation and Monday-Friday plan DOCX](task7-curriculum-adaptation-and-week-plan.docx)
-- [Task 7 camp-ready tools DOCX](task7-camp-tools.docx)
 - [Invisible Invaders gapless explanation DOCX](invisible-invaders-gapless-explanation.docx)
-- [Invisible Invaders July 15 commitment pack DOCX](invisible-invaders-july15-meeting-commitment-pack.docx)
-- [Invisible Invaders current opening routine DOCX](invisible-invaders-opening-routine.docx)
 - [Course calendar ICS](EDU486-course-calendar.ics)
+
+Superseded Planet Protectors, Task 7, opening-routine, and July 15 exports are retained in the [dated pre-consolidation archive](archive/2026-07-18-pre-consolidation/README.md). They are provenance, not current camp directions.

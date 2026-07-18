@@ -1,0 +1,1518 @@
+# July 14, 2026 - Environmental Pollution Inquiry And Justice-Centered Pedagogy
+
+**Source:** Automatic class transcript.
+
+**Editorial note:** This is a complete readability-formatted copy of the automatic transcript. Timestamps and speaker labels are preserved, but speaker identities and machine-recognized wording have not been verified. Check the recording before using exact quotations.
+
+
+## 00:00:00 Speaker 1
+
+Or the squirrels that rail in. Moving on. We could chit chat all day. I love that. I think that's the sign of a good team. And your previous work, how can we design our camp so that Purdue scholars aren't just figuring out how plastics move through Lake Ontario, but also who is affected, benefits and what they can do about it? This is our dog.
+
+## 00:00:26 Speaker 2
+
+In my year at 12 years old. I'm alright. Just noticing everything you can.
+
+## 00:00:34 Speaker 1
+
+Whatever you brought. Did we get pictures or not yet? They were nothing colored.
+
+## 00:00:41 Speaker 3
+
+Ooh! I feel like I'm on camp already.
+
+## 00:00:50 Speaker 1
+
+Like you're at camp? Yeah! Disgusting!
+
+## 00:00:59 Speaker 4
+
+Keeping it on one.
+
+## 00:01:08 Speaker 5
+
+Imagine you're twelve years old. You're asking me to go back eleven years? I don't think during that time I was.
+
+## 00:01:21 Speaker 6
+
+Probably sleeping a lot. I am almost twelve years old.
+
+## 00:01:26 Speaker 1
+
+And over half. Two of.
+
+## 00:01:37 Speaker 4
+
+Them were straws on the beach. One of them was an albatross, the other one was a fish with the nettle inside.
+
+## 00:01:50 Speaker 6
+
+In a safe space. You brought an albatross?
+
+## 00:01:54 Speaker 7
+
+I swear I saw that.
+
+## 00:01:59 Speaker 6
+
+When I first read albacore, I was like, Wait, what is that? It's the fish. Now I recognize albacore.
+
+## 00:02:05 Speaker 3
+
+Yes.
+
+## 00:02:08 Speaker 6
+
+Close. Not quite.
+
+## 00:02:11 Speaker 1
+
+We're going to pretend we're. Where's your stick?
+
+## 00:02:18 Speaker 8
+
+It's right here.
+
+## 00:02:20 Speaker 1
+
+It's with your stick.
+
+## 00:02:27 Speaker 4
+
+Something That just.
+
+## 00:02:33 Speaker 8
+
+And next. What else? People.
+
+## 00:02:46 Speaker 9
+
+Never scrub out their address. We're address hunting. We have, oh my god, so-called woke person who's shots at abundance and then throws their trash on the beach.
+
+## 00:03:01 Speaker 3
+
+Oh.
+
+## 00:03:04 Speaker 1
+
+So make some observations, walk around, notice and wonder. Hey. Hold on Oh.
+
+## 00:03:16 Speaker 9
+
+Hold on Oh See? Oopsie.
+
+## 00:03:26 Speaker 5
+
+Is that smoked gouda cheese?
+
+## 00:03:34 Speaker 9
+
+Wait, is this just trash out of your trash can or is this like real beach trash? Is that all? Is that what we're supposed to be asked?
+
+## 00:03:43 Speaker 2
+
+Oh. That's the bird. I see.
+
+## 00:03:46 Speaker 10
+
+There was a tampon pool.
+
+## 00:03:49 Speaker 2
+
+The bird is feeding and taking my disgrace.
+
+## 00:03:56 Speaker 5
+
+Come on, man. Who got rid of their old sand? This is making me want to puke.
+
+## 00:04:05 Speaker 10
+
+It's gross. That's.
+
+## 00:04:09 Speaker 5
+
+Disgusting. That's everything disgusting.
+
+## 00:04:12 Speaker 4
+
+That's what the pictures are going to be.
+
+## 00:04:14 Speaker 9
+
+You're brave.
+
+## 00:04:15 Speaker 5
+
+Oh my god!
+
+## 00:04:17 Speaker 10
+
+I think we saw.
+
+## 00:04:18 Speaker 9
+
+That picture in somewhere we got a cigarette filter.
+
+## 00:04:25 Speaker 9
+
+There's a lot of cigarette butts.
+
+## 00:04:30 Speaker 5
+
+Roommates smoke cigarettes all the time.
+
+## 00:04:32 Speaker 10
+
+That's probably like. It was upside down. We need gloves actually. We'll wash hands after this. Did you want me to throw it away?
+
+## 00:04:45 Speaker 1
+
+I was just going to put it back in the bucket
+
+## 00:04:46 Speaker 9
+
+So we didn't spill anymore.
+
+## 00:04:48 Speaker 1
+
+I did that there. So imagine a picture that connects all of this. Broken stuff. To Lake Ontario. Probably just broken glass.
+
+## 00:04:58 Speaker 9
+
+So the birds try to eat it because they're trying to find like it's all rounded down as if it was sea glass, it looks like sea glass.
+
+## 00:05:08 Speaker 6
+
+They can get trapped. That's what happens with all my plastic stuff. I'm sorry that was empty; that is a used.
+
+## 00:05:16 Speaker 4
+
+Are you touching stuff?
+
+## 00:05:17 Speaker 9
+
+I am touching stuff! There's a bathroom right there; I can go wash my hands; I'll be fine. He actually needs gloves.
+
+## 00:05:27 Speaker 5
+
+All I'm gonna say is at least there's no syringes. They're in here. So oh my god, they're keeping it all in here and why?
+
+## 00:05:35 Speaker 2
+
+That represents that we're here is that at least there's no syringes. Thank god and then trashy people. If it's the pier where are the condoms?
+
+## 00:05:47 Speaker 9
+
+This is some kind of There was a condom right question. No, I think we lost work back to work. There was
+
+## 00:06:15 Speaker 2
+
+Hey, wait. It got trapped there, and the water went back, so it died because it got trapped.
+
+## 00:06:22 Speaker 8
+
+It's so cute.
+
+## 00:06:24 Speaker 2
+
+That does happen to animals in the sea. They get sent all the way to the coast by garbage, and then the water goes back, and they get trapped in that. A lot of sea creatures wash out. That's what I'm talking about when they wash up to shore, and then they can't get back. Especially by the pier. Very often when the water comes all the way down, and then just like goes back. Then you see all the garbage in there. You see a lot of. It's very hard to see them unless you're looking for them. A lot of things like that.
+
+## 00:07:03 Speaker 10
+
+Some of these things, it's the belt curb or whatever it is called.
+
+## 00:07:06 Speaker 5
+
+Does that say NERDS?
+
+## 00:07:07 Speaker 1
+
+I don't think it's NERDS.
+
+## 00:07:09 Speaker 5
+
+What are NERDS?
+
+## 00:07:13 Speaker 1
+
+It's okay, you don't have to know. Can you go home? I mean go back to your desk and just diagram and describe what you think is going on here. Diagram and describe.
+
+## 00:07:27 Speaker 8
+
+Diagram and describe.
+
+## 00:07:38 Speaker 2
+
+It was.
+
+## 00:07:40 Speaker 1
+
+Diagram and describe it.
+
+## 00:07:43 Speaker 2
+
+Was a bit repulsive.
+
+## 00:07:46 Speaker 1
+
+Diagram and describe what's going on here.
+
+## 00:07:47 Speaker 2
+
+Diagram and describe.
+
+## 00:07:53 Speaker 8
+
+Actually.
+
+## 00:08:34 Speaker 1
+
+If while you're drawing what you think is going on, you come to some questions you don't know, write each question on a Post-it note. As you're diagramming and describing, you don't need to look it up. Just put questions on Post-its. Question on. While you're diagramming, you're going to draw a picture of what you think's going on with all of that. And you're going to try to describe it. So draw a picture. What is this for? If you have any questions.
+
+## 00:09:00 Speaker 3
+
+Questions.
+
+## 00:09:01 Speaker 1
+
+If you're like, I don't know about that. What happens with that? Then I put that on a question. Post-it.
+
+## 00:09:08 Speaker 3
+
+Let me pull up a picture that I want to throw here.
+
+## 00:09:23 Speaker 8
+
+Perfect, this is what I wanted to yes.
+
+## 00:11:44 Speaker 6
+
+It's Pac-Man. What do you mean? Yeah, fish Pac-Man. Yeah, so far I've just demonstrated how the litter is in the environment. It was making everything.
+
+## 00:11:56 Speaker 8
+
+That you can't explain.
+
+## 00:11:57 Speaker 6
+
+Uh, I can't explain the human incompetence and negligence.
+
+## 00:12:11 Speaker 5
+
+I Can't. Can you rephrase that as a question?
+
+## 00:12:15 Speaker 9
+
+People are partying on the beach.
+
+## 00:12:18 Speaker 5
+
+Why are people not smart?
+
+## 00:12:20 Speaker 9
+
+Yeah, well, they're drunk.
+
+## 00:12:24 Speaker 2
+
+Thank you. Why don't people care?
+
+## 00:12:28 Speaker 9
+
+And because it's dark out when they walk away from the bonfire that they're partying at, They leave their crap and trash on the beach because they literally can't see it, and they're too drunk to stand up. Sounds like your ex. I know I know some people who go to the beach, but I haven't actually been to one of the beach parties.
+
+## 00:12:50 Speaker 1
+
+Labels are always good. I love your labels, Moss. They really help people.
+
+## 00:12:58 Speaker 1
+
+Orient to what you're thinking.
+
+## 00:13:03 Speaker 5
+
+Yeah, I go with the same of the soundboard guys. Download my soundboards. Like you're.
+
+## 00:13:12 Speaker 1
+
+Describing Austin?
+
+## 00:13:21 Speaker 4
+
+This forces us to the place of unknown.
+
+## 00:13:32 Speaker 1
+
+If there's anything you can't see with your naked eye, you could always use a zoom-in bubble. Just blow out bubbles. You see my favorite, especially in math class. I would always use zooming in as like a tool. Oh yeah? Mhm. I draw it like this. I don't know if you draw it differently but if it's here, I blow it up and then I can use my super science eyes.
+
+## 00:14:01 Speaker 5
+
+Oh, I used it for an earlier thing.
+
+## 00:14:19 Speaker 8
+
+In the interest of time,
+
+## 00:14:20 Speaker 4
+
+I think we should. It won't be complete, But you guys want to at least share the model in your words can help fill in the picture.
+
+## 00:14:28 Speaker 2
+
+Yeah, I can share mine. It's fine. Doesn't need to be complete.
+
+## 00:14:36 Speaker 8
+
+All right, who's got it?
+
+## 00:14:38 Speaker 2
+
+This is a fair going on at the pier.
+
+## 00:14:41 Speaker 1
+
+I think I should first ask everyone to like just give everybody a second to finish. Oh yeah, give.
+
+## 00:14:49 Speaker 2
+
+them time yeah.
+
+## 00:14:55 Speaker 1
+
+Awesome. All right, pencils down.
+
+## 00:15:00 Speaker 1
+
+Peter, open eye. Let's hear it.
+
+## 00:15:03 Speaker 2
+
+I'm putting clouds. So this is a fair. In the top, you see fair, there's people going on. I forgot to draw the people, but you can see the people on the wheel and everything. So the pier on the top is right. Where near the shore where people can see the view, they throw garbage and everything in there. There's a lot of food and everything going on. And then right in the pier on the bottom is where the disaster happens. All the garbage is right by the shore. Right by the shore, you see the range where the sea level goes in and out, and that's actually where the spilling is happening. So there's a lot of trapped fish. A lot of different types of fish get trapped because of garbage and they die in there.
+
+## 00:15:57 Speaker 2
+
+And also, on the other side in the garbage, there's a lot of plastic and substance that goes into the sea as well and contaminates the fish on the water. If you see there are birds on top and those birds feed off that garbage and everything there. I forgot to put a bird on the bottom but yeah.
+
+## 00:16:20 Speaker 8
+
+Good job. Alright?
+
+## 00:16:22 Speaker 1
+
+Anybody wondering anything? Do you have any questions?
+
+## 00:16:27 Speaker 9
+
+It's okay. We can talk more about the food chain. I want to know more about the different levels of the food chain and specifically the food chain here. What specifically are the fish we're looking at? Even though they're just seagulls and gulls, those gulls have names. What are their specific animals affected?
+
+## 00:16:49 Speaker 3
+
+The type of fish that gets affected?
+
+## 00:16:51 Speaker 1
+
+So I think what Moss is asking is, do you know the types of wildlife that are.
+
+## 00:16:58 Speaker 2
+
+Being affected by this in Rochester
+
+## 00:17:00 Speaker 1
+
+New York.
+
+## 00:17:01 Speaker 2
+
+That's a good question. In Rochester, no.
+
+## 00:17:03 Speaker 1
+
+Great, can you write that on a post-it? Each question goes on a separate post-it note because we're going to throw it on our question wall. The goal is to generate as many questions as you're talking about for everyone else.
+
+## 00:17:16 Speaker 3
+
+Type of wild fish.
+
+## 00:17:19 Speaker 1
+
+Wildlife maybe even or life?
+
+## 00:17:24 Speaker 3
+
+I'm going to put fish or life.
+
+## 00:17:26 Speaker 9
+
+Excellent. Do you want to go next? I do.
+
+## 00:17:29 Speaker 3
+
+Have a section here:
+
+## 00:17:31 Speaker 9
+
+Trash planted by you, fake trash, trash that's not real unless you littered and then picked up after yourself. In which case that just seems weird.
+
+## 00:17:41 Speaker 4
+
+Does that count as littering?
+
+## 00:17:42 Speaker 9
+
+Are you like performatively littering so that you can be seen picking up trash? That's weird. Um, I've got the worn down plastic chunks. A bit that looks like it came out of a cup holder, Maybe that was like built into a camping chair or like a one of those pop- out chairs or like an uh a drink cooler. Um, I have my model of the pier here um with the lake and people partying around a bonfire. Um, but it's nighttime as seen by the moon. And so when these people leave they unintentionally leave track.
+
+## 00:18:22 Speaker 9
+
+Trash because they are under the influence.
+
+## 00:18:26 Speaker 2
+
+That's a good one.
+
+## 00:18:27 Speaker 9
+
+We also have some trash that washed like washed ashore, like not all of it was left by people here. Um, like this fishing lure, Um I mean, it could have been left by somebody there, but like it probably washed ashore. And the some of the worn down like eroded plastic that probably also washed ashore. Where did it come from? Do you want to write that down?
+
+## 00:18:52 Speaker 6
+
+I think I have a model that might explain where some of the sea garbage comes from.
+
+## 00:18:58 Speaker 4
+
+What are you thinking about, monsters? I.
+
+## 00:19:02 Speaker 2
+
+Know where some of the sea trash comes from. It comes from events, fairs, and a lot of vendors at events. They are not held responsible for what people do when they buy their product. I guess there's not really a strict law to follow.
+
+## 00:19:37 Speaker 5
+
+Here. Oh me? Go in a circle just so you know. So I went on a different path. I brought out a beach and decided to make it interesting. We got a guy, he was bored. He decided to go fishing. And there's the fish are eating plastic. And on top of that, there were supposed to be people on this sailboat. I ran out of time. But they hit something from earlier and over time, a giant plastic chunk fell off their boat.
+
+## 00:20:11 Speaker 2
+
+Oh, so I don't know if the boat lived. I hope it did. You didn't get to that part.
+
+## 00:20:17 Speaker 5
+
+And it went to the bottom of the ocean.
+
+## 00:20:20 Speaker 3
+
+The boat?
+
+## 00:20:21 Speaker 5
+
+The plastic from the boat. So there was that part. And then I decided over on this side is like other plastics that we might see. So maybe like a water bottle, cigarette butts because people smoke. And then I put an earlier bubble because it makes me think of someone that was there. They couldn't find a trash can. Instead of taking the trash with them, they were just like, someone will pick it up.
+
+## 00:20:54 Speaker 1
+
+So are the plastics mostly the same kind? They're different kinds of plastic.
+
+## 00:21:04 Speaker 4
+
+Looking at what they're doing, seeing if plastic came from the water, from the land, or does it ever come from the air?
+
+## 00:21:14 Speaker 3
+
+He does.
+
+## 00:21:15 Speaker 5
+
+It definitely does birds and precipitation well. If you think about it, the little plastics are stuck in water droplets.
+
+## 00:21:28 Speaker 2
+
+Oh yeah, they might occur.
+
+## 00:21:31 Speaker 9
+
+I mean it's still technically
+
+## 00:21:32 Speaker 5
+
+Pollution that's coming down.
+
+## 00:21:34 Speaker 2
+
+But I've never seen it wind blow it from a different place. I've never had rain that I looked at and there was plastic in it. It is in us. He's right. If you like, if you get analysis right and you live in an area where they built plastic material and you are constantly exposed to that, they'll find residues in your. I was just reading about it. I was like oh shoot.
+
+## 00:22:09 Speaker 10
+
+This purple is our plastics, and I have people here who are like at a beach party. April drew all her package. People who are smoking cigarettes, drinking water, kind of stuff. People who are fishing over here. It's all about the food chain that you guys explained. Plankton eats microplastic inside the water, and a small fish eats it, and big fish eat it.
+
+## 00:22:50 Speaker 10
+
+I also tried to draw sun and UV lights, because I knew some of the plastics are broken down, or it's not as good as it is. I assume that's probably because of physical forces or UV lights. Physical forces could be winds that you guys just talked about, or the waves too, or UV lights make the plastic more of a marker. So I tried to do a little smoke here, feeling like the plastic kind of goes inside the atmosphere.
+
+## 00:23:28 Speaker 3
+
+So clear.
+
+## 00:23:30 Speaker 9
+
+That's awesome. I like your color coding of the plastics versus the other things. It makes them pop.
+
+## 00:23:40 Speaker 6
+
+Mine, I focused mainly on where the plastic comes from, not as much on what happens to it. I have four main culprits in my diagram. On the one on the left, I have someone that's fishing, and naturally there's pollution from the line and lures and things like that. This fish ate it but got away. He was on the line, but then the fishing line broke and all that is left in the water. These people are just careless boaters, so they might have garbage and throw it overboard. This is a kid finding a dead fish. I'll come back to that.
+
+## 00:24:17 Speaker 6
+
+This is lazy people don't clean up trash. They just are careless and throw it on the floor and leave it there. And then I was captivated by the tampon. I have a bush, and someone throwing their tampons out onto the beach because of potentially poor public restroom quality and access to
+
+## 00:24:43 Speaker 3
+
+Yes
+
+## 00:24:44 Speaker 6
+
+And even within public restrooms. There's no garbage cans. And not supposed to flush it down the toilet, and if you flush it down the toilet, where's it gonna probably end up? In the water.
+
+## 00:24:54 Speaker 9
+
+And a lot of people don't know that you're not supposed to pee or poo in the wild close to sources of water. People don't know the protocol that you have to dig a hole, put it in there, cover it, and have it be several hundred yards away from a water source or lake watersheds.
+
+## 00:25:15 Speaker 6
+
+Funny but very real occurrence. In terms of the wildlife, I have a little derpy bird here checking out this cup. The kid left their bucket here. They might forget it because kids forget things and parents don't pick it up after them. This fish is eating a piece of the plastic that fell in the water, because garbage is mistaken as food and the fish dies and is washing up on shore now. This poor traumatized kid is standing there, dead fish.
+
+## 00:25:50 Speaker 7
+
+When did we receive the instruction to make a model? There is one out. What would you like to share? I just observed what was there, and then I was trying to think as a twelve-year-old and think like, 'What's that?' I didn't go to. I didn't make any of that. I saw that there is both natural and artificial waste. Terms of we had a log, but we had more plastics than natural waste, and then oh that's true.
+
+## 00:26:22 Speaker 7
+
+And then there was a dead albatross, and what I noticed was there's a lot of cups for drinks. A lot of things were for beverages, and I had a question: Can there be a system where we drink only out of reusable cups?
+
+## 00:26:46 Speaker 7
+
+If the world would be that.
+
+## 00:26:49 Speaker 6
+
+Thinking of it as a small world, I have some insight into this, but why is there less natural products in this mix?
+
+## 00:26:59 Speaker 2
+
+I have a question. Another question. It has already been proven there. There is already a solution for this. It's in Japan. Why aren't we implementing things that are already proven to work?
+
+## 00:27:14 Speaker 1
+
+You mean like plastics that are biodegradable?
+
+## 00:27:16 Speaker 2
+
+In Japan, they already have ways for you, like the coffee is edible, the cup. They have edible cups for almost everything.
+
+## 00:27:24 Speaker 9
+
+And our machine is right next to a restaurant.
+
+## 00:27:27 Speaker 2
+
+And we have it here for ice cream.
+
+## 00:27:29 Speaker 9
+
+So I think that's a great question. Please write that down.
+
+## 00:27:32 Speaker 2
+
+Why what? Why don't we?
+
+## 00:27:36 Speaker 2
+
+Why Aren't we implementing it?
+
+## 00:27:37 Speaker 10
+
+Please write that down. It's one of my questions that I ask her. And then it's mostly about the price. Also, those less systems because there are some plastics that you want to use, like a specific type of plastic that makes it more secure to hold the material inside them.
+
+## 00:27:59 Speaker 2
+
+But we're not being given the option. We are being forced to choose whatever they deem.
+
+## 00:28:11 Speaker 2
+
+That was.
+
+## 00:28:12 Speaker 1
+
+What did we agree on? It was on everybody's model.
+
+## 00:28:19 Speaker 6
+
+People can contribute to pollution.
+
+## 00:28:26 Speaker 2
+
+Pollution contributes to the death of wildlife.
+
+## 00:28:33 Speaker 9
+
+We all had the lake and the pier.
+
+## 00:28:44 Speaker 4
+
+April, your
+
+## 00:28:56 Speaker 6
+
+Initials are the same as the abbreviation for anthropogenic litter.
+
+## 00:29:18 Speaker 2
+
+Another thing that I know is, I think it's a common theme in here, most pollution comes from places that are very populated like piers, beaches and recreational places. There's a word for when by the water. If you guys can look for that word.
+
+## 00:29:54 Speaker 6
+
+So if we could have one single, it doesn't have to be everywhere in the country, just in places like piers, recreational places.
+
+## 00:30:09 Speaker 2
+
+By the pier with the fares and there's a lot of vendors or by the beach. Like if we could just have some, sort of like. I don't know if the word is rules, but like. Um.
+
+## 00:30:21 Speaker 6
+
+I think that's what we're here asking for today.
+
+## 00:30:23 Speaker 2
+
+Like a strict well
+
+## 00:30:25 Speaker 6
+
+I think the question is, rules exist, there are signs that say don't litter. Why don't people feel a sense of responsibility to not? Can you please write that on a post it? It was like your award using your phone.
+
+## 00:30:38 Speaker 7
+
+Also regarding the packaging things, I don't have control over that.
+
+## 00:30:44 Speaker 6
+
+You have control over where you buy from. Control over buying
+
+## 00:30:49 Speaker 2
+
+Eh.
+
+## 00:30:49 Speaker 6
+
+But, do you always because it's more expensive to buy often from stores that are using more sustainable materials.
+
+## 00:30:56 Speaker 7
+
+If I order from Amazon.
+
+## 00:30:59 Speaker 6
+
+Why do I order from Amazon? Because it's convenient and cheap.
+
+## 00:31:04 Speaker 2
+
+We're pretty much forced to because it's the only company that performs decently in terms of. We don't have options because Amazon buys every other company that is raising and it's happening with every business. So we are being pushed into a corner because we want to. I have tried myself. We want to. I'm sure many of you have tried to.
+
+## 00:31:35 Speaker 2
+
+Stop buying from Amazon, but then when you find yourself with a price and like a two weeks shipping, like who can. In today's day like here who. It's hard to.
+
+## 00:31:50 Speaker 1
+
+So what are the alternatives to Amazon? Is that the question.
+
+## 00:31:54 Speaker 2
+
+Why are we being forced to purchase or stick to a company that does not resemble our beliefs, our standards or interests?
+
+## 00:32:11 Speaker 6
+
+I too am a little pessimistic about it. Also, why are people more drawn to convenience?
+
+## 00:32:21 Speaker 9
+
+Than sustainability? We can also talk about food and store deserts. Making things convenient for door shipping.
+
+## 00:32:35 Speaker 9
+
+One of the only options for getting stuff cheap and to your house, especially if you lack transportation. The transportation is the Rochester RTS system and it sucks. The buses only run hourly on weekends and every thirty minutes during the weekdays and don't go everywhere. I've been thinking about how plastic packaging lobbies invented recycling and are extremely powerful. They are super huge with lobbying states. Part of the reason why some states are legalizing marijuana is because the packaging industry has a really strong lobby that works on both parties, and that's often the final straw.
+
+## 00:33:32 Speaker 9
+
+Are we actually deciding things based on public health or are we just caving to capitalist interests?
+
+## 00:33:39 Speaker 2
+
+I really like what you're saying, but I'm not sure 'capitalist interest' is the right phrase at the end.
+
+## 00:33:45 Speaker 1
+
+I would love to.
+
+## 00:33:46 Speaker 2
+
+I really love what you said.
+
+## 00:33:50 Speaker 7
+
+My question was kind of related to this. Is there no way we can have policies for Amazon? Like, is Amazon the most powerful?
+
+## 00:33:59 Speaker 2
+
+So that was my question to your question. I love questions.
+
+## 00:34:03 Speaker 1
+
+I don't want answers.
+
+## 00:34:04 Speaker 2
+
+Which is for the why do we have to choose between convenience and our interests, our self-interest?
+
+## 00:34:12 Speaker 1
+
+Is that a forced choice? Is that the question? Is it why do we have to choose between Yes. Did you write that down?
+
+## 00:34:19 Speaker 2
+
+I just put convenience.
+
+## 00:34:22 Speaker 1
+
+Convenience? That won't That won't.
+
+## 00:34:24 Speaker 2
+
+He'll remember me to write it down.
+
+## 00:34:28 Speaker 2
+
+Because I want to pay attention to everyone. I love it.
+
+## 00:34:32 Speaker 4
+
+Where are traces limited? Where are traces limited? Awesome.
+
+## 00:34:37 Speaker 2
+
+That works with my force. I'm going to put a slash limited.
+
+## 00:34:43 Speaker 1
+
+All right, this is fantastic and out of out of, I swear, I could spend a whole week with you guys, and we would still more today. This is really great. I love it. We have a lot of questions We're going to do the cooking show. Trick, and I'm going to put the brownies in the oven, and I'm going to take them out, and they're all going to be done. So, this is what MISun and Peter created in summer A : a driving question board. And, we could really push you to make as many possible post - it notes as possible. And that's the goal. So I would love for you to critique how I facilitated this so that we would get more questions.
+
+## 00:35:24 Speaker 1
+
+The goal is at the beginning, right? Is not to have the answers. The goal is to have the questions. With me? So they collected their their um driving question was, "How has plastic pollution impacted Rochester?" "How fair are these changes?" And, "What can we do about it? " And so they put all their questions up here, and they organized them by shared ideas, right? So, if I was doing this with you, and you had five post - its in front of you, I would say, "Hey Georgie can you give me one of your questions?" Sure. Um, Georgie gives us uh why don't people feel responsibility toward protecting the environment? Does anybody else have a question like that? What's the question? Why don't people feel a responsibility toward protecting the environment? Does anyone have one written down that you yeah, what's yours?
+
+## 00:36:14 Speaker 2
+
+Is it the question or the answer? The question. Oh.
+
+## 00:36:17 Speaker 1
+
+Another question like this one. I have another one somewhere. Okay, what's your similar one? Why are people more drawn to convenience than sustainability? So these are people's decision makings. Yeah. Right? So I would take a marker and I'd write decision making, and I would clump these critical questions, right? With me? Yes. Somebody have a different question? Peter, can you give me a question?
+
+## 00:36:42 Speaker 3
+
+Uh here, I like this one better.
+
+## 00:36:44 Speaker 1
+
+Why do we need to choose between convenience or self- interests? Yeah. Just have someone have one more idea on that.
+
+## 00:36:50 Speaker 2
+
+Similar to hers. And similar to Herzog.
+
+## 00:36:53 Speaker 1
+
+That was like this one.
+
+## 00:36:54 Speaker 2
+
+The convenience is similar to Herzog, yeah.
+
+## 00:36:59 Speaker 1
+
+What type of switching? So anyway, we would go through and we would pull everybody's up, right? Yeah. And I want to tell you as teachers, you're going to have a sense of where what lessons you want to teach, right? And so as you're clumping them and giving them names, You're going to clump them and give them names for the lessons you're going to teach. No answers. No answers. When you share answers at this beginning stage, you cut, you artificially cut off conversations that could go way deeper. Creativity. Right? And you cheat them from their learning. So no answers, even if you know them, right? You can know them but not tell. So your groupings here: pollution size impact of plastic city comparisons.
+
+## 00:37:53 Speaker 1
+
+Like, is Rochester.
+
+## 00:37:54 Speaker 8
+
+Better or worse than others?
+
+## 00:37:55 Speaker 10
+
+Yeah, we realize there are some of the cities that have more plastic than others. So we were just asking a bunch of like,
+
+## 00:38:02 Speaker 1
+
+Why is this happening? What kind of. Yeah. This is great. So, this is what you want to end up with on the first day of camp. And, then these will be your lessons that you're going to help figure out so that they can explain uh your anchoring phenomenon, yes.
+
+## 00:38:20 Speaker 6
+
+In practice, like in a classroom setting? Yeah. And you have this is a great question. I already know where you're going. Yeah, somewhat of a standardized curriculum to follow. Absolutely. If questions are generated on the topic, You're not going to cover. What do you do to not shut down curiosity about them?
+
+## 00:38:36 Speaker 1
+
+But no, you're not going to address it. Great, great, great, great question. You start by saying uh well, you focus on the question generating culture. So when we build off of so questioning asking question, construction is part. Hard, right? And kids don't have time to practice them. If, we start at the beginning of the school year and practice it all year long, they'll get good at asking how and why questions. But sometimes they start with yes or no questions, right or wrong questions, right? No by the right answer questions. So we practice and we say no question is a bad question. We want to get them all out because sometimes a question that even feels off task will get us to a really real question. So sometimes questions beget other questions, right?
+
+## 00:39:20 Speaker 1
+
+And sometimes questions that are asked are really good for a different investigation, but not the one we're doing today. And so you could also do that. A third way, you can deal with a question that seems really like out there. It depends on the kid. And I hope you read that in the Riser's reading is that if it's a kid from a marginalized group, you listen to that question and you find that answer together. You make sure right like because, Maybe that person has not asked a question in science class, their entire lives because it has not been a warm and welcoming space. So you pay that's three different short answers, But and we get better as teachers picking the way we engage kids in the anchoring phenomena to get the right questions out. Like, this is all like we have to sort of anticipate what questions are going to get asked.
+
+## 00:40:17 Speaker 4
+
+Okay, yeah. One of these super subtle but really important things that people said, like over time, question asking is a skill. Like so, when you get better at it over the course of the year, another layer I would do is sometimes just asking the question is the goal. When you're just worried about the lesson you're going to teach, answering the question becomes the goal. Like, if your goal is to get them better at question asking, and it's worth spending the time to do that. And then they way they go on and said, like I'm not completely good with it like. April planted so many seeds, like walking around, like ooh, tell me more about that. Like you are naturally going to start focusing on those, and your questions are going to become around that. And, there was like kind of the steering from afar that, like you get to direct them and building on marginalized spaces is really important. We didn't yeah the bringing sweet grass. So say more about Robin's work? So Robin Wall Kimmerer wrote a great book. Her doctoral advisor was like no, that's a dumb question and kind of.
+
+## 00:41:14 Speaker 4
+
+Why is she so impressive? Is she's like, no, this is the question I am going to hold on to. And it was it came from a place of why are goldenrod? It's a beautiful one. Why are they? Why are they so beautiful when they grow together? Right, that was like what drove her research aster. I think I think was aster um and that's it wasn't recognized by the scientific community as having value, but that direction set her off on a super productive field. And. She was able to answer it, so like honoring the question and the asker is such an important part. But so she's a story of despite being neglected, she was able to rise. But once you hear those stories, when you hear the questions, you don't want to cut anyone off from a teacher.
+
+## 00:42:01 Speaker 1
+
+I watched that happen so many times when we did the Marion thing last year. We did this exact thing with a teacher brand new to that building and trying question work. So, I'm not judging, it's hard, but we're used to like, no that's off task. Yeah that's a great question. This is a good question. No that's not quite right. Right? None of that should be there. Your evaluation should not be a part of it. You need to find out what they mean. Yeah You need to get other questions like it, and you need to put it up there. Our job We have got to get rid of that because kids take that That is a risk to share this posted note And. It's a risk that.
+
+## 00:42:41 Speaker 1
+
+Some kids are risking more than other kids to take right. Minoritized kids are risking more to to take that risk than kids who have many options and many privileges, right? So, That especially is like a I am. So glad you asked this, where Where are our choices limited? That's a good that's a good question. We're going to put it up there. I just did it. That's a good question, right? Okay, so that's that's a question about choices. We're going to add that to our choices. Thank you for that.
+
+## 00:43:09 Speaker 6
+
+So, you don't want to say like good or bad. You're not you try not to tell. I mean, It's easier to stop ourselves from saying bad question because we think good. It's a good thing to yeah, be a positive intervention. We don't want to give that kind of feedback.
+
+## 00:43:22 Speaker 1
+
+It's better not to because then you feel like is mine a good question? Yeah, And then my oh they were productive. Yeah, Yeah. So maybe it was bad. Yeah. It's better to leave that open, okay, great. Uh, so I am going to ask you to choose. There are six of you, so some of you are working individually. Uh, well, I guess there is eight of us together. So there is four teams. We're going to just go to a board that we read about. So we read about in Riser's reading. We're only focusing on Riser's reading, which is the storyline reading. I should have so when you've read the storyline reading.
+
+## 00:44:05 Speaker 1
+
+Brian Breiser introduces four different kinds of routines. I just modeled one for you. This is called the anchoring phenomenon routine. This was part of the routine. There are three other routines he calls them, they, I should say they because Brian is with a team, A massive team of humans who help him, and he gets to put his name on everything. Not I'm not judging him, he's awesome anyway Navigation routine Which means, how do I help kids go from today to tomorrow? Putting pieces together. This is like, okay, we've had two days now. Do we need to revisit our model? Have we learned new things? What have we learned? That's the putting pieces together. Putting pieces together. And the last one is Problematizing. Problematizing. Problematizing. And that's like, okay, we've got different.
+
+## 00:44:59 Speaker 1
+
+Different opinions in our room about this thing. So how do we figure out what we believe? Okay, So we need four people to take each routine and and make a little What. Is it? Why does it matter? What might this look like in our camp? A little sign on the whiteboard somewhere. What do you want to do, Austin?
+
+## 00:45:19 Speaker 7
+
+Putting pieces together.
+
+## 00:45:21 Speaker 1
+
+Three. Anchoring one. One.
+
+## 00:45:31 Speaker 1
+
+Problematizing. Problematizing. Four. Three? Yeah. Um, how about two? Yeah. Yay!
+
+## 00:45:46 Speaker 8
+
+One, Two, three, four. So that's close to four and two right? Four and two.
+
+## 00:45:59 Speaker 1
+
+Peter and I.
+
+## 00:46:17 Speaker 2
+
+Let Me use the restroom quick. I, telling us.
+
+## 00:46:28 Speaker 10
+
+It's more like a student identifier. The navigation is. I think you can. So, like the eighth graders, they got these classes right there in the stadium, right?
+
+## 00:47:09 Speaker 1
+
+So that we showed the kids to it. Yeah, that's what started out with what is this like? Okay, I thought once they got heard other questions and they went up there and then they had other questions. And if you do that for a period of time. Oh, there's speaking of a model. Well, I guess we'll have to throw a lot of this. No, the model actually helps you figure out what's going on in your classroom. So that is it doesn't have to be a good model necessarily. It's not really even your starting model. So just use your way to throw ideas down to figure out what you don't get and then blob or teach or go and walk around, and you can say, what is that? Like where did that come from? It's like um is it the same kind of question? Yeah ask the number of questions until you get something, they can't answer and then say.
+
+## 00:47:53 Speaker 1
+
+Okay, that's a great question. So something like that,
+
+## 00:47:55 Speaker 10
+
+I guess,
+
+## 00:47:56 Speaker 1
+
+Like scenes that happen on there. Yeah,
+
+## 00:47:59 Speaker 6
+
+Well, like I said, it's like a scenario. Scenario. Yes, scenarios and big items. The anchoring phenomenon as a scenario is seen as increased, if you aren't looking at it. You guys are two or four? Are you two or four? Yeah, two right? We're navigation. I don't remember that. So yeah, we're navigation. I think yeah, you are probably using the right word. A scenario in student's community emphasizing the theater.
+
+## 00:48:28 Speaker 9
+
+Oh, we need to do one thing that's interesting, right? Okay, fast fashion on microplastic production creates time.
+
+## 00:48:47 Speaker 10
+
+Yeah, I think that we could conceptualize like what you said. Process. Yeah, yeah.
+
+## 00:48:56 Speaker 9
+
+Washing plastic fibers. Please speak up, please speak up.
+
+## 00:49:16 Speaker 4
+
+You're focused on.
+
+## 00:49:17 Speaker 9
+
+Like what is it going to look like in the future, right? Yeah. Okay. Um, what is it? Why does it matter? So, what is it?
+
+## 00:49:24 Speaker 6
+
+There's the four steps. I'll just briefly take them here. Why does it matter? Um, I'm really excited.
+
+## 00:49:32 Speaker 9
+
+About this whole idea here.
+
+## 00:49:34 Speaker 4
+
+And I think for me that's a that's a big one yeah. Use the digital world as an opportunity to connect with people who are not in your immediate physical space.
+
+## 00:49:40 Speaker 8
+
+And community and network and so on. Yeah yeah yeah.
+
+## 00:49:56 Speaker 9
+
+It'll work. That it wasn't fully connected, so I think it's connected. So if you have a fast fashion, um, Is I'm just going to go ahead and just go.
+
+## 00:50:10 Speaker 6
+
+Ahead and just start talking. It's okay.
+
+## 00:50:17 Speaker 5
+
+I finally came on. Where are we?
+
+## 00:50:19 Speaker 2
+
+Here we're here. Okay, so now the mic opted me to, So the problem I have a little bit of. One, two. Yeah,
+
+## 00:50:35 Speaker 9
+
+You can start with this one. So I've.
+
+## 00:50:39 Speaker 4
+
+Been able to look at it in two different ways. Yeah, I hear words, ways of understanding that as a kid how like touching them. Yeah, so like that's what I'd like to is this, Like I think you recommended here, It's like what's the connection between challenges and um I like the first one here.
+
+## 00:50:58 Speaker 5
+
+Diverse experiences sustainable.
+
+## 00:51:46 Speaker 10
+
+I Want To know.
+
+## 00:51:47 Speaker 2
+
+Yeah.
+
+## 00:52:15 Speaker 10
+
+I think like he's stronger than himself. So, yeah, he loves like people out there. There are the one value soul care community. Yeah, I actually care about that.
+
+## 00:52:46 Speaker 10
+
+They feel like they're not going to fail. Okay, I'm not that serious. I can't change my mind. You should try and extend it.
+
+## 00:52:57 Speaker 6
+
+Bring us forward
+
+## 00:53:06 Speaker 9
+
+Build confidence, close the gap faster.
+
+## 00:53:09 Speaker 6
+
+So, and then, yeah. So,
+
+## 00:53:17 Speaker 1
+
+It's also like ownership. The whole thing is problematizing.
+
+## 00:53:22 Speaker 2
+
+Yes. Which is why it matters?
+
+## 00:53:26 Speaker 9
+
+The point of trying to. Why do we call it disagreement? Like they'll be able to be so. I like this. And then what was the last one?
+
+## 00:53:40 Speaker 10
+
+Oh, yeah. And it wasn't like, well, that's just we're both the point. I'm ready to get up. We're both but you know what I mean by this? What is it really doing? How could it look like a challenge? Right. Having this agreement questions just about how might we just sit like we're basically. So, what problem am I saying?
+
+## 00:54:15 Speaker 6
+
+Where are the classics from? Do, you mean they do like us because people are really trying to act like they're just starting college? I was like the idea of just leaving no rock unturned. So, and so,
+
+## 00:54:34 Speaker 1
+
+Like a question that.
+
+## 00:54:37 Speaker 6
+
+We're going to solve. Like there are research.
+
+## 00:54:49 Speaker 9
+
+And maybe if they'll listen to other people's sources.
+
+## 00:54:53 Speaker 2
+
+So I'm I'm wondering what could you like every.
+
+## 00:55:04 Speaker 6
+
+Yeah, So I guess we're like two years.
+
+## 00:55:34 Speaker 10
+
+Yeah, Yeah.
+
+## 00:55:51 Speaker 6
+
+Maybe I'll do like an hour. We we should try that actually.
+
+## 00:55:56 Speaker 1
+
+And I think so you do that. And then the last question is also.
+
+## 00:56:00 Speaker 2
+
+It pushes us to our presentation. Yes,
+
+## 00:56:04 Speaker 1
+
+That is very important for inclusion. Um, and then our last bullet is what is yeah? Oh, how do we pull this off in a Plaud NotePin S?
+
+## 00:56:20 Speaker 2
+
+So, how can we use this?
+
+## 00:56:22 Speaker 10
+
+What might this look like?
+
+## 00:56:22 Speaker 9
+
+What does it look like? I know. There's a. So, I.
+
+## 00:56:30 Speaker 2
+
+Don't know. We have to tag on this. We want to orchestrate it in a way that it's looking for the same thing. How are you going to.
+
+## 00:56:39 Speaker 1
+
+Ask them questions? So, you've got sixth graders, seventh graders, okay? And they're disagreeing.
+
+## 00:56:45 Speaker 9
+
+How are you going to walk around and hear each other now? With the trash, so like I wonder, I just wonder how even the robbers see how they do it.
+
+## 00:56:57 Speaker 10
+
+She she got into that somewhere else. It's where it's for someone to get a job. Like donating clothes and all that, I know it's not maybe we should bring up something else. So changing.
+
+## 00:57:09 Speaker 2
+
+It on the sixth floor is more of a help. This effect you know what I mean? You would see you would see this effect on people who are homeless or people who are struggling to make ends meet.
+
+## 00:57:23 Speaker 2
+
+So, And then I would ask, you know how do you feel about the health care system? And then suppose you know, I think my answer is either wrong or it's looking at like Oh.
+
+## 00:57:49 Speaker 9
+
+That was hilarious. That made my day. I will focus on their email address.
+
+## 00:57:59 Speaker 1
+
+I like this too, like think people see this as a point to actually get connected. Thank you,
+
+## 00:58:06 Speaker 6
+
+But I'm still not into the series. This might also be to disagree respectfully with everyone's projects, right? So we could even have a draft do that too. I personally want to know how like their ideas. And then next time we can try to like communicate it into the activity. Because I think that we'll see some examples of them. We're going to get some hands- on experience. How might they be something about like this? You know, kind of look at this, They have a concept from the map, or you still want to try something new? But I feel that if.
+
+## 00:58:38 Speaker 2
+
+You keep giving them tools and settings to allow them to do it in a way they'll get more comfortable with it. But next time you ask them
+
+## 00:58:48 Speaker 2
+
+They would realize this is like a self- learning thing.
+
+## 00:58:58 Speaker 6
+
+I was thinking like an idea to set some visual standards for disagreement, like ecological standards or like social justice.
+
+## 00:59:35 Speaker 1
+
+I have a different perspective. I feel like when you make it about how you perceive,
+
+## 00:59:43 Speaker 2
+
+As something versus how you think it is, is it different? Yeah, Yeah.
+
+## 00:59:52 Speaker 2
+
+Because you're No But, Yeah. You kNow you're, so you're still in a way. It's Not like you're Nobody. They didn't feel the person's good. We're Not going to get anything done. You are respected when you want to make.
+
+## 01:00:09 Speaker 6
+
+And I could see I want to go back. We do not suggest that teachers attend or that there was no lesson plan until this week's discussion. We do not want teachers to feel that expectations for their thoughts about where to go next are just uh disingenuous because of the curriculum is already planned out.
+
+## 01:00:29 Speaker 2
+
+I think you know, Words like", we're going to have a plan",
+
+## 01:00:34 Speaker 6
+
+And we can't pretend that's not happening.
+
+## 01:00:49 Speaker 6
+
+You know, like I don't think.
+
+## 01:00:59 Speaker 9
+
+It's a. I think we need more conversation. I will give them like a five- minute video where.
+
+## 01:01:22 Speaker 2
+
+They see, probably kids or animals or cartoons, whatever having a discussion. And the three of them, none of them are right or wrong; they all have some sort of truth. And they get to learn that through the video. It gives them a sense of like, even if I have a different perspective and I think my answer is right, there might be a chance in which we're all right or wrong.
+
+## 01:01:52 Speaker 10
+
+We can all build something great together. Yeah, yeah. And it doesn't matter what you bring to the whole process. Yes,
+
+## 01:01:59 Speaker 2
+
+I think I would give them something to inspire them or give them tools for language.
+
+## 01:02:06 Speaker 2
+
+So that's an example.
+
+## 01:02:08 Speaker 10
+
+So I look like you're like,
+
+## 01:02:09 Speaker 2
+
+It will give them the language, you know, like I think is a lot of things that you always do. Like this, you know. Push back. So it gives them a language and example of how to have a conversation. And then we can go into the circle and start having our practice, you know? Disagreements or different yeah.
+
+## 01:02:29 Speaker 9
+
+Differences labeling the arrows like awesome. All right, how much time do we want? Okay, you're good. So is it true? Did, you just like take trash that was in your car and add it to the bucket? I went and I.
+
+## 01:02:55 Speaker 1
+
+So I went and i walked our lot because the sample waters are full of trash. And a kid, I think I told you. Did I tell you the kid sent it to school? And then at home, I collect plastic trash so that we have stuff for the art.
+
+## 01:03:10 Speaker 9
+
+Oh, that's where it came from. So Free Art Collective does that. Have you seen them around? No, There is a they might be on hiatus right now, but there is a group called Free Art Collective, and they just do pop up events where kids can make free art. They're associated with dad's mac which is like, A local, Like you show up and you it's like a potluck with every single different kind of pasta. Um, I think they do like Thursdays. You can get like mac and cheese. Mac and cheese. They're like loosely associated with Food Not Bombs. Who.
+
+## 01:03:51 Speaker 1
+
+Who Why did he have to say that out loud? Food Not Bombs? I'm just asking an obvious question, Like it just feels so dumb.
+
+## 01:04:00 Speaker 9
+
+What's that? Like like, why do we have to say food, not bombs? Can't can't we just be better by now. Can we just, yeah,
+
+## 01:04:08 Speaker 2
+
+Yeah. I this. Thank you, Ben for getting the mic. I don't know. I see some things about some countries and areas that, that have such a beautiful system and I'm, just like why do we have to see these?
+
+## 01:04:28 Speaker 1
+
+We could take a break but yeah.
+
+## 01:04:39 Speaker 2
+
+How Do we see this?
+
+## 01:04:43 Speaker 2
+
+How Do we see this and not think, oh, we can do better. I don't, I just. It's so hard for me to.
+
+## 01:04:57 Speaker 2
+
+To your first question, if there's a solution, why aren't we using it? It's just I don't get it. Sometimes, you know, we talk about how animals are irrational and then I see the actions that we including myself do, and it just doesn't make sense. It's like we're acting irrational because we see what it does to us, the environment and the planet. And and we see how other countries uh.
+
+## 01:05:28 Speaker 2
+
+Societies or whatever have gotten it right. Yep. In certain aspects of it, not everything because nothing to be perfect. And it's like, you see it, it works. Why don't you do it? That's a good question. I don't understand how.
+
+## 01:05:44 Speaker 10
+
+Add it on the question board! Right?
+
+## 01:05:48 Speaker 2
+
+Exactly! Put on the question board We sell our our our interests. Mhm And is uh is sad and pathetic.
+
+## 01:05:58 Speaker 10
+
+I I don't know about Peter, but in summer eight, Like when we we did the exact same process, like what we want in the theory. Which is like we came up first start with the anchoring phenomenon. Oh makes sense. And then we just driving like all the process like those um five theory. But first time I was like, I don't give a, I don't give anything about classic. I don't care for me it's like if I make a change by myself, People like out there somewhere is gonna, just keep throwing the plastic and keep smoking. Like I I I can't really make a change. That's why now in my first time,
+
+## 01:06:39 Speaker 10
+
+And Then as I talk about, like people in the local scientists, or as I learn more about like plastic and all the microplastic, um, I actually realize it's like oh well even.
+
+## 01:06:57 Speaker 10
+
+Like, he's and other people like maybe we can like make somewhat impact about like reducing the plastic. So like I would hope that's some like how kids can feel it in the camp. That's my goal. Exactly right. Yeah,
+
+## 01:07:11 Speaker 1
+
+Oh exactly right. That's why we do art for advocacy because kids need to do something so they don't feel like wow. This sucks,
+
+## 01:07:19 Speaker 10
+
+You know, and even when I went back to my home, Like I have dad and my sister with me, And I'm just telling them like no plastic here. Don't use plastic. The.
+
+## 01:07:33 Speaker 2
+
+Biggest disadvantage is how sometimes kids actually get it. And they bring it home and they push for it, and the parents just like, why not?
+
+## 01:07:44 Speaker 1
+
+But some parents say okay, right? Yeah.
+
+## 01:07:48 Speaker 2
+
+Yeah, not enough though, but yeah so.
+
+## 01:07:50 Speaker 10
+
+They try to make a change at least. They tried to like aware that, um, we have you're like kind of overusing plastic. Even like my dad he's a huge of all plastic issue. But when I just kept saying okay, well this what I did in the camp. So um I'm kind of try to not use plastic these days and he's like, okay. That's great, yeah, yeah. And then he's just pointing out everything that like this plastic here where I use it I'm like no.
+
+## 01:08:20 Speaker 1
+
+She said, "I bumped into her in the hall and she goes, 'Now I know that I can't use plastic water bottles anymore. I got my real water bottle. I'm so proud of myself.' She said something like, 'I got rid of.' but she said, 'But not my cutting board though because that's fine.' And I was like, 'Oh no! Plastic cutting boards are awful.'" You go home and you throw that away right now because every time you cut on that plastic cutting board, you are putting plastic in your food. Yeah, and she goes," No." This is an adult. She goes like," No." I am guilty.
+
+## 01:08:59 Speaker 1
+
+Yeah. Yes, I said throw them away tonight. Get a wood one. Go get it. And she's like," Oh," and she came back proudly the next day and said," I threw them all away." Yeah,
+
+## 01:09:09 Speaker 10
+
+I shopped a lot of like everything is like bought coffee- like I didn't know the. Clothes we were wearing these plastic. You notice nobody even though I was too intrigued like I still don't know. I didn't know what he was talking about,
+
+## 01:09:20 Speaker 1
+
+And nobody got that on their mouths.
+
+## 01:09:22 Speaker 10
+
+Yeah, the fibers weren't part of it. No, actually our I got it. Plastic very plastic. We.
+
+## 01:09:29 Speaker 2
+
+Got it and now we're acting.
+
+## 01:09:32 Speaker 1
+
+Oh, Yep, she did got it. She did it now. Yay welcome back.
+
+## 01:09:37 Speaker 3
+
+That was fast.
+
+## 01:09:39 Speaker 6
+
+No one else like Chipotle.
+
+## 01:09:40 Speaker 3
+
+That was very quick.
+
+## 01:09:44 Speaker 9
+
+This is unfair. Yes, it is. You're literally about to have some. You're literally just hustle,
+
+## 01:09:52 Speaker 1
+
+Please. Right up here, thank you.
+
+## 01:09:56 Speaker 10
+
+We start running? Yes, I don't know what you were talking about.
+
+## 01:10:00 Speaker 3
+
+Why is it free?
+
+## 01:10:01 Speaker 10
+
+Yeah, yeah. I really enjoyed the parts that we brought over like a local scientist during this class becauseum. I I actually find the joy of doing science, while like we're exploring those problems, because, oh, like I mean, we are all science person like we. We have to like make it sense why this problem matters, right? Because we are science people. We have to know why, Um and like I feel like I found enjoy a lot of talking with scholars, Like you know those people local scientists. I took two people so far um and, I really love them to talk.
+
+## 01:10:42 Speaker 10
+
+Because of it exactly, they says why we have toum figure out this problem. Like it affects our immune system, which is it's gonna hurt us, you know. That's clear. Soum I wish the we really tell that I was talking like the first day of the class. I wish we could invite her. You can? I I wanna invite her. Great story in a way, she's a super great person that ever can talk to you.
+
+## 01:11:08 Speaker 3
+
+You said, stupid great person?
+
+## 01:11:10 Speaker 10
+
+No, she's oh she's in the super, Oh. No, no, she didn't. No, no, no. She's a super great person. Oh,
+
+## 01:11:16 Speaker 3
+
+Sorry. Sorry.
+
+## 01:11:17 Speaker 10
+
+She's in RMC:URMC, R M C She's, one of the one of the plastic lab I believe Yeah And um I'm supposed to have a only thirty minutes meeting time with her But. She's like Well I I really love talking to her So I talked for an hour And. Then she was like Worrying that like Oh don't you have to go? And then she said No, no, No No worries Wow So both Rachel.
+
+## 01:11:36 Speaker 1
+
+And Aletheia You can invite To be part of your camp. So and that's yeah,
+
+## 01:11:40 Speaker 10
+
+I wish we could invite her to the camp too.
+
+## 01:11:42 Speaker 1
+
+You can and the kids, I mean you could help them develop interview questions and bring them in, and both both of them would be really accessible. Okay, awesome. So, we quickly share out like two minutes apiece so that we still can finish all the other things. Number one.
+
+## 01:11:59 Speaker 6
+
+Though um so we're talking about the anchoring phenomenon. We defined it as your check um, A scenario about students communities used to generate questions and action about a topic. There are four main steps encouraging the questions and curiosity, but not answering them. It's kind of what we did. Present the anchoring phenomenon, how they explore and ask the questions. Then um students trying to explain the phenomenon themselves without like prior investigation, then connecting the issues to the students' own lived experiences, and then collectively asking.
+
+## 01:12:38 Speaker 6
+
+Questions, and brainstorming methods of investigating and answering the questions. Which I think the collectively part is important there. You are a team so everybody's voice should be representative. The question should be representative of everyone's voices. Why we thought this was important? First of all it's justice-centered so it follows like the just framework, it definitely complements that nicely. It develops a love of learning, Specifically, I was thinking about that curiosity and like how much more fun learning is and how much more you want to learn when it's coming from your own interests and your own questions. And building confidence in students' abilities to make an impact as a result. And that they can come up with and answer questions themselves and actually do it. And similarly, students are taking ownership of their own learning and feel in charge.
+
+## 01:13:34 Speaker 6
+
+How this might look at camp, we definitely want to do a question wall with our students. And then we thought the question wall and the brainstorming method, the kids could then see in the activities that we do. And I was really drawn to a quote in the Risser article back in the discussion, page eight, twenty four, which says, " We do not suggest that teachers pretend to pretend that there are no lessons planned until the student discussion." We do not want students to feel that the investigations for their thoughts are about investigations for their thoughts about where to go next are disingenuous because the curriculum is already planned. This balance is tricky, And that's something I've been like struggling with. And like wanting us to be able to really make those student generated questions and ideas evident in our activities, even if we've done the work beforehand.
+
+## 01:14:31 Speaker 6
+
+And then, second, we kind of brainstormed this idea of a researcher role. Just as like each day everyone's a researcher, But I meant like a designated, maybe Googler kind of like Monica would watch all the chalks. And like we have the iPads for the kids, and they could take turns being like the kind of tech expert for the day. Of like I'm going to go do research on computer for the question that maybe we're not going to investigate physically, but we still want to hold.
+
+## 01:15:02 Speaker 6
+
+So that we don't leave any rock unturned.
+
+## 01:15:04 Speaker 1
+
+Awesome. Great job. One thing I just want to point out, people confuse the anchoring phenomenon with that, that. This is the anchoring phenomenon routine. It's some shared experience that you're going to give everybody as a launch. It's related to the anchoring phenomenon, but it's not the anchoring phenomenon itself. So, If I opened a can of tuna and ate it and showed you under a microscope that something's in that can of tuna, for example, we're not necessarily just studying tuna or cans of tuna. That's just a way to get into the phenomenon. So, you have to separate out the first activity, which is thinking level number two from the actual anchoring phenomenon, which is a question on your wall. Okay, two.
+
+## 01:15:53 Speaker 9
+
+I'm going to go over here that way I can. Point. Point to follow my arrows and get lost and spin around. So, for navigation, me and Zed were going back and forth a lot because I was like, I have a pretty solid grasp of the anchoring phenomenon and putting it together makes sense to me, but this part is difficult. So we were looking at our what is it?
+
+## 01:16:26 Speaker 9
+
+What connects our phenomena and like how do excuse me, How do we follow our questions um in and out of coming back to the learning and making sure that all that process is clear to our students. Um, I'm giving them like giving them agency through the like the anchoring phenomenon exploration. We want that agency to be used here as they, Guide us, but we give them the information of like, okay, how do we do that? How do we how do we explore these concepts and these ideas? So for for this, I was doing a lot of exploring of like the fiber fighters, and my like takes on it. So thinking about where to close start.
+
+## 01:17:23 Speaker 9
+
+What do different garments feel like? What makes them different if they're made of plastic versus natural textiles? What is fast fashion and how does it intertwine with microplastics? And like the idea that you could make a map or a model to navigate the question of like, where are your clothes going to be in five years. I see clothes on the street all the time as like a form of litter. To me, It looks like, oh, somebody was out doing laundry with a bag ripped. And then there's just like clothes on the ground. Or like I don't know, maybe somebody was taking something to Goodwill, and it was strapped to their car. And then it fell out on the ground. Like maybe somebody was hot, and they took their shirt off, and it just fell out of their hands. Like I don't know, but there's literal other places we could look into that. You know why why are there clothes on the ground?
+
+## 01:18:21 Speaker 9
+
+Why are people leaving their clothes on the ground? How did they get there? And in the process of that, Exploring like what makes something sustainable and what is the impact of fast fashion and like these plastic textiles on our experience with clothing.
+
+## 01:18:47 Speaker 1
+
+So what I love about your focus on navigation is like, Really, it's about what question do we want to figure out next? Now that we've figured out this question, we figured out X. Like you could pick any one of those questions. We've learned something. We figured out that. So now what question do we need to ask next? Like what does that lead us to wonder? And so really try to think about what will make sense for kids as far as an order goes. And lead it with the questions, right? Next, we're going to figure out. And it's a question.
+
+## 01:19:21 Speaker 1
+
+Not we're going to figure out. We're going to talk about not we're going to talk about how plastic breaks down, right? We're going to say, how does it get this little? Like it starts as a water bottle or a bumper of a car or whatever. How does it get this little? So we're going to figure that out tomorrow, right? That's the navigation move is you figured out something you haven't figured it all out that would be.
+
+## 01:19:48 Speaker 9
+
+I was really struggling with the not immediately providing an explanation or like passing a judgment. Like initially my question was, what do sustainable versus unsustainable garments feel like? Like what makes them different? But then you're like predefining it and rather than setting it up as an exploratory thing where it's like you feel a cotton t-shirt versus a linen shirt versus some spandex pants or like denim, like, What makes all these different?
+
+## 01:20:21 Speaker 1
+
+Yeah, you are going to struggle at the beginning to say, like, how do I not give too much away? But that is the question that you are going to keep wrestling with. It's like how do I bring it so they can figure it out as opposed to, you know. And so just goes away.
+
+## 01:20:37 Speaker 4
+
+What that wrestling match number goes away right?
+
+## 01:20:39 Speaker 1
+
+That wrestling never goes away. All right, three go.
+
+## 01:20:42 Speaker 5
+
+Do you want me to do it? Sure. Um so we had, Putting pieces together, we really thought of it simple. What is it? It's assembling what was figured out. That's kind of where you get all the pieces from. All the going to the next part, making sense of the evidence collected. So trying to assemble all the evidence you have into maybe some solutions that are proposed or I am trying to read that other one.
+
+## 01:21:15 Speaker 5
+
+Getting to know science from those evidences as yeah, as the side. Um, why does it matter? Um, there's diverse opinions as we all know. Um, Everyone has kind of their own thinking, where like how they get to a certain point or how they get to an explanation. And then um it really pushes that concept of. That deeper knowledge is trying to get obtained. That's linked to what the student knows from maybe their own experiences or shared experiences. And then at the end, we really put extending models to like personal content, so like revising them, Adding more onto it and kind of going into how this looks into a looks like a camp.
+
+## 01:22:12 Speaker 5
+
+In summary, We had our own individual models, and then we came together to like we did up there. The consensus model. Where, one of like yep, where one of the questions me and Asa actually had with the consensus model is what if a student proposes a certain part of the model, but everyone else is like mm. So what do you do there? Good question.
+
+## 01:22:39 Speaker 1
+
+Can we throw that one to Peter? The other Peter? Oh. What do we do when we disagree? Could you tell us about four?
+
+## 01:22:49 Speaker 2
+
+Wouldn't that give away what I'm gonna go over? We're giving it to you now. Oh, it's my turn. Oh, okay. Okay.
+
+## 01:22:57 Speaker 5
+
+All right,
+
+## 01:22:58 Speaker 2
+
+Thank you. That was the handoff. Oh, oh sorry. I was uh yeah I was gone. Okay uh I was really going deep in thought into what he was saying. So. When you were like, oh, the transfer. Okay. So problematizing. So we went over what is it for us as teachers, right? And, the way we saw is that we see it as a way to push us to deeper into deeper conversations. I would say, right? And to lead us to questions systems.
+
+## 01:23:38 Speaker 2
+
+But more importantly, to have disagreements and challenging what is that phenomenon they just wrote here, right? New challenging phenomenon. Yes. And to lead us to also understand whose voices are being heard or excluded. I would say the center point in there is to have and cultivate a healthy disagreement. In a way that it is respectful and productive for students to be able to share the stories and understand each other, even if they disagree with the other person's perspective. Why does that matter? So, we think that certain aspect of why it matters, it leads us to push us beyond solving problems. It's not so much about okay we are solving the problem here and.
+
+## 01:24:35 Speaker 2
+
+And there, It's more about what are the elements where these issues thrive? Or what are the elements or the settings? And environments that are causing these to either be systematic or the root cause of the issues. But more importantly, Also pushes us to have more participation and allows the kids to be able to something that we were saying over there and that I pushed for. Personalize their answer and be able to provide an answer that is more emotionally centered than intellectually centered. So now we are actually working with emotions of the kids, asking like, where have you seen this, right? And you know the other kids, we can ask a question like, you know how do you feel about the experience that your peer just had?
+
+## 01:25:33 Speaker 2
+
+About X, Y, and Z. So, now we're talking about things they relate to as opposed to things that they intellectually think they either know or don't know. And lastly, how do we see that in the camp? Something that at the end came to me, was kind of like a backwards design approach where we take five minutes videos, and we show them what we want to do, the end results of what We want to do is they see they can see how whether it is cartoons animals or whatever, you know how they have it healthy disagreement in there, and we're like, an example could be where like all of them are not right or wrong. They, just they happen to have a experience that was true to them. And uh, it felt it feels real to them because of that experience, and he has some sort of truth in there. So, for then learning.
+
+## 01:26:29 Speaker 2
+
+Through those five minutes, how to have that healthy conversation, healthy disagreement, And then kind of like give them the right environment and settings for them to be able to share. And disagree or agree in a healthy manner. Lots.
+
+## 01:26:47 Speaker 1
+
+Of things to think about. And we're going to return to some of them. We will skip that. But here's our teacher talk. This is going to get us into working on. Our camp, so we're going to work on six things. And, if you could work with your camp person at your whiteboard to do the thing after I talk about the thing, that would be great. So these are the six things we're going to work on. Um, And the slides are in there so they can help you when you come back to it. This is my favorite quote of all time for teaching. So at first it's written in nineteen twenty nine.
+
+## 01:27:28 Speaker 4
+
+How old do you think this clothing is? Not for you, but for.
+
+## 01:27:31 Speaker 1
+
+I really do. At first, Becomes the task of the teacher who would base her program with children on the exploration of the environment to explore the environment herself. She must know how her community keeps house, how it gets its water, its coal, its electrical power, its food. Who are the workers that make a community function and how those workers adapt to the physical characteristics of the world around them? Around them. She must know where the pipes in her room lead to, where the coal is kept in the school, when the meters are read and by whom. She must know the geographic features, which characterize her particular environment and strive constantly to see how they are changed by human work. Somebody might say they need to know who cleans the beach, they need to know who are the fisher people on the pier, They need to know right? There's where do the drainage ditches if you throw paper on the road and water?
+
+## 01:28:27 Speaker 1
+
+Touches it, the rainwater, touches it. It goes down in the drainage ditch. Where does it go from there? They need to know all of these things we as teachers. And when she knows all of this and much, much more, here's the punchline, she must keep most of it.

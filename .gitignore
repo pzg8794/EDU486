@@ -1,6 +1,6 @@
 .DS_Store
 
-# Keep third-party course files and private source artifacts local.
+# Keep third-party course files and local source artifacts local.
 # The public repo documents these sources in docs/source-map.md instead.
 _local-course-materials/
 
@@ -40,6 +40,10 @@ transcripts/*-transcript.txt
 !public-submissions/*.png
 !public-submissions/*.svg
 !public-submissions/*.ics
+
+# Course transcripts are publishable records when intentionally placed here.
+!transcripts/raw/
+!transcripts/raw/*.txt
 
 # Local exports are for Blackboard/Drive submission, not the public repo.
 submission_exports/

@@ -39,7 +39,7 @@ This course should show Piter as a teacher-scholar who can:
 ## Reusable Portfolio Assets To Build
 
 - JuST plus technology integration visualization
-- Planet Protectors camp unit plan
+- Invisible Invaders operations guide, SASSY storyline, and daily lesson plans
 - youth-facing activity materials
 - poster fair artifact
 - reflection on tool affordances/constraints

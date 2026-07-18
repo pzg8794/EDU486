@@ -2,6 +2,27 @@
 
 The syllabus says that when GenAI is used, it should be credited by source, output, and purpose. This log makes that crediting easy to maintain.
 
+## July 18, 2026 - Invisible Invaders Consolidation And Instructor Templates
+
+- Tool/source: OpenAI Codex under Piter Garcia's supervision; July 9, 14, 15, and 16 course and team transcripts; July 16 classroom images; the current Google Drive team folder; the instructor SASSY and daily lesson-plan templates; the live materials order sheet; prior EDU486 plans; and direct NOAA, FDA, WHO, EPA, CAST, and PhET sources
+- Purpose: turn the team's decisions into one accessible operations guide, remove competing active drafts, complete the shared storyline and daily templates, reconcile materials and deadlines, publish Piter-approved transcripts and same-session images, and keep other teams' boards visibly reference-only
+- Outputs created or revised:
+  - [current camp operations guide](../assignments/03-camp-unit-plan/invisible-invaders-camp-operations-guide.md) and [editable Drive copy](https://docs.google.com/document/d/1LueJ9NX6MP257ywABKTDu-vVWVYzTwRnNDK8fgJx4e0/edit)
+  - [current SASSY Storyline Table](https://docs.google.com/document/d/1fGOjSkEFxsy5UC5n75UIi9aE_-sKOhyeRx9sY8CAUWU/edit), including Field Friday through Friday reflection
+  - [six completed daily lesson plans](https://drive.google.com/drive/folders/1safaE0FAhNHiHRCgexqPKf0WXME8lcQg)
+  - [public transcript and July 16 evidence index](../transcripts/README.md)
+  - [public same-session image index](../public-artifacts/README.md)
+  - dated local and Drive archives for superseded working drafts
+- Human guidance and decisions:
+  - Piter confirmed that EDU486 transcripts are not private
+  - Piter confirmed that other teams' board images are references for coordination and possible shared resources, not Invisible Invaders decisions
+  - preserve Piter and Aastha as the team and the human-body anchor as the current phenomenon
+  - make neurodivergence, chronic illness, disability, language, energy, sensory access, privacy, and multiple identities drive the daily design
+  - preserve the instructor's black-original/green-responsive revision convention
+  - keep color paired with written SCIENCE, EVIDENCE, JUSTICE/ACTION, and ACCESS labels
+  - keep the All Camp lab-quality salt line separate from the Invisible Invaders request
+- Disclosure used in the guide: Piter provided, reviewed, supervised, and guided the project context, evidence, corrections, inclusion requirements, and final direction; AI supported accessible organization, formatting, cross-document reconciliation, source validation, template completion, and causal/logistical gap checking
+
 ## July 1, 2026 - Repository and Draft Setup
 
 - Tool/source: OpenAI Codex, GPT-5-based coding assistant in the Codex desktop app
@@ -77,7 +98,7 @@ OpenAI Codex (GPT-5) was used on July 1, 2026 to synthesize course materials, or
 - Output created or updated:
   - [July 14 camp-prep command center](../assignments/05-july14-camp-prep/README.md)
   - [Session 5 reading notes](../assignments/05-july14-camp-prep/session5-reading-notes.md)
-  - [camp curriculum resource map](../assignments/05-july14-camp-prep/camp-curriculum-resource-map.md)
+  - [archived camp curriculum resource map](../assignments/05-july14-camp-prep/archive/2026-07-18-pre-consolidation/camp-curriculum-resource-map.md)
   - [live Heather Table](https://docs.google.com/document/d/1Cnw_v00DsZclHObcmnljwXzEw-kiReCE6oStXrMoGAg/edit), including the newly inserted Ippolito row
 - Human decisions still required:
   - confirm Piter's camp team before editing a shared gapless explanation or team materials request
@@ -108,9 +129,9 @@ OpenAI Codex (GPT-5) was used on July 1, 2026 to synthesize course materials, or
 - Tool/source: OpenAI Codex under Piter Garcia's supervision, the connected JuST Lab / Marion Middle School curriculum, the official NextGen Science listing and EQuIP review for *An Ocean of Plastics*, official Algalita / Wayfinder guides and lesson pages, the ProQuest index record, and the existing Invisible Invaders plans, protocols, inventory, visuals, and Puzzle Plan documents
 - Purpose: complete the curriculum-exploration task without copying a generic unit; identify reusable routines, document source-access limits, repair the Marion justice/advocacy gaps, build the Field Friday plus Monday-Friday camp arc, and organize camp materials in both the repository and shared team folder
 - Output created or revised:
-  - [Task 7 curriculum adaptation and Monday-Friday plan](../assignments/05-july14-camp-prep/task7-curriculum-adaptation-and-week-plan.md)
-  - [camp-ready youth and facilitator tools](../assignments/05-july14-camp-prep/task7-camp-tools.md)
-  - [Invisible Invaders camp-folder index](../assignments/05-july14-camp-prep/invisible-invaders-camp-folder-index.md)
+  - [archived Task 7 curriculum adaptation and Monday-Friday plan](../assignments/05-july14-camp-prep/archive/2026-07-18-pre-consolidation/task7-curriculum-adaptation-and-week-plan.md)
+  - [archived camp-ready youth and facilitator tools](../assignments/05-july14-camp-prep/archive/2026-07-18-pre-consolidation/task7-camp-tools.md)
+  - [archived Invisible Invaders camp-folder index](../assignments/05-july14-camp-prep/archive/2026-07-18-pre-consolidation/invisible-invaders-camp-folder-index.md)
   - [curriculum-to-camp visual](../public-artifacts/task7-curriculum-to-camp-map.png)
   - [editable Task 7 plan](https://docs.google.com/document/d/1doFltN1y0EsNO_ZxHsPNjMLpEAMb1EcYQqeurzTVWQg/edit) and [editable camp tools](https://docs.google.com/document/d/1Y7vrjOQUhrqohwFgrT-mA5Qu0apQSnFMyYXv85Ct2H8/edit) placed in the shared Invisible Invaders folder
 - Human guidance and decisions:
@@ -128,8 +149,8 @@ OpenAI Codex (GPT-5) was used on July 1, 2026 to synthesize course materials, or
 - Tool/source: OpenAI Codex under Piter Garcia's supervision; the existing Invisible Invaders explanation, activities, inventory, and Puzzle Plan documents; NOAA, NASA, UCAR, PhET, and UNEP direct sources
 - Purpose: turn Piter and Aastha's greenhouse-gas idea into an accessible camp experience that connects rising temperature and CO2 to the plastic life cycle without claiming that microplastics directly caused the warming
 - Output created or revised:
-  - [plastic, carbon, and rising-temperature activity](../assignments/05-july14-camp-prep/invisible-invaders-plastic-carbon-temperature-model.md)
-  - [Invisible Invaders activity plan](../assignments/05-july14-camp-prep/invisible-invaders-activities.md)
+  - [archived plastic, carbon, and rising-temperature activity](../assignments/05-july14-camp-prep/archive/2026-07-18-pre-consolidation/invisible-invaders-plastic-carbon-temperature-model.md)
+  - [archived Invisible Invaders activity plan](../assignments/05-july14-camp-prep/archive/2026-07-18-pre-consolidation/invisible-invaders-activities.md)
   - camp-prep command center, camp-folder index, and source map
 - Human guidance and decisions:
   - at the time, preserve the parking-lot/classroom samples as the anchor; this was superseded by the team's July 15 human-body phenomenon decision
@@ -147,8 +168,8 @@ OpenAI Codex (GPT-5) was used on July 1, 2026 to synthesize course materials, or
 - Output created or revised:
   - [transcript correction and evidence note](../transcripts/README.md)
   - [source-linked Invisible Invaders explanation](../assignments/05-july14-camp-prep/invisible-invaders-gapless-explanation.md)
-  - [inclusive and safety-revised activity plan](../assignments/05-july14-camp-prep/invisible-invaders-activities.md)
-  - [curated media and internet guide](../assignments/05-july14-camp-prep/invisible-invaders-media-guide.md)
+  - [archived inclusive and safety-revised activity plan](../assignments/05-july14-camp-prep/archive/2026-07-18-pre-consolidation/invisible-invaders-activities.md)
+  - [archived curated media and internet guide](../assignments/05-july14-camp-prep/archive/2026-07-18-pre-consolidation/invisible-invaders-media-guide.md)
   - the earlier indoor-outdoor causal pathway visual, retired after the July 15 phenomenon change
   - [multiple access pathways visual](../public-artifacts/invisible-invaders-access-pathways.png)
   - [camp materials inventory dictionary](../assignments/05-july14-camp-prep/materials-inventory-and-order-check.md)
@@ -179,7 +200,7 @@ OpenAI Codex (GPT-5) was used on July 1, 2026 to synthesize course materials, or
 - Purpose: show precisely how the team used the course's gotta-have checklist, make the previously implicit checklist visible to campers, and distinguish indispensable causal science from activities, extensions, justice analysis, and participation design
 - Output created or revised:
   - [four-item checklist and evidence map](../assignments/05-july14-camp-prep/invisible-invaders-gotta-have-checklist-evidence-map.md)
-  - [four-day activity plan](../assignments/05-july14-camp-prep/invisible-invaders-activities.md)
+  - [archived four-day activity plan](../assignments/05-july14-camp-prep/archive/2026-07-18-pre-consolidation/invisible-invaders-activities.md)
   - camp-prep command center, camp-folder index, artifact index, source map, and transcript index
 - Human guidance and decisions:
   - use Piter and Aastha's confirmed human-body phenomenon and current causal explanation
@@ -191,12 +212,12 @@ OpenAI Codex (GPT-5) was used on July 1, 2026 to synthesize course materials, or
 
 ## July 16, 2026 - July 15 Team-Meeting Commitment Pack
 
-- Tool/source: OpenAI Codex under Piter Garcia's supervision; the protected July 15 Piter-Aastha meeting transcript; current Invisible Invaders Drive documents; the existing camp plans and Puzzle Plan materials; PubMed-indexed blood and lung studies; FDA, WHO, NOAA, and CAST sources
+- Tool/source: OpenAI Codex under Piter Garcia's supervision; the public July 15 Piter-Aastha meeting transcript; current Invisible Invaders Drive documents; the existing camp plans and Puzzle Plan materials; PubMed-indexed blood and lung studies; FDA, WHO, NOAA, and CAST sources
 - Purpose: complete the planning work Piter committed to during the meeting before class: a cleaner template, feasible opening moments, four checklist connections, a revised human-body gapless explanation, and inclusive youth advocacy choices
 - Output created or revised:
-  - [July 15 meeting commitment pack](../assignments/05-july14-camp-prep/july15-meeting-commitment-pack.md)
+  - [archived July 15 meeting commitment pack](../assignments/05-july14-camp-prep/archive/2026-07-18-pre-consolidation/july15-meeting-commitment-pack.md)
   - [editable team document in the shared Invisible Invaders folder](https://docs.google.com/document/d/1B4MPNMAHEJ_lscjyP9YBBlYeXZxCBvT781sSZoe1N5w/edit)
-  - [current opening routine](../assignments/05-july14-camp-prep/invisible-invaders-opening-routine.md) and [editable Drive copy](https://docs.google.com/document/d/1LOS9EiIFyTB-8rDQ8Q1MUnUhrqxzllQiy-oEB9J_uFs/edit)
+  - [archived opening routine](../assignments/05-july14-camp-prep/archive/2026-07-18-pre-consolidation/invisible-invaders-opening-routine.md) and [historical editable Drive copy](https://docs.google.com/document/d/1LOS9EiIFyTB-8rDQ8Q1MUnUhrqxzllQiy-oEB9J_uFs/edit)
   - [evidence-to-agency visual](../public-artifacts/invisible-invaders-evidence-to-agency-map.png)
   - camp-prep command center, camp-folder index, artifact index, transcript index, and source map
 - Human guidance and decisions:
@@ -226,7 +247,7 @@ The first version of this entry incorrectly said the team would preserve tire we
   - [course scope](course-scope.md)
   - [PhD/Puzzle Plan alignment](phd-puzzle-plan-alignment.md)
   - [grounding frameworks draft](../assignments/01-grounding-frameworks/grounding-frameworks-part1.md)
-  - [camp unit plan draft](../assignments/03-camp-unit-plan/planet-protectors-camp-unit-plan-draft.md)
+  - [archived camp unit plan draft](../assignments/03-camp-unit-plan/archive/2026-07-18-pre-consolidation/planet-protectors-camp-unit-plan-draft.md)
   - [poster proposal draft](../assignments/04-poster-fair/poster-proposal-draft.md)
 - Human review needed:
   - confirm whether "Access-to-Agency STEM" is the preferred public-facing name

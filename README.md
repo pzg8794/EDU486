@@ -27,10 +27,12 @@ My working personal lens is:
 - [AI use log](docs/ai-use-log.md)
 - [Assignments index](assignments/README.md)
 - [July 14 camp-prep command center](assignments/05-july14-camp-prep/README.md)
+- [CURRENT Invisible Invaders Camp Operations Guide](assignments/03-camp-unit-plan/invisible-invaders-camp-operations-guide.md)
+- [Editable CURRENT Camp Operations Guide in Google Drive](https://docs.google.com/document/d/1LueJ9NX6MP257ywABKTDu-vVWVYzTwRnNDK8fgJx4e0/edit)
+- [Editable CURRENT SASSY Storyline Table](https://docs.google.com/document/d/1fGOjSkEFxsy5UC5n75UIi9aE_-sKOhyeRx9sY8CAUWU/edit)
+- [Completed daily lesson-plan folder](https://drive.google.com/drive/folders/1safaE0FAhNHiHRCgexqPKf0WXME8lcQg)
 - [Invisible Invaders gotta-have checklist and evidence map](assignments/05-july14-camp-prep/invisible-invaders-gotta-have-checklist-evidence-map.md)
-- [July 15 meeting commitments: editable team document](https://docs.google.com/document/d/1B4MPNMAHEJ_lscjyP9YBBlYeXZxCBvT781sSZoe1N5w/edit) / [public-safe repo version](assignments/05-july14-camp-prep/july15-meeting-commitment-pack.md)
-- [Current Invisible Invaders opening routine: editable team document](https://docs.google.com/document/d/1LOS9EiIFyTB-8rDQ8Q1MUnUhrqxzllQiy-oEB9J_uFs/edit) / [public-safe repo version](assignments/05-july14-camp-prep/invisible-invaders-opening-routine.md)
-- [July 9 full transcript and team evidence](transcripts/README.md)
+- [Course transcripts and July 16 evidence](transcripts/README.md)
 - [Course calendar import](docs/course-calendar.ics)
 - [Public generated artifacts](public-artifacts/README.md)
 - [Public submission documents](public-submissions/README.md)
@@ -42,16 +44,18 @@ My working personal lens is:
 | June 29, 2026 | Pre-class announcement tasks: learning scientist image, syllabus comments, youth STEM story slides, calendar setup | [Announcement prep](assignments/00-announcement-prep/README.md) |
 | July 14, 2026 | Visualizing our Grounding Frameworks, Part 1, revised around EQUITAS Access-to-Agency STEM | [Part 1 draft](assignments/01-grounding-frameworks/grounding-frameworks-part1.md) |
 | July 14, 2026 | Invisible Invaders gapless explanation, gotta-have checklist, Session 5 readings/Heather Table, and camp planning preparation | [Checklist evidence map](assignments/05-july14-camp-prep/invisible-invaders-gotta-have-checklist-evidence-map.md) / [Invisible Invaders explanation](assignments/05-july14-camp-prep/invisible-invaders-gapless-explanation.md) / [July 14 command center](assignments/05-july14-camp-prep/README.md) |
-| July 21, 2026 | Camp overview and daily lesson plans finalized for sharing/printing, with access paths for neurodivergent and chronically ill learners | [Camp unit plan draft](assignments/03-camp-unit-plan/planet-protectors-camp-unit-plan-draft.md) |
-| July 29, 2026 | Poster file to April by bedtime if printing is needed | [Poster proposal draft](assignments/04-poster-fair/poster-proposal-draft.md) |
+| July 21, 2026 | Bring camp materials and daily lesson plans to Freedom School for staff review | [Current camp operations guide](assignments/03-camp-unit-plan/invisible-invaders-camp-operations-guide.md) |
+| July 24, 2026 | Charlotte Beach Field Friday: four-jar model, sand sampling, and team formation | [Field Friday plan](assignments/03-camp-unit-plan/invisible-invaders-camp-operations-guide.md#field-friday-july-24) |
+| July 27-31, 2026 | Freedom School camp week; showcase Thursday, July 30 around noon | [Daily camp sequence](assignments/03-camp-unit-plan/invisible-invaders-camp-operations-guide.md#storyline-at-a-glance) |
+| July 29, 2026, 10 p.m. working target | Poster file to April if printing is needed; confirm the exact cutoff | [Poster proposal draft](assignments/04-poster-fair/poster-proposal-draft.md) |
 | July 31, 2026 | Poster fair, 1:30-3:00 p.m. in LeChase 215 | [Poster proposal draft](assignments/04-poster-fair/poster-proposal-draft.md) |
-| August 1, 2026 | Final camp unit/lesson plans submitted | [Camp unit plan draft](assignments/03-camp-unit-plan/planet-protectors-camp-unit-plan-draft.md) |
+| August 1, 2026 | Final camp unit/lesson plans submitted | [Current camp operations guide](assignments/03-camp-unit-plan/invisible-invaders-camp-operations-guide.md) |
 | August 4, 2026 | Visualizing our Grounding Frameworks, Part 2 | [Part 1 framework to revise after camp](assignments/01-grounding-frameworks/grounding-frameworks-part1.md) |
 
 ## Public Repository Boundary
 
-This repository is public. It intentionally tracks original planning, assignment drafts, source maps, and reflection work. Third-party readings, Blackboard exports, PDFs, DOCX source files, screenshots, private transcript materials, health/disability details, and other copyrighted or private course resources stay local or in Google Drive.
+This repository is public. It intentionally tracks original planning, assignment drafts, source maps, reflection work, course transcripts, and selected classroom evidence that Piter has approved for publication. Third-party readings, Blackboard exports, copyrighted course files, unrelated personal records, and unreviewed source downloads stay local or in Google Drive.
 
-Local source files are consolidated under the ignored `_local-course-materials/` directory. Local and remote repositories are considered synchronized when their tracked commits are identical; ignored private sources intentionally remain local.
+Local source files are consolidated under the ignored `_local-course-materials/` directory. Publishable transcripts are copied deliberately into `transcripts/` with stable names and reliability notes. Local and remote repositories are considered synchronized when their tracked commits are identical; ignored source files intentionally remain local.
 
 That boundary lets the repo become a professional portfolio artifact without accidentally publishing course materials or private records. See the [repository organization guide](docs/repository-organization.md) before adding or moving files.

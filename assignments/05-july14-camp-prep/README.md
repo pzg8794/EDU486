@@ -1,59 +1,54 @@
-# July 14 Camp Prep Command Center
+# Invisible Invaders Camp-Prep Reference
 
-This page translates the July 10 camp email into one scannable work queue. It keeps the science, justice, and access goals together: campers should be able to build rigorous explanations and public action without stamina, speech, reading speed, handwriting, sensory tolerance, English dominance, or comfort with a particular technology being mistaken for scientific ability.
+This folder now holds the active supporting evidence for the [single current Camp Operations Guide](../03-camp-unit-plan/invisible-invaders-camp-operations-guide.md). Earlier activity plans, routines, Task 7 drafts, and meeting packs are preserved in the [July 18 archive](archive/2026-07-18-pre-consolidation/README.md).
 
-## Status Now
+## Current Team And Question
 
-| Priority | Task | Status | Direct Link |
-| --- | --- | --- | --- |
-| 1 | T-shirt design and pin form | Overdue; needs review and final submit | [Open form](https://docs.google.com/forms/d/e/1FAIpQLSfhFq0XBOP8OhJuP2TT-0EIncmK8h2dQp1vjPEAgjVWurRdUQ/viewform) |
-| 2 | T-shirt size | Complete: Adult Medium, Camp Teacher | [Open roster](https://docs.google.com/spreadsheets/d/1p0zSJzPNdGzKTBoTDYXLzTXItBEHb_CX5bHh1m1cvKg/edit?gid=112167864#gid=112167864) |
-| 3 | Grounding Framework Part 1 | Submission packet complete; Blackboard upload remains | [PDF](../../public-submissions/grounding-frameworks-part1.pdf) / [PNG](../../public-artifacts/grounding-frameworks-visual.png) / [DOCX](../../public-submissions/grounding-frameworks-part1.docx) / [reflection](../01-grounding-frameworks/grounding-frameworks-part1.md) |
-| 4 | Task 6 readings and Heather Table | Five source-grounded Puzzle Plan summaries and synthesis complete; Heather Table sharing must still change to anyone-with-link commenter | [Reading hub](readings/README.md) / [synthesis](session5-reading-notes.md) / [visual](../../public-artifacts/session5-puzzle-plan-reading-map.png) / [Heather Table](https://docs.google.com/document/d/1Cnw_v00DsZclHObcmnljwXzEw-kiReCE6oStXrMoGAg/edit) |
-| 5 | Invisible Invaders team plan | Piter + Aastha; Phenomenon, Gotta-Have Checklist, Activities, and Videos/Internet Links revisions ready; plastic-carbon-temperature extension added | [checklist](invisible-invaders-gotta-have-checklist-evidence-map.md) / [explanation](invisible-invaders-gapless-explanation.md) / [activities](invisible-invaders-activities.md) / [temperature model](invisible-invaders-plastic-carbon-temperature-model.md) / [media guide](invisible-invaders-media-guide.md) / [shared Google Doc](https://docs.google.com/document/d/1IFu_y_sYbNeNs1K4J_lD6KS4I30f8wxggX4SS38acRI/edit) |
-| 6 | Camp materials | Complete plan ready; $86.79 request prepared with $13.21 buffer; physical checkout still required | [Complete materials plan](invisible-invaders-materials-plan.md) / [budget CSV](invisible-invaders-order-budget.csv) / [inventory dictionary](materials-inventory-and-order-check.md) / [sortable catalog](camp-materials-inventory-catalog.csv) / [photo evidence index](camp-materials-photo-evidence-index.md) / [live order sheet](https://docs.google.com/spreadsheets/d/1rAuGt8iT-CAx4Oy1cqz_SsVQqqPzi5mE9v7pRCODSAo/edit?gid=1535708448#gid=1535708448) |
-| 7 | Curriculum exploration and camp-week design | Complete source audit, Puzzle Plan adaptation, Monday-Friday arc, camp tools, visual, and shared-folder organization; Piter + Aastha still need to confirm the research question and shared preparation roles | [Task 7 plan](task7-curriculum-adaptation-and-week-plan.md) / [camp tools](task7-camp-tools.md) / [visual](../../public-artifacts/task7-curriculum-to-camp-map.png) / [folder index](invisible-invaders-camp-folder-index.md) / [editable Drive plan](https://docs.google.com/document/d/1doFltN1y0EsNO_ZxHsPNjMLpEAMb1EcYQqeurzTVWQg/edit) |
-| 8 | July 15 team-meeting commitments | Piter's opening moment, revised human-body phenomenon, gapless explanation, four checklist connections, and inclusive advocacy choices are prepared for team review | [Current opening routine](https://docs.google.com/document/d/1LOS9EiIFyTB-8rDQ8Q1MUnUhrqxzllQiy-oEB9J_uFs/edit) / [editable commitment pack](https://docs.google.com/document/d/1B4MPNMAHEJ_lscjyP9YBBlYeXZxCBvT781sSZoe1N5w/edit) / [repo commitment pack](july15-meeting-commitment-pack.md) / [visual](../../public-artifacts/invisible-invaders-evidence-to-agency-map.png) |
+- **Team:** Piter Garcia and Aastha
+- **Camp:** Invisible Invaders
+- **Anchor:** **Humans aren't trash cans, but we have plastics in our bodies.**
+- **Instructional question:** **How can plastics from everyday materials become small enough to move through connected systems and reach human bodies, and what changes could reduce those pathways fairly?**
 
-## Team Gapless Explanation
+## Use These Files
 
-I am working with Aastha as the **Invisible Invaders**. Our agreed anchoring phenomenon is **“Humans aren’t trash cans, but we have plastics in our bodies.”** The camp investigates how plastics can become small, move through connected systems, and reach human bodies while keeping uncertainty and health-evidence limits visible. Environmental samples support the pathway investigation; they are not the anchor. Neurodivergence, chronic illness, disability, language, culture, and multiple identities shape how we make the work safe, understandable, rigorous, and open to different forms of participation.
+| Need | Current file |
+| --- | --- |
+| Run the camp and see all deadlines, roles, activities, evidence, and purchases | [CURRENT Camp Operations Guide](../03-camp-unit-plan/invisible-invaders-camp-operations-guide.md) |
+| Check the agreed causal science and original color-coded checklist | [Four Gotta-Haves and evidence map](invisible-invaders-gotta-have-checklist-evidence-map.md) |
+| Review the full source-linked causal explanation | [Gapless science explanation](invisible-invaders-gapless-explanation.md) |
+| See what equipment and supplies were documented | [Materials inventory dictionary](materials-inventory-and-order-check.md) |
+| Sort the inventory | [Inventory CSV](camp-materials-inventory-catalog.csv) |
+| Trace inventory photographs | [Photo evidence index](camp-materials-photo-evidence-index.md) |
+| Review the current under-$100 request | [Order budget CSV](invisible-invaders-order-budget.csv) |
+| Open the shared order sheet | [Sodus Camp Materials Orders](https://docs.google.com/spreadsheets/d/1rAuGt8iT-CAx4Oy1cqz_SsVQqqPzi5mE9v7pRCODSAo/edit?gid=1535708448#gid=1535708448) |
+| Review Session 5 readings through Puzzle Plan goals | [Reading hub](readings/README.md) |
+| Read the July 16 planning record and view same-session images | [Transcript and evidence index](../../transcripts/README.md) |
 
-Quick visual entry points:
+## Materials Status
 
-- [How plastic pathways connect human-sample evidence to youth agency](../../public-artifacts/invisible-invaders-evidence-to-agency-map.png)
-- [Same rigorous investigation, multiple ways in](../../public-artifacts/invisible-invaders-access-pathways.png)
+- The Invisible Invaders request is **$86.79 before tax**.
+- The remaining budget buffer is **$13.21**.
+- The lab-quality salt line belongs to **All Camp**, not Invisible Invaders.
+- Other teams' board photos are used only to anticipate shared-equipment demand and possible resource overlap.
+- A photographed item is not considered ready until it is counted, cleaned, tested, and reserved.
 
-- [Plankton to People folder](https://drive.google.com/drive/folders/1XXQtoQnXPKyp5GaVBXMwg6m8u1g9f_7K)
-- [Invisible Invaders folder](https://drive.google.com/drive/folders/1ZX08NvxOa5yx3gAOdBEccWFGcw07xZJ6)
-- [Fiber Fighters folder](https://drive.google.com/drive/folders/1OXEY3WNl1dCBLwuNrXo37U3XtxY8n5qw)
+## Shared Drive
 
-A gapless explanation should show the causal chain, not only list activities:
+- [Invisible Invaders team folder](https://drive.google.com/drive/folders/1ZX08NvxOa5yx3gAOdBEccWFGcw07xZJ6)
+- [CURRENT Camp Operations Guide](https://docs.google.com/document/d/1LueJ9NX6MP257ywABKTDu-vVWVYzTwRnNDK8fgJx4e0/edit)
+- [CURRENT SASSY Storyline Table](https://docs.google.com/document/d/1fGOjSkEFxsy5UC5n75UIi9aE_-sKOhyeRx9sY8CAUWU/edit)
+- [Completed daily lesson plans](https://drive.google.com/drive/folders/1safaE0FAhNHiHRCgexqPKf0WXME8lcQg)
+- [Reference materials](https://drive.google.com/drive/folders/1s0BomekNcITEZWr9vKLgXuGbv516beck)
+- [Dated archive](https://drive.google.com/drive/folders/1uqJIngplP3elWAsasA79l6C6PuNm9ljC)
+- [Gapless Explanation](https://docs.google.com/document/d/1IFu_y_sYbNeNs1K4J_lD6KS4I30f8wxggX4SS38acRI/edit)
+- [Sampling protocol](https://docs.google.com/document/d/1HP06TOL2cnycQSgDcRfV57cEUYHuwoHTmVGRABv9tys/edit)
 
-1. Name the observable phenomenon and why it matters to young people and their communities.
-2. Explain where the plastic comes from, how it moves or changes, and why it persists.
-3. Connect particle/material behavior to organisms, people, systems, and unequal exposure or decision-making power.
-4. Identify what evidence would support or challenge each link in the chain.
-5. End with actions youth can evaluate or take, including collective and structural responses rather than only individual responsibility.
+## Before July 21
 
-Use the [completed Invisible Invaders explanation](invisible-invaders-gapless-explanation.md), [current opening routine](invisible-invaders-opening-routine.md), [activity plan](invisible-invaders-activities.md), [plastic-carbon-temperature extension](invisible-invaders-plastic-carbon-temperature-model.md), and [media guide](invisible-invaders-media-guide.md) for the official shared work. The earlier [three-team options](gapless-explanation-options.md) remain as planning history.
-
-## Shared Camp Design Commitments
-
-- Begin with scientific modeling on day one and revise models before Thursday's showcase.
-- Make plastics injustice explicit: who benefits, who is exposed, whose knowledge counts, and who controls solutions.
-- Use plastic-trash art for advocacy toward more just futures.
-- Design joy and rigor together.
-- Offer meaningful role choice, visible steps, sensory and low-energy paths, home-language sensemaking, non-screen options, and multiple ways to show evidence.
-- Discuss the learning-sciences research question with the co-leader and design activities, spaces, and interactions around the intended outcome.
-
-## Before Leaving For Class
-
-- Upload the framework PNG to Blackboard.
-- Open the Heather Table and confirm sharing is **Anyone with the link - Commenter**.
-- Open the team's gapless explanation and verify the causal chain is complete.
-- Bring the reading notes and one question about student-perspective coherence.
-- Use the [Task 6 Puzzle Plan reading hub](readings/README.md) to compare source claims, EQUITAS interpretations, and camp design moves.
-- Use the [complete materials plan](invisible-invaders-materials-plan.md) to build four equivalent station kits.
-- Complete the [physical materials check-out list](materials-inventory-and-order-check.md#9-physical-check-out-list) and recheck prices/arrival before the request is ordered.
-- Review the [Task 7 week plan](task7-curriculum-adaptation-and-week-plan.md) with Aastha and decide the final research question, Field Friday sites, Thursday audience, and preparation owners.
+- [ ] Pilot the four-jar mystery.
+- [ ] Check out and test all shared equipment.
+- [x] Finish the six daily lesson-plan copies and SASSY table.
+- [ ] Review the completed copies with Aastha and apply any team corrections.
+- [ ] Prepare visual agendas, role cards, model pieces, map, and evidence-limit cards.
+- [ ] Bring plans and materials to Freedom School for staff feedback.
+- [ ] Confirm youth count, schedule, sand sites, fish/KOH plan, family showcase, permissions, and poster cutoff.

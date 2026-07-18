@@ -7,12 +7,13 @@ This folder holds original assignment drafts and working materials. The shared f
 - [00 - Announcement Prep](00-announcement-prep/README.md)
 - [01 - Visualizing our Grounding Frameworks](01-grounding-frameworks/grounding-frameworks-part1.md)
 - [02 - AI Technology Evolution Narrative](02-ai-technology-evolution/ai-history-microplastics-narrative.md)
-- [03 - Planet Protectors Camp Unit Plan](03-camp-unit-plan/planet-protectors-camp-unit-plan-draft.md)
+- [03 - CURRENT Invisible Invaders Camp Operations Guide](03-camp-unit-plan/invisible-invaders-camp-operations-guide.md)
 - [04 - Poster Fair Proposal](04-poster-fair/poster-proposal-draft.md)
 - [05 - July 14 Camp Prep and Session 5 Readings](05-july14-camp-prep/README.md)
 - [Task 6 - Puzzle Plan / EQUITAS Reading Hub](05-july14-camp-prep/readings/README.md)
-- [Task 7 - Puzzle Plan Curriculum Adaptation And Camp Week](05-july14-camp-prep/task7-curriculum-adaptation-and-week-plan.md)
-- [Task 7 - Camp-Ready Youth And Facilitator Tools](05-july14-camp-prep/task7-camp-tools.md)
+- [July 16 evidence and transcripts](../transcripts/README.md)
+
+Earlier Planet Protectors, Task 7, opening-routine, and meeting-commitment drafts are retained in dated archive folders. They are provenance, not current camp instructions.
 
 ## Completion Standard
 

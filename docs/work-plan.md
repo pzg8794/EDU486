@@ -1,66 +1,48 @@
-# EDU486 Work Plan
+# EDU486 Current Work Plan
 
-This plan treats EDU486 as both a course and a portfolio-building project.
+The current priority is to make Invisible Invaders teachable, safe, coherent, inclusive, and easy for Piter and Aastha to follow. The [Camp Operations Guide](../assignments/03-camp-unit-plan/invisible-invaders-camp-operations-guide.md) is the authoritative plan.
 
-## Week 1: June 30-July 7 - Grounding and Community Questions
+## Priority 1: Review And Pilot Before Staff Review
 
-Primary outcome: understand JuST, PICRAT, community cultural wealth, local knowledge, classroom design, UDL/SIOP, and Access-to-Agency STEM enough to create a grounded first visualization.
+- Review the completed SASSY storyline table and six daily lesson-plan copies with Aastha.
+- Pilot the four-jar model with known counts and reset instructions.
+- Check out and test microscopes, camera/display, jars, sand tools, map/art supplies, identity materials, and PPE.
+- Prepare the visual agenda, roles, pathway cards, evidence limits, map, source cards, and paper/digital forms.
+- Review scientific language: suspected particles, no health overclaim, no neighborhood claim from ZIP codes, and no camper-generated plastic dust.
+- Bring the plans and representative materials to Freedom School on July 21.
 
-Work blocks:
+## Priority 2: Prepare Field Friday
 
-- Read and annotate [Module 1 sources](source-map.md#module-1-local-sources).
-- Build a concept map connecting JuST, PICRAT, culturally sustaining pedagogy, local expertise, disability/chronic illness access, and technology tradeoffs.
-- Draft camp inquiry questions for the Freedom School asset map, including sensory load, energy demand, language access, role choice, and tool friction.
-- Start [AI-use tracking](ai-use-log.md) because the course explicitly allows GenAI with crediting.
+- Confirm six Charlotte Beach sand sites and site-record fields.
+- Assign bus/setup roles.
+- Pack controlled model materials separately from real Site A-F samples.
+- Prepare team-selection, bonding, anchor, family-note, identity-recognition, and pickup routines.
+- Record youth questions and access observations for Monday's revision.
 
-## Week 2: July 8-July 14 - Framework Visualization and Tech Evolution
+## Priority 3: Prepare Camp Week
 
-Primary outcome: submit Part 1 of Visualizing our Grounding Frameworks and prepare the AI technology evolution narrative with access assumptions visible.
+- Monday: anchor, safe fragmentation, first model, and map launch.
+- Tuesday: analyze sand/filter evidence and prepared fish evidence if approved.
+- Wednesday: justice/power map, scientist circle, and advocacy design.
+- Thursday: revise model, finish art/tri-fold, and showcase.
+- Friday: use feedback, reflect, choose a next step, clean up, and say goodbye.
 
-Work blocks:
+Every day includes a visible agenda, role choice, private thinking time, multimodal scientist circle, model/evidence move, identity recognition, and on-time circle-up.
 
-- Finalize [grounding frameworks draft](../assignments/01-grounding-frameworks/grounding-frameworks-part1.md).
-- Prepare the [microplastics technology narrative](../assignments/02-ai-technology-evolution/ai-history-microplastics-narrative.md).
-- Decide whether the camp group lens will stay on microplastics/water justice or shift after team planning, while keeping the learner focus on neurodivergent, chronically ill, disabled, CLD, multilingual, and multiply marginalized students.
-- Capture feedback from class and update the repo work log.
+## Priority 4: Research Poster And Final Work
 
-### July 13-14 Priority Order
+- Collect first/final models, de-identified map contributions, exact youth questions, selected communication modes, advocacy choices, and facilitator revision notes.
+- Use the research question about how the map and multimodal scientist circles shape noticing, connection, and communication.
+- Confirm the poster printing cutoff; July 29 at 10 p.m. is only a working target.
+- Present July 31, submit final camp plans August 1, and submit Grounding Frameworks Part 2 August 4.
 
-1. Submit the overdue [t-shirt design form](https://docs.google.com/forms/d/e/1FAIpQLSfhFq0XBOP8OhJuP2TT-0EIncmK8h2dQp1vjPEAgjVWurRdUQ/viewform); the size roster is already complete.
-2. Upload the [grounding framework visual](../public-artifacts/grounding-frameworks-visual.png) to Blackboard before class.
-3. Review the completed [Invisible Invaders gapless explanation](../assignments/05-july14-camp-prep/invisible-invaders-gapless-explanation.md) with Aastha, keeping inclusion, multiple identities, access, and safe microplastics sampling at the center of the science and camp design.
-4. Use the completed [Session 5 reading notes](../assignments/05-july14-camp-prep/session5-reading-notes.md) and [live Heather Table](https://docs.google.com/document/d/1Cnw_v00DsZclHObcmnljwXzEw-kiReCE6oStXrMoGAg/edit) for class preparation.
-5. Review the [camp curriculum map](../assignments/05-july14-camp-prep/camp-curriculum-resource-map.md), then add only confirmed team needs to the materials sheet.
+## Daily Debrief
 
-## Week 3: July 15-July 21 - Camp Design Sprint
+Piter and Aastha answer:
 
-Primary outcome: produce a shareable camp overview and daily lesson plans.
-
-Work blocks:
-
-- Convert the camp idea into daily objectives, materials, roles, routines, access supports, and evidence.
-- Build accessible student-facing supports: visual agenda, roles, question stems, multilingual vocabulary, sensory/reset options, low-energy pathways, and low-floor/high-ceiling options.
-- Plan daily revision check-ins that ask where access barriers hid student thinking.
-- Finalize the printable/shareable version for Freedom Scholars teachers by July 21.
-
-## Week 4: July 22-July 30 - Camp Implementation and Responsive Revision
-
-Primary outcome: teach, observe, revise, and collect evidence for the final lesson plan and poster.
-
-Work blocks:
-
-- Use a daily observation template: youth questions, participation patterns, tool affordances, tool constraints, access barriers, energy/sensory/language demands, changes made, next-day revision.
-- Track which technologies deepen participation and which ones add barriers for specific learners.
-- Gather artifacts that can be referenced without exposing student identities.
-- Update the camp plan as a living document.
-
-## Week 5: July 31-August 4 - Poster and Final Reflection
-
-Primary outcome: present the poster, submit final lesson plans, and revise the grounding framework.
-
-Work blocks:
-
-- Present poster on July 31.
-- Submit final camp unit/lesson plans by August 1.
-- Revise the framework visualization with actual camp evidence, including access evidence and student agency evidence.
-- Write and submit the Part 2 reflection by August 4.
+1. What did youth notice, question, or revise?
+2. What evidence supported the next storyline move?
+3. Who could enter the work, and who still needed another route?
+4. What tool deepened learning, and what tool created friction?
+5. What must change before the next day?
+6. What evidence and access decision should be preserved in the final plan?

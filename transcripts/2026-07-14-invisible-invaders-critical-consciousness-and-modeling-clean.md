@@ -1,0 +1,866 @@
+# July 14, 2026 - Invisible Invaders, Critical Consciousness, And Modeling
+
+**Source:** Automatic class transcript.
+
+**Editorial note:** This is a complete readability-formatted copy of the automatic transcript. Timestamps and speaker labels are preserved, but speaker identities and machine-recognized wording have not been verified. Check the recording before using exact quotations.
+
+
+## 00:00:00 Speaker 1
+
+Remember this. He talked about greenhouse emissions. Take notes: greenhouse emissions. We can build like a greenhouse emissionum where they can experience. So also the fish that the fish eating.
+
+## 00:00:27 Speaker 1
+
+The Fish with
+
+## 00:00:29 Speaker 3
+
+Wait, wait, wait, wait.
+
+## 00:00:31 Speaker 1
+
+There were three different moments that we discussed.
+
+## 00:00:33 Speaker 3
+
+We don't need to bring fish. I'll tell you why. Because we are dealing only with
+
+## 00:00:39 Speaker 1
+
+I think we're just laying out options. I don't think we're deciding. Are we? No.
+
+## 00:00:44 Speaker 3
+
+The reason I'm saying that. Yeah So, you were not there in the class. Let me share something and I don't know if that will help, but yeah, We can always brainstorm. So. The idea that invisible invaders are just microplastic that's in the air, right But we can't see. And when I was looking into it, car tires or bike tires were one of the main sources. Car tires or bike tires. So when those tires like rub off against the road and those small tiny like.
+
+## 00:01:15 Speaker 3
+
+Tires and then they float in the air, and you know, like when they're floating, they're in the air but we don't see it. That's how I was thinking for a week to think of our invisible invaders.
+
+## 00:01:29 Speaker 1
+
+And that's fine. I think that's totally valid.
+
+## 00:01:31 Speaker 4
+
+Two minutes, and then we're going to move to the next thing. Let's look into Allison There.
+
+## 00:01:39 Speaker 1
+
+Yeah, so but I I don't think we should limit ourselves. Just laid out everything in there that we could use, and then we can make best decisions. We can even run it through Allison if if needed, but there is a lot of microplastics out there, especially like in animals like fish. Wild wildlife that we consume and we don't know what we're consuming, especially if it's another animal consuming at that animal so. I'm not saying that we should do that. I'm just saying there are so many examples. We have also the greenhouse effect, which is also a pretty good idea because we came to see it. And then we have the also the other one. What was uh, the one that CO two right? That I think that was with That was for the greenhouse effect, but what's what's the other one?
+
+## 00:02:31 Speaker 4
+
+All right friends interrupting.
+
+## 00:02:34 Speaker 1
+
+Briefly because.
+
+## 00:02:36 Speaker 4
+
+You can continue this as you go on. You have six things and I am on number two. This is big work. You want to have a checklist. You have to have a checklist.
+
+## 00:02:52 Speaker 4
+
+What the heck was she talking about? Gotta have checklists are three to five really important ideas for your camp topic. You have to know what your phenomenon is. What ideas are absolutely necessary to build a convincing and complete causal explanation? It could be like where do fibers come from would be one. And you would say, so your idea would be the origin of fibers. That's what we are.
+
+## 00:03:20 Speaker 1
+
+Build a convincing and complete causal explanation.
+
+## 00:03:24 Speaker 4
+
+What ideas are merely interesting details? They are not on the gotta-have checklist. You're going to keep it short.
+
+## 00:03:35 Speaker 4
+
+Which ideas are likely to transfer to other things that kids might study? That's kind of a good thing to think about too. If, for example, different plastics have different densities and float in salt water at different levels, Density is something kids are going to have to wrestle with over and over again in science class, right? So teaching them density will trigger them back to their plastics camp and they'll go, "Oh." I learned about density, right? Something that So.
+
+## 00:04:07 Speaker 1
+
+So that's an example of how we would use it for basically our own phenomenon.
+
+## 00:04:15 Speaker 4
+
+Here's an example. So Charlotte Beach and this is too many. This is like seven. You have four days with the kids, so this is too many. But water moves through watersheds. That's something important to understand water pollution at Charlotte Beach. Water transports materials.
+
+## 00:04:33 Speaker 1
+
+And not the extra, just the bold part. The reason this is so important, I put there, but you're not going to include that in your grab- and- go checklist. It's only water moves through watersheds. With me? Yes. So these are examples: Water transports materials,; rainfall changes, runoff; living organisms, respond to environmental conditions.;, you get the idea. Yes. And just so you know if you hear all the. You can take pictures all day.
+
+## 00:04:58 Speaker 4
+
+Because I do the same thing, but those slides are on Blackboard.
+
+## 00:05:00 Speaker 1
+
+These are times there's certain pictures I take. I don't take all of them.
+
+## 00:05:05 Speaker 4
+
+You're not trying quite yet because I'm going to keep going because these two are tightly tied. Number three is a gapless explanation, and I saw that some of you boldly went and tried it this week or today. Fantastic, A gapless explanation looks something like this. It was on your. It's okay. Here'll fill the end. So like. Why does Charlotte Beach sometimes have poor water quality? Notice these colors match. Yes. Look, I gotta have checklists too.
+
+## 00:05:38 Speaker 1
+
+Yes.
+
+## 00:05:39 Speaker 4
+
+So this is your full causal explanation. So this is kids shouldn't be able to just write water moves through watersheds, right? You want to explain what that means and what it has to do with your phenomenon. And, why you're doing this because this the homework you have to do to make sure you know the science, And you can use each other and me and Alecia and Rachel and Allison to help us when we don't know something. So we're prepared. Okay? But they got to have checklists matches the Galileo's explanation. And then you're going to aim all of your lessons toward those core ideas. Your lessons are going to do that.
+
+## 00:06:19 Speaker 4
+
+And gotta have means that they got to show those on the model. Those are the things they gotta have on their model at the end of the week. So we could pause at any point and say, okay, well we figured out that rain pulls all this stuff like from runoff. Pulls pollution down into the water. How would we show that on our model? And you put that on our model. Like what are these models for?
+
+## 00:06:46 Speaker 1
+
+We can use peer setup if you mix it from a model.
+
+## 00:06:54 Speaker 5
+
+Is it like so the kids collectively.
+
+## 00:06:58 Speaker 4
+
+Like As a team were making one? You can make individual models or group models or paired models, right? They look like this. This is what she gave them to start with, because a plain sheet is a plain white sheet is unnerving. It is, right? So she gave them like a watershed. And from there, they could draw what they wanted. And then they paused halfway through the camp. This is a class, a unit. And they added some things. And she put her gotta- have checklist right here on the model, so they could literally check them off as they add them to their model.
+
+## 00:07:33 Speaker 1
+
+I like that.
+
+## 00:07:34 Speaker 5
+
+You can either have the kids do it all together, or each kid could do it.
+
+## 00:07:38 Speaker 4
+
+Each kid could and you can let them choose. And then you can have one that you all do together, like a consensus model.
+
+## 00:07:46 Speaker 3
+
+So these got to have a checklist. Are you teaching it just as an example? Or should we have all of this for the camp?
+
+## 00:07:54 Speaker 1
+
+Both.
+
+## 00:07:55 Speaker 4
+
+All of this for the camp.
+
+## 00:07:56 Speaker 1
+
+Both example and practice our teaching.
+
+## 00:07:58 Speaker 4
+
+So we're doing
+
+## 00:08:00 Speaker 6
+
+Go ahead only three to five like that's a much longer explanation.
+
+## 00:08:05 Speaker 5
+
+It doesn't need to be that long. Is that what we need to make for our final project?
+
+## 00:08:11 Speaker 4
+
+Nope, okay oh that's not our poster then, This not your. Your poster will be different. We'll talk about your posters as this when we get up. Yeah, they'll talk to you about it. Okay, call our posters. Your poster's going to look and I have an example right here. Isn't it? It's like looks like formal raw tester or full service? It looks like a scientist poster. I see, yeah, I see ours. Like it'll have a research question like how does kinesthetic learning impact. So that's an aside thing. Okay. This what people who are doing what you're doing had to do the A lot of doing.
+
+## 00:08:47 Speaker 5
+
+When will we get more clarity? We are supposed to be collecting data for our own projects during camp. During camp, we have to have activities in mind that would give us data on it. So I think they just want more directions. We're going to start with this guy. We'll get to that.
+
+## 00:09:10 Speaker 6
+
+We had map days one, two, three and four, with activities that would lead us to our goal.
+
+## 00:09:15 Speaker 1
+
+Gotta have a checklist.
+
+## 00:09:16 Speaker 6
+
+What helps is your question is gonna be shaped by what you have the kids doing. So you don't have to worry about collecting data that's not gonna exist. It's gonna be based on what you're having the kids do.
+
+## 00:09:28 Speaker 7
+
+That's longer than water moves through watersheds. I don't know how to write that more concisely.
+
+## 00:09:40 Speaker 1
+
+So here, the title just what matters'cause this can change at any point, So, we want to notice, wonder and build the first model. Day one.
+
+## 00:09:53 Speaker 3
+
+I think I'll have to go home, read this and then I'll understand.
+
+## 00:09:56 Speaker 1
+
+You don't need to read it. It's just read the text. That gives us an idea. And then day two
+
+## 00:10:03 Speaker 5
+
+The focus will be to collect water samples.
+
+## 00:10:08 Speaker 3
+
+Blank, did. You write all of those?
+
+## 00:10:10 Speaker 1
+
+Based on what you wrote, it complements your ideas and is guided by the readings and the lectures. The third one is to observe, classify, compare, revise. This is just an example. We can always reword it, but this would lead us towards what we need. Just explain, examine those in an application. And this also makes it inclusive and justice oriented.
+
+## 00:10:46 Speaker 1
+
+This shows a layout. We need to make sure this matches whatever change we make.
+
+## 00:10:58 Speaker 3
+
+So right now, we have to come up with our moment, like the first step.
+
+## 00:11:02 Speaker 1
+
+Exactly. And I think we already got
+
+## 00:11:11 Speaker 1
+
+Modify the uh phenomena I think we got that the anchoring phenomena I think this is what you said before is perfect. We can always change this, and it will still be. That's the beauty of this. It would still not change.
+
+## 00:11:25 Speaker 6
+
+What we're doing.
+
+## 00:11:26 Speaker 1
+
+We can still, you know, change this um to something that might be easier for us out there in the camp, but it still would not change everything else we're doing here.
+
+## 00:11:36 Speaker 3
+
+Let's see if it's possible to see the EC filter.
+
+## 00:11:38 Speaker 1
+
+And the and the question, I think. The question is still valid. It was someone before. And now, like you say, right? We need to build a moment and this, you know, Is what we are using help which struggle with, but we do have ideas now. We have ideas. I think we can do a quick search to see what is what is easier to do in the camp. Because, like, we both got easily with the because we both like greenhouse emissions. We need to check exactly. We need to check what's the typical level, right? And so I can actually it's better to use AI because AI has this content here. What's the question?
+
+## 00:12:29 Speaker 3
+
+How to build a greenhouse emission model for classroom?
+
+## 00:12:36 Speaker 1
+
+Greenhouse emission model.
+
+## 00:12:41 Speaker 3
+
+Wait. The question is, additional information should let students feel the rise in temperature.
+
+## 00:12:50 Speaker 1
+
+How do we build a greenhouse emission model?
+
+## 00:12:53 Speaker 3
+
+In the classroom that allows students
+
+## 00:12:56 Speaker 1
+
+For the camp right for the camp, or like camp So that students can experience what?
+
+## 00:13:04 Speaker 3
+
+Rise in temperature Rise in.
+
+## 00:13:06 Speaker 1
+
+Temperature. Here, the idea is to
+
+## 00:13:14 Speaker 1
+
+Connect Our invisible light invaders theme right to an experience that allows them to understand and connect to the topic. Connect CO2.
+
+## 00:13:39 Speaker 3
+
+With microplastics.
+
+## 00:13:40 Speaker 1
+
+With microplastics.
+
+## 00:13:45 Speaker 4
+
+Um Within.
+
+## 00:13:48 Speaker 1
+
+The goal.
+
+## 00:13:51 Speaker 4
+
+Expected of.
+
+## 00:13:53 Speaker 1
+
+These courses go a little bit further. These are the stuff that we don't always keep in our head, but it's here documented. So we'll see.
+
+## 00:14:06 Speaker 3
+
+What I often like is something that I use. This is a trained AI.
+
+## 00:14:13 Speaker 1
+
+It's different. Meaning, I trained it to work with us.
+
+## 00:14:17 Speaker 3
+
+What I was thinking is, I like watching videos. Sometimes me too.
+
+## 00:14:22 Speaker 1
+
+Me too.
+
+## 00:14:26 Speaker 1
+
+Oh Look they have how like oh. Check. I like this because they have how to like build a mini one. That's interesting. Wait
+
+## 00:14:43 Speaker 4
+
+Then how are the
+
+## 00:14:48 Speaker 2
+
+More drinking?
+
+## 00:14:51 Speaker 1
+
+Wow. This is cool. We can have them build it.
+
+## 00:14:57 Speaker 3
+
+Hold on
+
+## 00:14:58 Speaker 1
+
+They're gonna do something at the end, probably like something that blows hot air. We'll see. This is about greenhouse emissions, but we still need to understand how that works. How does that go from one place to another? Like this is a good idea, but it's incomplete.
+
+## 00:15:23 Speaker 3
+
+How that goes from one place to another, I studied it.
+
+## 00:15:26 Speaker 1
+
+You did?
+
+## 00:15:32 Speaker 3
+
+So the thing is, I'm just going to tell you what I studied. I'll tell you from here what I studied earlier. So car tires or bike tires when they break on the ground and the friction breaks the tire. And then it becomes very small pieces. Because the pieces are so light, they travel. It becomes easier for them to travel. Take this away and then eventually it has to suspend on the ground. It has to come back to the ground.
+
+## 00:16:02 Speaker 1
+
+Exactly. And that's a good idea. But how do we show this in the camp? You have an idea?
+
+## 00:16:12 Speaker 3
+
+One was that we bring just one tower, and most of the time people just scramble in the balls. Another one we use.
+
+## 00:16:20 Speaker 2
+
+Put your barbells away.
+
+## 00:16:22 Speaker 1
+
+Come over to the whiteboards, she says. That's what Kayla says. Put your barbells away. We're having such a good time. The next challenge that you should accept is scientific modeling, and you've played with that a little bit. A scientific model is a dynamic tool. It changes; it moves. It's not static. It's not supposed to be.
+
+## 00:16:44 Speaker 4
+
+One and done. To represent ideas about the natural world, explain the causes of puzzling phenomena, collaboratively revise thinking over time as new evidence is gathered. So, the real purpose of scientific model is not to say, like here's your final assessment, did you do it great. It's really about getting kids talking, right? Because when they're drawing things, you can ask them questions or when they present their model, you can ask them questions. Um, Visualize, you want them to visualize the unobservable. Map out cause and effect, and it's an active inquiry process.
+
+## 00:17:18 Speaker 1
+
+That's important: cause and effect.
+
+## 00:17:19 Speaker 4
+
+So often we do a before, a during, and after. We call it diagram and describe. So it's not just drawing but also explaining with words. Avoid the blank page, which means give them some version of a scaffold.
+
+## 00:17:36 Speaker 1
+
+Before, during, and after—that's a diagram.
+
+## 00:17:40 Speaker 4
+
+So that that top left up here, top your top right is an empty watershed that they can add to. So you could just have a a fish before, during, and after. That gets you know the plastic is outside the fish, the plastic is in the fish, the fish is dead. Right? Like it could be that simple to start. Anyway before during and after zoom out models make them public and consistently visible, so they should be on the wall. I'm going to say that a lot like. The history of what you do, We're going to have to figure out how we hang it up around your camp team. So kids can refer back. This is an example why a bike tire explodes when left outside on a day like today. Room temperature, normal particle movement, moderate collision between particles. Sun heats the tire; particles are going to move faster, increase collision with the walls; boom! Tire bursts.
+
+## 00:18:38 Speaker 4
+
+Particles escape into the air, volume and pressure release flat tire. Good?
+
+## 00:18:45 Speaker 1
+
+Yeah, I can also see right.
+
+## 00:18:49 Speaker 4
+
+Okay, so Sassy Tables. This is number five. Sassy Tables actually we're going to get to mostly on Thursday. But sassy table is where you figure out your the order of your activities. This is your storyline. I love that you guys smile So here's the, The first question we decided to start with here's the activity. We have an activity, we make observations of that activity, we explain the why of that activity, and then you figure out what of that why helps us explain our phenomenon. So the activity you do may be very different. Do you remember the Tinker Car imploding? There was a train car that just imploded.
+
+## 00:19:35 Speaker 4
+
+And one activity, they mark, which it will have them do, is put a marshmallow in a syringe and squish. It. And that doesn't look anything like a take a car, right? That doesn't nothing, but it shows that air can be forced or air has force, right? Like you can push and squish the marshmallow. So they could explain the why, but then they're like so what's that have to do with our take a car? Right? So you need to have both columns because that helps. The last one is You are gonna have Element! Okay. Can.
+
+## 00:20:10 Speaker 1
+
+We make it a game of clues.
+
+## 00:20:13 Speaker 4
+
+Clues, you could, um. Be careful about over complexifying things. It's already kind of complex, but for sure.
+
+## 00:20:22 Speaker 1
+
+Yeah, I was thinking like making a making the activity at least one of them like a game where they get get clues, and then um I don't know like, Finding the clues and then getting from them the why.
+
+## 00:20:41 Speaker 4
+
+I think you're going to want to do something a little bit deeper than just find it, right? Like they won't know how to, They're going to need to work with, like the syringe with the marshmallow in it. That's something they put their hands on and wrestle with, right? Like they can put like, why is this doing that versus a clue would say, air can exert a force. Mhm. It's not exerting enough force on me, right? But if you go into water far enough, you're like, you do feel it, right? Like I guess it's water. Yeah.
+
+## 00:21:12 Speaker 4
+
+Have you ever been blown over in the wind? If blown over the wind. Yeah, there you go.
+
+## 00:21:17 Speaker 1
+
+If you are high up, you feel it. You feel the force of the air.
+
+## 00:21:21 Speaker 4
+
+Yeah Well and we'll work on that on Thursday that Sassy Table. But I made a copy of this in your folder Last, but not least is, where are the injustices if we're going to. Actually, center injustice. Make this justice country. We have to build a name and then justice to work. So critical consciousness is a construct where you and I have to keep working on our own critical consciousness. It's an internal; it's looking in. I need to be able to see where injustices happen, and I need to imagine a better way, which you guys were rocking earlier today, right? Like why not do it this way? Right? Why not listen to everybody's voice? Right? And then.
+
+## 00:22:02 Speaker 4
+
+Believe that I can actually change things and then take action. It comes from Paulo Freire, and there's sometimes three things and sometimes two. But it takes work, and there's reasons for that, right? Because society doesn't call out injustices because society would then have to fix the injustices. So we just pretend they don't exist. Yes, sir?
+
+## 00:22:23 Speaker 1
+
+I'm sorry. I know I'm asking too many questions. Um, I was trying to picture myself in a camp and how do we. Make the kids think of justice and injustice, even before we start the entire activity. I was wondering if we should make that our first interaction, whether it is through a video or some or sharing stories from them. Um, of what could be injustice about.
+
+## 00:22:51 Speaker 4
+
+I really do like watching units in schools, especially with the justice element. So one way to do that when we wrote a COVID unit is just gave them a bunch of data from. Zip codes in the Rochester area, COVID data. And they said, "Wait, Why is there so many more COVID cases in the downtown area than in Canandaigua or Brighton or Pittsford?" If we didn't put the names on those places, we just put the zip codes on there. And that drew out kids like, "Wait, that's my zip code." Like or wait that why are some people so much higher than others? Like so it started with the justice unit.
+
+## 00:23:29 Speaker 1
+
+That is the type of thinking I would like my kids to have before we even start the whole before, during, and after.
+
+## 00:23:36 Speaker 4
+
+You can you can think about it. It's going to take homework for you, right? So this is a fancier way to describe it, But why might this? Why might it be really important for freedom scholars to have confidence that they can change things?
+
+## 00:23:51 Speaker 1
+
+I mean somebody else.
+
+## 00:23:55 Speaker 7
+
+They come out of these historical, Black literacy societies, where the goal is to teach each other and uplift each other, and explore all these different topics. Um, and become more self educated in order to empower yourself. Uh, And you only become better at recognizing the root causes of inequality by doing it. And quite practicing. Uh so in order to.
+
+## 00:24:28 Speaker 7
+
+Work with their mission and continue the historical culturally sustaining practices of black literacy societies. It's important that we interrogate equality and oppression and all of the bad things from a critical consciousness standpoint.
+
+## 00:24:50 Speaker 1
+
+You give purpose.
+
+## 00:24:53 Speaker 1
+
+I Feel that without it, you are like," Why am I doing this?"
+
+## 00:24:58 Speaker 4
+
+Part of it, yeah, for sure. It gives you a sense of purpose, and it showed there's research that shows that minoritized kids who have critical consciousness invest more because it's like I want to make the world better for my community, for me and my community. And they are whether we like it or not the minoritized community, right? So, we want them to have confidence that they can change things that they set their mind to change. And we want to help them. They can be allies. So here are some. There's a, you can map like you were talking about from plastics, from production to disposal and say, who I mean there's these questions down here who benefits most, who gets harmed most. Usually those aren't the same people, right? The people who are benefiting making the money are not the people who are paying the biggest price. So that's a question. Overlay maps like we just talked about um and if you pull out their speaker notes in the in the slides to give you some.
+
+## 00:25:58 Speaker 4
+
+Like, there's a tree equity map for the whole United States that you can look where your neighborhood is. And how much trees you have.
+
+## 00:26:06 Speaker 1
+
+Analyze power, that's so important.
+
+## 00:26:09 Speaker 4
+
+Analyze power, right? Who holds the financial and legal power to change this phenomenon? And with plastics, that's really what it comes down to.
+
+## 00:26:17 Speaker 1
+
+It also goes beyond that.
+
+## 00:26:19 Speaker 4
+
+It goes to who has the power to make plastics illegal, or to fine the people who are benefiting from it. Yeah. And then center the frontline local voices, and Peter said that earlier, like if you get local voices, uh amplify them. Telling stories about plastic pollution. And use the why five times was a suggestion that I read somewhere, which is why is that? And why is that? And why is that? Why is that? If you do that it ends up taking you to an injustice. Yeah.
+
+## 00:26:56 Speaker 4
+
+So there's also in the speaker notes an example. Okay, that's all I got for it.
+
+## 00:27:03 Speaker 1
+
+Yeah, I never thought about it. You're right. You continue why is that? Why is that?
+
+## 00:27:09 Speaker 4
+
+Is it often leads to Yeah,
+
+## 00:27:14 Speaker 1
+
+It sounds more like you're questioning um not the what's the right word I'm looking for. I think you're questioning the reasoning and not the answer. It's more like, how do you reason with me? Because as you continue asking the why is that, why is that, the person is actually reasoning because he's going back into it and rethinking, right? And you know, And providing you with a different type of a very different version of this an answer.
+
+## 00:27:52 Speaker 1
+
+And it feels to me the way you said it, that it's more about questioning the reasoning than the point the person is making.
+
+## 00:28:03 Speaker 4
+
+The example they gave was," Why is there more plastic in this river?" Because it's next to a factory. Why was the factory there? Because land was cheap. Why was land cheap? Eventually leading to systemic profiling.
+
+## 00:28:22 Speaker 6
+
+One other quick, I think it's only half the coin. It's super important that what can we do about it is the second half that has to go with that question. It's very easy to get to a place like, well, I can't do anything about this. And.
+
+## 00:28:40 Speaker 7
+
+It's hard because this can feel performative, especially at the individual level. Like we're not organizing a big protest to go to whatever plant is making.
+
+## 00:28:52 Speaker 7
+
+What would that be like, Jack? What was the thing that was actually like the factory that was producing? Oh, Kodak was. Yeah. You know what? That makes tons of sense. Chemicals, like cameras and all that kind of stuff. Xerox too. That makes those both make a ton of sense.
+
+## 00:29:14 Speaker 4
+
+Uh oh uh being authentic we can't actually change that.
+
+## 00:29:20 Speaker 7
+
+Yeah so like, My idea as the uh activity that is like, what can you do about it? Is to have kids alter their own clothes and repair them. And in that repair process, express their activist ideas, their cultural ideas and like what they care about, who they are as individuals. Like touching on that like um identity and that joy piece.
+
+## 00:29:50 Speaker 7
+
+But like also, at the same time, Taking and repairing clothing like I could take these pants, which are all ratty up from me stepping on them because they're too long, And I could darn the ends of these in order to make it a visible repair to show I care about these jeans. I'm not just going to throw them away because they are falling apart. And then you're taking a part in a sustainable action to reduce your consumption of fast fashion. It's like, Hitting on the individual impacts or like the individual. You're trying to do something. Because it's like, One of those small things like a boycott that you need a lot of people or like a buildup, like your carbon footprint. It can seem small, but like bringing it with joy and identity, can make it part of your identity, which makes you more likely to practice those things and to pursue the kinds of things.
+
+## 00:30:49 Speaker 7
+
+Actually build up to shrinking your footprint, whether it be plastic or fossil fuels, it's kind of the same thing.
+
+## 00:30:56 Speaker 1
+
+That's unique. I like it. I'll give it a name: Repair with Purpose.
+
+## 00:31:01 Speaker 7
+
+There's already a name for it. It's called Earth Day. I.
+
+## 00:31:06 Speaker 1
+
+Thought I was gonna own it, like we were gonna own it together, you know, the idea and I'm here like this is how we're gonna sell it.
+
+## 00:31:18 Speaker 7
+
+Like the whole thing about this is like DIY, do it yourself, do it cheap, do it for free. Take care of your stuff. You don't have to pay for it.
+
+## 00:31:24 Speaker 1
+
+Yeah. Also I get some identity in there.
+
+## 00:31:27 Speaker 4
+
+Yeah. And I think we can think about the way we can get more people involved, right? So change where you know there is Lake Ontario like Lake Ontario microplastics. That's an organization. If we partner with them, if there's something they need that we could do another thing we're going to do is that Clean Swell app where kids are going to. Pick up trash, right? And their data is going to citizen science. So it. It's a contribution towards better understanding the problems. So we can you know address the problem. So there there are and we can write letters and kids' voices are loud. So there are lots of ways we can be advocates, but kids haven't been invited to do that or nurtured in that. So we want to nurture them in that work. So I'm gonna.
+
+## 00:32:15 Speaker 4
+
+Just a few more minutes, And then you guys use the last few minutes to make a plan about when you are doing work together because it's going to take some time to do all this stuff. So, you are working toward getting all this stuff done. These different things there are readings. The one that's going to speak to Georgie is the follow-up to the Riser paper. It's like great now we've made this whole plan. Now I am teaching. How do I handle the fact that my kids are pulling me in one direction, and my plan is pulling me in a different direction? So, How am I responsive to kids while still maintaining a commitment to the learning goals that I had set out? It's less serious in camp; we really want to err on this side, but in real life, we have to walk that tightrope all the time, right? How do I respond to kids and.
+
+## 00:33:12 Speaker 4
+
+Make sure that they're prepared to be successful in the exams that are going to matter to their lives, right? Okay, so that's that paper. That's going to be the most significant modeling toolkit is a very short paper that Ludwig Scholz and Jessica Thompson wrote about modeling and tips and tricks for modeling with kids. Building Thinking Classrooms started in math, And what I love about it is how it's just it's a simple PowerPoint like it's not even an article.
+
+## 00:33:42 Speaker 4
+
+I think I don't know. It's simple anyway, But it's like this movement in math about helping kids keep their thinking visible and partnering with random kids because they're always like, "I don't want to work with him," "I don't want to work with her." But it becomes like this real practice in the classroom, And I would love for that to become part of what you do at camp. Identity beads we talked about these. This is going to be the quick teacher paper, the short version.
+
+## 00:34:12 Speaker 4
+
+Of how we might do this in a team with the IWB, and we can talk about that on Thursday. And if you skip one, skip this one. There's a border crossing from home to school. I loved it because it helped pre- service teachers see that they were actually learning science when they didn't think they were learning science as a kid, and then draw on that as they go forward. So either skim it, don't stress about it because you have a lot to do. Collaborate with your teaching team to make progress on daily lesson plans. And it's basically you're going to be working on your SASSY table. If you need to order materials, is there SASSY tables should be done outside of class. We're going to work on it on Thursday as well, but yeah, it's just going to take a lot to get everything together. Is that nuts? Not just stress you out, but camp oh my god! Oh my gosh! So Thursday we'll do we'll work on our lessons.
+
+## 00:35:11 Speaker 4
+
+Tuesday, We are going to go to Freedom, Scholars and meet with the service leader and the junior service leader to just pitch our plan and get their feedback. And, we're also on Tuesday going to take all our crafts that we want for lessons to go over there. This is like worst weekend for me because I am Charlotte. I am traveling from Thursday, of course you are because that's how life works. And, then the other thing I want to say, as you are planning out, your schedules with your new bestie is that. I really want you to have dry run things before you do them with kids, right So, you may need to so This is our room for two weeks. We don't have to clean up. So, you can go over there and get all your materials that you think you are going to need for your camp and put them in your corner. So they're ready to go on Tuesdays. And, if you want to come an hour early from class or an hour after class to try out sediment sampling or water sampling or whatever, just.
+
+## 00:36:12 Speaker 7
+
+Okay.
+
+## 00:37:02 Speaker 1
+
+I don't know who you are.
+
+## 00:37:12 Speaker 4
+
+Recognize, I'd like to recognize Nissan for taking the lead and Peter on making the t-shirts. All of the artwork, I sent them out. We got the names and the sizes and they're ordered. What color did we go with?
+
+## 00:37:28 Speaker 2
+
+Orange? We actually. We did orange? Did you want not orange? I don't want. We did orange. Oh!
+
+## 00:37:34 Speaker 1
+
+None of us wanted orange.
+
+## 00:37:37 Speaker 2
+
+I think it kind of goes along with
+
+## 00:37:40 Speaker 5
+
+But it's such a horrible color. It's a bad color. What color would you like? Blue.
+
+## 00:37:47 Speaker 1
+
+Light blue. Let's do light blue.
+
+## 00:37:50 Speaker 5
+
+My reasoning was maybe because then we have the freedom, colors and U of R with my proposal.
+
+## 00:37:55 Speaker 2
+
+Is yellow and I still want to. But that was intentional to me because our colors are navy and gold for U of R. So do you want me to tell them navy? What's the design? What did we. I believe two were navy, and Peter was. It was three navy, two orange.
+
+## 00:38:18 Speaker 7
+
+I think I want orange.
+
+## 00:38:21 Speaker 4
+
+Oh okay so if it's three navy, two orange then navy wins out the top so that it's Warner Schools here U of R Warner Schools hereum Freedom School or Freedom School on one arm
+
+## 00:38:37 Speaker 2
+
+Just once.
+
+## 00:38:37 Speaker 4
+
+That's where you just hold it and then plastic pieces on the back.
+
+## 00:38:42 Speaker 1
+
+I've seen I've seen kids use like light blue. Light.
+
+## 00:38:47 Speaker 5
+
+Blue was on there too.
+
+## 00:38:50 Speaker 2
+
+If the color is way too dark, white light blue works but not orange. Does anyone else have a story?
+
+## 00:39:05 Speaker 1
+
+Why orange, Peter?
+
+## 00:39:10 Speaker 2
+
+I know. I see. Why orange? It went back to.
+
+## 00:39:17 Speaker 7
+
+Doctor Boone's. April's thing of orange is the least identified color of fiber.
+
+## 00:39:26 Speaker 1
+
+Oh yes we discussed that last class.
+
+## 00:39:32 Speaker 5
+
+Yeah, oh, like in natural fibers. Oh,
+
+## 00:39:37 Speaker 4
+
+And I thought that was cool.
+
+## 00:39:39 Speaker 1
+
+Yeah, yeah.
+
+## 00:39:40 Speaker 4
+
+How a scientific person with purpose was cool? Yeah,
+
+## 00:39:42 Speaker 5
+
+Yeah. I think the scientific purpose was cool on being um egotistical, and that I don't really want to wear it. Yeah,
+
+## 00:39:49 Speaker 2
+
+The orange is like I want to wear it in normal life too. Orange like can't I can orange? I mean we all know what he's fully identified as an orange shirt. right? Yeah no you need more vegetables.
+
+## 00:40:00 Speaker 4
+
+Exactly what about cotton type. They both have polyester, but some of polyester.
+
+## 00:40:09 Speaker 1
+
+What is the difference?
+
+## 00:40:10 Speaker 4
+
+One is going to be something you can wear to CrossFit or run, it's that wicking stuff.
+
+## 00:40:15 Speaker 7
+
+More athletic material. There are shirts that are the only material.
+
+## 00:40:19 Speaker 1
+
+That's the one I would use. I sweat too much.
+
+## 00:40:21 Speaker 5
+
+Or workout ones better than the cotton because cotton is going to shrink pretty bad No,
+
+## 00:40:25 Speaker 1
+
+I can't wear cotton, I sweat like a pig.
+
+## 00:40:29 Speaker 5
+
+I'm good with either That one not picking out, All right, so we will get a blue in the performance wear. That's fine. We have to.
+
+## 00:40:37 Speaker 1
+
+If you.
+
+## 00:40:37 Speaker 7
+
+Want performance and if you want blue.
+
+## 00:40:38 Speaker 1
+
+No, I'll go with a color that entire class goes. Yeah,
+
+## 00:40:48 Speaker 2
+
+I just thought it was cool that you brought that up. I did think it was cool, but I just don't want bad shirts anymore.
+
+## 00:40:57 Speaker 2
+
+I want to wear it normal. I want to wear it normal, like so people can seePlaud. And then like, oh look at Plaud smiling. We're saying now that orange is a bad color.
+
+## 00:41:07 Speaker 1
+
+I I don't care about the color. As long as you don't give me cotton, that's fine.
+
+## 00:41:12 Speaker 2
+
+I don't know if I like that. Is that colorist?
+
+## 00:41:15 Speaker 1
+
+Just don't give me cotton. Pick whatever color you want.
+
+## 00:41:19 Speaker 2
+
+Sorry, we should just order a custom shirt for every person on this team. Yes, I wish we could do that.
+
+## 00:41:26 Speaker 4
+
+We're.
+
+## 00:41:55 Speaker 1
+
+So. So we got. I think we got a lot. We just need to. Wait, I think we.
+
+## 00:42:05 Speaker 3
+
+Need to finalize our moment.
+
+## 00:42:08 Speaker 1
+
+Whatever that's what I was. Gonna say, yeah, so I think we got a lot. We just need to lock the moment and then we're good.
+
+## 00:42:19 Speaker 5
+
+If we figure out how.
+
+## 00:42:22 Speaker 1
+
+How we want them to get that moment. Everything else can be adjusted easily.
+
+## 00:42:30 Speaker 2
+
+Do you want a Zoom call tomorrow?
+
+## 00:42:33 Speaker 1
+
+I was gonna say that I think Zoom might be easier.
+
+## 00:42:36 Speaker 3
+
+What works for you? What time works for you? That would work better tomorrow is Wednesday.
+
+## 00:42:44 Speaker 3
+
+I have actually programmed till five thirty at Warner.
+
+## 00:42:48 Speaker 1
+
+So whatever works for y'all, I'll I'll, I'll adjust your schedule. So I don't have anything tomorrow. I'll just be doing this.
+
+## 00:42:57 Speaker 3
+
+And you know what, actually let's do eleven a. m. A.
+
+## 00:43:03 Speaker 1
+
+Lot of morning people because of my medication, but eleven a. m. one p. m. let's play one p. m. one p. m. is a lot safer, Um if I happen to, if my medication doesn't mess me up and I happen to. Yeah, wake at eleven a. m. I'll ping you. How about that?
+
+## 00:43:23 Speaker 5
+
+If no,
+
+## 00:43:24 Speaker 1
+
+We do one p.m.
+
+## 00:43:26 Speaker 5
+
+I like that.
+
+## 00:43:27 Speaker 1
+
+Thank you for your flexibility. Yes, we'll do that. We'll we'll check uh sometime before eleven, Let's say, thirty minutes see eh, you know how we go for eleven. Yeah,
+
+## 00:43:41 Speaker 3
+
+Because this medication. I have used it. Mine too.
+
+## 00:43:49 Speaker 1
+
+Mine too. I don't take it all the time too, But sometimes my schedule is so messed up that my brain because I have ADHD is so active and I need to take it to force me to go back to sleep, yeah.
+
+## 00:44:03 Speaker 3
+
+And then it paralyzes me in the morning, right?
+
+## 00:44:06 Speaker 1
+
+Yes! Thank you! Okay, so you know exactly what. I thought. I thought I was gonna have to explain so much, that's why I didn't even go into details. But yes, and it's not that strong. Mine is not even that strong.
+
+## 00:44:18 Speaker 3
+
+Mine is like twenty five, no, mine is ten mg.
+
+## 00:44:22 Speaker 1
+
+Mine is seven point five. And still it knocks me the heck out. And sometimes it is very useful because it forces my brain to shut off.

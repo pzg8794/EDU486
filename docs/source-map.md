@@ -1,8 +1,8 @@
 # EDU486 Source Map
 
-This source map keeps course provenance visible while keeping third-party and private files out of the public repository.
+This source map keeps course provenance visible while keeping third-party, copyrighted, unrelated personal, and unreviewed files out of the public repository. Piter has approved the EDU486 course transcripts for publication.
 
-Private files are organized under the ignored `_local-course-materials/` directory. See the [repository organization guide](repository-organization.md) for the local folder map and synchronization rules.
+Local source files are organized under the ignored `_local-course-materials/` directory. Reviewed transcript and image copies use stable names in tracked folders. See the [repository organization guide](repository-organization.md) for the folder map and synchronization rules.
 
 ## Protected Course Files Kept Out of Public Git
 
@@ -93,7 +93,8 @@ Public-safe links and original shared workspaces:
 - [Official EQuIP review: An Ocean of Plastics](https://www.nextgenscience.org/sites/default/files/NGSS%20EQuIP%20Unit%20feedback%20form_An%20Ocean%20of%20Plastics_Consensus.pdf)
 - [Algalita / Wayfinder: NGSS MS-ESS3-3 Plastic Ocean guide](https://algalita.org/wayfinder-society/guide/ngss-ms-ess-3-3-plastic-ocean-human-impact/)
 - [ProQuest: Development of a 7th Grade NGSS-Based Unit, Plastic in Our Ocean](https://www.proquest.com/dissertations-theses/development-7-sup-th-grade-ngss-based-unit/docview/2600793823/se-2)
-- [Task 7 Puzzle Plan curriculum adaptation](../assignments/05-july14-camp-prep/task7-curriculum-adaptation-and-week-plan.md)
+- [Current Invisible Invaders Camp Operations Guide](../assignments/03-camp-unit-plan/invisible-invaders-camp-operations-guide.md)
+- [Archived Task 7 Puzzle Plan curriculum adaptation](../assignments/05-july14-camp-prep/archive/2026-07-18-pre-consolidation/task7-curriculum-adaptation-and-week-plan.md)
 - [Editable Task 7 plan in the Invisible Invaders Drive folder](https://docs.google.com/document/d/1doFltN1y0EsNO_ZxHsPNjMLpEAMb1EcYQqeurzTVWQg/edit)
 - [Editable Task 7 camp tools in the Invisible Invaders Drive folder](https://docs.google.com/document/d/1Y7vrjOQUhrqohwFgrT-mA5Qu0apQSnFMyYXv85Ct2H8/edit)
 
@@ -124,7 +125,7 @@ Thirty local photographs in the EDE448 source folder were inspected as evidence 
 - [Transcript index and team-evidence note](../transcripts/README.md)
 - [Clean full Markdown transcript](../transcripts/2026-07-09-class-transcript-clean.md)
 - [Raw automatic transcript](../transcripts/2026-07-09%2013_43_34-transcript.txt)
-- Protected alternate workshop export: `_local-course-materials/transcripts/raw/07-09 Teacher Workshop on Integrating Environmental Science and Social Justice-transcript.txt`
+- [Alternate July 9 workshop automatic transcript](../transcripts/raw/2026-07-09-teacher-workshop-environmental-science-and-social-justice.txt)
 
 The transcript pairs Piter and Misong during specific Clean Swell, sampling, and materials work, but those moments were incorrectly treated as proof of the camp-team assignment. The authoritative shared-folder title is **2026 Camp Invisible Invaders: Piter & Aastha**. The raw transcript remains preserved so the correction is traceable rather than silently rewriting the evidence.
 
@@ -135,32 +136,48 @@ The transcript pairs Piter and Misong during specific Clean Swell, sampling, and
 - Protected local source: `_local-course-materials/modules/module-2/Need to do - Checklist by session.pdf`
 - Protected local source: `_local-course-materials/modules/module-2/Planning Module Content.pdf`
 - Protected local source: `_local-course-materials/modules/module-2/2026 EDU 486 Day 5 July 14.pptx`
-- Protected local source: `_local-course-materials/transcripts/raw/07-14 Lecture_ Environmental Pollution Inquiry and Justice-Centered Pedagogy-transcript.txt`
-- Protected local source: `_local-course-materials/transcripts/raw/07-14 Lecture_ Science Camp Planning — Invisible Invaders, Critical Consciousness, and Modeling Framework-transcript.txt`
+- [July 14 environmental-pollution automatic transcript](../transcripts/raw/2026-07-14-environmental-pollution-inquiry-and-justice-centered-pedagogy.txt)
+- [July 14 Invisible Invaders automatic transcript](../transcripts/raw/2026-07-14-invisible-invaders-critical-consciousness-and-modeling.txt)
 
-The evidence map shows how Module 1's learning-scientist, idea-elicitation, technology, classroom-design, culture, and access commitments became Module 2's anchoring phenomenon, four-item gotta-have checklist, gapless explanation, scientific model, SASSY storyline, backward design, and critical-consciousness work. The raw July 14 transcripts remain local because they include classmates' informal speech and unverified automatic speaker labels; the public artifact uses timestamped paraphrases instead.
+The evidence map shows how Module 1's learning-scientist, idea-elicitation, technology, classroom-design, culture, and access commitments became Module 2's anchoring phenomenon, four-item gotta-have checklist, gapless explanation, scientific model, SASSY storyline, backward design, and critical-consciousness work. The complete July 14 transcripts are now public in original-text and clean-Markdown forms, with unverified-speaker warnings in the [transcript index](../transcripts/README.md).
 
 ## July 15 Team Meeting And Revised Lesson Work
 
-- [Public-safe meeting commitment pack](../assignments/05-july14-camp-prep/july15-meeting-commitment-pack.md)
+- [Archived meeting commitment pack](../assignments/05-july14-camp-prep/archive/2026-07-18-pre-consolidation/july15-meeting-commitment-pack.md)
 - [Editable team commitment pack in the shared camp folder](https://docs.google.com/document/d/1B4MPNMAHEJ_lscjyP9YBBlYeXZxCBvT781sSZoe1N5w/edit)
-- [Current opening routine](../assignments/05-july14-camp-prep/invisible-invaders-opening-routine.md)
+- [Archived opening routine](../assignments/05-july14-camp-prep/archive/2026-07-18-pre-consolidation/invisible-invaders-opening-routine.md)
 - [Editable current opening routine in the shared camp folder](https://docs.google.com/document/d/1LOS9EiIFyTB-8rDQ8Q1MUnUhrqxzllQiy-oEB9J_uFs/edit)
 - [Evidence-to-agency visual](../public-artifacts/invisible-invaders-evidence-to-agency-map.png)
-- Protected local source: `_local-course-materials/transcripts/raw/07-15 Meeting_Lesson Plan for Microplastic Pollution-transcript.txt`
+- [Clean July 15 meeting transcript](../transcripts/2026-07-15-microplastic-pollution-lesson-plan-meeting-clean.md)
+- [Original July 15 meeting transcript](../transcripts/raw/2026-07-15-microplastic-pollution-lesson-plan-meeting.txt)
 - Superseded collaborative source, preserved unchanged: [Friday - Anchoring Phenomenon Routine](https://docs.google.com/document/d/1hU4lpI__QZLBLoFb7JqUoE5OieErkFvLeAx4hWTqVLM/edit)
 - Team Drive source: [Invisible Invaders' Gapless Explanation](https://docs.google.com/document/d/1IFu_y_sYbNeNs1K4J_lD6KS4I30f8wxggX4SS38acRI/edit)
 
 The commitment pack preserves the team's July 15 decision to **replace the tire-based phenomenon** with **“Humans aren’t trash cans, but we have plastics in our bodies,”** use four course checklist ideas, create an opening moment, write a revised gapless explanation, and protect more than one youth advocacy route. It also keeps human detection from being treated as proof of harm and provides a non-body-focused access route without changing the agreed phenomenon.
 
-## July 16 Team Planning Transcripts
+## July 16 Team Planning, Images, And Current Guide
 
-Two additional automatic meeting transcripts remain local because they contain informal team conversation and unverified speaker labels:
+- [Clean camp-planning and student-engagement transcript](../transcripts/2026-07-16-camp-planning-and-student-engagement-transcript-clean.md)
+- [Original camp-planning transcript](../transcripts/raw/2026-07-16-camp-planning-environmental-justice-and-student-engagement.txt)
+- [Clean microplastics health-planning transcript](../transcripts/2026-07-16-microplastics-health-planning-transcript-clean.md)
+- [Original microplastics health-planning transcript](../transcripts/raw/2026-07-16-microplastics-health-education-planning-and-schedule.txt)
+- [Current Invisible Invaders Camp Operations Guide](../assignments/03-camp-unit-plan/invisible-invaders-camp-operations-guide.md)
+- [Editable CURRENT Camp Operations Guide](https://docs.google.com/document/d/1LueJ9NX6MP257ywABKTDu-vVWVYzTwRnNDK8fgJx4e0/edit)
+- [Editable CURRENT SASSY Storyline Table](https://docs.google.com/document/d/1fGOjSkEFxsy5UC5n75UIi9aE_-sKOhyeRx9sY8CAUWU/edit)
+- [Completed daily lesson-plan folder](https://drive.google.com/drive/folders/1safaE0FAhNHiHRCgexqPKf0WXME8lcQg)
+- [Field Friday lesson plan](https://docs.google.com/document/d/1scrYMeSEja_MUvyx9DkV6EzKMpMOmHB4gz60fMOAFgg/edit)
+- [Monday lesson plan](https://docs.google.com/document/d/1jc_dSOKXVhSoSbvfbivXlgfYOxrrJ2L6KwbR7LQZCLc/edit)
+- [Tuesday lesson plan](https://docs.google.com/document/d/1tT5NOTrNFRus6EqlCQR85Io5Gv71osEyG5aT_rY--II/edit)
+- [Wednesday lesson plan](https://docs.google.com/document/d/1eyx_nVAkRTAypKS11guif8NgVHcxk7QzX3T52dOBcdg/edit)
+- [Thursday lesson plan](https://docs.google.com/document/d/14foM1GLckWQlPl06YE0gsyScPV6YVBgM2mTrzc5uNJQ/edit)
+- [Friday reflection lesson plan](https://docs.google.com/document/d/1j89Vjd8nAT8gs-rzFO5hIeDuH8_VlnI2HyHImMhgSec/edit)
+- [Reference Materials folder](https://drive.google.com/drive/folders/1s0BomekNcITEZWr9vKLgXuGbv516beck)
+- [Dated Drive archive](https://drive.google.com/drive/folders/1uqJIngplP3elWAsasA79l6C6PuNm9ljC)
+- [July 16 transcript and image index](../transcripts/README.md)
 
-- `_local-course-materials/transcripts/raw/07-16 Meeting_ Camp Planning, Environmental Justice, and Student Engagement-transcript.txt`
-- `_local-course-materials/transcripts/raw/07-16 Meeting_ Microplastics Health Education Program Planning and Schedule-transcript.txt`
+The guide reconciles the session's agreed team identity, anchor, instructional question, Field Friday sand work, four-jar model, neighborhood map, scientist circles, daily model revision, justice/power analysis, advocacy art, research evidence, access routes, and materials. Other-team boards remain reference-only evidence for shared-resource coordination.
 
-These files are preserved as planning evidence for future camp revisions. Any public derivative should paraphrase decisions, verify claims against direct sources, and omit private or identifying conversation.
+The numbered `00-04` items are the current Drive front door. Several unnumbered instructor-owned originals remain visible at the top level because the team account cannot relocate files owned by the instructor. They are preserved unchanged as source/reference documents and do not supersede the current guide, SASSY table, or daily lesson plans.
 
 ## Public Web Sources Used For Microplastics Draft
 
@@ -197,7 +214,7 @@ Visual syntheses:
 ## Invisible Invaders Activity And Media Sources
 
 - [Team sampling protocol](https://docs.google.com/document/d/1HP06TOL2cnycQSgDcRfV57cEUYHuwoHTmVGRABv9tys/edit)
-- [Invisible Invaders SASSY table](https://docs.google.com/document/d/1yVJ2Ek76Zrgq6mpxN0lT6nqt5FcuZxqEuatsjLsGg8I/edit)
+- [Current Invisible Invaders SASSY table](https://docs.google.com/document/d/1fGOjSkEFxsy5UC5n75UIi9aE_-sKOhyeRx9sY8CAUWU/edit)
 - [National Science Foundation: What Are Microplastics? Science For Kids](https://www.youtube.com/watch?v=fyYy58aTs7U)
 - [Environment and Climate Change Canada: What Are Microplastics?](https://www.youtube.com/watch?v=tNBFiTx6PpU)
 - [USGS microplastics slideshow](https://www.usgs.gov/media/slideshows/microplastics)
@@ -207,7 +224,7 @@ The activity plan uses the team's sampling and SASSY documents as course-specifi
 
 ## Plastic, Carbon, And Rising-Temperature Model Sources
 
-- [Camp-ready plastic, carbon, and temperature activity](../assignments/05-july14-camp-prep/invisible-invaders-plastic-carbon-temperature-model.md)
+- [Current optional plastic-carbon-temperature extension](../assignments/03-camp-unit-plan/invisible-invaders-camp-operations-guide.md#thursday-revise-advocate-and-showcase)
 - [NOAA Global Monitoring Laboratory: greenhouse effect and infrared energy](https://gml.noaa.gov/education/faq_cat-3.html)
 - [UCAR Center for Science Education: greenhouse-effect teaching resources](https://scied.ucar.edu/teaching-box/greenhouse-effect/introduction)
 - [PhET Interactive Simulations: Greenhouse Effect](https://phet.colorado.edu/sims/html/greenhouse-effect/latest/greenhouse-effect_en.html)

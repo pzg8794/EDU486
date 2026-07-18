@@ -1,6 +1,6 @@
 # EDU486 Repository Organization
 
-This repository uses a public/private split. GitHub contains original, public-safe course work; protected course downloads and private working evidence remain on the local machine.
+This repository uses a reviewed-public/local-source split. GitHub contains original course work, Piter-approved transcripts, selected evidence images, and authored exports. Copyrighted course downloads, unrelated personal records, and unreviewed source material remain on the local machine.
 
 ## Public, Tracked Structure
 
@@ -10,7 +10,7 @@ This repository uses a public/private split. GitHub contains original, public-sa
 | `docs/` | Course scope, deadlines, provenance, indexes, and repository guidance |
 | `public-artifacts/` | Public-safe generated visuals |
 | `public-submissions/` | Authored submission exports that are safe to publish |
-| `transcripts/` | Public transcript index, July 9 source record, and cleaned reading version |
+| `transcripts/` | Public transcript index, original automatic text, and complete clean Markdown versions |
 
 ## Private, Local-Only Structure
 
@@ -27,17 +27,17 @@ Everything under `_local-course-materials/` is ignored by Git and must not be fo
 | `receipts/` | Submission receipts and portal confirmations |
 | `submission-exports/` | Local Blackboard/Drive-ready exports |
 | `temporary-rendering/` | Intermediate image and document renderings |
-| `transcripts/raw/` | Private automatic transcripts and meeting records |
+| `_local-course-materials/transcripts/raw/` | Local source copies; approved public copies receive stable names under tracked `transcripts/raw/` |
 
 The local-only directory includes its own ignored README and duplicate inventory for machine-local navigation.
 
 ## Placement Rules
 
-1. Put downloaded readings, screenshots, class photographs, raw transcripts, receipts, and private exports under `_local-course-materials/`.
-2. Put only original, reviewed, public-safe work in tracked folders.
+1. Put downloaded readings, screenshots, class photographs, source transcripts, receipts, and unreviewed exports under `_local-course-materials/`.
+2. Put only reviewed, approved work in tracked folders. Piter has approved EDU486 course transcripts for publication.
 3. Do not use `git add -f` to bypass the boundary.
 4. Keep authored public exports in `public-submissions/`; a byte-identical local submission copy may remain in `submission-exports/` intentionally.
-5. Update [the source map](source-map.md) when a protected source informs public work.
+5. Update [the source map](source-map.md) when a local or protected source informs public work.
 
 ## Synchronization Definition
 
@@ -46,9 +46,9 @@ Local and remote repositories are identical when:
 - local `HEAD` and `origin/main` resolve to the same commit;
 - the ahead/behind count is `0 0`;
 - the tracked worktree is clean; and
-- no untracked private file is exposed for commit.
+- no unreviewed or unrelated personal file is exposed for commit.
 
-Ignored files under `_local-course-materials/` are intentionally local and do not make the Git repositories different. Publishing them would violate the repository boundary rather than improve synchronization.
+Ignored files under `_local-course-materials/` are intentionally local and do not make the Git repositories different. Approved transcripts and evidence are copied into tracked folders deliberately; ignored source copies should not be force-added.
 
 ## Pre-Push Check
 

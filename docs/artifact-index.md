@@ -1,11 +1,9 @@
-# EDU486 Clickable Artifact Index
+# EDU486 Internal Artifact And Drive Link Index
 
-This index is the public GitHub front door. Public repo files, public submission exports, safe generated visuals, public web sources, and Drive sources use clickable links. Private or copyrighted course materials are named only when needed for provenance; they are not presented as broken local links.
+This is the internal front door for our EDU486 repository. Repository files support our own planning and provenance; participant-facing handoffs use Google Drive or direct authoritative sources instead of depending on GitHub. Private or copyrighted course materials are named only when needed for provenance.
 
-## Public Repository
+## Internal Course Workspace
 
-- [GitHub repository](https://github.com/pzg8794/EDU486)
-- [GitHub issues tracker](https://github.com/pzg8794/EDU486/issues)
 - [EQUITAS Access-to-Agency foundation](access-to-agency-course-theme.md)
 - [Course scope](course-scope.md)
 - [Deadlines and work due](deadlines.md)
@@ -20,6 +18,7 @@ This index is the public GitHub front door. Public repo files, public submission
 - [CURRENT Invisible Invaders Camp Operations Guide](../assignments/03-camp-unit-plan/invisible-invaders-camp-operations-guide.md)
 - [Editable CURRENT Camp Operations Guide](https://docs.google.com/document/d/1LueJ9NX6MP257ywABKTDu-vVWVYzTwRnNDK8fgJx4e0/edit)
 - [Editable CURRENT SASSY Storyline Table](https://docs.google.com/document/d/1fGOjSkEFxsy5UC5n75UIi9aE_-sKOhyeRx9sY8CAUWU/edit)
+- [Editable CURRENT Gapless Explanation](https://docs.google.com/document/d/1vvqDsHdI7QEog4mtSVvOCV2PmIE9lW_xoY2HBfPknmM/edit)
 - [Completed daily lesson plans](https://drive.google.com/drive/folders/1safaE0FAhNHiHRCgexqPKf0WXME8lcQg)
 - [Field Friday lesson plan](https://docs.google.com/document/d/1scrYMeSEja_MUvyx9DkV6EzKMpMOmHB4gz60fMOAFgg/edit)
 - [Monday lesson plan](https://docs.google.com/document/d/1jc_dSOKXVhSoSbvfbivXlgfYOxrrJ2L6KwbR7LQZCLc/edit)
@@ -62,10 +61,14 @@ This index is the public GitHub front door. Public repo files, public submission
 - [Announcement task tracker DOCX](../public-submissions/announcement-task-tracker.docx)
 - [Grounding frameworks Part 1 one-page PDF](../public-submissions/grounding-frameworks-part1.pdf)
 - [Grounding frameworks Part 1 accessible companion DOCX](../public-submissions/grounding-frameworks-part1.docx)
+- [Grounding frameworks Part 1 accessible Drive copy](https://drive.google.com/file/d/1FqLQP_tposB8CHUtUutZ5oFqhlB7rh1S/view)
+- [Grounding frameworks Part 1 visual in Drive](https://drive.google.com/file/d/1G3n2R_I_JhKcgO4RJjXDo04nYOAVAMRo/view)
 - [AI history microplastics narrative DOCX](../public-submissions/ai-history-microplastics-narrative.docx)
 - [CURRENT Invisible Invaders Camp Operations Guide DOCX](../public-submissions/invisible-invaders-camp-operations-guide.docx)
 - [Poster proposal DOCX](../public-submissions/poster-proposal-draft.docx)
 - [Task 6 Puzzle Plan reading synthesis DOCX](../public-submissions/session5-reading-notes.docx)
+- [Task 6 Puzzle Plan reading synthesis Drive copy](https://drive.google.com/file/d/1VVvTRQg1K2Gy9UWzvScpDk0ovPMmppQU/view)
+- [Task 6 Puzzle Plan reading map in Drive](https://drive.google.com/file/d/1-oqeF3pbt0vWi_mgLBhUSYNlO3YAy2H3/view)
 - [Invisible Invaders gapless explanation DOCX](../public-submissions/invisible-invaders-gapless-explanation.docx)
 - [Archived pre-consolidation DOCX exports](../public-submissions/archive/2026-07-18-pre-consolidation/README.md)
 - [Course calendar ICS](../public-submissions/EDU486-course-calendar.ics)
@@ -128,8 +131,8 @@ This index is the public GitHub front door. Public repo files, public submission
 
 ## Prior Work And Drive Sources
 
-- [EDU498 neurodivergent challenges reference index](https://github.com/pzg8794/EDU498/blob/main/assignments/Assignment-Exploring_Literacy_as%20Power-Bridging_Social_Justice/neurodivergent-challenges-reference-index.md)
-- [ED452C Puzzle Plan evidence map](https://github.com/pzg8794/ED452C/blob/main/portfolio/puzzle-plan-evidence-map.md)
+- EDU498 neurodivergent challenges reference index: reviewed from Piter's local prior-course workspace as internal grounding evidence
+- ED452C Puzzle Plan evidence map: reviewed from Piter's local prior-course workspace as internal grounding evidence
 - [EDE476 Cultural Ethnography Presentation](https://drive.google.com/file/d/1oG5rOnI608FQCMXxtyUXnVdRMXCFX5Uw)
 - [EDE476 Cultural Ethnography Presentation Recording PDF](https://drive.google.com/file/d/12-od91fTnDyp1TkM-qWuTZ3bzwVEdjsT)
 - [ADHD Awareness in Chronic Illness](https://drive.google.com/file/d/1wGQgljS0yeeAYacezoaRLRBNT45-659O)

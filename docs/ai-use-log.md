@@ -182,7 +182,7 @@ OpenAI Codex (GPT-5) was used on July 1, 2026 to synthesize course materials, or
   - distinguish science, evidence, access, and justice with text labels as well as color
   - expand each causal step to three substantive sentences
   - treat microscope observations as suspected particles unless chemistry confirms the polymer
-  - at the time, replace open sanding with covered or prepared evidence; the tire activity was later removed from the active plan
+  - at the time, replace open sanding with covered or prepared evidence; the tire-based anchoring phenomenon was later removed, while the July 16 SASSY board retained an intact-wheel friction-and-wear investigation as supporting evidence
   - make neurodivergent, chronic-illness, disability, language, sensory, and multiple-identity access part of the investigation design
   - preserve Aastha's original Activities and Videos/Internet Links content while adding clearly labeled team revisions to both tabs
   - use the team's sampling protocol and SASSY table as planning anchors
@@ -229,9 +229,36 @@ OpenAI Codex (GPT-5) was used on July 1, 2026 to synthesize course materials, or
   - preserve the superseded collaborative Friday brainstorm unchanged for provenance while replacing the active work with a clearly named human-body Evidence Pathway Mystery
 - Disclosure used in the artifact: Piter provided, reviewed, supervised, and guided the project context and inclusion goals; AI supported organization, source validation, accessible structure, causal-gap checking, and visual communication
 
-### Correction Recorded July 16
+### Correction Recorded July 16 And Clarified July 18
 
-The first version of this entry incorrectly said the team would preserve tire wear as a concrete focus. The meeting transcript and live team document show that Piter and Aastha had already replaced the tire-based phenomenon with **“Humans aren’t trash cans, but we have plastics in our bodies.”** The commitment pack, visual, editable Drive copy, source map, and repository indexes were corrected to follow that decision.
+The first version of this entry incorrectly treated tire wear as the anchoring phenomenon. Piter and Aastha replaced that anchor with **“Humans aren’t trash cans, but we have plastics in our bodies.”** The July 16 SASSY planning image later placed an intact bike, rollerblade, or toy-wheel friction-and-wear investigation on Tuesday as supporting evidence for how plastic becomes smaller. The human-body phenomenon remains the anchor; the wheel investigation is one mechanism-building activity, uses no sanding or camper-generated dust, and does not replace the anchor.
+
+## July 18, 2026 - SASSY Image Reconciliation, Final Modeling, And Link Repair
+
+- Tool/source: OpenAI Codex under Piter Garcia's supervision; the July 16 Invisible Invaders SASSY planning photograph; July 16 transcripts; current Gapless Explanation; live SASSY table; all six instructor lesson-plan templates; current materials records; NOAA, EPA, FDA, WHO, PhET, UNEP, and CAST
+- Purpose: preserve every decision visible in the July 16 board, complete its blank final-modeling row, remove participant dependence on GitHub, and make the working sequence concrete enough to facilitate
+- Output created or revised:
+  - [current Camp Operations Guide](https://docs.google.com/document/d/1LueJ9NX6MP257ywABKTDu-vVWVYzTwRnNDK8fgJx4e0/edit)
+  - [current SASSY Storyline Table](https://docs.google.com/document/d/1fGOjSkEFxsy5UC5n75UIi9aE_-sKOhyeRx9sY8CAUWU/edit)
+  - [current daily lesson-plan folder](https://drive.google.com/drive/folders/1safaE0FAhNHiHRCgexqPKf0WXME8lcQg)
+  - [current Gapless Explanation](https://docs.google.com/document/d/1vvqDsHdI7QEog4mtSVvOCV2PmIE9lW_xoY2HBfPknmM/edit)
+  - [original July 16 SASSY image in Drive](https://drive.google.com/file/d/1ht_b3mBW-9QbYrw7CsuZq2X5EyFXtiAg/view)
+  - [Grounding Frameworks accessible Drive copy](https://drive.google.com/file/d/1FqLQP_tposB8CHUtUutZ5oFqhlB7rh1S/view)
+  - [Grounding Frameworks visual in Drive](https://drive.google.com/file/d/1G3n2R_I_JhKcgO4RJjXDo04nYOAVAMRo/view)
+  - [Session 5 reading synthesis Drive copy](https://drive.google.com/file/d/1VVvTRQg1K2Gy9UWzvScpDk0ovPMmppQU/view)
+  - [Session 5 Puzzle Plan reading map in Drive](https://drive.google.com/file/d/1-oqeF3pbt0vWi_mgLBhUSYNlO3YAy2H3/view)
+- Human guidance and decisions:
+  - GitHub remains an internal planning and provenance workspace; participant-facing links use Drive or direct authoritative sources
+  - preserve the board's four-jar comparison, organism/body evidence, wheel friction/wear, Day 1 place return, and advocacy work
+  - complete Thursday with one visible model that has a shared plastic lifecycle and distinct climate and microplastic branches
+  - state explicitly that microplastics do not cause chamber warming and carbon dioxide does not carry particles into bodies
+  - use Friday only for KEEP/QUESTION/CHANGE, one evidence-supported final model move or justified keep, advice, cleanup, and closure
+  - preserve older collaborator ideas and historical tabs, but label them clearly so they cannot be mistaken for the active camp sequence
+  - keep science, evidence, justice/action, and access visible in words as well as color
+  - replace hidden GitHub relationships in the Grounding Frameworks and Session 5 DOCX exports, make both embedded visuals open their Drive copies, and update the existing Drive files in place
+  - correct stale accessible-export language so the July 14 plan is identified as historical and the active human-body anchor is not replaced by the parking-lot/classroom discrepancy
+  - audit 40 unique destinations across the current SASSY table, operations guide, and six daily plans; all Drive destinations returned successfully, and remaining links point directly to authoritative sources
+- Disclosure: Piter supplied, reviewed, corrected, and supervised the content and team decisions. AI supported cross-document reconciliation, accessible structure, causal and logistical gap checks, Drive-link repair, and direct-source validation. Piter remains responsible for final science, safety, representation, and submission decisions.
 
 ## July 1, 2026 - Corrective Reframing After Human Review
 
@@ -241,7 +268,7 @@ The first version of this entry incorrectly said the team would preserve tire we
   - [EDE476 Cultural Ethnography Presentation](https://drive.google.com/file/d/1oG5rOnI608FQCMXxtyUXnVdRMXCFX5Uw)
   - [ADHD Awareness in Chronic Illness](https://drive.google.com/file/d/1wGQgljS0yeeAYacezoaRLRBNT45-659O)
   - [EDU498 Layered Genius Minecraft Identity Mini-Unit](https://drive.google.com/file/d/1SDravCaceJOdTSKwCpwYG3jtoXS1_9Lv)
-  - [EDU498 neurodivergent challenges reference index](https://github.com/pzg8794/EDU498/blob/main/assignments/Assignment-Exploring_Literacy_as%20Power-Bridging_Social_Justice/neurodivergent-challenges-reference-index.md)
+  - EDU498 neurodivergent challenges reference index, reviewed from Piter's local prior-course workspace
 - Output created or revised:
   - [EQUITAS Access-to-Agency foundation](access-to-agency-course-theme.md)
   - [course scope](course-scope.md)

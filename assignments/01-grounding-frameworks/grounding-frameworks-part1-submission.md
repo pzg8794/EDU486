@@ -6,9 +6,9 @@
 
 ## JuST + Technology: From Access to Agency
 
-[![JuST and technology grounding-framework visualization](grounding-frameworks-visual.svg)](grounding-frameworks-visual.svg)
+[![JuST and technology grounding-framework visualization](grounding-frameworks-visual.svg)](https://drive.google.com/file/d/1G3n2R_I_JhKcgO4RJjXDo04nYOAVAMRo/view)
 
-[Open the full-size visual](grounding-frameworks-visual.svg) | [Open the PNG](../../public-artifacts/grounding-frameworks-visual.png) | [Open the one-page PDF](../../public-submissions/grounding-frameworks-part1.pdf)
+[Open the visual in Drive](https://drive.google.com/file/d/1G3n2R_I_JhKcgO4RJjXDo04nYOAVAMRo/view) | [Open the accessible companion in Drive](https://drive.google.com/file/d/1FqLQP_tposB8CHUtUutZ5oFqhlB7rh1S/view)
 
 ## Central Claim
 
@@ -20,7 +20,7 @@ Technology is not automatically inclusive, neutral, or transformative. It change
 
 **Technology is a design choice with consequences.** A shared microscope camera, captions, still images, maps, tallies, and paper backups can make collective evidence easier to access. The same tools can add surveillance, bias, expense, sensory load, fatigue, working-memory demands, or false certainty. The three questions at the bottom of the visual keep those tradeoffs visible: *Who can participate now? What does the tool hide? Who bears the burden?*
 
-**Invisible Invaders gives the framework a real planning context.** This Part 1 submission was prepared on July 14 using the team's then-current indoor/outdoor investigation. On July 15, Piter and Aastha replaced that anchor with **“Humans aren’t trash cans, but we have plastics in our bodies.”** The current plan begins with limited human-sample evidence, models possible pathways through connected systems, and treats environmental observations as supporting evidence. Youth can work through images, models, drawing, text, voice, audio, paper, digital tools, home language, or partners while pursuing the same explanation. Detection does not establish prevalence, a universal route, or a particular health effect. [Current Invisible Invaders explanation](../05-july14-camp-prep/invisible-invaders-gapless-explanation.md)
+**Invisible Invaders gives the framework a real planning context.** This Part 1 submission was prepared on July 14 using the team's then-current indoor/outdoor investigation. On July 15, Piter and Aastha replaced that anchor with **“Humans aren’t trash cans, but we have plastics in our bodies.”** The current plan begins with limited human-sample evidence, models possible pathways through connected systems, and treats environmental observations as supporting evidence. Youth can work through images, models, drawing, text, voice, audio, paper, digital tools, home language, or partners while pursuing the same explanation. Detection does not establish prevalence, a universal route, or a particular health effect. [Current Invisible Invaders explanation in Drive](https://docs.google.com/document/d/1vvqDsHdI7QEog4mtSVvOCV2PmIE9lW_xoY2HBfPknmM/edit)
 
 **Action must move beyond individual blame.** Youth can turn evidence and revised models into art, audio, posters, or video for a real audience. Their advocacy should connect personal and community observations to production, transportation, consumption, waste systems, policy, and unequal environmental burdens. The goal is not a polished technology product; it is meaningful science that helps youth imagine and advocate for more just futures.
 
@@ -37,7 +37,7 @@ This is my pre-camp framework, so the Invisible Invaders examples are design com
 - [CAST Universal Design for Learning Guidelines 3.0](https://udlguidelines.cast.org/)
 - [EPA Microplastics Research](https://www.epa.gov/water-research/microplastics-research)
 - [NOAA laboratory methods for microplastics](https://repository.library.noaa.gov/view/noaa/10296)
-- [EDU486 Invisible Invaders gapless explanation](../05-july14-camp-prep/invisible-invaders-gapless-explanation.md)
+- [EDU486 Invisible Invaders gapless explanation](https://docs.google.com/document/d/1vvqDsHdI7QEog4mtSVvOCV2PmIE9lW_xoY2HBfPknmM/edit)
 
 ## AI Use Disclosure
 

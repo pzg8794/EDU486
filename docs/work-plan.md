@@ -6,8 +6,8 @@ The current priority is to make Invisible Invaders teachable, safe, coherent, in
 
 - Review the completed SASSY storyline table and six daily lesson-plan copies with Aastha.
 - Pilot the four-jar model with known counts and reset instructions.
-- Check out and test microscopes, camera/display, jars, sand tools, map/art supplies, identity materials, and PPE.
-- Prepare the visual agenda, roles, pathway cards, evidence limits, map, source cards, and paper/digital forms.
+- Check out and test the camera/display, jars, sand tools, intact bicycle/rollerblade/scooter/toy wheels, temperature tools, map/art supplies, identity materials, and PPE.
+- Prepare the visual agenda, roles, source-to-body and two-branch model pieces, evidence limits, wheel evidence forms, map, source cards, and paper/digital access routes.
 - Review scientific language: suspected particles, no health overclaim, no neighborhood claim from ZIP codes, and no camper-generated plastic dust.
 - Bring the plans and representative materials to Freedom School on July 21.
 
@@ -21,11 +21,11 @@ The current priority is to make Invisible Invaders teachable, safe, coherent, in
 
 ## Priority 3: Prepare Camp Week
 
-- Monday: anchor, safe fragmentation, first model, and map launch.
-- Tuesday: analyze sand/filter evidence and prepared fish evidence if approved.
-- Wednesday: justice/power map, scientist circle, and advocacy design.
-- Thursday: revise model, finish art/tri-fold, and showcase.
-- Friday: use feedback, reflect, choose a next step, clean up, and say goodbye.
+- Monday: use an article/video and approved organism/body evidence to build the first source-to-body model and return to the Field Friday map.
+- Tuesday: compare intact wheels before and after safe rolling, record tread and temperature evidence, and revise the friction/wear release pathway without manufacturing dust.
+- Wednesday: return to Day 1 places, build the justice/power map, hold the scientist circle, study advocacy examples, and choose an audience and message.
+- Thursday: build the complete plastic-system model with distinct climate and microplastic branches, finish art/tri-fold, rehearse, and showcase.
+- Friday: sort feedback through KEEP/QUESTION/CHANGE, make or justify one final model move, leave advice for future campers, clean up, and say goodbye.
 
 Every day includes a visible agenda, role choice, private thinking time, multimodal scientist circle, model/evidence move, identity recognition, and on-time circle-up.
 

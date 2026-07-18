@@ -11,12 +11,12 @@ Dates combine the syllabus, July 10 email, July 16 class planning, and current t
 | **July 21-23** | Revise and pack | Apply staff feedback; assign co-teaching roles; pack Field Friday bins |
 | **Friday, July 24** | Charlotte Beach Field Friday | Four-jar model, six-site sand sampling, team formation, family showcase note |
 | **July 25-26** | Process and prepare | Preserve youth questions; process evidence; prepare Monday stations |
-| **Monday, July 27** | Camp: anchor and first model | Human-body anchor, fragmentation, first pathway model, map launch |
-| **Tuesday, July 28** | Camp: evidence analysis | Sand/filter observation, prepared fish evidence if approved, source jigsaw, model revision |
-| **Wednesday, July 29** | Camp: justice and advocacy | Neighborhood/power maps, scientist circle, advocacy art, tri-fold draft |
+| **Monday, July 27** | Camp: organism evidence and first model | Article/video, approved fish/body evidence or equivalent image/worksheet, first source-to-body model, map return |
+| **Tuesday, July 28** | Camp: friction, wear, and evidence limits | Intact-wheel before/after observations, tread and temperature records, sealed evidence, release-model revision |
+| **Wednesday, July 29** | Camp: justice and advocacy | Return to Day 1 places, neighborhood/power maps, scientist circle, advocacy examples, art and tri-fold draft |
 | **Wednesday, July 29, 10 p.m. working target** | Poster file to April if printing is needed | **Confirm exact cutoff** before relying on this time |
-| **Thursday, July 30, around noon** | Camp showcase | Final model, titled advocacy art, science/justice/action tri-fold, multiple presentation modes |
-| **Friday, July 31** | Camp feedback, reflection, and goodbye | Feedback map, final reflection, next action, cleanup |
+| **Thursday, July 30, around noon** | Camp final model and showcase | Two-branch plastic-system model, titled advocacy art, science/justice/action tri-fold, multiple presentation modes |
+| **Friday, July 31** | Camp model check and goodbye | KEEP/QUESTION/CHANGE feedback, one justified final model move, advice for future campers, cleanup |
 | **Friday, July 31, 1:30-3:00 p.m.** | Course poster fair, LeChase 215 | Piter's individual research-informed practice poster |
 | **Saturday, August 1** | Final camp unit and daily lesson plans | Submit revised plan with implementation evidence |
 | **Tuesday, August 4** | Grounding Frameworks Part 2 | Revised visualization and cumulative reflection |

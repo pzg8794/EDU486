@@ -40,8 +40,8 @@ Every EDU486 artifact should be checked against these questions:
 
 These are not decoration. They are the intellectual source trail for EDU486.
 
-- [EDU498 neurodivergent challenges reference index](https://github.com/pzg8794/EDU498/blob/main/assignments/Assignment-Exploring_Literacy_as%20Power-Bridging_Social_Justice/neurodivergent-challenges-reference-index.md): maps neurodivergent educational harm, chronic illness, multimodal literacy, access barriers, Puzzle Plan dimensions, and EQUITAS questions.
-- [ED452C Puzzle Plan evidence map](https://github.com/pzg8794/ED452C/blob/main/portfolio/puzzle-plan-evidence-map.md): connects Minecraft Education, inclusive CS, AI learning partner work, Tier 1 design, and the difference between access friction and capability.
+- **EDU498 neurodivergent challenges reference index, internal prior-course source:** maps neurodivergent educational harm, chronic illness, multimodal literacy, access barriers, Puzzle Plan dimensions, and EQUITAS questions.
+- **ED452C Puzzle Plan evidence map, internal prior-course source:** connects Minecraft Education, inclusive CS, AI learning partner work, Tier 1 design, and the difference between access friction and capability.
 - [EDU498 Layered Genius Minecraft Identity Mini-Unit](https://drive.google.com/file/d/1SDravCaceJOdTSKwCpwYG3jtoXS1_9Lv): models identity-safe digital making, coding, screenshots, oral explanation, and multimodal evidence.
 - [EDU498 Class 2 Asynchronous Activity](https://docs.google.com/document/d/1AlcvsNXQ9DIlZ6qbD1mUB2jpnNWyCVay1TUX1LBTCfk): names the difference between access barriers and thinking barriers in digital literacy.
 - [EDE476 Cultural Ethnography Presentation](https://drive.google.com/file/d/1oG5rOnI608FQCMXxtyUXnVdRMXCFX5Uw): frames neurodivergent community, ADHD, chronic illness, depression, trauma, Spanish-dominant/urban contexts, masking/unmasking, spoon theory, sensory-overloading labs, UDL/SIOP, family partnership, and "nothing about us without us."

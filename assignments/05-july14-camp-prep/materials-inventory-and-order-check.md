@@ -18,7 +18,7 @@ This dictionary combines three evidence sources:
 2. the [clean July 9 transcript](../../transcripts/2026-07-09-class-transcript-clean.md), especially the materials tour and sampling demonstration; and
 3. the live `2026 GRS` order sheet, where one pound of lab-quality salt is already marked **Ordered** for all camp teams.
 
-The original photographs remain local because several include classmates, instructors, reflections, or course-space details. [The photo evidence index](camp-materials-photo-evidence-index.md) preserves the filename-to-evidence trail without publishing people in a public repository. The [sortable CSV catalog](camp-materials-inventory-catalog.csv) contains the same stable item IDs for later reconciliation with the order sheet.
+The original photographs remain local because several include classmates, instructors, reflections, or course-space details. [The photo evidence index](camp-materials-photo-evidence-index.md) preserves the filename-to-evidence trail without placing identifiable people in the Git repository or participant-facing materials. The [sortable CSV catalog](camp-materials-inventory-catalog.csv) contains the same stable item IDs for later reconciliation with the order sheet.
 
 ## How To Read The Status Labels
 

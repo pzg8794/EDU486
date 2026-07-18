@@ -1,6 +1,6 @@
 # EDU486 Source Map
 
-This source map keeps course provenance visible while keeping third-party, copyrighted, unrelated personal, and unreviewed files out of the public repository. Piter has approved the EDU486 course transcripts for publication.
+This source map keeps course provenance visible while keeping third-party, copyrighted, unrelated personal, and unreviewed files out of Git and participant-facing materials. The repository is our internal planning and provenance workspace; shared classroom access uses Drive or authoritative sources. Piter has approved the EDU486 course transcripts for publication.
 
 Local source files are organized under the ignored `_local-course-materials/` directory. Reviewed transcript and image copies use stable names in tracked folders. See the [repository organization guide](repository-organization.md) for the folder map and synchronization rules.
 
@@ -14,7 +14,7 @@ The following course sources are protected, copyrighted, or local-only. They are
 - protected Module 2 course reflection image
 - protected local exports generated for submission
 
-Reason: the public repo should not publish Blackboard/course readings, copied PDFs, screenshots, copyrighted materials, or raw course exports.
+Reason: Git and participant-facing packets should not publish Blackboard/course readings, copied PDFs, screenshots, copyrighted materials, or raw course exports.
 
 ## Syllabus Requirements Extracted
 
@@ -164,6 +164,7 @@ The commitment pack preserves the team's July 15 decision to **replace the tire-
 - [Current Invisible Invaders Camp Operations Guide](../assignments/03-camp-unit-plan/invisible-invaders-camp-operations-guide.md)
 - [Editable CURRENT Camp Operations Guide](https://docs.google.com/document/d/1LueJ9NX6MP257ywABKTDu-vVWVYzTwRnNDK8fgJx4e0/edit)
 - [Editable CURRENT SASSY Storyline Table](https://docs.google.com/document/d/1fGOjSkEFxsy5UC5n75UIi9aE_-sKOhyeRx9sY8CAUWU/edit)
+- [Editable CURRENT Gapless Explanation](https://docs.google.com/document/d/1vvqDsHdI7QEog4mtSVvOCV2PmIE9lW_xoY2HBfPknmM/edit)
 - [Completed daily lesson-plan folder](https://drive.google.com/drive/folders/1safaE0FAhNHiHRCgexqPKf0WXME8lcQg)
 - [Field Friday lesson plan](https://docs.google.com/document/d/1scrYMeSEja_MUvyx9DkV6EzKMpMOmHB4gz60fMOAFgg/edit)
 - [Monday lesson plan](https://docs.google.com/document/d/1jc_dSOKXVhSoSbvfbivXlgfYOxrrJ2L6KwbR7LQZCLc/edit)
@@ -172,12 +173,19 @@ The commitment pack preserves the team's July 15 decision to **replace the tire-
 - [Thursday lesson plan](https://docs.google.com/document/d/14foM1GLckWQlPl06YE0gsyScPV6YVBgM2mTrzc5uNJQ/edit)
 - [Friday reflection lesson plan](https://docs.google.com/document/d/1j89Vjd8nAT8gs-rzFO5hIeDuH8_VlnI2HyHImMhgSec/edit)
 - [Reference Materials folder](https://drive.google.com/drive/folders/1s0BomekNcITEZWr9vKLgXuGbv516beck)
+- [Original July 16 SASSY planning image](https://drive.google.com/file/d/1ht_b3mBW-9QbYrw7CsuZq2X5EyFXtiAg/view)
+- [Grounding Frameworks Part 1 accessible Drive copy](https://drive.google.com/file/d/1FqLQP_tposB8CHUtUutZ5oFqhlB7rh1S/view)
+- [Grounding Frameworks Part 1 visual in Drive](https://drive.google.com/file/d/1G3n2R_I_JhKcgO4RJjXDo04nYOAVAMRo/view)
+- [Session 5 reading synthesis Drive copy](https://drive.google.com/file/d/1VVvTRQg1K2Gy9UWzvScpDk0ovPMmppQU/view)
+- [Session 5 Puzzle Plan reading map in Drive](https://drive.google.com/file/d/1-oqeF3pbt0vWi_mgLBhUSYNlO3YAy2H3/view)
 - [Dated Drive archive](https://drive.google.com/drive/folders/1uqJIngplP3elWAsasA79l6C6PuNm9ljC)
 - [July 16 transcript and image index](../transcripts/README.md)
 
-The guide reconciles the session's agreed team identity, anchor, instructional question, Field Friday sand work, four-jar model, neighborhood map, scientist circles, daily model revision, justice/power analysis, advocacy art, research evidence, access routes, and materials. Other-team boards remain reference-only evidence for shared-resource coordination.
+The guide reconciles the session's agreed team identity, anchor, instructional question, Field Friday sand work, four-jar model, neighborhood map, scientist circles, daily model revision, justice/power analysis, advocacy art, research evidence, access routes, and materials. The current SASSY table preserves every activity visible in the July 16 photograph and completes its blank future-modeling row with a Thursday two-branch model and a brief Friday evidence check. Other-team boards remain reference-only evidence for shared-resource coordination.
 
 The numbered `00-04` items are the current Drive front door. Several unnumbered instructor-owned originals remain visible at the top level because the team account cannot relocate files owned by the instructor. They are preserved unchanged as source/reference documents and do not supersede the current guide, SASSY table, or daily lesson plans.
+
+Participant-facing materials do not depend on GitHub paths. Images, transcripts approved for publication, accessible companions, and current working documents are linked through Drive; scientific claims link directly to authoritative or peer-reviewed sources.
 
 ## Public Web Sources Used For Microplastics Draft
 

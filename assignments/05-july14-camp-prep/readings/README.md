@@ -32,4 +32,4 @@ Start with the indoor/outdoor suspected-microplastics phenomenon and a justice-c
 
 ## Source Boundary
 
-The course PDFs remain local because this is a public repository. Each note links to a publisher, DOI, or official project page and uses short page-specific quotations only for commentary and study. The notes distinguish source claims from Piter's Puzzle Plan interpretation.
+The protected course PDFs remain local and are not used as participant-facing links. Each note links to a publisher, DOI, or official project page and uses short page-specific quotations only for commentary and study. The notes distinguish source claims from Piter's Puzzle Plan interpretation.

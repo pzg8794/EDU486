@@ -8,9 +8,9 @@
 
 These notes summarize the five assigned readings and official Storylines media through Piter Garcia's Puzzle Plan goals. The throughline is not simply "inclusion." It is a claim about evidence and design: bodymind, language, energy, sensory, communication, identity, or technology barriers can hide rigorous thinking, so a teacher as learning scientist must examine and redesign the environment before diagnosing the learner as deficient.
 
-[![Task 6 readings mapped to the Puzzle Plan](../../public-artifacts/session5-puzzle-plan-reading-map.png)](../../public-artifacts/session5-puzzle-plan-reading-map.png)
+[![Task 6 readings mapped to the Puzzle Plan](../../public-artifacts/session5-puzzle-plan-reading-map.png)](https://drive.google.com/file/d/1-oqeF3pbt0vWi_mgLBhUSYNlO3YAy2H3/view)
 
-[Open the full reading hub](readings/README.md) | [Open the visual](../../public-artifacts/session5-puzzle-plan-reading-map.png) | [Open the accessible DOCX](../../public-submissions/session5-reading-notes.docx)
+[Open the full Drive copy](https://drive.google.com/file/d/1VVvTRQg1K2Gy9UWzvScpDk0ovPMmppQU/view) | [Open the visual in Drive](https://drive.google.com/file/d/1-oqeF3pbt0vWi_mgLBhUSYNlO3YAy2H3/view) | [Open Piter's Heather Table](https://docs.google.com/document/d/1Cnw_v00DsZclHObcmnljwXzEw-kiReCE6oStXrMoGAg/edit)
 
 ## 1. Reiser et al. - Storyline Units
 
@@ -18,7 +18,7 @@ Storylines make a unit coherent from the students' perspective: each investigati
 
 **Puzzle Plan design claim:** Make the intellectual path visible, lower the social risk of revision, and let youth contribute through multiple languages and modes. A question board, navigation record, and model history can reduce unnecessary working-memory and inference demands, but only if quieter, delayed, nonverbal, home-language, and low-energy contributions actually shape the shared record.
 
-[Open the complete Reiser summary, page anchors, video takeaway, and Invisible Invaders moves](readings/reiser-storyline-units.md)
+[Open the Reiser article](https://doi.org/10.1080/1046560X.2021.1884784)
 
 ## 2. Smetana et al. - Let's Be Litter Free
 
@@ -26,7 +26,7 @@ The unit moves from visible local litter to production trends, cleanup databases
 
 **Puzzle Plan design claim:** Evidence is shaped by categories, context, missing data, and access conditions. We should preserve equivalent photo, sample, and shared-image routes while asking who produces waste, who has alternatives, whose labor manages it, who benefits, and who bears exposure; "collective responsibility" cannot be flattened into equal individual blame.
 
-[Open the complete Smetana summary, evidence-justice analysis, and Invisible Invaders moves](readings/smetana-lets-be-litter-free.md)
+[Open the Smetana article record](https://www.nsta.org/lets-be-litter-free)
 
 ## 3. Wisbrock et al. - Talking Trash
 
@@ -34,7 +34,7 @@ Talking Trash integrates a local expert, lunch-waste data, a trash-cycle model, 
 
 **Puzzle Plan design claim:** A polished 60-second product cannot become a hidden test of reading speed, speech fluency, stamina, English dominance, or editing experience. Youth should be able to communicate through art, audio, poster, captioned video, live explanation, or partner-supported formats while the rubric evaluates shared scientific criteria separately from media polish.
 
-[Open the complete Talking Trash summary, multimodal critique, and Invisible Invaders moves](readings/wisbrock-talking-trash.md)
+[Open the Talking Trash article](https://www.nsta.org/science-and-children/science-and-children-aprilmay-2020/talking-trash)
 
 ## 4. Wiggins and McTighe - Understanding by Design, Chapter 1
 
@@ -42,7 +42,7 @@ Backward design names the understanding and transfer learners should achieve, de
 
 **Puzzle Plan design claim:** Stage 2 is an equitable diagnostic decision. If the goal is causal explanation from evidence, students can demonstrate it through a model plus oral, written, visual, audio, or partner-supported reasoning; handwriting, rapid speech, stamina, and tool familiarity should not be scored as scientific understanding unless they are genuinely part of the learning goal.
 
-[Open the complete backward-design summary and Invisible Invaders Stage 1-2-3 plan](readings/wiggins-mctighe-backward-design.md)
+[Open the Understanding by Design source](https://www.ascd.org/books/understanding-by-design-expanded-2nd-edition?chapter=planning-for-learning)
 
 ## 5. Ippolito et al. - Learning Science and Literacy Together
 
@@ -50,11 +50,11 @@ The article describes a coastal summer program where youth learn by doing, talki
 
 **Puzzle Plan design claim:** Difficulty with a decontextualized reading task does not establish weak scientific thinking. Multimodal formative evidence can reveal expertise that a narrow diagnostic misses, while co-leader debriefs should ask which barrier hid thinking, whose knowledge became visible, and what the learning environment needs tomorrow.
 
-[Open the complete Ippolito summary, disciplinary-literacy analysis, and Heather Table status](readings/ippolito-science-literacy-together.md)
+[Open the Ippolito article](https://www.nsta.org/learning-science-and-literacy-together)
 
 ## Combined Invisible Invaders Planning Sequence
 
-1. **Name the transfer goal:** youth explain how suspected microplastics can reach indoor and outdoor environments, state evidence limits, and propose system-level action.
+1. **Name the transfer goal:** youth explain how plastic can enter bodies through connected air, water, food, product, and waste systems; state evidence limits; and propose fair system-level action.
 2. **Begin with the agreed phenomenon:** use the human-sample evidence and its limits to elicit noticing, initial models, related experiences, and youth questions. Use parking-lot, classroom, and blank evidence later as supporting pathway evidence.
 3. **Make navigation visible:** record what the group figured out, what remains uncertain, and why the next investigation is needed.
 4. **Create equivalent evidence routes:** physical or covered sample, shared microscope view, enlarged still image, drawing, sorting, tally, oral explanation, text, home language, partner, and paper.
@@ -76,7 +76,7 @@ No routine is inclusive merely because it includes choice, collaboration, techno
 
 ## Heather Table Status
 
-All five readings, including Ippolito et al., are already represented in Piter's [personal EDU486 Heather Table](https://docs.google.com/document/d/1Cnw_v00DsZclHObcmnljwXzEw-kiReCE6oStXrMoGAg/edit). The [Heather Table status record](../../docs/heather-table-status.md) documents current coverage and the remaining sharing-permission check.
+All five readings, including Ippolito et al., are already represented in Piter's [personal EDU486 Heather Table](https://docs.google.com/document/d/1Cnw_v00DsZclHObcmnljwXzEw-kiReCE6oStXrMoGAg/edit). The internal Heather Table status record documents current coverage and the remaining sharing-permission check.
 
 ## Direct Source Index
 

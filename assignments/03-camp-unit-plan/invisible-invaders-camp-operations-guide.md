@@ -31,7 +31,8 @@ We will not use fear, blame, reading speed, stamina, speech, handwriting, Englis
 2. Review the completed SASSY table and six daily lesson-plan copies with Aastha, then bring them to Freedom School staff on July 21.
 3. Confirm the unresolved items in the [decision queue](#decisions-we-still-need).
 4. Pack materials by day and owner using the [materials plan](#materials-and-purchases).
-5. Print or prepare the visual agenda, role cards, pathway cards, neighborhood map, model pieces, and evidence-limit cards.
+5. Gather intact bicycle, rollerblade, scooter, or toy wheels and test the tread-observation and temperature tools for Tuesday.
+6. Print or prepare the visual agenda, role cards, pathway cards, neighborhood map, final-model pieces, and evidence-limit cards.
 
 ### Live working documents
 
@@ -58,7 +59,7 @@ Color never stands alone. Every colored category also has a written label.
 - 🟠 **JUSTICE/ACTION:** power, burden, desired future, decision-maker, or advocacy
 - 🟣 **ACCESS:** a participation route that protects rigorous thinking
 
-The [Four Gotta-Haves document](../05-july14-camp-prep/invisible-invaders-gotta-have-checklist-evidence-map.md) retains its original checklist wording and color organization. We do not replace that color coding here.
+The [Four Gotta-Haves document in Drive](https://drive.google.com/file/d/19i4R_weEGFMkzj0dmtBeNuIY0FOOwKV5/view) retains its original checklist wording and color organization. We do not replace that color coding here.
 
 ## Decisions We Have Made
 
@@ -79,7 +80,7 @@ The [Four Gotta-Haves document](../05-july14-camp-prep/invisible-invaders-gotta-
 
 ## Instructor Must-Haves
 
-The July 16 instructor board is preserved as a [clickable image](../../public-artifacts/2026-07-16-instructor-camp-must-haves.png).
+The July 16 instructor board is preserved as a [clickable image in Drive](https://drive.google.com/file/d/1ROw7E6SYznUxjAjExD8d4d8644pfneyl/view).
 
 - [ ] Use sand, water, or litter analysis. Our team uses **sand**.
 - [ ] Begin scientific modeling early and revise the model later.
@@ -113,13 +114,13 @@ Campers can point, draw, speak, type, dictate, record audio, use home language, 
 | Day | Connecting question | Core experience | Evidence and model move | Daily product |
 | --- | --- | --- | --- | --- |
 | **Field Friday, July 24** | How can more plastic be present than we notice at first? | Controlled four-jar mystery and six-site sand sampling at Charlotte Beach | Compare visible estimate with controlled count; collect Site A-F samples without inventing neighborhood claims | Initial notices, beach map, sample record, team questions |
-| **Monday, July 27** | How can larger plastic become small enough to hide and move without disappearing? | Human-body anchor, safe fragmentation analogy, initial pathway model, map launch | Distinguish breaking apart from disappearing; mark known, possible, and unknown routes | Initial model and question board |
-| **Tuesday, July 28** | What evidence could show where small particles move, and what can that evidence not prove? | Sand/filter observation, prepared fish evidence if approved, short multimodal source set | Record suspected fibers/fragments; compare samples and blanks; revise transport and encounter routes | Evidence table, uncertainty note, revised model |
-| **Wednesday, July 29** | Who shapes these pathways, who carries burdens, and what future do we want? | Neighborhood map, justice/power map, scientist circle, advocacy-art planning | Connect infrastructure and decision power to evidence without blaming families | Power map, action choice, art plan, tri-fold draft |
-| **Thursday, July 30** | What change fits our evidence, and how do we communicate it to a real audience? | Final model revision, advocacy art, tri-fold, optional climate/lifecycle extension, noon showcase | Compare first and final model; match evidence to decision-maker and fair request | Final model, titled art, message, showcase |
-| **Friday, July 31** | What did others understand or challenge, and what should happen next? | Feedback sort, reflection, identity recognition, cleanup and goodbye | Revise the request; record remaining questions and next-action owner | Feedback map, final reflection, next step |
+| **Monday, July 27** | What evidence shows that plastic can reach living organisms, and how might water and food-web pathways help explain it? | Read or view a short article/video; examine an instructor-approved fish dissection or observation, prepared sample, image, or worksheet; sort what the evidence shows; build the first source-to-body pathway model | Use organism/body evidence to justify one pathway while separating detection from exact route or harm | Initial source-to-body model and question board |
+| **Tuesday, July 28** | What happens when wheels rub against surfaces, and how can friction make plastic smaller without making it disappear? | Race or roll intact bikes, rollerblades, or toy wheels; compare tread and surface temperature before/after; examine adult-prepared sealed tape lifts, images, or safe residue samples | Separate measured tread/temperature observations from inference; revise **source -> friction/wear -> smaller particles** without claiming the amount released on real roads | Wheel evidence record, uncertainty note, and revised release model |
+| **Wednesday, July 29** | Where do these pathways connect to places from Day 1, who controls those systems, and what change do we want? | Return to the Day 1 jars/map and Tuesday model; identify familiar public places and system actors; hold a scientist circle; examine advocacy-art examples; choose an audience/message; begin titled art and the tri-fold; prepare one question for an official or community partner | Connect infrastructure and decision power to evidence; prepare one community/official question without blaming families | Power map, action choice, art plan, and tri-fold draft |
+| **Thursday, July 30** | How can one final model explain both major outputs of the plastic system, and where could fair action interrupt them? | Build one comprehensive visible two-branch model: shared plastic lifecycle, distinct climate and microplastic branches, all Four Gotta-Haves, evidence tags, uncertainty, infrastructure/power, and action points; compare with Monday; finish art/tri-fold; rehearse and showcase | Trace both branches, identify shared upstream decisions, explain that they are different causal pathways, and show what evidence changed between the first and final models | Final model, titled art, message, and showcase |
+| **Friday, July 31** | What should our final model keep, question, or change after the showcase, and what advice do we leave? | Sort audience feedback as **KEEP**, **QUESTION**, or **CHANGE**; add one evidence-supported model note or keep it unchanged with a reason; photograph/date it; record advice; return materials and close | Evaluate feedback without adding unsupported claims or building a new model from scratch | Dated final model, advice note, and returned materials |
 
-The [July 16 team draft](../../public-artifacts/2026-07-16-invisible-invaders-team-draft.png) is the visual source for this sequence. We corrected unclear causal wording and filled the missing Thursday model revision.
+The [July 16 team draft in Drive](https://drive.google.com/file/d/1ht_b3mBW-9QbYrw7CsuZq2X5EyFXtiAg/view) is the visual source for this sequence. The table preserves its day-by-day content: jars and sand; article/video and organism/body evidence; wheel friction and wear; a return to Day 1 places for advocacy; and final modeling and communication. We clarified causal language and completed the unfinished final-modeling move so the team has an executable Thursday and a brief post-showcase Friday revision.
 
 ## Field Friday: July 24
 
@@ -153,13 +154,13 @@ Roles include sampler, mapper, labeler, photographer, timer, materials monitor, 
 - Give families the instructor-approved note inviting them to Thursday's noon showcase.
 - Recognize each child at pickup/dropoff and record one access change for Monday.
 
-## Monday: Anchor, Fragmentation, And First Model
+## Monday: Organism Evidence, Anchor, And First Model
 
 ### Before
 
-- Post the visual agenda: **Notice -> Evidence -> Become Small -> Model -> Circle -> Identity**.
-- Prepare calm human-sample evidence cards and an environment-only alternative.
-- Prepare a non-plastic fragmentation analogy using paper, ice, or sealed prepared examples. Do not create loose plastic fragments.
+- Post the visual agenda: **Notice -> Article/Video -> Organism Evidence -> Model -> Map -> Circle -> Identity**.
+- Prepare one short, trusted article or video in captioned, transcript, still-image, and read-aloud formats.
+- Prepare instructor-approved fish/body evidence, the fish worksheet, and direct-observation, shared-screen, image, and environment-only routes. Adults control any dissection, chemical preparation, or biological sample handling.
 - Prepare moveable source, release, transport, encounter, evidence-limit, infrastructure, and action cards.
 - Display the neighborhood map without private addresses.
 
@@ -168,10 +169,10 @@ Roles include sampler, mapper, labeler, photographer, timer, materials monitor, 
 | Time | Camp move | Purpose |
 | ---: | --- | --- |
 | 8 min | Arrival, preview, role choice, private noticing | 🟣 Predictability and several ways to enter |
-| 10 min | Reveal the anchor and sort what the evidence shows/does not show | 🟢 Evidence without fear or overclaiming |
-| 15 min | Safe fragmentation analogy | 🔵 Smaller pieces remain material; smaller is not gone |
-| 20 min | Build a first before-during-after pathway model | 🔵 Connect source, release, movement, encounter, and infrastructure |
-| 10 min | Add questions and first map observations | 🟢 Preserve youth thinking as public evidence |
+| 10 min | Use the short article/video, reveal the anchor, and sort what the evidence shows/does not show | 🟢 Evidence without fear or overclaiming |
+| 15 min | Examine approved fish/body evidence through a chosen route | 🔵 Detection in an organism raises a pathway question; it does not prove the exact route or harm |
+| 20 min | Build a first source-to-body pathway model | 🔵 Connect source, release, water/food/air, organism/person, uncertainty, and infrastructure |
+| 10 min | Return to Field Friday places and add questions/map observations | 🟢 Preserve youth thinking as public evidence |
 | 10 min | Scientist circle | 🟠 Ask what matters, who decides, and what evidence is needed |
 | 5 min | Identity recognition and circle-up | 🟣 End on time with belonging visible |
 
@@ -180,52 +181,53 @@ Roles include sampler, mapper, labeler, photographer, timer, materials monitor, 
 - Photograph each model without student names or faces.
 - Mark routes as **supported**, **possible**, or **unknown**.
 - Record whose ideas entered the public model and who needs another entry route tomorrow.
-- Prepare Tuesday's evidence stations around campers' questions, not around a disconnected activity list.
+- Prepare Tuesday's bicycle, rollerblade, scooter, or toy-wheel investigation around campers' questions about friction, wear, heat, and release.
 
-## Tuesday: Analyze Evidence And Protect Uncertainty
+## Tuesday: Wheels, Friction, Wear, And Model Revision
 
 ### Before
 
-- Prepare beach samples, filters, field blanks, clean slides, clear tape, microscopes, a shared camera/display, and enlarged still-image backups.
-- If fish/KOH work is approved, adults prepare and control the chemical process. Campers examine prepared evidence or a photographed sequence.
-- Prepare image, audio, short-text, and partner-read versions of **The Tiny Hitchhikers** or a corrected evidence card.
-- Test every microscope-camera-display route and prepare paper recording forms.
+- Prepare intact bicycles, rollerblades, scooters, or toy wheels; a safe textured route; cones; lane markers; a timer; and required riding PPE.
+- Prepare infrared thermometers or touch-free probes, tread cards/rulers, and before/after photo and paper data routes.
+- Prepare adult-made sealed tape lifts, sealed residue samples, or trusted wear images; campers do not generate or handle loose tire dust.
+- Pilot the route and tools; establish ride, toy-wheel, timing, photo, temperature, recording, observation-only, and pass roles.
 
 ### During
 
 | Time | Camp move | Purpose |
 | ---: | --- | --- |
-| 8 min | Reconnect to Monday's model and choose station roles | 🟣 Reduce working-memory and transition load |
-| 20 min | Observe sand/filter samples and field blank | 🟢 Record suspected fibers/fragments and contamination limits |
-| 15 min | Examine prepared fish/food-web evidence or image cards | 🔵 Consider transport and encounter without claiming a health effect |
-| 12 min | Short multimodal source jigsaw | 🟢 Compare observations with a trusted source |
-| 12 min | Revise the pathway model | 🔵 Add, change, question, or remove links |
+| 8 min | Reconnect to Monday's model; predict and choose wheel-investigation roles | 🟣 Reduce working-memory and transition load |
+| 20 min | Record baseline tread/temperature; race or roll safely | 🟢 Record measured evidence without assuming a particle count |
+| 15 min | Compare after-trial tread/temperature and sealed wear evidence/images | 🔵 Explain friction, energy transfer, wear, and smaller-not-gone with limits |
+| 12 min | Short multimodal friction/weathering source check | 🟢 Label each claim observed, source-supported, inferred, or uncertain |
+| 12 min | Revise **source -> friction/wear -> smaller particles** in the pathway model | 🔵 Add, change, question, or remove links |
 | 8 min | Scientist circle, identity recognition, circle-up | 🟠 Communicate evidence and uncertainty |
 
 ### After
 
-- Keep raw observations separate from interpretation.
-- Do not call a particle a confirmed microplastic unless an appropriate identification method supports that claim.
-- Do not use a healthy/unhealthy fish comparison as proof of human-health effects.
-- Save one evidence image, one uncertainty statement, and one model revision for the tri-fold.
+- Keep measured tread/temperature observations separate from interpretation and sourced wear evidence.
+- Do not claim the short wheel trial quantified microplastic release; temperature change shows energy transfer, not particle count.
+- Do not let campers sand, scrape, cut, heat, or intentionally generate particles from tires or plastic.
+- Save one before/after evidence image, one uncertainty statement, and one release-mechanism model revision for the tri-fold.
 
 ## Wednesday: Justice, Place, And Advocacy
 
 ### Before
 
-- Prepare the [neighborhood map draft](../../public-artifacts/2026-07-16-neighborhood-map-draft.png), landmark cards, route icons, stickers, words, drawing tools, and audio/photo alternatives.
-- Use the [community ZIP-code note](../../public-artifacts/2026-07-16-community-zip-codes.png) only to select familiar public landmarks. ZIP codes are not proxies for pollution, poverty, exposure, or identity.
+- Prepare the [neighborhood map draft in Drive](https://drive.google.com/file/d/1ODviyiOyIptH6K9zWAv-iScjjrGxaeov/view), landmark cards, route icons, stickers, words, drawing tools, and audio/photo alternatives.
+- Use the [community ZIP-code note in Drive](https://drive.google.com/file/d/18ICEepnWaELEuKnvzRrcmv5rysmE49zC/view) only to select familiar public landmarks. ZIP codes are not proxies for pollution, poverty, exposure, or identity.
 - Prepare power-map cards: product designer, manufacturer, store, school purchaser, landlord/building manager, waste collector, wastewater system, scientist, agency, elected official, youth, and family.
+- Prepare short advocacy examples in image, audio, short-text, and partner-read formats so campers can see several ways science can become public action.
 - Confirm whether an official or community partner can answer youth questions about dumping, street cleaning, drains, or waste systems.
 
 ### During
 
 | Time | Camp move | Purpose |
 | ---: | --- | --- |
-| 10 min | Add observations and routes to the map | 🟢 Connect evidence to familiar places without mapping private homes |
+| 10 min | Return to the places named on Day 1 and add observations and possible routes to the map | 🟢 Connect evidence to familiar places without mapping private homes |
 | 15 min | Build a justice/power map | 🟠 Separate who contributes, who benefits, who is burdened, and who can act |
 | 12 min | Scientist circle | 🟠 Ask: "How would you communicate this to your family, a trusted adult, or your community?" |
-| 25 min | Choose audience, message, and advocacy-art form | 🟠 Match evidence to a fair request and real decision-maker |
+| 25 min | Review advocacy examples, then choose an audience, message, and advocacy-art form | 🟠 Match evidence to a fair request and real decision-maker |
 | 10 min | Draft science, justice, and action sections for the tri-fold | 🟢 Make the reasoning visible |
 | 5 min | Identity recognition and circle-up | 🟣 Preserve time and belonging |
 
@@ -234,23 +236,25 @@ Roles include sampler, mapper, labeler, photographer, timer, materials monitor, 
 - Check that no action blames youth or families for systems they do not control.
 - Check that every message names evidence and uncertainty.
 - Confirm cleaned, safe art materials and a real audience.
+- Submit or preserve one public/community question for an official, partner, family member, or other decision-maker.
 - Photograph progress and list exactly what must be finished Thursday morning.
 
 ## Thursday: Revise, Advocate, And Showcase
 
 ### Before
 
-- Place Monday's model beside the current evidence.
-- Prepare final model pieces, art supplies, title/message labels, tri-fold sections, family-facing visuals, and alternate presentation modes.
-- Use the optional plastic-carbon-temperature extension only if it has been piloted, the equipment is safe, and it helps youth connect plastic production and disposal to climate systems. It does not simulate microplastic exposure.
+- Place Monday's model beside a large two-branch model base and the current evidence.
+- Prepare fossil-resource, lifecycle, greenhouse-gas, infrared-energy, wear/weathering, air/water/soil/food, organism/person, Gotta-Have, evidence, uncertainty, power, and action pieces plus art/tri-fold materials.
+- Use optional PhET or a pilot-tested chamber only to support the climate branch; it is not the final model and does not simulate microplastic exposure.
 - Confirm the showcase time, space, audience, setup, accessibility, and student photo/audio permissions.
+- Post the scientific boundary beside the model: **Microplastics do not cause chamber warming, and carbon dioxide does not carry plastic particles into bodies.**
 
 ### During
 
 | Time | Camp move | Purpose |
 | ---: | --- | --- |
-| 12 min | Compare first model with new evidence | 🟢 Make learning and revision visible |
-| 18 min | Complete final pathway model | 🔵 Explain release, transport, encounter, infrastructure, and uncertainty |
+| 12 min | Compare Monday's model with evidence and lay out the shared plastic lifecycle | 🟢 Shared start: fossil resources -> production -> transport -> use -> disposal |
+| 18 min | Complete distinct climate and microplastic branches; add Gotta-Haves, evidence tags, uncertainty, power, and actions | 🔵 Climate: emissions -> retained outgoing infrared -> warming. Microplastic: wear/weathering -> fragments/fibers -> air/water/soil/food -> organisms/people |
 | 25 min | Finish art and tri-fold | 🟠 Title, message, evidence, audience, and fair request |
 | 10 min | Rehearse through chosen modes | 🟣 Live, partner-supported, recorded, pointed, drawn, or written |
 | Noon | Showcase | 🟠 Youth communicate science, justice, and advocacy |
@@ -260,6 +264,7 @@ Roles include sampler, mapper, labeler, photographer, timer, materials monitor, 
 
 - Save audience questions and feedback.
 - Credit youth ideas that changed the model.
+- Photograph the Monday and Thursday models side by side and preserve the evidence tags that justify revisions.
 - Do not rank live speech above audio, drawing, text, video, pointing, or partner-supported explanation.
 - Pack Friday's reflection materials before leaving.
 
@@ -267,23 +272,23 @@ Roles include sampler, mapper, labeler, photographer, timer, materials monitor, 
 
 ### Before
 
-- Sort showcase feedback into **understanding**, **questions**, **commitments**, and **concerns**.
-- Prepare private, paired, visual, audio, home-language, and group reflection routes.
-- Prepare a final identity-recognition display and cleanup roles that do not depend on strength or stamina.
+- Prepare a brief **KEEP / QUESTION / CHANGE** feedback sort and display Thursday's dated model.
+- Prepare private, paired, visual, audio, home-language, and pass routes for one model note and one piece of advice.
+- Prepare a brief identity-recognition close and cleanup roles that do not depend on strength or stamina.
 
 ### During
 
-1. Revisit the final model and audience feedback.
-2. Decide what the audience understood, challenged, or still needs.
-3. Revise the request or next action.
-4. Name one thing the evidence supports and one question it cannot answer.
-5. Complete a final reflection and identity recognition.
-6. Return materials, clean the space, and say goodbye without rushing the closing circle.
+1. Sort audience feedback as **KEEP**, **QUESTION**, or **CHANGE**.
+2. Choose one model part to revisit or justify keeping.
+3. Each camper may add one evidence tag, uncertainty label, causal arrow, action note, or question, or keep the model unchanged with a reason.
+4. Photograph and date the final model; do not add a new causal claim without evidence.
+5. Record one piece of advice for future campers or facilitators and complete identity recognition.
+6. Return materials, clean the space, and use the remaining time for a brief, unrushed goodbye.
 
 ### After
 
 - Preserve de-identified youth artifacts for the final unit-plan revision and Piter's individual research poster.
-- Record what changed across the week and which supports expanded participation.
+- Record the final model move, what changed across the week, and which supports expanded participation.
 - Assign an owner and date to any action that continues after camp.
 
 ## Standard Scientist-Circle Routine
@@ -339,7 +344,7 @@ We are studying our teaching, not testing whether children are "good" at science
 
 - Follow instructor and Freedom School consent rules for photographs, audio, and quotations.
 - Do not collect diagnoses, private addresses, medical histories, immigration information, or forced identity disclosures.
-- Remove names and faces from the public repository.
+- Keep youth names and faces out of the internal Git repository and participant-facing materials unless consent rules explicitly allow them.
 - Preserve communication mode without treating one mode as more rigorous than another.
 
 ## Materials And Purchases
@@ -348,7 +353,7 @@ We are studying our teaching, not testing whether children are "good" at science
 
 The current team order is **USD 86.79 before tax**, leaving **USD 13.21** of the USD 100 limit for tax or price changes. Every line identifies Piter Garcia as the person who added it for Invisible Invaders and briefly states why.
 
-[Open the itemized order CSV](../05-july14-camp-prep/invisible-invaders-order-budget.csv) or [open the live order sheet](https://docs.google.com/spreadsheets/d/1rAuGt8iT-CAx4Oy1cqz_SsVQqqPzi5mE9v7pRCODSAo/edit?gid=1535708448#gid=1535708448).
+[Open the itemized order CSV in Drive](https://drive.google.com/file/d/1pEs3QpiRRiq0zpdvyZKG4JDjJchvxLV3/view) or [open the live order sheet](https://docs.google.com/spreadsheets/d/1rAuGt8iT-CAx4Oy1cqz_SsVQqqPzi5mE9v7pRCODSAo/edit?gid=1535708448#gid=1535708448).
 
 | Item | Quantity | Estimated subtotal | Use |
 | --- | ---: | ---: | --- |
@@ -371,7 +376,9 @@ The lab-quality salt line is an **All Camp** order. It is not ours and is not pa
 | --- | --- |
 | Four-jar mystery | 4 clear jars with lids, washed sand, known clean plastic pieces, trays, magnifiers, count cards, written/symbol labels A-D |
 | Field sand sampling | 6 sample containers A-F, clean metal scoops, quadrat/measuring tool, flags, map, GPS/phone if approved, clipboards, field forms, field blank, clean/used tool bins |
-| Observation | 4 tested microscopes, at least 1 shared camera/display, tweezers, rulers, identification keys, still-image backup, paper and digital records |
+| Monday organism/body evidence | Approved article/video, fish/body evidence or equivalent image and worksheet, display, source-to-body pathway cards, content preview, environment-only route |
+| Tuesday wheel investigation | Intact bicycle, rollerblade, scooter, or toy wheels; safe route markers; tread cards; magnifiers/shared camera; infrared thermometers or approved temperature tools; adult-prepared sealed wear evidence; observation forms |
+| Observation backup | Shared camera/display, magnifiers, rulers, enlarged still images, paper and digital records |
 | Modeling | Large paper, moveable pathway cards/arrows, source cards, evidence-limit cards, scale ladder, markers, tape, camera |
 | Neighborhood map | Large map, public-landmark cards, stickers/icons, words, drawing tools, photo/audio alternatives; no private-address pins |
 | Advocacy | Clean plastic trash, poster/tri-fold board, scissors including adaptive options, low-odor glue, markers, title/message cards, recording option |
@@ -380,21 +387,22 @@ The lab-quality salt line is an **All Camp** order. It is not ours and is not pa
 
 ### Borrow, confirm, or instructor-control
 
-- fish samples, KOH processing, chemical waste, goggles, and prepared slides;
+- approved fish/body evidence, any fish samples or KOH processing, chemical waste, goggles, and prepared slides;
 - microscope cameras, chargers, projector/display, tablet stands, and extension cords;
+- intact bicycles, rollerblades, scooters, or toy wheels; safe rolling space; infrared thermometers; and adult-prepared sealed wheel-wear evidence;
 - wagon/rolling cart, beach flags, sampling square, and GPS route;
 - family invitation, official/community contact, and showcase setup;
 - optional matching temperature probes, clear chambers, guarded lamp, heat mat, and offline [PhET Greenhouse Effect](https://phet.colorado.edu/en/simulations/greenhouse-effect) materials.
 
 ### Do not buy or use
 
-- no tire or plastic sanding materials;
+- no sanding, scraping, drilling, cutting, or other tools used to manufacture tire or plastic dust;
 - no camper-made plastic dust, loose powder, burning plastic, dry ice, or sealed gas-producing reactions;
 - no injected plastic in fish;
 - no camper-led KOH or unlabeled chemical handling;
 - no duplicate microscopes, tablets, jars, general art supplies, or salt before physical checkout.
 
-The [materials inventory dictionary](../05-july14-camp-prep/materials-inventory-and-order-check.md), [sortable catalog](../05-july14-camp-prep/camp-materials-inventory-catalog.csv), and [photo evidence index](../05-july14-camp-prep/camp-materials-photo-evidence-index.md) remain the detailed source of truth for what is present, what must be checked, and what is missing.
+The [materials inventory dictionary](https://drive.google.com/file/d/1ir-m03gHgdrMWMsMbFcFetK1usdQMymb/view), [sortable catalog](https://drive.google.com/file/d/186LW2wMjHKQ_H005hK5UlHL911iFAdJP/view), and [photo evidence index](https://drive.google.com/file/d/1y0tzOdU0WBr69kofOFKOP2UAeTInn-uf/view) remain the detailed source of truth for what is present, what must be checked, and what is missing.
 
 ### Cross-team reference and shared-resource demand
 
@@ -411,15 +419,17 @@ The other teams' boards are reference evidence only. They help us anticipate wha
 
 Reference images:
 
-- [Other-team activity and materials board](../../public-artifacts/2026-07-16-other-team-materials-reference.png)
-- [Fiber Fighters storyline and materials board](../../public-artifacts/2026-07-16-fiber-fighters-reference.png)
-- [Cross-team planning close-up](../../public-artifacts/2026-07-16-cross-team-planning-closeup.png)
-- [Class science-storyline reference](../../public-artifacts/2026-07-16-class-storyline-reference.png)
+- [Other-team activity and materials board](https://drive.google.com/file/d/1d6eu3KGqJ5YgW_zUnOAw4GrFMqj-rhce/view)
+- [Fiber Fighters storyline and materials board](https://drive.google.com/file/d/1IqZ70_UtXiIzwc1yqdjhVrjVFixb859U/view)
+- [Cross-team planning close-up](https://drive.google.com/file/d/1aTxHJzSovPg3nhYFESIev-QYvHmkvV6-/view)
+- [Class science-storyline reference](https://drive.google.com/file/d/1d7NK4qVH_JelKztlK0BbkWTCBVX36xfS/view)
 
 ## Safety And Evidence Boundaries
 
 - A particle seen by eye or microscope is a **suspected fiber or fragment** until an appropriate polymer-identification method confirms it.
 - Field samples and four-jar model materials are never mixed.
+- Intact wheels may be observed and rolled, but campers do not manufacture or handle loose tire or plastic dust.
+- A tread or temperature change is not a particle count and does not by itself confirm microplastic release.
 - Human-body evidence is introduced calmly, with a content preview and an environment-only route.
 - Detecting microplastics in an environmental, food, or human sample does not by itself prove a health effect.
 - We do not claim one universal source or pathway for every particle found in a body.
@@ -452,8 +462,8 @@ Trusted evidence:
 | By | Action | Owner | Status |
 | --- | --- | --- | --- |
 | **July 18-20** | Pilot four-jar mystery; write known counts and reset instructions | Piter + Aastha | To do |
-| **July 18-20** | Check out jars, microscopes, camera, sand tools, art supplies, identity materials, and PPE | Piter + Aastha | To do |
-| **July 18-20** | Print/prepare agenda, roles, pathway cards, evidence limits, map, source cards, and forms | Split at team check-in | To do |
+| **July 18-20** | Check out jars, camera, sand tools, intact wheels, temperature tools, art supplies, identity materials, and PPE | Piter + Aastha | To do |
+| **July 18-20** | Print/prepare agenda, roles, pathway cards, evidence limits, wheel evidence forms, map, source cards, and final-model pieces | Split at team check-in | To do |
 | **July 20** | Review the completed lesson-plan copies and SASSY table | Piter + Aastha | Ready for team review |
 | **July 21** | Bring materials and plans to Freedom School; meet staff and gather feedback | Piter + Aastha/instructors | Scheduled |
 | **July 21-23** | Revise from staff feedback; pack Field Friday bins | Piter + Aastha | To do |
@@ -471,7 +481,8 @@ Trusted evidence:
 - [ ] Confirm final youth count, team size, daily schedule, room, and staff support.
 - [ ] Confirm exact Charlotte Beach sand sites and whether GPS/latitude-longitude will be used.
 - [ ] Decide who rides the bus and who sets up the station.
-- [ ] Confirm whether fish/KOH evidence is approved, who prepares it, and how waste is handled.
+- [ ] Confirm the approved Monday fish/body evidence route; if fish/KOH is used, confirm who prepares it and handles waste.
+- [ ] Confirm which intact wheels, safe rolling space, temperature tools, and adult-prepared sealed wear evidence are available for Tuesday.
 - [ ] Confirm the official/community contact and whether a call, interview, or written question is realistic.
 - [ ] Confirm family-showcase time, invitation process, presentation space, and accessibility.
 - [ ] Confirm photo, audio, quotation, and youth-artifact permissions.
@@ -483,18 +494,18 @@ Trusted evidence:
 
 These classroom artifacts document the same planning session. They were received July 17 but record July 16 work.
 
-- [Our Invisible Invaders draft storyline table](../../public-artifacts/2026-07-16-invisible-invaders-team-draft.png)
-- [Neighborhood-map draft](../../public-artifacts/2026-07-16-neighborhood-map-draft.png)
-- [Community ZIP-code note](../../public-artifacts/2026-07-16-community-zip-codes.png)
-- [The Tiny Hitchhikers reading draft](../../public-artifacts/2026-07-16-tiny-hitchhikers-reading.png)
-- [Fish-pathway worksheet draft](../../public-artifacts/2026-07-16-fish-pathway-worksheet.png)
-- [Instructor camp must-haves](../../public-artifacts/2026-07-16-instructor-camp-must-haves.png)
-- [Other-team activity and materials board, reference only](../../public-artifacts/2026-07-16-other-team-materials-reference.png)
-- [Fiber Fighters board, reference only](../../public-artifacts/2026-07-16-fiber-fighters-reference.png)
-- [Cross-team planning close-up, reference only](../../public-artifacts/2026-07-16-cross-team-planning-closeup.png)
-- [Class science-storyline board, reference only](../../public-artifacts/2026-07-16-class-storyline-reference.png)
-- [Camp planning and student-engagement transcript](../../transcripts/2026-07-16-camp-planning-and-student-engagement-transcript-clean.md)
-- [Microplastics health-planning and schedule transcript](../../transcripts/2026-07-16-microplastics-health-planning-transcript-clean.md)
+- [Our Invisible Invaders draft storyline table](https://drive.google.com/file/d/1ht_b3mBW-9QbYrw7CsuZq2X5EyFXtiAg/view)
+- [Neighborhood-map draft](https://drive.google.com/file/d/1ODviyiOyIptH6K9zWAv-iScjjrGxaeov/view)
+- [Community ZIP-code note](https://drive.google.com/file/d/18ICEepnWaELEuKnvzRrcmv5rysmE49zC/view)
+- [The Tiny Hitchhikers reading draft](https://drive.google.com/file/d/1oyogUSMlNoWJExhhiqwUWRpGI39AcVUq/view)
+- [Fish-pathway worksheet draft](https://drive.google.com/file/d/1TflATMccl9RnnwZCsfFbnPIqJZCt6cpT/view)
+- [Instructor camp must-haves](https://drive.google.com/file/d/1ROw7E6SYznUxjAjExD8d4d8644pfneyl/view)
+- [Other-team activity and materials board, reference only](https://drive.google.com/file/d/1d6eu3KGqJ5YgW_zUnOAw4GrFMqj-rhce/view)
+- [Fiber Fighters board, reference only](https://drive.google.com/file/d/1IqZ70_UtXiIzwc1yqdjhVrjVFixb859U/view)
+- [Cross-team planning close-up, reference only](https://drive.google.com/file/d/1aTxHJzSovPg3nhYFESIev-QYvHmkvV6-/view)
+- [Class science-storyline board, reference only](https://drive.google.com/file/d/1d7NK4qVH_JelKztlK0BbkWTCBVX36xfS/view)
+- [Camp planning and student-engagement transcript](https://drive.google.com/file/d/1BZgCQx4B69ZbdZDvBKlFJY8ukSJhXGF8/view)
+- [Microplastics health-planning and schedule transcript](https://drive.google.com/file/d/1-6ZIhxJ3glkyh_xfLyQdQPN4ptw0RJsU/view)
 
 Automatic transcript wording and speaker labels are unverified. Exact quotations must be checked against the recording.
 

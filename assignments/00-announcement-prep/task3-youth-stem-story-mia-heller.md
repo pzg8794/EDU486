@@ -29,7 +29,7 @@ Public DOCX export:
 Image deck source note:
 
 - Story source: [Smithsonian Magazine: This High School Student Invented a Filter That Eliminates 96 Percent of Microplastics From Drinking Water](https://www.smithsonianmag.com/innovation/this-high-school-student-invented-a-filter-that-eliminates-96-percent-of-microplastics-from-drinking-water-180988363/).
-- The first recovered deck has been replaced for the public repo with original access-centered slide images so the presentation is clickable and not dependent on third-party article media.
+- The first recovered deck has been replaced in our internal workspace with original access-centered slide images so the presentation is not dependent on third-party article media; participant-facing copies should be shared through Drive.
 
 ## Chosen Story
 

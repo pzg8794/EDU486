@@ -4,9 +4,9 @@
 
 **Current anchoring phenomenon:** **Humans aren’t trash cans, but we have plastics in our bodies.**
 
-**Driving question:** How can plastics from everyday materials become small enough to move through connected systems and reach human bodies, and what changes could reduce those pathways fairly?
+**Driving question:** **How can plastics from everyday materials become small enough to move through connected systems and reach human bodies, and what changes could reduce those pathways fairly?**
 
-The human-body phenomenon replaces the earlier tire-based and parking-lot/classroom candidates. The four ideas below are the ideas Piter and Aastha selected together from the course checklist during the July 15 meeting.
+**The human-body phenomenon replaces the earlier tire-based and parking-lot/classroom candidates.** The four ideas below are the ideas Piter and Aastha selected together from the course checklist during the July 15 meeting.
 
 ## The Four Selected Ideas
 
@@ -27,6 +27,8 @@ flowchart LR
 
 April's comment on the earlier SASSY table says, **"Each of these should be one of your Gotta Have Checklist items."** The current table therefore names the checklist source inside every connecting question rather than treating the questions as a separate list.
 
+**Visible meaning key:** 🔵 **Science** | 🟢 **Evidence** | 🟠 **Justice/action** | 🟣 **Access**. The original four checklist items also retain their established orange, blue, green, and magenta item colors; written labels and numbers ensure color is never the only cue.
+
 | Storyline stage | Checklist item attached to the connecting question | Image-based team work retained | New element added |
 | --- | --- | --- | --- |
 | **Field Friday** | **1. Earth systems are interconnected** | Find plastic pieces in four glass jars; compare places; collect and map sand | Connect the jar/sand evidence to systems meeting at the beach while keeping model jars separate from real-site claims |
@@ -36,7 +38,7 @@ April's comment on the earlier SASSY table says, **"Each of these should be one 
 | **Thursday** | **1-4 revisited through synthesis** | Complete the image's blank **future modeling** row | Build one model containing all four ideas, distinct climate and microplastic branches, uncertainty, power, and action |
 | **Friday** | **1-4 revisited through evidence check** | Continue model revision rather than start a disconnected activity | Use audience feedback to keep, question, or make one evidence-supported change |
 
-The [July 16 team planning image in Drive](https://drive.google.com/file/d/1ht_b3mBW-9QbYrw7CsuZq2X5EyFXtiAg/view) remains the visual source. In that photograph, the first and advocacy rows still carry the earlier Gotta-Have 4/Gotta-Have 1 placement. Later in the recorded discussion, the team decided to reverse those two. The current map applies that final decision while preserving the activities, observations, causal ideas, and advocacy move visible in the image.
+**The [July 16 team planning image in Drive](https://drive.google.com/file/d/1ht_b3mBW-9QbYrw7CsuZq2X5EyFXtiAg/view) remains the visual source.** In that photograph, the first and advocacy rows still carry the earlier Gotta-Have 4/Gotta-Have 1 placement. Later in the recorded discussion, the team decided to reverse those two. **The current map applies that final decision while preserving the activities, observations, causal ideas, and advocacy move visible in the image.**
 
 ## How The Lesson Uses The Checklist
 
@@ -57,7 +59,7 @@ After every experience, campers answer the same five questions:
 4. 🟢 **EVIDENCE: Which checklist idea does the evidence support, complicate, or leave unanswered?**
 5. 🟠 **JUSTICE/ACTION: What should we add, change, question, or remove from our model, and what might people change in the system?**
 
-Campers may point, draw, speak, type, dictate, record audio, work with a partner, or use home language. Every route still requires evidence, causal reasoning, uncertainty, and model revision.
+Campers may point, draw, speak, type, dictate, record audio, work with a partner, or use home language. **Every route still requires evidence, causal reasoning, uncertainty, and model revision.**
 
 ## What Is Not A Separate Gotta-Have Idea
 
@@ -113,4 +115,4 @@ Campers may point, draw, speak, type, dictate, record audio, work with a partner
 
 ## AI Use Disclosure
 
-I used OpenAI Codex on July 16, 2026 under my supervision and guidance to organize the four ideas selected during our meeting, connect them to the current human-body phenomenon, and make the checklist usable through multiple access routes. I, Piter Garcia, provided, reviewed, and guided the content and correction. I remain responsible for the final lesson decisions, scientific claims, representation of Aastha's contributions, and materials I approve or submit.
+I used OpenAI Codex on July 16, 2026 under my supervision and guidance to organize the four ideas selected during our meeting, connect them to the current human-body phenomenon, and make the checklist usable through multiple access routes. **I, Piter Garcia, provided, reviewed, and guided the content and correction. I remain responsible for the final lesson decisions, scientific claims, representation of Aastha's contributions, and materials I approve or submit.**

@@ -2,6 +2,23 @@
 
 The syllabus says that when GenAI is used, it should be credited by source, output, and purpose. This log makes that crediting easy to maintain.
 
+## July 19, 2026 - Accessible Color And Emphasis Correction
+
+- Tool/source: OpenAI Codex under Piter Garcia's supervision; the current Gapless Explanation; the current SASSY Storyline Table; the instructor's original Four Gotta-Haves color sequence; and the July 16 team planning image
+- Purpose: make the active student-facing documents easier to scan without changing Piter and Aastha's wording, decisions, activities, causal claims, or archive tabs
+- Outputs revised:
+  - [current Gapless Explanation](https://docs.google.com/document/d/1vvqDsHdI7QEog4mtSVvOCV2PmIE9lW_xoY2HBfPknmM/edit)
+  - [current SASSY Storyline Table](https://docs.google.com/document/d/1fGOjSkEFxsy5UC5n75UIi9aE_-sKOhyeRx9sY8CAUWU/edit)
+  - local Gapless Explanation and checklist evidence map
+- Human guidance and decisions:
+  - use blue for science, green for evidence, orange for justice/action, and purple for access
+  - retain the original orange, blue, green, and magenta sequence inside **Our Four Gotta-Haves**
+  - color the SASSY question rows and functional columns, then repeat meaning through written labels
+  - bold and lightly highlight the critical driving sentence or phrase in each substantive paragraph
+  - preserve all user edits, active content, links, and archived collaborator material
+- Verification: both Google documents were exported to PDF and visually inspected; the current SASSY table renders as three landscape pages, the active Gapless tab renders with the restored checklist colors and labeled investigation moves, and the NOAA prevention/removal label now opens a verified NOAA page containing both sections
+- Disclosure: Piter directed the correction and remains responsible for the final content. AI applied accessible structure, formatting, color consistency, and visual QA without adding new scientific claims.
+
 ## July 18, 2026 - Invisible Invaders Consolidation And Instructor Templates
 
 - Tool/source: OpenAI Codex under Piter Garcia's supervision; July 9, 14, 15, and 16 course and team transcripts; July 16 classroom images; the current Google Drive team folder; the instructor SASSY and daily lesson-plan templates; the live materials order sheet; prior EDU486 plans; and direct NOAA, FDA, WHO, EPA, CAST, and PhET sources

@@ -10,10 +10,10 @@
 
 ## The Four Selected Ideas
 
-- [ ] 🔵 **1. SCIENCE: Earth systems are interconnected.** Plastic particles can move among air, water, soil, food systems, buildings, organisms, and waste systems. A particle may cross several systems before it is detected.
-- [ ] 🔵 **2. SCIENCE: Water transports materials.** Rain, runoff, wastewater, rivers, drinking-water systems, and food production can move plastic particles. Water is one pathway, not the only pathway into human bodies.
-- [ ] 🔵 **3. SCIENCE: Living organisms respond to environmental conditions.** People and other organisms interact with surrounding air, food, water, and materials through processes such as inhalation and ingestion. Detection documents presence or possible exposure; it does not automatically establish harm.
-- [ ] 🔵 **4. SCIENCE: Human infrastructure influences natural systems.** Product design, manufacturing, buildings, food and water systems, waste systems, monitoring, and policy can increase, redirect, capture, prevent, or reveal particle movement.
+- [ ] 🟩 **1. EARTH SYSTEMS: Earth systems are interconnected.** Plastic particles can move among air, water, soil, food systems, buildings, organisms, and waste systems. A particle may cross several systems before it is detected.
+- [ ] 🟧 **2. WATER: Water transports materials.** Rain, runoff, wastewater, rivers, drinking-water systems, and food production can move plastic particles. Water is one pathway, not the only pathway into human bodies.
+- [ ] 🟦 **3. LIVING ORGANISMS: Living organisms respond to environmental conditions.** People and other organisms interact with surrounding air, food, water, and materials through processes such as inhalation and ingestion. Detection documents presence or possible exposure; it does not automatically establish harm.
+- [ ] 🟪 **4. HUMAN INFRASTRUCTURE: Human infrastructure influences natural systems.** Product design, manufacturing, buildings, food and water systems, waste systems, monitoring, and policy can increase, redirect, capture, prevent, or reveal particle movement.
 
 ```mermaid
 flowchart LR
@@ -21,22 +21,32 @@ flowchart LR
     B --> C["3. Living organisms encounter environments"]
     C --> D["4. Infrastructure changes pathways"]
     D -. "system changes alter the pathway" .-> A
+    classDef earth fill:#E1EBD9,stroke:#38761D,color:#1F4210,stroke-width:3px
+    classDef water fill:#FFF0CC,stroke:#FF9900,color:#7A4500,stroke-width:3px
+    classDef living fill:#D9EAF7,stroke:#4A86E8,color:#173A70,stroke-width:3px
+    classDef infrastructure fill:#F5DDF5,stroke:#FF00FF,color:#6B006B,stroke-width:3px
+    class A earth
+    class B water
+    class C living
+    class D infrastructure
 ```
 
 ## Direct SASSY Connecting-Question Map
 
 April's comment on the earlier SASSY table says, **"Each of these should be one of your Gotta Have Checklist items."** The current table therefore names the checklist source inside every connecting question rather than treating the questions as a separate list.
 
-**Visible meaning key:** 🔵 **Science** | 🟢 **Evidence** | 🟠 **Justice/action** | 🟣 **Access**. The original four checklist items also retain their established orange, blue, green, and magenta item colors; written labels and numbers ensure color is never the only cue.
+**Reading-purpose key:** 🔵 **Science** | 🟢 **Evidence** | 🟠 **Justice/action** | 🟣 **Access**.
+
+**Original checklist concept key:** 🟧 **Water** | 🟦 **Living organisms** | 🟩 **Earth systems** | 🟪 **Human infrastructure**. Each item keeps its own concept color; written labels and numbers ensure color is never the only cue.
 
 | Storyline stage | Checklist item attached to the connecting question | Image-based team work retained | New element added |
 | --- | --- | --- | --- |
-| **Field Friday** | **1. Earth systems are interconnected** | Find plastic pieces in four glass jars; compare places; collect and map sand | Connect the jar/sand evidence to systems meeting at the beach while keeping model jars separate from real-site claims |
-| **Monday** | **2. Water transports materials** | Article reading, video, and instructor-approved fish dissection/observation or equivalent evidence route | Trace a possible water and food-web pathway while labeling exact route and harm as unresolved |
-| **Tuesday** | **3. Living organisms respond to environmental conditions** | Bike racing, rollerblades, or toy wheels; friction, temperature, decay/weathering, and smaller-not-gone observations | Connect the release mechanism to environments organisms may encounter while stating that the trial does not measure a biological response |
-| **Wednesday** | **4. Human infrastructure influences natural systems** | Art as advocacy and a return to places from Day 1 | Identify decision-makers, unequal power, a desired future, and an evidence-matched request |
-| **Thursday** | **1-4 revisited through synthesis** | Complete the image's blank **future modeling** row | Build one model containing all four ideas, distinct climate and microplastic branches, uncertainty, power, and action |
-| **Friday** | **1-4 revisited through evidence check** | Continue model revision rather than start a disconnected activity | Use audience feedback to keep, question, or make one evidence-supported change |
+| **Field Friday** | 🟩 **1. Earth systems are interconnected** | Find plastic pieces in four glass jars; compare places; collect and map sand | Connect the jar/sand evidence to systems meeting at the beach while keeping model jars separate from real-site claims |
+| **Monday** | 🟧 **2. Water transports materials** | Article reading, video, and instructor-approved fish dissection/observation or equivalent evidence route | Trace a possible water and food-web pathway while labeling exact route and harm as unresolved |
+| **Tuesday** | 🟦 **3. Living organisms respond to environmental conditions** | Bike racing, rollerblades, or toy wheels; friction, temperature, decay/weathering, and smaller-not-gone observations | Connect the release mechanism to environments organisms may encounter while stating that the trial does not measure a biological response |
+| **Wednesday** | 🟪 **4. Human infrastructure influences natural systems** | Art as advocacy and a return to places from Day 1 | Identify decision-makers, unequal power, a desired future, and an evidence-matched request |
+| **Thursday** | 🟩🟧🟦🟪 **1-4 revisited through synthesis** | Complete the image's blank **future modeling** row | Build one model containing all four ideas, distinct climate and microplastic branches, uncertainty, power, and action |
+| **Friday** | 🟩🟧🟦🟪 **1-4 revisited through evidence check** | Continue model revision rather than start a disconnected activity | Use audience feedback to keep, question, or make one evidence-supported change |
 
 **The [July 16 team planning image in Drive](https://drive.google.com/file/d/1ht_b3mBW-9QbYrw7CsuZq2X5EyFXtiAg/view) remains the visual source.** In that photograph, the first and advocacy rows still carry the earlier Gotta-Have 4/Gotta-Have 1 placement. Later in the recorded discussion, the team decided to reverse those two. **The current map applies that final decision while preserving the activities, observations, causal ideas, and advocacy move visible in the image.**
 

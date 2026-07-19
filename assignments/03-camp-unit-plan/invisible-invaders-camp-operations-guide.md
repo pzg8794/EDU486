@@ -94,10 +94,12 @@ The July 16 instructor board is preserved as a [clickable image in Drive](https:
 
 ## Our Four Gotta-Haves
 
-1. 🔵 **Earth systems are interconnected.** Plastic particles can cross products, buildings, roads, air, water, soil, organisms, and waste systems.
-2. 🔵 **Water transports materials.** Rain, runoff, wastewater, rivers, and other flows can move particles, although water is not the only pathway.
-3. 🔵 **Living organisms respond to environmental conditions.** Organisms encounter surrounding air, food, water, and materials. Detection documents presence or possible exposure, not automatic harm.
-4. 🔵 **Human infrastructure influences natural systems.** Product design, roads, buildings, drains, waste systems, monitoring, and policy can increase, redirect, capture, prevent, or reveal particle movement.
+**Original checklist concept key:** 🟧 **Water** | 🟦 **Living organisms** | 🟩 **Earth systems** | 🟪 **Human infrastructure**
+
+1. 🟩 **EARTH SYSTEMS: Earth systems are interconnected.** Plastic particles can cross products, buildings, roads, air, water, soil, organisms, and waste systems.
+2. 🟧 **WATER: Water transports materials.** Rain, runoff, wastewater, rivers, and other flows can move particles, although water is not the only pathway.
+3. 🟦 **LIVING ORGANISMS: Living organisms respond to environmental conditions.** Organisms encounter surrounding air, food, water, and materials. Detection documents presence or possible exposure, not automatic harm.
+4. 🟪 **HUMAN INFRASTRUCTURE: Human infrastructure influences natural systems.** Product design, roads, buildings, drains, waste systems, monitoring, and policy can increase, redirect, capture, prevent, or reveal particle movement.
 
 Every SASSY connecting question is directly attached to one of these checklist items. Field Friday through Wednesday each foreground one item. Thursday revisits all four through a new synthesis, and Friday revisits them through a new evidence check rather than inventing extra Gotta-Haves.
 
@@ -115,18 +117,18 @@ Campers can point, draw, speak, type, dictate, record audio, use home language, 
 
 | Day | Connecting question | Core experience | Evidence and model move | Daily product |
 | --- | --- | --- | --- | --- |
-| **Field Friday, July 24** | **Gotta-Have 1: Earth systems are interconnected.** How can plastic move among or collect in sand, water, air, living things, and human systems even when we do not notice it at first? | Find and compare plastic pieces in four clear model jars, then collect and map six systematic Charlotte Beach sand samples | Compare visible estimate with controlled count; document where systems meet without inventing neighborhood claims or a particle's source | Initial notices, beach map, sample record, team questions |
-| **Monday, July 27** | **Gotta-Have 2: Water transports materials.** How can moving water help plastic reach living organisms and food webs, and what can our evidence not tell us yet about route or harm? | Read or view a short article/video; examine instructor-approved fish/body evidence through a dissection, prepared sample, image, or worksheet route; build the first source-to-body pathway model | Use the article, video, and fish/body evidence to justify a possible water or food-web pathway while separating detection from exact route or harm | Initial source-to-body model and question board |
-| **Tuesday, July 28** | **Gotta-Have 3: Living organisms respond to environmental conditions.** After wear releases smaller plastic particles, how might organisms encounter them in air, water, food, or surrounding materials, and what response evidence would we still need? | Race or roll intact bikes, rollerblades, or toy wheels; compare tread and surface temperature; examine adult-prepared sealed wear evidence or images | Preserve the image's friction/wear investigation, add **source -> friction/wear -> smaller particles**, and explicitly mark that the trial does not measure exposure, biological response, harm, or real-road quantity | Wheel evidence record, uncertainty note, and revised release model |
-| **Wednesday, July 29** | **Gotta-Have 4: Human infrastructure influences natural systems.** Which product, transportation, drain, wastewater, waste, purchasing, and policy decisions shape these pathways, and what fair change do we want? | Return to Day 1 places and the Tuesday model; make the image's **art as advocacy** move; identify system actors; choose an audience/message; begin titled art and the tri-fold | Connect infrastructure and decision power to evidence; prepare one community/official question without blaming families | Power map, action choice, art plan, and tri-fold draft |
-| **Thursday, July 30** | **Gotta-Haves 1-4, synthesis.** How can one final model connect Earth systems, water transport, living organisms, and human infrastructure while keeping the climate and microplastic branches distinct? | Complete the image's unfinished **future modeling** row with one visible two-branch model; compare with Monday; finish art/tri-fold; rehearse and showcase | Trace both branches, identify shared upstream decisions, keep their causal mechanisms distinct, and show what evidence changed | Final model, titled art, message, and showcase |
-| **Friday, July 31** | **Gotta-Haves 1-4, evidence check.** Which checklist connections should our final model keep, question, or change after audience feedback, and why? | Sort audience feedback as **KEEP**, **QUESTION**, or **CHANGE**; make one evidence-supported model note or justify keeping it unchanged; record advice and close | Evaluate feedback without adding unsupported claims or building a new model from scratch | Dated final model, advice note, and returned materials |
+| **Field Friday, July 24** | 🟩 **Gotta-Have 1: Earth systems are interconnected.** How can plastic move among or collect in sand, water, air, living things, and human systems even when we do not notice it at first? | Find and compare plastic pieces in four clear model jars, then collect and map six systematic Charlotte Beach sand samples | Compare visible estimate with controlled count; document where systems meet without inventing neighborhood claims or a particle's source | Initial notices, beach map, sample record, team questions |
+| **Monday, July 27** | 🟧 **Gotta-Have 2: Water transports materials.** How can moving water help plastic reach living organisms and food webs, and what can our evidence not tell us yet about route or harm? | Read or view a short article/video; examine instructor-approved fish/body evidence through a dissection, prepared sample, image, or worksheet route; build the first source-to-body pathway model | Use the article, video, and fish/body evidence to justify a possible water or food-web pathway while separating detection from exact route or harm | Initial source-to-body model and question board |
+| **Tuesday, July 28** | 🟦 **Gotta-Have 3: Living organisms respond to environmental conditions.** After wear releases smaller plastic particles, how might organisms encounter them in air, water, food, or surrounding materials, and what response evidence would we still need? | Race or roll intact bikes, rollerblades, or toy wheels; compare tread and surface temperature; examine adult-prepared sealed wear evidence or images | Preserve the image's friction/wear investigation, add **source -> friction/wear -> smaller particles**, and explicitly mark that the trial does not measure exposure, biological response, harm, or real-road quantity | Wheel evidence record, uncertainty note, and revised release model |
+| **Wednesday, July 29** | 🟪 **Gotta-Have 4: Human infrastructure influences natural systems.** Which product, transportation, drain, wastewater, waste, purchasing, and policy decisions shape these pathways, and what fair change do we want? | Return to Day 1 places and the Tuesday model; make the image's **art as advocacy** move; identify system actors; choose an audience/message; begin titled art and the tri-fold | Connect infrastructure and decision power to evidence; prepare one community/official question without blaming families | Power map, action choice, art plan, and tri-fold draft |
+| **Thursday, July 30** | 🟩🟧🟦🟪 **Gotta-Haves 1-4, synthesis.** How can one final model connect Earth systems, water transport, living organisms, and human infrastructure while keeping the climate and microplastic branches distinct? | Complete the image's unfinished **future modeling** row with one visible two-branch model; compare with Monday; finish art/tri-fold; rehearse and showcase | Trace both branches, identify shared upstream decisions, keep their causal mechanisms distinct, and show what evidence changed | Final model, titled art, message, and showcase |
+| **Friday, July 31** | 🟩🟧🟦🟪 **Gotta-Haves 1-4, evidence check.** Which checklist connections should our final model keep, question, or change after audience feedback, and why? | Sort audience feedback as **KEEP**, **QUESTION**, or **CHANGE**; make one evidence-supported model note or justify keeping it unchanged; record advice and close | Evaluate feedback without adding unsupported claims or building a new model from scratch | Dated final model, advice note, and returned materials |
 
 The [July 16 team draft in Drive](https://drive.google.com/file/d/1ht_b3mBW-9QbYrw7CsuZq2X5EyFXtiAg/view) is the visual source for this sequence. The current table preserves its four team-created moves: jars and sand; bike, rollerblade, or toy-wheel friction and wear; article/video and fish/body evidence; and art as advocacy tied back to Day 1 places. The photographed board shows the earlier Gotta-Have 4/Gotta-Have 1 placement for the first and advocacy days. Later in the same planning discussion, the team explicitly decided to reverse those two, so the current sequence uses **Gotta-Have 1 on Field Friday** and **Gotta-Have 4 on Wednesday**. The instructor's sample Charlotte Beach storyline was scaffolding and was removed. We completed the image's blank future-modeling row with an executable Thursday synthesis and a brief Friday evidence check.
 
 ## Field Friday: July 24
 
-**Connecting question - Gotta-Have 1:** Earth systems are interconnected. How can plastic move among or collect in sand, water, air, living things, and human systems even when we do not notice it at first?
+**🟩 Connecting question - Gotta-Have 1:** Earth systems are interconnected. How can plastic move among or collect in sand, water, air, living things, and human systems even when we do not notice it at first?
 
 ### Before
 
@@ -160,7 +162,7 @@ Roles include sampler, mapper, labeler, photographer, timer, materials monitor, 
 
 ## Monday: Organism Evidence, Anchor, And First Model
 
-**Connecting question - Gotta-Have 2:** Water transports materials. How can moving water help plastic reach living organisms and food webs, and what can our evidence not tell us yet about route or harm?
+**🟧 Connecting question - Gotta-Have 2:** Water transports materials. How can moving water help plastic reach living organisms and food webs, and what can our evidence not tell us yet about route or harm?
 
 ### Before
 
@@ -191,7 +193,7 @@ Roles include sampler, mapper, labeler, photographer, timer, materials monitor, 
 
 ## Tuesday: Wheels, Friction, Wear, And Model Revision
 
-**Connecting question - Gotta-Have 3:** Living organisms respond to environmental conditions. After wear releases smaller plastic particles, how might organisms encounter them in air, water, food, or surrounding materials, and what response evidence would we still need?
+**🟦 Connecting question - Gotta-Have 3:** Living organisms respond to environmental conditions. After wear releases smaller plastic particles, how might organisms encounter them in air, water, food, or surrounding materials, and what response evidence would we still need?
 
 ### Before
 
@@ -220,7 +222,7 @@ Roles include sampler, mapper, labeler, photographer, timer, materials monitor, 
 
 ## Wednesday: Justice, Place, And Advocacy
 
-**Connecting question - Gotta-Have 4:** Human infrastructure influences natural systems. Which product, transportation, drain, wastewater, waste, purchasing, and policy decisions shape these pathways, and what fair change do we want?
+**🟪 Connecting question - Gotta-Have 4:** Human infrastructure influences natural systems. Which product, transportation, drain, wastewater, waste, purchasing, and policy decisions shape these pathways, and what fair change do we want?
 
 ### Before
 
@@ -251,7 +253,7 @@ Roles include sampler, mapper, labeler, photographer, timer, materials monitor, 
 
 ## Thursday: Revise, Advocate, And Showcase
 
-**Connecting question - Gotta-Haves 1-4, synthesis:** How can one final model connect Earth systems, water transport, living organisms, and human infrastructure while keeping the climate and microplastic branches distinct?
+**🟩🟧🟦🟪 Connecting question - Gotta-Haves 1-4, synthesis:** How can one final model connect Earth systems, water transport, living organisms, and human infrastructure while keeping the climate and microplastic branches distinct?
 
 ### Before
 
@@ -282,7 +284,7 @@ Roles include sampler, mapper, labeler, photographer, timer, materials monitor, 
 
 ## Friday: Feedback, Reflection, And Goodbye
 
-**Connecting question - Gotta-Haves 1-4, evidence check:** Which checklist connections should our final model keep, question, or change after audience feedback, and why?
+**🟩🟧🟦🟪 Connecting question - Gotta-Haves 1-4, evidence check:** Which checklist connections should our final model keep, question, or change after audience feedback, and why?
 
 ### Before
 

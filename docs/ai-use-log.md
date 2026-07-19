@@ -12,11 +12,11 @@ The syllabus says that when GenAI is used, it should be credited by source, outp
   - local Gapless Explanation and checklist evidence map
 - Human guidance and decisions:
   - use blue for science, green for evidence, orange for justice/action, and purple for access
-  - retain the original orange, blue, green, and magenta sequence inside **Our Four Gotta-Haves**
-  - color the SASSY question rows and functional columns, then repeat meaning through written labels
+  - retain each original checklist concept color everywhere the concept appears: water = orange, living organisms = blue, Earth systems = green, and human infrastructure = magenta
+  - color each SASSY connecting-question row and matching clue by its attached checklist concept; use a neutral synthesis row with all four concept names individually colored
   - bold and lightly highlight the critical driving sentence or phrase in each substantive paragraph
   - preserve all user edits, active content, links, and archived collaborator material
-- Verification: both Google documents were exported to PDF and visually inspected; the current SASSY table renders as three landscape pages, the active Gapless tab renders with the restored checklist colors and labeled investigation moves, and the NOAA prevention/removal label now opens a verified NOAA page containing both sections
+- Verification: the Google documents were exported to PDF and visually inspected; the current SASSY table renders as three landscape pages with four distinct concept colors, the active Gapless tab renders with the restored checklist colors and labeled investigation moves, and the NOAA prevention/removal label opens a verified NOAA page containing both sections
 - Disclosure: Piter directed the correction and remains responsible for the final content. AI applied accessible structure, formatting, color consistency, and visual QA without adding new scientific claims.
 
 ## July 18, 2026 - Invisible Invaders Consolidation And Instructor Templates

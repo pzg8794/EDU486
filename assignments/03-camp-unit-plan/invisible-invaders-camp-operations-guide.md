@@ -2,7 +2,7 @@
 
 **Team:** Piter Garcia and Aastha<br>
 **Course:** EDU486, Integrating Technology in STEM<br>
-**Current through:** July 18, 2026
+**Current through:** July 19, 2026<br>
 **Use this document for:** Field Friday, camp week, team preparation, materials, lesson flow, research evidence, and the showcase.
 
 This guide brings our July 16 planning into one place. It replaces the competing Planet Protectors, Friday-routine, opening-routine, Task 7, and July 15 commitment documents. Those files remain in dated archives so our working area stays clear without erasing how our thinking developed.
@@ -15,7 +15,7 @@ This guide brings our July 16 planning into one place. It replaces the competing
 
 ### Our instructional question
 
-> **How can plastics from everyday materials become small enough to move through connected systems and reach human bodies, and what changes could reduce those pathways fairly?**
+> **How can plastic from everyday materials become small enough to move through connected systems and reach living bodies, and what changes could reduce those pathways fairly?**
 
 ### Our learning-sciences research question
 
@@ -99,6 +99,8 @@ The July 16 instructor board is preserved as a [clickable image in Drive](https:
 3. 🔵 **Living organisms respond to environmental conditions.** Organisms encounter surrounding air, food, water, and materials. Detection documents presence or possible exposure, not automatic harm.
 4. 🔵 **Human infrastructure influences natural systems.** Product design, roads, buildings, drains, waste systems, monitoring, and policy can increase, redirect, capture, prevent, or reveal particle movement.
 
+Every SASSY connecting question is directly attached to one of these checklist items. Field Friday through Wednesday each foreground one item. Thursday revisits all four through a new synthesis, and Friday revisits them through a new evidence check rather than inventing extra Gotta-Haves.
+
 After each investigation, campers answer:
 
 1. 🟢 What did we do or examine?
@@ -113,16 +115,18 @@ Campers can point, draw, speak, type, dictate, record audio, use home language, 
 
 | Day | Connecting question | Core experience | Evidence and model move | Daily product |
 | --- | --- | --- | --- | --- |
-| **Field Friday, July 24** | How can more plastic be present than we notice at first? | Controlled four-jar mystery and six-site sand sampling at Charlotte Beach | Compare visible estimate with controlled count; collect Site A-F samples without inventing neighborhood claims | Initial notices, beach map, sample record, team questions |
-| **Monday, July 27** | What evidence shows that plastic can reach living organisms, and how might water and food-web pathways help explain it? | Read or view a short article/video; examine an instructor-approved fish dissection or observation, prepared sample, image, or worksheet; sort what the evidence shows; build the first source-to-body pathway model | Use organism/body evidence to justify one pathway while separating detection from exact route or harm | Initial source-to-body model and question board |
-| **Tuesday, July 28** | What happens when wheels rub against surfaces, and how can friction make plastic smaller without making it disappear? | Race or roll intact bikes, rollerblades, or toy wheels; compare tread and surface temperature before/after; examine adult-prepared sealed tape lifts, images, or safe residue samples | Separate measured tread/temperature observations from inference; revise **source -> friction/wear -> smaller particles** without claiming the amount released on real roads | Wheel evidence record, uncertainty note, and revised release model |
-| **Wednesday, July 29** | Where do these pathways connect to places from Day 1, who controls those systems, and what change do we want? | Return to the Day 1 jars/map and Tuesday model; identify familiar public places and system actors; hold a scientist circle; examine advocacy-art examples; choose an audience/message; begin titled art and the tri-fold; prepare one question for an official or community partner | Connect infrastructure and decision power to evidence; prepare one community/official question without blaming families | Power map, action choice, art plan, and tri-fold draft |
-| **Thursday, July 30** | How can one final model explain both major outputs of the plastic system, and where could fair action interrupt them? | Build one comprehensive visible two-branch model: shared plastic lifecycle, distinct climate and microplastic branches, all Four Gotta-Haves, evidence tags, uncertainty, infrastructure/power, and action points; compare with Monday; finish art/tri-fold; rehearse and showcase | Trace both branches, identify shared upstream decisions, explain that they are different causal pathways, and show what evidence changed between the first and final models | Final model, titled art, message, and showcase |
-| **Friday, July 31** | What should our final model keep, question, or change after the showcase, and what advice do we leave? | Sort audience feedback as **KEEP**, **QUESTION**, or **CHANGE**; add one evidence-supported model note or keep it unchanged with a reason; photograph/date it; record advice; return materials and close | Evaluate feedback without adding unsupported claims or building a new model from scratch | Dated final model, advice note, and returned materials |
+| **Field Friday, July 24** | **Gotta-Have 1: Earth systems are interconnected.** How can plastic move among or collect in sand, water, air, living things, and human systems even when we do not notice it at first? | Find and compare plastic pieces in four clear model jars, then collect and map six systematic Charlotte Beach sand samples | Compare visible estimate with controlled count; document where systems meet without inventing neighborhood claims or a particle's source | Initial notices, beach map, sample record, team questions |
+| **Monday, July 27** | **Gotta-Have 2: Water transports materials.** How can moving water help plastic reach living organisms and food webs, and what can our evidence not tell us yet about route or harm? | Read or view a short article/video; examine instructor-approved fish/body evidence through a dissection, prepared sample, image, or worksheet route; build the first source-to-body pathway model | Use the article, video, and fish/body evidence to justify a possible water or food-web pathway while separating detection from exact route or harm | Initial source-to-body model and question board |
+| **Tuesday, July 28** | **Gotta-Have 3: Living organisms respond to environmental conditions.** After wear releases smaller plastic particles, how might organisms encounter them in air, water, food, or surrounding materials, and what response evidence would we still need? | Race or roll intact bikes, rollerblades, or toy wheels; compare tread and surface temperature; examine adult-prepared sealed wear evidence or images | Preserve the image's friction/wear investigation, add **source -> friction/wear -> smaller particles**, and explicitly mark that the trial does not measure exposure, biological response, harm, or real-road quantity | Wheel evidence record, uncertainty note, and revised release model |
+| **Wednesday, July 29** | **Gotta-Have 4: Human infrastructure influences natural systems.** Which product, transportation, drain, wastewater, waste, purchasing, and policy decisions shape these pathways, and what fair change do we want? | Return to Day 1 places and the Tuesday model; make the image's **art as advocacy** move; identify system actors; choose an audience/message; begin titled art and the tri-fold | Connect infrastructure and decision power to evidence; prepare one community/official question without blaming families | Power map, action choice, art plan, and tri-fold draft |
+| **Thursday, July 30** | **Gotta-Haves 1-4, synthesis.** How can one final model connect Earth systems, water transport, living organisms, and human infrastructure while keeping the climate and microplastic branches distinct? | Complete the image's unfinished **future modeling** row with one visible two-branch model; compare with Monday; finish art/tri-fold; rehearse and showcase | Trace both branches, identify shared upstream decisions, keep their causal mechanisms distinct, and show what evidence changed | Final model, titled art, message, and showcase |
+| **Friday, July 31** | **Gotta-Haves 1-4, evidence check.** Which checklist connections should our final model keep, question, or change after audience feedback, and why? | Sort audience feedback as **KEEP**, **QUESTION**, or **CHANGE**; make one evidence-supported model note or justify keeping it unchanged; record advice and close | Evaluate feedback without adding unsupported claims or building a new model from scratch | Dated final model, advice note, and returned materials |
 
-The [July 16 team draft in Drive](https://drive.google.com/file/d/1ht_b3mBW-9QbYrw7CsuZq2X5EyFXtiAg/view) is the visual source for this sequence. The table preserves its day-by-day content: jars and sand; article/video and organism/body evidence; wheel friction and wear; a return to Day 1 places for advocacy; and final modeling and communication. We clarified causal language and completed the unfinished final-modeling move so the team has an executable Thursday and a brief post-showcase Friday revision.
+The [July 16 team draft in Drive](https://drive.google.com/file/d/1ht_b3mBW-9QbYrw7CsuZq2X5EyFXtiAg/view) is the visual source for this sequence. The current table preserves its four team-created moves: jars and sand; bike, rollerblade, or toy-wheel friction and wear; article/video and fish/body evidence; and art as advocacy tied back to Day 1 places. The photographed board shows the earlier Gotta-Have 4/Gotta-Have 1 placement for the first and advocacy days. Later in the same planning discussion, the team explicitly decided to reverse those two, so the current sequence uses **Gotta-Have 1 on Field Friday** and **Gotta-Have 4 on Wednesday**. The instructor's sample Charlotte Beach storyline was scaffolding and was removed. We completed the image's blank future-modeling row with an executable Thursday synthesis and a brief Friday evidence check.
 
 ## Field Friday: July 24
+
+**Connecting question - Gotta-Have 1:** Earth systems are interconnected. How can plastic move among or collect in sand, water, air, living things, and human systems even when we do not notice it at first?
 
 ### Before
 
@@ -156,6 +160,8 @@ Roles include sampler, mapper, labeler, photographer, timer, materials monitor, 
 
 ## Monday: Organism Evidence, Anchor, And First Model
 
+**Connecting question - Gotta-Have 2:** Water transports materials. How can moving water help plastic reach living organisms and food webs, and what can our evidence not tell us yet about route or harm?
+
 ### Before
 
 - Post the visual agenda: **Notice -> Article/Video -> Organism Evidence -> Model -> Map -> Circle -> Identity**.
@@ -185,6 +191,8 @@ Roles include sampler, mapper, labeler, photographer, timer, materials monitor, 
 
 ## Tuesday: Wheels, Friction, Wear, And Model Revision
 
+**Connecting question - Gotta-Have 3:** Living organisms respond to environmental conditions. After wear releases smaller plastic particles, how might organisms encounter them in air, water, food, or surrounding materials, and what response evidence would we still need?
+
 ### Before
 
 - Prepare intact bicycles, rollerblades, scooters, or toy wheels; a safe textured route; cones; lane markers; a timer; and required riding PPE.
@@ -200,7 +208,7 @@ Roles include sampler, mapper, labeler, photographer, timer, materials monitor, 
 | 20 min | Record baseline tread/temperature; race or roll safely | 🟢 Record measured evidence without assuming a particle count |
 | 15 min | Compare after-trial tread/temperature and sealed wear evidence/images | 🔵 Explain friction, energy transfer, wear, and smaller-not-gone with limits |
 | 12 min | Short multimodal friction/weathering source check | 🟢 Label each claim observed, source-supported, inferred, or uncertain |
-| 12 min | Revise **source -> friction/wear -> smaller particles** in the pathway model | 🔵 Add, change, question, or remove links |
+| 12 min | Revise **source -> friction/wear -> smaller particles -> possible environmental encounter** in the pathway model | 🔵 Add the release mechanism while labeling exposure and biological response as unanswered |
 | 8 min | Scientist circle, identity recognition, circle-up | 🟠 Communicate evidence and uncertainty |
 
 ### After
@@ -211,6 +219,8 @@ Roles include sampler, mapper, labeler, photographer, timer, materials monitor, 
 - Save one before/after evidence image, one uncertainty statement, and one release-mechanism model revision for the tri-fold.
 
 ## Wednesday: Justice, Place, And Advocacy
+
+**Connecting question - Gotta-Have 4:** Human infrastructure influences natural systems. Which product, transportation, drain, wastewater, waste, purchasing, and policy decisions shape these pathways, and what fair change do we want?
 
 ### Before
 
@@ -241,6 +251,8 @@ Roles include sampler, mapper, labeler, photographer, timer, materials monitor, 
 
 ## Thursday: Revise, Advocate, And Showcase
 
+**Connecting question - Gotta-Haves 1-4, synthesis:** How can one final model connect Earth systems, water transport, living organisms, and human infrastructure while keeping the climate and microplastic branches distinct?
+
 ### Before
 
 - Place Monday's model beside a large two-branch model base and the current evidence.
@@ -269,6 +281,8 @@ Roles include sampler, mapper, labeler, photographer, timer, materials monitor, 
 - Pack Friday's reflection materials before leaving.
 
 ## Friday: Feedback, Reflection, And Goodbye
+
+**Connecting question - Gotta-Haves 1-4, evidence check:** Which checklist connections should our final model keep, question, or change after audience feedback, and why?
 
 ### Before
 

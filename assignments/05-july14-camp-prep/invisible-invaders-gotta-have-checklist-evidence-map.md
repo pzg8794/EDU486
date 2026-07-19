@@ -23,6 +23,21 @@ flowchart LR
     D -. "system changes alter the pathway" .-> A
 ```
 
+## Direct SASSY Connecting-Question Map
+
+April's comment on the earlier SASSY table says, **"Each of these should be one of your Gotta Have Checklist items."** The current table therefore names the checklist source inside every connecting question rather than treating the questions as a separate list.
+
+| Storyline stage | Checklist item attached to the connecting question | Image-based team work retained | New element added |
+| --- | --- | --- | --- |
+| **Field Friday** | **1. Earth systems are interconnected** | Find plastic pieces in four glass jars; compare places; collect and map sand | Connect the jar/sand evidence to systems meeting at the beach while keeping model jars separate from real-site claims |
+| **Monday** | **2. Water transports materials** | Article reading, video, and instructor-approved fish dissection/observation or equivalent evidence route | Trace a possible water and food-web pathway while labeling exact route and harm as unresolved |
+| **Tuesday** | **3. Living organisms respond to environmental conditions** | Bike racing, rollerblades, or toy wheels; friction, temperature, decay/weathering, and smaller-not-gone observations | Connect the release mechanism to environments organisms may encounter while stating that the trial does not measure a biological response |
+| **Wednesday** | **4. Human infrastructure influences natural systems** | Art as advocacy and a return to places from Day 1 | Identify decision-makers, unequal power, a desired future, and an evidence-matched request |
+| **Thursday** | **1-4 revisited through synthesis** | Complete the image's blank **future modeling** row | Build one model containing all four ideas, distinct climate and microplastic branches, uncertainty, power, and action |
+| **Friday** | **1-4 revisited through evidence check** | Continue model revision rather than start a disconnected activity | Use audience feedback to keep, question, or make one evidence-supported change |
+
+The [July 16 team planning image in Drive](https://drive.google.com/file/d/1ht_b3mBW-9QbYrw7CsuZq2X5EyFXtiAg/view) remains the visual source. In that photograph, the first and advocacy rows still carry the earlier Gotta-Have 4/Gotta-Have 1 placement. Later in the recorded discussion, the team decided to reverse those two. The current map applies that final decision while preserving the activities, observations, causal ideas, and advocacy move visible in the image.
+
 ## How The Lesson Uses The Checklist
 
 | Lesson moment | What campers do | Checklist evidence | Model revision |

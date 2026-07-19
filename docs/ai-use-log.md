@@ -260,6 +260,18 @@ The first version of this entry incorrectly treated tire wear as the anchoring p
   - audit 40 unique destinations across the current SASSY table, operations guide, and six daily plans; all Drive destinations returned successfully, and remaining links point directly to authoritative sources
 - Disclosure: Piter supplied, reviewed, corrected, and supervised the content and team decisions. AI supported cross-document reconciliation, accessible structure, causal and logistical gap checks, Drive-link repair, and direct-source validation. Piter remains responsible for final science, safety, representation, and submission decisions.
 
+## July 19, 2026 - SASSY Instructor-Example Removal
+
+- Correction: The instructor's sample rows beginning with **"Where did all of this plastic come from?"** and **"E.g. We explored local and regional maps..."** were scaffolding, not Invisible Invaders team content. They were removed from the current SASSY table rather than retained beside Piter and Aastha's work.
+- Result: After the two column-heading rows, the table now begins directly with the team's Field Friday connecting question and four-jar/six-site sand investigation, followed by the team's Monday-through-Friday sequence.
+- Instructor-comment rule: April's comment on the earlier question says, **"Each of these should be one of your Gotta Have Checklist items."** Every current connecting question now names its checklist attachment. The first four stages foreground items 1-4; Thursday and Friday revisit them through new synthesis and evidence-check work, consistent with the July 16 discussion.
+- Image fidelity: The current sequence retains the photographed team's four jars/sand, wheels/friction, article-video-fish evidence, and Day 1 places/art-as-advocacy moves. The image's unfinished future-modeling row is completed for Thursday, followed by a brief Friday evidence check.
+- Final team adjustment: The photograph records the earlier first-day/advocacy-day clue placement. The later transcript records the decision to reverse those two, so Field Friday now foregrounds **Earth systems are interconnected** and Wednesday foregrounds **Human infrastructure influences natural systems**.
+- Driving-question alignment: The current SASSY table and Camp Operations Guide now use the team's image wording: **"How can plastic from everyday materials become small enough to move through connected systems and reach living bodies, and what changes could reduce those pathways fairly?"**
+- Link and layout verification: The current SASSY document was exported and rendered as a three-page landscape document. Its green/yellow table organization and labeled clue colors remain visible, and the clickable **Original July 16 SASSY planning image** text points directly to the team's Drive image rather than a repository file or placeholder.
+- Verification: The current Camp Operations Guide, Gapless Explanation, and all six daily lesson plans were checked for the distinctive instructor-example language; no matches remained.
+- Human guidance: Piter identified the mixed example/team content and directed that the current document contain only the team's work. AI performed the targeted row deletion and cross-document check under that direction.
+
 ## July 1, 2026 - Corrective Reframing After Human Review
 
 - Tool/source: OpenAI Codex, Google Drive connector, GitHub/local repository context

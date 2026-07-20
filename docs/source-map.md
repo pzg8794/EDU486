@@ -150,7 +150,8 @@ The evidence map shows how Module 1's learning-scientist, idea-elicitation, tech
 - [Evidence-to-agency visual](../public-artifacts/invisible-invaders-evidence-to-agency-map.png)
 - [Clean July 15 meeting transcript](../transcripts/2026-07-15-microplastic-pollution-lesson-plan-meeting-clean.md)
 - [Original July 15 meeting transcript](../transcripts/raw/2026-07-15-microplastic-pollution-lesson-plan-meeting.txt)
-- Superseded collaborative source, preserved unchanged: [Friday - Anchoring Phenomenon Routine](https://docs.google.com/document/d/1hU4lpI__QZLBLoFb7JqUoE5OieErkFvLeAx4hWTqVLM/edit)
+- Instructor source template, preserved unchanged as reference: [Friday - Anchoring Phenomenon Routine](https://docs.google.com/document/d/1hU4lpI__QZLBLoFb7JqUoE5OieErkFvLeAx4hWTqVLM/edit)
+- Current team adaptation: [Invisible Invaders - Friday Anchoring Phenomenon Routine - July 24](https://docs.google.com/document/d/16iqraS0TefwyGQdTOlp2s-sQnIWB6DgCOptWtB8vWJ0/edit)
 - Superseded July 15 team-source draft: [Invisible Invaders' Gapless Explanation](https://docs.google.com/document/d/1IFu_y_sYbNeNs1K4J_lD6KS4I30f8wxggX4SS38acRI/edit)
 
 The commitment pack preserves the team's July 15 decision to **replace the tire-based phenomenon** with **“Humans aren’t trash cans, but we have plastics in our bodies,”** use four course checklist ideas, create an opening moment, write a revised gapless explanation, and protect more than one youth advocacy route. It also keeps human detection from being treated as proof of harm and provides a non-body-focused access route without changing the agreed phenomenon.
@@ -165,6 +166,9 @@ The commitment pack preserves the team's July 15 decision to **replace the tire-
 - [Editable CURRENT Camp Operations Guide](https://docs.google.com/document/d/1LueJ9NX6MP257ywABKTDu-vVWVYzTwRnNDK8fgJx4e0/edit)
 - [Editable CURRENT SASSY Storyline Table](https://docs.google.com/document/d/1fGOjSkEFxsy5UC5n75UIi9aE_-sKOhyeRx9sY8CAUWU/edit)
 - [Editable CURRENT Invisible Invaders Sample Model](https://docs.google.com/document/d/1mGolkzKcMzcQuTr4uxjnx0voqTR8Kffmw0B4ypQRq0k/edit)
+- [Current Friday Anchoring Phenomenon Routine](../assignments/03-camp-unit-plan/friday-anchoring-phenomenon-routine.md)
+- [Editable CURRENT Friday Anchoring Phenomenon Routine](https://docs.google.com/document/d/16iqraS0TefwyGQdTOlp2s-sQnIWB6DgCOptWtB8vWJ0/edit)
+- [Full-size before/during/after sample-model visual in Drive](https://drive.google.com/file/d/1iA1BeV_iE4AFTSAqduKPpbjLVHLc48K5/view)
 - [Editable CURRENT Gapless Explanation](https://docs.google.com/document/d/1vvqDsHdI7QEog4mtSVvOCV2PmIE9lW_xoY2HBfPknmM/edit)
 - [Completed daily lesson-plan folder](https://drive.google.com/drive/folders/1safaE0FAhNHiHRCgexqPKf0WXME8lcQg)
 - [Field Friday lesson plan](https://docs.google.com/document/d/1scrYMeSEja_MUvyx9DkV6EzKMpMOmHB4gz60fMOAFgg/edit)
@@ -182,7 +186,7 @@ The commitment pack preserves the team's July 15 decision to **replace the tire-
 - [Dated Drive archive](https://drive.google.com/drive/folders/1uqJIngplP3elWAsasA79l6C6PuNm9ljC)
 - [July 16 transcript and image index](../transcripts/README.md)
 
-The guide reconciles the session's agreed team identity, anchor, instructional question, Field Friday sand work, four-jar model, neighborhood map, scientist circles, daily model revision, justice/power analysis, advocacy art, research evidence, access routes, and materials. The current SASSY table preserves the team's activity rows from the July 16 photograph, removes the instructor's sample Charlotte Beach storyline, attaches every connecting question directly to a Gotta-Have checklist item, and completes the team's blank future-modeling row with a Thursday two-branch synthesis and a brief Friday evidence check. The first-day/advocacy-day checklist placement follows the later recorded team decision to reverse the earlier labels visible in the photograph. Other-team boards remain reference-only evidence for shared-resource coordination.
+The guide reconciles the session's agreed team identity, anchor, instructional question, Field Friday sand work, four-jar model, neighborhood map, scientist circles, daily model revision, justice/power analysis, advocacy art, research evidence, access routes, and materials. The current SASSY table preserves the team's activity rows from the July 16 photograph, removes the instructor's sample Charlotte Beach storyline, attaches every connecting question directly to a Gotta-Have checklist item, and completes the team's blank future-modeling row with a Thursday two-branch synthesis and a brief Friday evidence check. The team-specific Friday routine turns the four-jar move into a timed, co-taught script that separates controlled model evidence from Charlotte Beach evidence, protects multiple participation routes, and hands youth questions directly into the Monday storyline. The first-day/advocacy-day checklist placement follows the later recorded team decision to reverse the earlier labels visible in the photograph. Other-team boards remain reference-only evidence for shared-resource coordination.
 
 The numbered `00-04` items are the current Drive front door. Several unnumbered instructor-owned originals remain visible at the top level because the team account cannot relocate files owned by the instructor. They are preserved unchanged as source/reference documents and do not supersede the current guide, SASSY table, or daily lesson plans.
 

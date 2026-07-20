@@ -31,6 +31,8 @@ My working personal lens is:
 - [Editable CURRENT Camp Operations Guide in Google Drive](https://docs.google.com/document/d/1LueJ9NX6MP257ywABKTDu-vVWVYzTwRnNDK8fgJx4e0/edit)
 - [Editable CURRENT SASSY Storyline Table](https://docs.google.com/document/d/1fGOjSkEFxsy5UC5n75UIi9aE_-sKOhyeRx9sY8CAUWU/edit)
 - [Editable CURRENT Invisible Invaders Sample Model](https://docs.google.com/document/d/1mGolkzKcMzcQuTr4uxjnx0voqTR8Kffmw0B4ypQRq0k/edit)
+- [CURRENT Friday Anchoring Phenomenon Routine](assignments/03-camp-unit-plan/friday-anchoring-phenomenon-routine.md)
+- [Editable CURRENT Friday Anchoring Phenomenon Routine](https://docs.google.com/document/d/16iqraS0TefwyGQdTOlp2s-sQnIWB6DgCOptWtB8vWJ0/edit)
 - [Completed daily lesson-plan folder](https://drive.google.com/drive/folders/1safaE0FAhNHiHRCgexqPKf0WXME8lcQg)
 - [Invisible Invaders gotta-have checklist and evidence map](assignments/05-july14-camp-prep/invisible-invaders-gotta-have-checklist-evidence-map.md)
 - [Course transcripts and July 16 evidence](transcripts/README.md)
@@ -46,7 +48,7 @@ My working personal lens is:
 | July 14, 2026 | Visualizing our Grounding Frameworks, Part 1, revised around EQUITAS Access-to-Agency STEM | [Part 1 draft](assignments/01-grounding-frameworks/grounding-frameworks-part1.md) |
 | July 14, 2026 | Invisible Invaders gapless explanation, gotta-have checklist, Session 5 readings/Heather Table, and camp planning preparation | [Checklist evidence map](assignments/05-july14-camp-prep/invisible-invaders-gotta-have-checklist-evidence-map.md) / [Invisible Invaders explanation](assignments/05-july14-camp-prep/invisible-invaders-gapless-explanation.md) / [July 14 command center](assignments/05-july14-camp-prep/README.md) |
 | July 21, 2026 | Bring camp materials and daily lesson plans to Freedom School for staff review | [Current camp operations guide](assignments/03-camp-unit-plan/invisible-invaders-camp-operations-guide.md) |
-| July 24, 2026 | Charlotte Beach Field Friday: four-jar model, sand sampling, and team formation | [Field Friday plan](assignments/03-camp-unit-plan/invisible-invaders-camp-operations-guide.md#field-friday-july-24) |
+| July 24, 2026 | Charlotte Beach Field Friday: four-jar model, sand sampling, and team formation | [Anchoring routine and facilitator script](assignments/03-camp-unit-plan/friday-anchoring-phenomenon-routine.md) |
 | July 27-31, 2026 | Freedom School camp week; showcase Thursday, July 30 around noon | [Daily camp sequence](assignments/03-camp-unit-plan/invisible-invaders-camp-operations-guide.md#storyline-at-a-glance) |
 | July 29, 2026, 10 p.m. working target | Poster file to April if printing is needed; confirm the exact cutoff | [Poster proposal draft](assignments/04-poster-fair/poster-proposal-draft.md) |
 | July 31, 2026 | Poster fair, 1:30-3:00 p.m. in LeChase 215 | [Poster proposal draft](assignments/04-poster-fair/poster-proposal-draft.md) |

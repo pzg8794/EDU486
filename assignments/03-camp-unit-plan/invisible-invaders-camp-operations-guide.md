@@ -2,10 +2,10 @@
 
 **Team:** Piter Garcia and Aastha<br>
 **Course:** EDU486, Integrating Technology in STEM<br>
-**Current through:** July 19, 2026<br>
+**Current through:** July 20, 2026<br>
 **Use this document for:** Field Friday, camp week, team preparation, materials, lesson flow, research evidence, and the showcase.
 
-This guide brings our July 16 planning into one place. It replaces the competing Planet Protectors, Friday-routine, opening-routine, Task 7, and July 15 commitment documents. Those files remain in dated archives so our working area stays clear without erasing how our thinking developed.
+This guide brings our July 16 planning into one place. It replaces the competing Planet Protectors, earlier opening-routine, Task 7, and July 15 commitment documents. Those files remain in dated archives so our working area stays clear without erasing how our thinking developed. The [current Friday Anchoring Phenomenon Routine](friday-anchoring-phenomenon-routine.md) is its field-side companion, not a competing plan.
 
 ## Start Here
 
@@ -27,7 +27,7 @@ We will not use fear, blame, reading speed, stamina, speech, handwriting, Englis
 
 ### What we do next
 
-1. Assemble and pilot the four-jar model and the sand-sampling kit.
+1. Assemble and pilot the four-jar model and the sand-sampling kit using the [Friday Anchoring Phenomenon Routine](friday-anchoring-phenomenon-routine.md).
 2. Review the completed SASSY table and six daily lesson-plan copies with Aastha, then bring them to Freedom School staff on July 21.
 3. Confirm the unresolved items in the [decision queue](#decisions-we-still-need).
 4. Pack materials by day and owner using the [materials plan](#materials-and-purchases).
@@ -39,6 +39,8 @@ We will not use fear, blame, reading speed, stamina, speech, handwriting, Englis
 - [Editable CURRENT Camp Operations Guide](https://docs.google.com/document/d/1LueJ9NX6MP257ywABKTDu-vVWVYzTwRnNDK8fgJx4e0/edit)
 - [Editable CURRENT SASSY Storyline Table](https://docs.google.com/document/d/1fGOjSkEFxsy5UC5n75UIi9aE_-sKOhyeRx9sY8CAUWU/edit)
 - [Editable CURRENT Invisible Invaders Sample Model](https://docs.google.com/document/d/1mGolkzKcMzcQuTr4uxjnx0voqTR8Kffmw0B4ypQRq0k/edit)
+- [Friday Anchoring Phenomenon Routine](friday-anchoring-phenomenon-routine.md)
+- [Editable CURRENT Friday Anchoring Phenomenon Routine](https://docs.google.com/document/d/16iqraS0TefwyGQdTOlp2s-sQnIWB6DgCOptWtB8vWJ0/edit)
 - [Editable CURRENT Gapless Explanation](https://docs.google.com/document/d/1vvqDsHdI7QEog4mtSVvOCV2PmIE9lW_xoY2HBfPknmM/edit?tab=t.0)
 - [Daily Lesson Plans folder](https://drive.google.com/drive/folders/1safaE0FAhNHiHRCgexqPKf0WXME8lcQg)
 - [Field Friday lesson plan](https://docs.google.com/document/d/1scrYMeSEja_MUvyx9DkV6EzKMpMOmHB4gz60fMOAFgg/edit)
@@ -71,6 +73,7 @@ The [Four Gotta-Haves document in Drive](https://drive.google.com/file/d/19i4R_w
 | Anchor | **Humans aren't trash cans, but we have plastics in our bodies.** |
 | Instructional question | **How does plastic break into tiny pieces, move through the environment and into living bodies, and how can we stop it fairly?** |
 | Field material | Invisible Invaders investigates **sand** at Charlotte Beach |
+| Field Friday launch | Use the [team-specific anchoring routine](friday-anchoring-phenomenon-routine.md): controlled MODEL A-D jars, honest known-count reveal, Gotta-Have 1 question, one youth question, then systematic sand sampling |
 | Core model | Youth use the [before/during/after sample model](https://docs.google.com/document/d/1mGolkzKcMzcQuTr4uxjnx0voqTR8Kffmw0B4ypQRq0k/edit) as a scaffold, build an initial pathway model early, and revise it before the Thursday showcase |
 | Place connection | Youth add observations, questions, images, icons, words, or drawings to a shared neighborhood map |
 | Discussion | Scientist circles include private thinking time, one mic, names, open questions, evidence prompts, and several ways to enter |
@@ -145,7 +148,7 @@ The [July 16 team draft in Drive](https://drive.google.com/file/d/1ht_b3mBW-9QbY
 
 The class expects three rotations of about 25 minutes with approximately three campers in each small group. Our rotation uses:
 
-1. **Four-jar mystery, 10-12 minutes:** Campers estimate what they can see, choose a search role, open one controlled jar, and compare the first estimate with the known count.
+1. **[Four-jar anchoring routine, 10-12 minutes](friday-anchoring-phenomenon-routine.md):** Campers preview access routes, estimate what they can see, compare that estimate with the controlled known count, meet the larger anchor, and leave one question for the storyline.
 2. **Sand sampling, 10-12 minutes:** Campers collect or document one systematic beach sample using a written site ID, map position, time, weather, tool record, and contamination notes.
 3. **Transition, 2-3 minutes:** Close and label materials, photograph the non-identifying evidence, and place one notice or question on the board.
 

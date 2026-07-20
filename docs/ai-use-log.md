@@ -2,6 +2,24 @@
 
 The syllabus says that when GenAI is used, it should be credited by source, output, and purpose. This log makes that crediting easy to maintain.
 
+## July 20, 2026 - Invisible Invaders Friday Anchoring Phenomenon Routine
+
+- Tool/source: OpenAI Codex under Piter Garcia's supervision; the instructor's original Friday routine template; the current Camp Operations Guide, Gapless Explanation, SASSY Storyline Table, Sample Model, and Field Friday lesson plan; July 15-16 transcripts and planning image; and direct NOAA, EPA, FDA, PubMed, and CAST sources
+- Purpose: preserve the instructor template while creating an executable, team-specific 10-12 minute anchoring routine for Piter and Aastha's Charlotte Beach rotation
+- Outputs created:
+  - [editable CURRENT Friday Anchoring Phenomenon Routine](https://docs.google.com/document/d/16iqraS0TefwyGQdTOlp2s-sQnIWB6DgCOptWtB8vWJ0/edit)
+  - [repository planning mirror](../assignments/03-camp-unit-plan/friday-anchoring-phenomenon-routine.md)
+  - [full-size sample-model visual in Drive](https://drive.google.com/file/d/1iA1BeV_iE4AFTSAqduKPpbjLVHLc48K5/view)
+- Human guidance and decisions:
+  - retain the team's human-body anchor, approved driving question, and green Gotta-Have 1 Field Friday question
+  - use controlled MODEL A-D jars and known counts without presenting them as beach samples or neighborhood evidence
+  - give Piter and Aastha explicit co-teaching roles and keep the routine within the transcript-confirmed 10-12 minute rotation window
+  - provide visual, seated, quiet, touch-free, low-energy, home-language, partner, and pass/re-entry routes without reducing the scientific goal
+  - separate observation, estimate, inference, suspected particles, and chemically confirmed plastic
+  - avoid fear, forced body disclosure, planted evidence, family blame, and unsupported source, route, prevalence, or health-effect claims
+- Verification: the Google Doc text and metadata were checked after creation; its PDF export contains eight complete pages, the embedded visual, and 16 clickable destinations; all eight pages were visually inspected with no clipping, overlap, blank page, or missing visual
+- Disclosure used in the artifact: AI helped structure, format, and enhance Piter-guided content for accessibility, validate direct sources, and identify missing causal links. Piter reviewed and directed the science, language, accessibility, color coding, source use, and representation of Aastha's contributions and remains responsible for the final content and use.
+
 ## July 19, 2026 - Invisible Invaders Sample Model
 
 - Tool/source: OpenAI Codex under Piter Garcia's supervision; Piter's current Camp Operations Guide (`00`), Gapless Explanation (`01`), SASSY Storyline Table (`02`), July 15-16 planning transcripts and images, and direct NOAA, WHO, FDA, PubMed, and CAST sources

@@ -1,6 +1,6 @@
 # Invisible Invaders Camp Plan
 
-Use the [Invisible Invaders Camp Operations Guide](invisible-invaders-camp-operations-guide.md) as the single current plan for Field Friday, camp week, materials, co-teaching, research evidence, and the Thursday showcase.
+Use the [Invisible Invaders Camp Operations Guide](invisible-invaders-camp-operations-guide.md) as the single current plan for Field Friday, camp week, materials, co-teaching, research evidence, and the Thursday showcase. Use the [Friday Anchoring Phenomenon Routine](friday-anchoring-phenomenon-routine.md) as the field-side script for the first 10-12 minutes of each Friday rotation.
 
 Older plans are preserved in [the dated archive](archive/2026-07-18-pre-consolidation/README.md). They are planning history, not directions for the current camp.
 
@@ -17,6 +17,9 @@ Older plans are preserved in [the dated archive](archive/2026-07-18-pre-consolid
 - [Editable CURRENT Camp Operations Guide](https://docs.google.com/document/d/1LueJ9NX6MP257ywABKTDu-vVWVYzTwRnNDK8fgJx4e0/edit)
 - [Editable CURRENT SASSY Storyline Table](https://docs.google.com/document/d/1fGOjSkEFxsy5UC5n75UIi9aE_-sKOhyeRx9sY8CAUWU/edit)
 - [Editable CURRENT Invisible Invaders Sample Model](https://docs.google.com/document/d/1mGolkzKcMzcQuTr4uxjnx0voqTR8Kffmw0B4ypQRq0k/edit)
+- [Friday Anchoring Phenomenon Routine](friday-anchoring-phenomenon-routine.md)
+- [Editable CURRENT Friday Anchoring Phenomenon Routine](https://docs.google.com/document/d/16iqraS0TefwyGQdTOlp2s-sQnIWB6DgCOptWtB8vWJ0/edit)
+- [Full-size before/during/after sample-model visual](https://drive.google.com/file/d/1iA1BeV_iE4AFTSAqduKPpbjLVHLc48K5/view)
 - [Editable CURRENT Gapless Explanation: Phenomenon](https://docs.google.com/document/d/1vvqDsHdI7QEog4mtSVvOCV2PmIE9lW_xoY2HBfPknmM/edit?tab=t.0)
 - [Editable CURRENT Gapless Explanation: Activities](https://docs.google.com/document/d/1vvqDsHdI7QEog4mtSVvOCV2PmIE9lW_xoY2HBfPknmM/edit?tab=t.pi512olkdy98)
 - [Editable CURRENT Gapless Explanation: Videos and Internet Links](https://docs.google.com/document/d/1vvqDsHdI7QEog4mtSVvOCV2PmIE9lW_xoY2HBfPknmM/edit?tab=t.wwan9k5izahf)

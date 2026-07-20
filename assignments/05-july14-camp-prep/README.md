@@ -14,6 +14,7 @@ This folder now holds the active supporting evidence for the [single current Cam
 | Need | Current file |
 | --- | --- |
 | Run the camp and see all deadlines, roles, activities, evidence, and purchases | [CURRENT Camp Operations Guide](../03-camp-unit-plan/invisible-invaders-camp-operations-guide.md) |
+| Follow the agreed before/during/after pathway at a glance | [CURRENT Invisible Invaders Sample Model](https://docs.google.com/document/d/1mGolkzKcMzcQuTr4uxjnx0voqTR8Kffmw0B4ypQRq0k/edit) |
 | Check the agreed causal science and original color-coded checklist | [Four Gotta-Haves and evidence map](invisible-invaders-gotta-have-checklist-evidence-map.md) |
 | Review the full source-linked causal explanation | [Gapless science explanation](invisible-invaders-gapless-explanation.md) |
 | See what equipment and supplies were documented | [Materials inventory dictionary](materials-inventory-and-order-check.md) |
@@ -37,6 +38,7 @@ This folder now holds the active supporting evidence for the [single current Cam
 - [Invisible Invaders team folder](https://drive.google.com/drive/folders/1ZX08NvxOa5yx3gAOdBEccWFGcw07xZJ6)
 - [CURRENT Camp Operations Guide](https://docs.google.com/document/d/1LueJ9NX6MP257ywABKTDu-vVWVYzTwRnNDK8fgJx4e0/edit)
 - [CURRENT SASSY Storyline Table](https://docs.google.com/document/d/1fGOjSkEFxsy5UC5n75UIi9aE_-sKOhyeRx9sY8CAUWU/edit)
+- [CURRENT Invisible Invaders Sample Model](https://docs.google.com/document/d/1mGolkzKcMzcQuTr4uxjnx0voqTR8Kffmw0B4ypQRq0k/edit)
 - [Completed daily lesson plans](https://drive.google.com/drive/folders/1safaE0FAhNHiHRCgexqPKf0WXME8lcQg)
 - [Reference materials](https://drive.google.com/drive/folders/1s0BomekNcITEZWr9vKLgXuGbv516beck)
 - [Dated archive](https://drive.google.com/drive/folders/1uqJIngplP3elWAsasA79l6C6PuNm9ljC)

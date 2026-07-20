@@ -1,0 +1,146 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="640" viewBox="0 0 1800 640" role="img" aria-labelledby="title desc">
+  <title id="title">Invisible Invaders before, during, and after sample-model panels</title>
+  <desc id="desc">Three panels show everyday plastic-containing materials, release and movement through connected Earth and water systems, and possible exposure routes with evidence limits.</desc>
+  <defs>
+    <marker id="arrow-dark" markerWidth="18" markerHeight="18" refX="16" refY="9" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M0,0 L18,9 L0,18 z" fill="#17233a"/>
+    </marker>
+    <marker id="arrow-green" markerWidth="18" markerHeight="18" refX="16" refY="9" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M0,0 L18,9 L0,18 z" fill="#2f6f45"/>
+    </marker>
+    <marker id="arrow-blue" markerWidth="18" markerHeight="18" refX="16" refY="9" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M0,0 L18,9 L0,18 z" fill="#2d6fa3"/>
+    </marker>
+    <style>
+      .label { font: 700 30px Arial, sans-serif; letter-spacing: 0; fill: #17233a; }
+      .heading { font: 700 42px Arial, sans-serif; letter-spacing: 0; fill: #17233a; }
+      .body { font: 400 28px Arial, sans-serif; letter-spacing: 0; fill: #24324a; }
+      .strong { font: 700 31px Arial, sans-serif; letter-spacing: 0; fill: #17233a; }
+      .small { font: 700 23px Arial, sans-serif; letter-spacing: 0; fill: #17233a; }
+      .number { font: 700 31px Arial, sans-serif; letter-spacing: 0; fill: #ffffff; text-anchor: middle; dominant-baseline: central; }
+    </style>
+  </defs>
+
+  <!-- BEFORE -->
+  <g id="before">
+    <rect x="8" y="8" width="584" height="624" rx="22" fill="#f8e7fa" stroke="#9a2aa0" stroke-width="8"/>
+    <circle cx="62" cy="59" r="31" fill="#9a2aa0"/>
+    <text x="62" y="59" class="number">4</text>
+    <text x="108" y="69" class="label">HUMAN INFRASTRUCTURE</text>
+    <text x="48" y="132" class="heading">EVERYDAY MATERIALS</text>
+
+    <!-- Shirt -->
+    <path d="M75 222 L128 188 L172 205 L216 188 L269 222 L238 279 L210 264 L210 375 L134 375 L134 264 L106 279 Z"
+          fill="#ffffff" stroke="#6b2171" stroke-width="8" stroke-linejoin="round"/>
+    <path d="M150 201 Q172 230 194 201" fill="none" stroke="#6b2171" stroke-width="7"/>
+    <text x="172" y="414" class="small" text-anchor="middle">clothing</text>
+
+    <!-- Bottle -->
+    <rect x="311" y="205" width="88" height="173" rx="23" fill="#ffffff" stroke="#6b2171" stroke-width="8"/>
+    <rect x="329" y="174" width="52" height="38" rx="8" fill="#ffffff" stroke="#6b2171" stroke-width="8"/>
+    <path d="M326 292 Q355 269 385 292" fill="none" stroke="#2d6fa3" stroke-width="8"/>
+    <text x="355" y="414" class="small" text-anchor="middle">packaging</text>
+
+    <!-- Wheel -->
+    <circle cx="490" cy="289" r="82" fill="#ffffff" stroke="#313846" stroke-width="24"/>
+    <circle cx="490" cy="289" r="30" fill="#f8e7fa" stroke="#6b2171" stroke-width="8"/>
+    <path d="M490 207 L490 241 M490 337 L490 371 M408 289 L442 289 M538 289 L572 289"
+          stroke="#ffffff" stroke-width="8" stroke-linecap="round"/>
+    <text x="490" y="414" class="small" text-anchor="middle">transport</text>
+
+    <rect x="42" y="458" width="516" height="103" rx="16" fill="#ffffff" stroke="#9a2aa0" stroke-width="4"/>
+    <text x="300" y="500" class="strong" text-anchor="middle">Many products contain plastic.</text>
+    <text x="300" y="539" class="body" text-anchor="middle">Design and use shape release.</text>
+    <line x1="532" y1="589" x2="575" y2="589" stroke="#17233a" stroke-width="10" marker-end="url(#arrow-dark)"/>
+  </g>
+
+  <!-- DURING -->
+  <g id="during" transform="translate(600 0)">
+    <rect x="8" y="8" width="584" height="624" rx="22" fill="#eef7e8" stroke="#2f6f45" stroke-width="8"/>
+    <circle cx="62" cy="59" r="31" fill="#2f6f45"/>
+    <text x="62" y="59" class="number">1</text>
+    <text x="106" y="69" class="label">EARTH SYSTEMS</text>
+    <circle cx="427" cy="59" r="31" fill="#d67600"/>
+    <text x="427" y="59" class="number">2</text>
+    <text x="469" y="69" class="label" fill="#914f00">WATER</text>
+
+    <text x="48" y="132" class="heading">RELEASE + MOVEMENT</text>
+    <rect x="50" y="168" width="500" height="60" rx="14" fill="#ffffff" stroke="#2f6f45" stroke-width="4"/>
+    <text x="300" y="207" class="small" text-anchor="middle">FRICTION · WASHING · SUN · WEATHER</text>
+
+    <!-- Fragment/fiber source -->
+    <path d="M88 291 L140 259 L189 301 L242 268" fill="none" stroke="#9a2aa0" stroke-width="13" stroke-linecap="round"/>
+    <circle cx="112" cy="333" r="10" fill="#9a2aa0"/>
+    <circle cx="158" cy="353" r="8" fill="#d67600"/>
+    <circle cx="207" cy="332" r="12" fill="#2d6fa3"/>
+    <path d="M91 372 Q139 336 194 381" fill="none" stroke="#9a2aa0" stroke-width="9" stroke-linecap="round"/>
+    <text x="162" y="427" class="small" text-anchor="middle">fragments + fibers</text>
+
+    <!-- Routes -->
+    <line x1="258" y1="330" x2="333" y2="253" stroke="#2f6f45" stroke-width="9" marker-end="url(#arrow-green)"/>
+    <line x1="258" y1="337" x2="366" y2="337" stroke="#d67600" stroke-width="9" marker-end="url(#arrow-dark)"/>
+    <line x1="258" y1="344" x2="333" y2="424" stroke="#2f6f45" stroke-width="9" marker-end="url(#arrow-green)"/>
+
+    <!-- Air -->
+    <path d="M372 238 C374 205 420 197 438 222 C456 198 497 212 499 243 C530 245 537 290 502 296 L385 296 C348 292 344 247 372 238 Z"
+          fill="#ffffff" stroke="#2d6fa3" stroke-width="7"/>
+    <text x="442" y="271" class="small" text-anchor="middle">AIR</text>
+
+    <!-- Water -->
+    <path d="M376 332 Q402 309 428 332 T480 332 T532 332" fill="none" stroke="#d67600" stroke-width="10"/>
+    <path d="M376 364 Q402 341 428 364 T480 364 T532 364" fill="none" stroke="#2d6fa3" stroke-width="10"/>
+    <text x="454" y="405" class="small" text-anchor="middle">WATER</text>
+
+    <!-- Soil / food -->
+    <path d="M385 458 H529" stroke="#7a4d20" stroke-width="12" stroke-linecap="round"/>
+    <path d="M455 458 C441 422 407 408 388 414 C394 447 419 463 455 458 Z" fill="#b7dca5" stroke="#2f6f45" stroke-width="7"/>
+    <path d="M455 458 C470 420 507 407 528 416 C519 449 492 465 455 458 Z" fill="#b7dca5" stroke="#2f6f45" stroke-width="7"/>
+    <text x="455" y="510" class="small" text-anchor="middle">SOIL + FOOD</text>
+
+    <rect x="42" y="537" width="516" height="62" rx="16" fill="#ffffff" stroke="#2f6f45" stroke-width="4"/>
+    <text x="300" y="578" class="strong" text-anchor="middle">Smaller is not gone.</text>
+    <line x1="532" y1="611" x2="575" y2="611" stroke="#17233a" stroke-width="10" marker-end="url(#arrow-dark)"/>
+  </g>
+
+  <!-- AFTER -->
+  <g id="after" transform="translate(1200 0)">
+    <rect x="8" y="8" width="584" height="624" rx="22" fill="#e5f1fa" stroke="#2d6fa3" stroke-width="8"/>
+    <circle cx="62" cy="59" r="31" fill="#2d6fa3"/>
+    <text x="62" y="59" class="number">3</text>
+    <text x="108" y="69" class="label">LIVING ORGANISMS</text>
+    <text x="48" y="132" class="heading">POSSIBLE EXPOSURE</text>
+
+    <!-- Human silhouette -->
+    <circle cx="305" cy="237" r="63" fill="#ffffff" stroke="#2d6fa3" stroke-width="8"/>
+    <path d="M219 444 C223 358 251 317 305 317 C359 317 387 358 391 444 Z"
+          fill="#ffffff" stroke="#2d6fa3" stroke-width="8"/>
+    <path d="M278 325 C255 347 258 401 281 416 C300 399 301 354 278 325 Z"
+          fill="#f5dbe8" stroke="#9a2aa0" stroke-width="5"/>
+    <path d="M332 325 C355 347 352 401 329 416 C310 399 309 354 332 325 Z"
+          fill="#f5dbe8" stroke="#9a2aa0" stroke-width="5"/>
+
+    <!-- Inhale route -->
+    <path d="M57 224 C90 195 133 195 168 218" fill="none" stroke="#2d6fa3" stroke-width="9" marker-end="url(#arrow-blue)"/>
+    <text x="102" y="182" class="small" text-anchor="middle">INHALE</text>
+    <circle cx="70" cy="251" r="8" fill="#9a2aa0"/>
+    <circle cx="103" cy="231" r="7" fill="#d67600"/>
+    <circle cx="127" cy="266" r="9" fill="#2f6f45"/>
+
+    <!-- Ingest route -->
+    <path d="M551 224 C518 195 476 195 441 218" fill="none" stroke="#d67600" stroke-width="9" marker-end="url(#arrow-dark)"/>
+    <text x="508" y="182" class="small" text-anchor="middle">INGEST</text>
+    <path d="M486 245 H535 L528 292 H493 Z" fill="#ffffff" stroke="#d67600" stroke-width="7"/>
+    <path d="M493 273 Q510 260 529 273" fill="none" stroke="#2d6fa3" stroke-width="6"/>
+
+    <!-- Evidence cards -->
+    <rect x="46" y="470" width="235" height="71" rx="13" fill="#ffffff" stroke="#2d6fa3" stroke-width="4"/>
+    <text x="163" y="501" class="small" text-anchor="middle">DETECTED IN SOME</text>
+    <text x="163" y="529" class="small" text-anchor="middle">BLOOD SAMPLES</text>
+    <rect x="319" y="470" width="235" height="71" rx="13" fill="#ffffff" stroke="#2d6fa3" stroke-width="4"/>
+    <text x="436" y="501" class="small" text-anchor="middle">DETECTED IN SOME</text>
+    <text x="436" y="529" class="small" text-anchor="middle">LUNG SAMPLES</text>
+
+    <rect x="42" y="561" width="516" height="49" rx="14" fill="#ffffff" stroke="#a6324f" stroke-width="5"/>
+    <text x="300" y="594" class="small" text-anchor="middle" fill="#86213a">DETECTION ≠ EXACT ROUTE OR HARM</text>
+  </g>
+</svg>

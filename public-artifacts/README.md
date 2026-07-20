@@ -24,6 +24,13 @@ These boards are reference-only. They help us see what other teams may do and wh
 
 ## Course And Assignment Visuals
 
+- [Invisible Invaders sample model, editable Google Doc](https://docs.google.com/document/d/1mGolkzKcMzcQuTr4uxjnx0voqTR8Kffmw0B4ypQRq0k/edit)
+- [Invisible Invaders sample model, one-page PDF](invisible-invaders-sample-model.pdf)
+- [Invisible Invaders sample-model panels, combined PNG](invisible-invaders-sample-model-panels.png)
+- [Invisible Invaders sample-model panels, editable SVG](../assignments/05-july14-camp-prep/invisible-invaders-sample-model-panels.svg)
+- [Before panel: human infrastructure](invisible-invaders-sample-model-before.png) | [Drive image](https://drive.google.com/file/d/1_VSJ4-rhkzrzfIXgcVn4DBIN4NZHYx7c/view)
+- [During panel: Earth systems and water](invisible-invaders-sample-model-during.png) | [Drive image](https://drive.google.com/file/d/1h10pAg29oDttbqvqFXWJyZwh2qirwNHp/view)
+- [After panel: living organisms and evidence limits](invisible-invaders-sample-model-after.png) | [Drive image](https://drive.google.com/file/d/19T6NOeZPGo5SZoUm8ukacHGiP_qsu0t0/view)
 - [Grounding frameworks visual, PNG](grounding-frameworks-visual.png)
 - [Grounding frameworks visual, SVG](../assignments/01-grounding-frameworks/grounding-frameworks-visual.svg)
 - [Teacher as learning scientist evidence map, PNG](teacher-learning-scientist-evidence-map.png)

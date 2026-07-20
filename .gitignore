@@ -30,6 +30,7 @@ transcripts/*-transcript.txt
 !public-artifacts/*.md
 !public-artifacts/*.png
 !public-artifacts/*.svg
+!public-artifacts/invisible-invaders-sample-model.pdf
 
 # Public submission exports generated from original course work.
 !public-submissions/

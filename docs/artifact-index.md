@@ -18,6 +18,7 @@ This is the internal front door for our EDU486 repository. Repository files supp
 - [CURRENT Invisible Invaders Camp Operations Guide](../assignments/03-camp-unit-plan/invisible-invaders-camp-operations-guide.md)
 - [Editable CURRENT Camp Operations Guide](https://docs.google.com/document/d/1LueJ9NX6MP257ywABKTDu-vVWVYzTwRnNDK8fgJx4e0/edit)
 - [Editable CURRENT SASSY Storyline Table](https://docs.google.com/document/d/1fGOjSkEFxsy5UC5n75UIi9aE_-sKOhyeRx9sY8CAUWU/edit)
+- [Editable CURRENT Invisible Invaders Sample Model](https://docs.google.com/document/d/1mGolkzKcMzcQuTr4uxjnx0voqTR8Kffmw0B4ypQRq0k/edit)
 - [Editable CURRENT Gapless Explanation](https://docs.google.com/document/d/1vvqDsHdI7QEog4mtSVvOCV2PmIE9lW_xoY2HBfPknmM/edit)
 - [Completed daily lesson plans](https://drive.google.com/drive/folders/1safaE0FAhNHiHRCgexqPKf0WXME8lcQg)
 - [Field Friday lesson plan](https://docs.google.com/document/d/1scrYMeSEja_MUvyx9DkV6EzKMpMOmHB4gz60fMOAFgg/edit)
@@ -33,6 +34,12 @@ This is the internal front door for our EDU486 repository. Repository files supp
 ## Public Visual Artifacts
 
 - [Public visual artifacts folder](../public-artifacts/README.md)
+- [Invisible Invaders sample model one-page PDF](../public-artifacts/invisible-invaders-sample-model.pdf)
+- [Invisible Invaders sample-model combined PNG](../public-artifacts/invisible-invaders-sample-model-panels.png)
+- [Invisible Invaders sample-model editable SVG](../assignments/05-july14-camp-prep/invisible-invaders-sample-model-panels.svg)
+- [Invisible Invaders sample-model Before panel](../public-artifacts/invisible-invaders-sample-model-before.png)
+- [Invisible Invaders sample-model During panel](../public-artifacts/invisible-invaders-sample-model-during.png)
+- [Invisible Invaders sample-model After panel](../public-artifacts/invisible-invaders-sample-model-after.png)
 - [Teacher as learning scientist evidence map, PNG](../public-artifacts/teacher-learning-scientist-evidence-map.png)
 - [Teacher as learning scientist evidence map, SVG](../public-artifacts/teacher-learning-scientist-evidence-map.svg)
 - [Grounding framework visual SVG](../assignments/01-grounding-frameworks/grounding-frameworks-visual.svg)

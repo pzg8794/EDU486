@@ -30,6 +30,7 @@ My working personal lens is:
 - [CURRENT Invisible Invaders Camp Operations Guide](assignments/03-camp-unit-plan/invisible-invaders-camp-operations-guide.md)
 - [Editable CURRENT Camp Operations Guide in Google Drive](https://docs.google.com/document/d/1LueJ9NX6MP257ywABKTDu-vVWVYzTwRnNDK8fgJx4e0/edit)
 - [Editable CURRENT SASSY Storyline Table](https://docs.google.com/document/d/1fGOjSkEFxsy5UC5n75UIi9aE_-sKOhyeRx9sY8CAUWU/edit)
+- [Editable CURRENT Invisible Invaders Sample Model](https://docs.google.com/document/d/1mGolkzKcMzcQuTr4uxjnx0voqTR8Kffmw0B4ypQRq0k/edit)
 - [Completed daily lesson-plan folder](https://drive.google.com/drive/folders/1safaE0FAhNHiHRCgexqPKf0WXME8lcQg)
 - [Invisible Invaders gotta-have checklist and evidence map](assignments/05-july14-camp-prep/invisible-invaders-gotta-have-checklist-evidence-map.md)
 - [Course transcripts and July 16 evidence](transcripts/README.md)

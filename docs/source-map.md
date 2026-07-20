@@ -164,6 +164,7 @@ The commitment pack preserves the team's July 15 decision to **replace the tire-
 - [Current Invisible Invaders Camp Operations Guide](../assignments/03-camp-unit-plan/invisible-invaders-camp-operations-guide.md)
 - [Editable CURRENT Camp Operations Guide](https://docs.google.com/document/d/1LueJ9NX6MP257ywABKTDu-vVWVYzTwRnNDK8fgJx4e0/edit)
 - [Editable CURRENT SASSY Storyline Table](https://docs.google.com/document/d/1fGOjSkEFxsy5UC5n75UIi9aE_-sKOhyeRx9sY8CAUWU/edit)
+- [Editable CURRENT Invisible Invaders Sample Model](https://docs.google.com/document/d/1mGolkzKcMzcQuTr4uxjnx0voqTR8Kffmw0B4ypQRq0k/edit)
 - [Editable CURRENT Gapless Explanation](https://docs.google.com/document/d/1vvqDsHdI7QEog4mtSVvOCV2PmIE9lW_xoY2HBfPknmM/edit)
 - [Completed daily lesson-plan folder](https://drive.google.com/drive/folders/1safaE0FAhNHiHRCgexqPKf0WXME8lcQg)
 - [Field Friday lesson plan](https://docs.google.com/document/d/1scrYMeSEja_MUvyx9DkV6EzKMpMOmHB4gz60fMOAFgg/edit)
@@ -216,6 +217,10 @@ These public sources support the microplastics technology evolution draft:
 
 Visual syntheses:
 
+- [Current before/during/after sample model](https://docs.google.com/document/d/1mGolkzKcMzcQuTr4uxjnx0voqTR8Kffmw0B4ypQRq0k/edit)
+- [Before visual: human infrastructure](https://drive.google.com/file/d/1_VSJ4-rhkzrzfIXgcVn4DBIN4NZHYx7c/view)
+- [During visual: Earth systems and water](https://drive.google.com/file/d/1h10pAg29oDttbqvqFXWJyZwh2qirwNHp/view)
+- [After visual: living organisms and evidence limits](https://drive.google.com/file/d/19T6NOeZPGo5SZoUm8ukacHGiP_qsu0t0/view)
 - [Current evidence-to-agency pathway](../public-artifacts/invisible-invaders-evidence-to-agency-map.png)
 - [Same rigorous investigation, multiple ways in](../public-artifacts/invisible-invaders-access-pathways.png)
 

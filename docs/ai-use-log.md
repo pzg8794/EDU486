@@ -2,6 +2,27 @@
 
 The syllabus says that when GenAI is used, it should be credited by source, output, and purpose. This log makes that crediting easy to maintain.
 
+## July 19, 2026 - Invisible Invaders Sample Model
+
+- Tool/source: OpenAI Codex under Piter Garcia's supervision; Piter's current Camp Operations Guide (`00`), Gapless Explanation (`01`), SASSY Storyline Table (`02`), July 15-16 planning transcripts and images, and direct NOAA, WHO, FDA, PubMed, and CAST sources
+- Purpose: turn the agreed causal pathway into one visual, source-linked, neurodivergent-accessible sample model that can be followed before, during, and after the camp investigation
+- Outputs created or revised:
+  - [editable CURRENT Invisible Invaders Sample Model](https://docs.google.com/document/d/1mGolkzKcMzcQuTr4uxjnx0voqTR8Kffmw0B4ypQRq0k/edit)
+  - [one-page PDF export](../public-artifacts/invisible-invaders-sample-model.pdf)
+  - [combined visual panels](../public-artifacts/invisible-invaders-sample-model-panels.png)
+  - [editable panel source](../assignments/05-july14-camp-prep/invisible-invaders-sample-model-panels.svg)
+- Human guidance and decisions:
+  - use the anchor **"Humans aren't trash cans, but we have plastics in our bodies."**
+  - use Piter's approved question: **"How does plastic break into tiny pieces, move through the environment and into living bodies, and how can we stop it fairly?"**
+  - organize the model as **Before: Human Infrastructure; During: Earth Systems + Water; After: Living Organisms**
+  - retain the original four Gotta-Have colors and pair every color with a written concept label
+  - label science, evidence, justice/action, and access in text as well as color
+  - keep the evidence boundary visible: detection in some samples does not establish every source, exact route, prevalence, or a particular health effect
+  - place justice in unequal power over systems and decisions, not in blaming youth or families
+  - protect drawing, pointing, building, writing, speech, recording, partnership, home language, and passing as valid access routes
+- Link and layout verification: all source labels are native hyperlinks to direct authoritative or peer-reviewed pages; all three Drive-hosted visual panels load; the final PDF was rendered and visually inspected as one landscape page with no clipping, overlap, blank pages, or split sections
+- Disclosure: AI helped Piter Garcia structure, format, and visually enhance Piter-guided content for accessibility and validate direct sources. Piter provided, reviewed, supervised, and guided the content and remains responsible for the science, evidence limits, color coding, Aastha's contributions, final revisions, and use.
+
 ## July 19, 2026 - Gapless Explanation Tab Reconciliation
 
 - Tool/source: OpenAI Codex under Piter Garcia's supervision; Piter's revised Phenomenon tab; the current Camp Operations Guide (`00`); the current SASSY Storyline Table (`02`); and direct PubMed, FDA, and WHO sources

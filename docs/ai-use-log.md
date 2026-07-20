@@ -2,6 +2,28 @@
 
 The syllabus says that when GenAI is used, it should be credited by source, output, and purpose. This log makes that crediting easy to maintain.
 
+## July 19, 2026 - Gapless Explanation Tab Reconciliation
+
+- Tool/source: OpenAI Codex under Piter Garcia's supervision; Piter's revised Phenomenon tab; the current Camp Operations Guide (`00`); the current SASSY Storyline Table (`02`); and direct PubMed, FDA, and WHO sources
+- Purpose: make every tab in document `01` use the same anchor, approved plain-language driving question, four Gotta-Haves, camp sequence, evidence boundaries, accessibility commitments, and team decisions
+- Outputs revised:
+  - [Phenomenon tab](https://docs.google.com/document/d/1vvqDsHdI7QEog4mtSVvOCV2PmIE9lW_xoY2HBfPknmM/edit?tab=t.0)
+  - [Activities tab](https://docs.google.com/document/d/1vvqDsHdI7QEog4mtSVvOCV2PmIE9lW_xoY2HBfPknmM/edit?tab=t.pi512olkdy98)
+  - [Videos and Internet Links tab](https://docs.google.com/document/d/1vvqDsHdI7QEog4mtSVvOCV2PmIE9lW_xoY2HBfPknmM/edit?tab=t.wwan9k5izahf)
+  - [Our Gotta-Have Checklist tab](https://docs.google.com/document/d/1vvqDsHdI7QEog4mtSVvOCV2PmIE9lW_xoY2HBfPknmM/edit?tab=t.dki9udes1b4b)
+  - `Historical checklist notes` tab, preserved and clearly separated from the active checklist
+  - local camp-plan, gapless-explanation, checklist-map, and front-door mirrors
+- Human guidance and decisions:
+  - use Piter's approved question: **"How does plastic break into tiny pieces, move through the environment and into living bodies, and how can we stop it fairly?"**
+  - retain Piter and Aastha as the current Invisible Invaders team
+  - retain each original checklist concept color: Earth systems = green, water = orange, living organisms = blue, and human infrastructure = magenta
+  - attach each SASSY connecting question directly to one Gotta-Have and complete Thursday with a two-branch synthesis model
+  - remove the retired parking-lot/classroom investigation from the active Activities tab while retaining Aastha's scale, movement, settling, and wheel-wear ideas in their current safe forms
+  - make body-related content, sensory load, pain, fatigue, language, communication, and technology access part of the lesson design
+  - preserve historical notes without allowing them to compete with active directions
+- Link verification: the four newly added human-body evidence links point directly to the blood study, lung-tissue study, FDA evidence boundary, and WHO dietary/inhalation evidence review. An initially incorrect WHO URL was detected during verification and replaced before completion.
+- Disclosure: Piter provided, reviewed, corrected, and guided the content. AI supported cross-document comparison, accessible structure and formatting, link validation, color consistency, and causal-gap checks. Piter remains responsible for the final science, teammate representation, and submission.
+
 ## July 19, 2026 - Accessible Color And Emphasis Correction
 
 - Tool/source: OpenAI Codex under Piter Garcia's supervision; the current Gapless Explanation; the current SASSY Storyline Table; the instructor's original Four Gotta-Haves color sequence; and the July 16 team planning image
@@ -284,7 +306,7 @@ The first version of this entry incorrectly treated tire wear as the anchoring p
 - Instructor-comment rule: April's comment on the earlier question says, **"Each of these should be one of your Gotta Have Checklist items."** Every current connecting question now names its checklist attachment. The first four stages foreground items 1-4; Thursday and Friday revisit them through new synthesis and evidence-check work, consistent with the July 16 discussion.
 - Image fidelity: The current sequence retains the photographed team's four jars/sand, wheels/friction, article-video-fish evidence, and Day 1 places/art-as-advocacy moves. The image's unfinished future-modeling row is completed for Thursday, followed by a brief Friday evidence check.
 - Final team adjustment: The photograph records the earlier first-day/advocacy-day clue placement. The later transcript records the decision to reverse those two, so Field Friday now foregrounds **Earth systems are interconnected** and Wednesday foregrounds **Human infrastructure influences natural systems**.
-- Driving-question alignment: The current SASSY table and Camp Operations Guide now use the team's image wording: **"How can plastic from everyday materials become small enough to move through connected systems and reach living bodies, and what changes could reduce those pathways fairly?"**
+- Driving-question alignment at that stage: The SASSY table and Camp Operations Guide used the team's longer image wording. Later on July 19, Piter approved the simpler question recorded in the **Gapless Explanation Tab Reconciliation** entry above.
 - Link and layout verification: The current SASSY document was exported and rendered as a three-page landscape document. Its green/yellow table organization and labeled clue colors remain visible, and the clickable **Original July 16 SASSY planning image** text points directly to the team's Drive image rather than a repository file or placeholder.
 - Verification: The current Camp Operations Guide, Gapless Explanation, and all six daily lesson plans were checked for the distinctive instructor-example language; no matches remained.
 - Human guidance: Piter identified the mixed example/team content and directed that the current document contain only the team's work. AI performed the targeted row deletion and cross-document check under that direction.

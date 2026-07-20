@@ -4,7 +4,7 @@
 
 **Current anchoring phenomenon:** **Humans aren’t trash cans, but we have plastics in our bodies.**
 
-**Driving question:** **How can plastics from everyday materials become small enough to move through connected systems and reach human bodies, and what changes could reduce those pathways fairly?**
+**Driving question:** **How does plastic break into tiny pieces, move through the environment and into living bodies, and how can we stop it fairly?**
 
 **The human-body phenomenon replaces the earlier tire-based and parking-lot/classroom candidates.** The four ideas below are the ideas Piter and Aastha selected together from the course checklist during the July 15 meeting.
 
@@ -115,7 +115,7 @@ Campers may point, draw, speak, type, dictate, record audio, work with a partner
 
 ## Connected Work
 
-- [Shared Invisible Invaders Google Doc](https://docs.google.com/document/d/1IFu_y_sYbNeNs1K4J_lD6KS4I30f8wxggX4SS38acRI/edit?tab=t.0)
+- [Current editable Gapless Explanation](https://docs.google.com/document/d/1vvqDsHdI7QEog4mtSVvOCV2PmIE9lW_xoY2HBfPknmM/edit?tab=t.0)
 - [Current Camp Operations Guide](../03-camp-unit-plan/invisible-invaders-camp-operations-guide.md)
 - [Current editable SASSY Storyline Table](https://docs.google.com/document/d/1fGOjSkEFxsy5UC5n75UIi9aE_-sKOhyeRx9sY8CAUWU/edit)
 - [Completed daily lesson plans](https://drive.google.com/drive/folders/1safaE0FAhNHiHRCgexqPKf0WXME8lcQg)
@@ -125,4 +125,4 @@ Campers may point, draw, speak, type, dictate, record audio, work with a partner
 
 ## AI Use Disclosure
 
-I used OpenAI Codex on July 16, 2026 under my supervision and guidance to organize the four ideas selected during our meeting, connect them to the current human-body phenomenon, and make the checklist usable through multiple access routes. **I, Piter Garcia, provided, reviewed, and guided the content and correction. I remain responsible for the final lesson decisions, scientific claims, representation of Aastha's contributions, and materials I approve or submit.**
+AI was used to make this content more inclusive by structuring, formatting, and enhancing material provided and guided by Piter Garcia. **I, Piter Garcia, reviewed and directed the checklist connections, language, accessibility, color coding, and source use.** AI helped compare the current Phenomenon, Camp Operations Guide, and SASSY table and identify contradictions. **I remain responsible for the final lesson decisions, scientific claims, representation of Aastha's contributions, and materials I approve or submit.**

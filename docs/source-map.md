@@ -151,7 +151,7 @@ The evidence map shows how Module 1's learning-scientist, idea-elicitation, tech
 - [Clean July 15 meeting transcript](../transcripts/2026-07-15-microplastic-pollution-lesson-plan-meeting-clean.md)
 - [Original July 15 meeting transcript](../transcripts/raw/2026-07-15-microplastic-pollution-lesson-plan-meeting.txt)
 - Superseded collaborative source, preserved unchanged: [Friday - Anchoring Phenomenon Routine](https://docs.google.com/document/d/1hU4lpI__QZLBLoFb7JqUoE5OieErkFvLeAx4hWTqVLM/edit)
-- Team Drive source: [Invisible Invaders' Gapless Explanation](https://docs.google.com/document/d/1IFu_y_sYbNeNs1K4J_lD6KS4I30f8wxggX4SS38acRI/edit)
+- Superseded July 15 team-source draft: [Invisible Invaders' Gapless Explanation](https://docs.google.com/document/d/1IFu_y_sYbNeNs1K4J_lD6KS4I30f8wxggX4SS38acRI/edit)
 
 The commitment pack preserves the team's July 15 decision to **replace the tire-based phenomenon** with **“Humans aren’t trash cans, but we have plastics in our bodies,”** use four course checklist ideas, create an opening moment, write a revised gapless explanation, and protect more than one youth advocacy route. It also keeps human detection from being treated as proof of harm and provides a non-body-focused access route without changing the agreed phenomenon.
 

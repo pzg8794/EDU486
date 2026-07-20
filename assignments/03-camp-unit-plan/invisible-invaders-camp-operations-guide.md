@@ -15,7 +15,7 @@ This guide brings our July 16 planning into one place. It replaces the competing
 
 ### Our instructional question
 
-> **How can plastic from everyday materials become small enough to move through connected systems and reach living bodies, and what changes could reduce those pathways fairly?**
+> **How does plastic break into tiny pieces, move through the environment and into living bodies, and how can we stop it fairly?**
 
 ### Our learning-sciences research question
 
@@ -38,6 +38,7 @@ We will not use fear, blame, reading speed, stamina, speech, handwriting, Englis
 
 - [Editable CURRENT Camp Operations Guide](https://docs.google.com/document/d/1LueJ9NX6MP257ywABKTDu-vVWVYzTwRnNDK8fgJx4e0/edit)
 - [Editable CURRENT SASSY Storyline Table](https://docs.google.com/document/d/1fGOjSkEFxsy5UC5n75UIi9aE_-sKOhyeRx9sY8CAUWU/edit)
+- [Editable CURRENT Gapless Explanation](https://docs.google.com/document/d/1vvqDsHdI7QEog4mtSVvOCV2PmIE9lW_xoY2HBfPknmM/edit?tab=t.0)
 - [Daily Lesson Plans folder](https://drive.google.com/drive/folders/1safaE0FAhNHiHRCgexqPKf0WXME8lcQg)
 - [Field Friday lesson plan](https://docs.google.com/document/d/1scrYMeSEja_MUvyx9DkV6EzKMpMOmHB4gz60fMOAFgg/edit)
 - [Monday lesson plan](https://docs.google.com/document/d/1jc_dSOKXVhSoSbvfbivXlgfYOxrrJ2L6KwbR7LQZCLc/edit)
@@ -67,7 +68,7 @@ The [Four Gotta-Haves document in Drive](https://drive.google.com/file/d/19i4R_w
 | --- | --- |
 | Team | **Piter + Aastha = Invisible Invaders** |
 | Anchor | **Humans aren't trash cans, but we have plastics in our bodies.** |
-| Instructional question | Plastics become small, move through connected systems, may reach bodies, and can be interrupted through fair system changes |
+| Instructional question | **How does plastic break into tiny pieces, move through the environment and into living bodies, and how can we stop it fairly?** |
 | Field material | Invisible Invaders investigates **sand** at Charlotte Beach |
 | Core model | Youth build an initial pathway model early and revise it before the Thursday showcase |
 | Place connection | Youth add observations, questions, images, icons, words, or drawings to a shared neighborhood map |

@@ -10,7 +10,7 @@
 
 **Piter and Aastha confirmed this phenomenon on July 15.** It replaces the earlier tire-based and parking-lot/classroom candidates.
 
-**Driving question:** **How can plastics from everyday materials become small enough to move through connected systems and reach human bodies, and what changes could reduce those pathways fairly?**
+**Driving question:** **How does plastic break into tiny pieces, move through the environment and into living bodies, and how can we stop it fairly?**
 
 **Evidence boundary:** Researchers have detected plastic particles in some human samples. **Detection establishes presence in those samples; it does not prove that every person has the same exposure, identify every route into the body, or demonstrate a particular health effect.**
 
@@ -87,4 +87,4 @@
 
 ## AI Use Disclosure
 
-I used OpenAI Codex on July 16, 2026 under my supervision and guidance to organize the phenomenon, causal explanation, direct sources, visual structure, and multiple access routes. **I, Piter Garcia, provided, reviewed, and guided the content, including the correction that the human-body phenomenon replaced the earlier tire-based idea.** AI supported structuring, source validation, accessibility, causal-gap checks, and visual communication. **I remain responsible for the final science, language, representation of Aastha's contributions, and what we use or submit.**
+AI was used to make this content more inclusive by structuring, formatting, and enhancing material provided and guided by Piter Garcia. **I, Piter Garcia, reviewed and directed the science, language, accessibility, color coding, and source use.** AI helped validate direct sources and identify missing causal links. **I remain responsible for the final content, representation of Aastha's contributions, and what we use or submit.**

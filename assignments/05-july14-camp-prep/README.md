@@ -7,7 +7,7 @@ This folder now holds the active supporting evidence for the [single current Cam
 - **Team:** Piter Garcia and Aastha
 - **Camp:** Invisible Invaders
 - **Anchor:** **Humans aren't trash cans, but we have plastics in our bodies.**
-- **Instructional question:** **How can plastics from everyday materials become small enough to move through connected systems and reach human bodies, and what changes could reduce those pathways fairly?**
+- **Instructional question:** **How does plastic break into tiny pieces, move through the environment and into living bodies, and how can we stop it fairly?**
 
 ## Use These Files
 
@@ -40,7 +40,10 @@ This folder now holds the active supporting evidence for the [single current Cam
 - [Completed daily lesson plans](https://drive.google.com/drive/folders/1safaE0FAhNHiHRCgexqPKf0WXME8lcQg)
 - [Reference materials](https://drive.google.com/drive/folders/1s0BomekNcITEZWr9vKLgXuGbv516beck)
 - [Dated archive](https://drive.google.com/drive/folders/1uqJIngplP3elWAsasA79l6C6PuNm9ljC)
-- [Gapless Explanation](https://docs.google.com/document/d/1IFu_y_sYbNeNs1K4J_lD6KS4I30f8wxggX4SS38acRI/edit)
+- [CURRENT Gapless Explanation: Phenomenon](https://docs.google.com/document/d/1vvqDsHdI7QEog4mtSVvOCV2PmIE9lW_xoY2HBfPknmM/edit?tab=t.0)
+- [CURRENT Gapless Explanation: Activities](https://docs.google.com/document/d/1vvqDsHdI7QEog4mtSVvOCV2PmIE9lW_xoY2HBfPknmM/edit?tab=t.pi512olkdy98)
+- [CURRENT Gapless Explanation: Videos and Internet Links](https://docs.google.com/document/d/1vvqDsHdI7QEog4mtSVvOCV2PmIE9lW_xoY2HBfPknmM/edit?tab=t.wwan9k5izahf)
+- [CURRENT Gapless Explanation: Our Gotta-Have Checklist](https://docs.google.com/document/d/1vvqDsHdI7QEog4mtSVvOCV2PmIE9lW_xoY2HBfPknmM/edit?tab=t.dki9udes1b4b)
 - [Sampling protocol](https://docs.google.com/document/d/1HP06TOL2cnycQSgDcRfV57cEUYHuwoHTmVGRABv9tys/edit)
 
 ## Before July 21

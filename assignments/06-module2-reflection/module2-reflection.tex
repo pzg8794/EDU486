@@ -1,88 +1,121 @@
 % !TEX program = pdflatex
+% Layout adapted from pzg8794/EDE448-Sensory_Walk_LaTeX_Package.
 \documentclass[11pt,letterpaper]{article}
 
+\usepackage[margin=0.6in]{geometry}
 \usepackage[T1]{fontenc}
 \usepackage[utf8]{inputenc}
-\usepackage[margin=0.9in,headheight=14pt]{geometry}
+\usepackage{lmodern}
+\usepackage{array}
+\usepackage{booktabs}
 \usepackage{microtype}
-\usepackage[dvipsnames]{xcolor}
-\usepackage{enumitem}
-\usepackage{titlesec}
-\usepackage{fancyhdr}
-\usepackage[round,authoryear]{natbib}
+\usepackage{needspace}
+\usepackage{parskip}
+\usepackage{ragged2e}
+\usepackage{setspace}
+\usepackage[table]{xcolor}
+\usepackage[natbibapa]{apacite}
 \usepackage{url}
 \usepackage{hyperref}
 
-\definecolor{WarnerBlue}{HTML}{005A9C}
-\definecolor{LinkBlue}{HTML}{005F9E}
-\definecolor{SoftGray}{HTML}{555555}
+\definecolor{PrimaryRed}{HTML}{8B1E1E}
+\definecolor{SoftBlue}{HTML}{DDEEFF}
+\definecolor{SoftGray}{HTML}{F4F4F4}
 
 \hypersetup{
   colorlinks=true,
-  linkcolor=LinkBlue,
-  citecolor=LinkBlue,
-  urlcolor=LinkBlue,
+  linkcolor=black,
+  citecolor=black,
+  urlcolor=PrimaryRed,
   pdftitle={Module 2 Reflection Journal: Planning for Access, Agency, and Justice in Invisible Invaders},
   pdfauthor={Piter Z. Garcia Bautista},
   pdfsubject={EDU486 Module 2 Reflection},
   pdfkeywords={justice-centered STEM, neurodivergence, chronic illness, science modeling, environmental justice, camp pedagogy}
 }
 
-\titleformat{\section}
-  {\large\bfseries\color{WarnerBlue}}
-  {}{0pt}{}
-\titlespacing*{\section}{0pt}{1.25em}{0.45em}
-
-\setlist[itemize]{leftmargin=1.4em,itemsep=0.35em,topsep=0.4em}
 \setlength{\parindent}{0pt}
-\setlength{\parskip}{0.72em}
-\renewcommand{\baselinestretch}{1.08}
+\setstretch{1.08}
+\bibliographystyle{apacite}
+\newcommand{\reviewsection}[1]{\Needspace{5\baselineskip}\vspace{0.07in}\noindent{\normalsize\bfseries\color{PrimaryRed}#1}\par\vspace{0.02in}}
+\newcommand{\keyclaim}[1]{\textbf{#1}}
+\renewcommand{\UrlFont}{\ttfamily\small}
+\Urlmuskip=0mu plus 1mu
 \widowpenalty=10000
 \clubpenalty=10000
 \displaywidowpenalty=10000
-
-\pagestyle{fancy}
-\fancyhf{}
-\lhead{\small EDU486 Module 2 Journal}
-\rhead{\small Access, Agency, and Justice}
-\cfoot{\small\thepage}
-\renewcommand{\headrulewidth}{0.4pt}
-
-\newcommand{\keyclaim}[1]{\textbf{#1}}
+\raggedbottom
 
 \begin{document}
 
 \hypersetup{pageanchor=false}
 \begin{titlepage}
-  \thispagestyle{empty}
-  \vspace*{1.15in}
+\newgeometry{margin=0.7in}
+\thispagestyle{empty}
 
-  {\centering
-    {\Huge\bfseries\color{WarnerBlue} Module 2 Reflection Journal\par}
-    \vspace{0.28in}
-    {\LARGE Planning for Access, Agency, and Justice\par}
-    \vspace{0.08in}
-    {\LARGE in Invisible Invaders\par}
+\begin{center}
+{\large University of Rochester\\}
+{\normalsize Warner School of Education\\[0.15in]}
 
-    \vfill
+{\color{PrimaryRed}\rule{\textwidth}{1.4pt}}\\[0.12in]
+{\Huge\bfseries Module 2 Reflection Journal\\[0.08in]
+\huge Planning for Access, Agency,\\[0.08in]
+and Justice in Invisible Invaders}\\[0.18in]
+{\Large EDU 486 --- Module 2}\\[0.12in]
 
-    {\large Piter Z. Garcia Bautista\par}
-    \vspace{0.12in}
-    {\large EDU486: Integrating Science and Technology\par}
-    {\large Warner School of Education\par}
-    \vspace{0.22in}
-    {\large July 22, 2026\par}
-  }
+\vfill
 
-  \vfill
+{\color{PrimaryRed}\rule{0.78\textwidth}{0.7pt}}\\[0.22in]
 
-  \noindent\color{SoftGray}\small
-  \textbf{Journal prompt.} After reviewing the Heather Table of course readings, describe the principles that inform camp pedagogy, make reading-to-principle connections explicit when possible, and draw on other course experiences.
+\colorbox{SoftBlue}{%
+\parbox{0.88\textwidth}{%
+\centering\small\vspace{0.02in}
+\textbf{From Activities to an Access-to-Agency Pedagogy}\\[0.05in]
+A reading-to-practice reflection on how coherence, modeling, place, identity, access, technology, and justice shape Piter and Aastha's Invisible Invaders camp.
+}%
+}
+\end{center}
+
+\vfill
+
+\begin{center}
+\renewcommand{\arraystretch}{1.18}
+\setlength{\tabcolsep}{4pt}
+\begin{tabular}{>{\bfseries\RaggedLeft}p{1.55in} p{4.95in}}
+Student & Piter Zacari Garcia Bautista \\
+Assignment & Module 2 Reflection Journal \\
+Course & EDU 486 --- Integrating Science and Technology \\
+Camp Team & Invisible Invaders --- Piter and Aastha \\
+Evidence Base & Heather Table; Module 2 readings; July 14--21 class, planning, and youth-feedback records \\
+Interpretive Lenses & JuST Framework; Puzzle Plan and EQUITAS; UDL; PICRAT; justice-centered science \\
+Submission Date & July 22, 2026 \\
+\end{tabular}
+\end{center}
+
+\vfill
+
+\begin{center}
+\begin{minipage}{0.92\textwidth}
+\centering\itshape
+Inclusion and rigor are the same design problem: both require us to make thinking visible, gather better evidence, and redesign barriers before explaining the learner as the problem.\\
+{\color{PrimaryRed}\rule{4in}{0.8pt}}
+\end{minipage}
+\end{center}
+
+\vfill
+
+\begin{center}
+\begin{minipage}{0.95\textwidth}
+\small
+This journal treats camp pedagogy as an interconnected learning system rather than a list of activities. The \textbf{Puzzle Plan} asks me to gather multiple forms of evidence, examine relationships among learners, tasks, tools, and environments, and revise instruction as new evidence appears. The \textbf{EQUITAS Access-to-Agency lens} asks whether those conditions create equitable, culturally responsive, identity-safe, and accountable routes for neurodivergent, chronically ill, disabled, multilingual, culturally and linguistically diverse, and multiply marginalized youth to participate, demonstrate competence, and exercise agency.
+\end{minipage}
+\end{center}
+
+\restoregeometry
 \end{titlepage}
 \hypersetup{pageanchor=true}
 \pagenumbering{arabic}
 
-\section{From a List of Activities to a Pedagogy}
+\reviewsection{Journal Focus}
 
 At the beginning of Module 2, I could describe many things I wanted youth to do: collect sand, compare samples, inspect suspected particles, build a model, discuss injustice, and create art for advocacy. What I could not yet explain as clearly was the pedagogy connecting those activities. Reviewing my Heather Table alongside the Module 2 readings helped me see that a good camp is not a crowded schedule of engaging tasks. It is a learning system in which youth can understand why the next investigation matters, recognize that their knowledge belongs in science, revise ideas with evidence, and choose how they will act.
 
@@ -90,7 +123,30 @@ At the beginning of Module 2, I could describe many things I wanted youth to do:
 
 For our Invisible Invaders camp, this means organizing the week around the anchoring phenomenon, \emph{``Humans aren't trash cans, but we have plastics in our bodies,''} and the driving question, \emph{``How does plastic break into tiny pieces, move through the environment and into living bodies, and how can we stop it fairly?''} The phenomenon invites investigation, but the way we facilitate that investigation will determine whether youth experience science as something they help build or as another set of conclusions delivered to them.
 
-\section{Principle 1: Coherence Must Be Visible to Learners}
+\reviewsection{Principles at a Glance}
+
+\small
+\renewcommand{\arraystretch}{1.2}
+\setlength{\tabcolsep}{5pt}
+\rowcolors{2}{SoftGray}{white}
+\begin{tabular}{>{\RaggedRight\arraybackslash}p{1.08in} >{\RaggedRight\arraybackslash}p{2.05in} >{\RaggedRight\arraybackslash}p{3.72in}}
+\toprule
+\rowcolor{SoftBlue}
+\textbf{Principle} & \textbf{Reading roots} & \textbf{Visible camp decision} \\
+\midrule
+Coherence belongs to learners & Reiser et al.; Cherbow et al.; Wiggins and McTighe & Keep the driving question, complete sequence, and Four Gotta-Haves visible; give one direction at a time; preserve pause and re-entry. \\
+Models are public and revisable & Windschitl and Thompson; Ippolito et al.; Smetana et al.; Wisbrock et al. & Move from controlled jars and field evidence to a source-to-body model; label claims supported, possible, or unknown; revise instead of replacing youth thinking. \\
+Place and community knowledge are science & Seiki et al.; Starr et al.; Nesmith et al. & Treat Charlotte Beach and youth-known places as evidence; examine infrastructure and power; invite community connections without requiring disclosure. \\
+Identity and joy belong inside rigor & Mercier and Carlone; Muhammad & Recognize investigating, designing, connecting, caring, revising, and advocating; notice quiet contributions; provide movement and low-energy routes. \\
+Access must be designed into thinking & Liljedahl; Kimmons et al.; CAST & Preserve demanding sensemaking without requiring one posture, pace, group, or communication mode; use technology only for access, evidence, or agency. \\
+Justice links mechanism, power, and action & Smetana et al.; Wisbrock et al.; Nesmith et al.; Muhammad & Connect plastic pathways to production, infrastructure, policy, and unequal burdens; support collective action without blame or unsupported health claims. \\
+\bottomrule
+\end{tabular}
+\rowcolors{2}{}{}
+\normalsize
+
+\newpage
+\reviewsection{Principle 1: Coherence Must Be Visible to Learners}
 
 \citet{reiser2021} argue that a storyline should be coherent from the students' perspective: youth questions and emerging explanations should create a felt need for the next investigation. \citet{cherbow2026} press this point further by showing that a well-designed curriculum cannot guarantee a coherent experience. Teachers still have to build the relationship among students, curricular resources, and the evolving storyline. Backward design helps me identify the final understanding and acceptable evidence before choosing activities \citep{wiggins2005},\footnote{The Module 2 schedule labels this reading as 2021; the assigned course PDF is the 2005 expanded second edition cited here.} but a backward plan remains only my plan unless youth can see and influence the path.
 
@@ -98,7 +154,7 @@ For our Invisible Invaders camp, this means organizing the week around the ancho
 
 This principle changed after meeting the Freedom Scholars and staff on July 21. Youth asked for short explanations, one direction at a time, and a chance to begin doing quickly. That feedback did not ask us to simplify the science. It asked us to remove the executive-function burden of holding an invisible sequence in working memory. A visual agenda, a completed starting example, and brief demonstrations make the causal problem easier to enter while leaving the thinking demanding. When a learner joins late, takes a break, or needs to re-enter after pain, sensory overload, or attention loss, the storyline remains available without requiring a public explanation.
 
-\section{Principle 2: Models Are Public, Revisable Thinking}
+\reviewsection{Principle 2: Models Are Public, Revisable Thinking}
 
 The modeling toolkit helped me move beyond treating a model as a polished poster made at the end of a unit. \citet{windschitl2013} frame models as public representations that make both observable events and unobservable mechanisms available for critique and revision. Science and literacy also strengthen one another when learners observe, investigate, talk, read, write, and communicate for an authentic purpose rather than completing disconnected language exercises \citep{ippolito2018}. Local litter inquiries show how firsthand evidence can lead toward explanation and public communication \citep{smetana2019,wisbrock2020}.
 
@@ -108,7 +164,7 @@ This also requires honest claim language. A visually suspected particle is not c
 
 Multiple participation routes belong inside this same scientific practice. A learner may contribute by speaking, pointing, drawing arrows, writing a label, dictating to a partner, taking an evidence photograph, or asking to pass and return. These are not easier versions of modeling. Each route still asks the learner to connect evidence, mechanism, and claim. The representation changes; the intellectual demand does not.
 
-\section{Principle 3: Place, Community, and Family Knowledge Are Science}
+\reviewsection{Principle 3: Place, Community, and Family Knowledge Are Science}
 
 \citet{seiki2021} describe border crossing between home and school by positioning familial knowledge alongside formal science rather than asking learners to leave one world behind. \citet{starr2026} similarly argue that outdoor learning is not just science moved to a different location. Place changes relationships among youth, families, educators, histories, and socioecological systems. The transdisciplinary river course described by \citet{nesmith2021} shows why environmental problems cannot be understood through science content alone; policy, economics, ethics, art, history, and community knowledge shape both the problem and possible action.
 
@@ -116,7 +172,7 @@ Multiple participation routes belong inside this same scientific practice. A lea
 
 I also need to treat connection as an invitation, not a demand for disclosure. A question about plastic in human bodies can intersect with illness, disability, food insecurity, environmental racism, family work, or medical trauma. No learner should have to disclose a diagnosis, body history, or family experience to prove that the topic matters. Youth can work through an invented scenario, a public place, a provided image, or a community-scale example. That choice protects identity safety while keeping community knowledge available as an intellectual resource.
 
-\section{Principle 4: Identity, Recognition, and Joy Belong Inside Rigor}
+\reviewsection{Principle 4: Identity, Recognition, and Joy Belong Inside Rigor}
 
 \citet{mercier2021} show how identi-beads and identi-badges can help youth recognize multiple forms of STEM participation, including investigating, inventing, designing, tinkering, conservation, and care for others. The important move is not the bead itself. It is making a wider range of contributions visible to oneself and to the group. \citet{muhammad2023} brings identity, skills, intellect, criticality, and joy into one curricular frame, reminding me that justice-centered learning cannot stop after naming harm.
 
@@ -124,7 +180,7 @@ I also need to treat connection as an invitation, not a demand for disclosure. A
 
 Joy, in this camp, is not a prize added after rigorous work. It appears when youth experience curiosity, movement, humor, friendly challenge, beauty in advocacy art, meaningful relationships, and the power to imagine a more just future. July 21 feedback made this practical: include movement and social connection, but also a seated or lower-energy path; show an example without requiring imitation; and give early finishers a meaningful extension instead of more repetitive work. Joy becomes compatible with chronic illness and neurodivergence only when participation does not require performing endless energy.
 
-\section{Principle 5: Access Must Be Built Into the Thinking Environment}
+\reviewsection{Principle 5: Access Must Be Built Into the Thinking Environment}
 
 \citet{liljedahl2020} challenged me to examine classroom routines that produce compliance without much thinking. I value the emphasis on rich tasks, visible collaborative work, carefully chosen hints and extensions, and teachers answering questions in ways that return agency to learners. PICRAT adds a related technology question: What relationship does the learner have with the tool, and does the tool replace, amplify, or transform the practice \citep{kimmons2020}? UDL reinforces planning for multiple ways to engage, perceive information, and express understanding from the beginning \citep{cast2024}.
 
@@ -134,7 +190,7 @@ This is where my prior work most clearly presses against a mechanical use of a f
 
 Technology will remain optional and purposeful. A phone camera can preserve a transient observation, zoom in on a suspected fiber, or let a learner contribute without copying a large amount of text. A shared slide or projected model can make revisions visible. A timer can support transitions. None of these tools is automatically just because it is digital. I will ask whether a tool increases access to the phenomenon, strengthens evidence, or expands youth agency. If paper, a magnifier, or conversation does the job better, technology should not displace it.
 
-\section{Principle 6: Justice Must Move From Evidence to Collective Action}
+\reviewsection{Principle 6: Justice Must Move From Evidence to Collective Action}
 
 The litter investigations connect local evidence with communication and action, while the transdisciplinary and joy-centered readings keep the analysis from becoming a narrow cleanup lesson \citep{smetana2019,wisbrock2020,nesmith2021,muhammad2023}. If we ask only, ``What can an individual camper recycle?'' we hide the roles of product design, production, labor, wastewater systems, policy, corporate decisions, and unequal exposure. If we describe harm without opening a path toward change, we can leave youth with fear or helplessness.
 
@@ -142,31 +198,36 @@ The litter investigations connect local evidence with communication and action, 
 
 The action still has to match the evidence. We should not use a body-based anchor to frighten youth or make unsupported health claims. We should not pretend that cleaning one sample solves a system-level problem. Instead, youth can say what the evidence supports, what remains uncertain, who needs better information, and what change would reduce a pathway or distribute responsibility more fairly. That is a stronger form of advocacy because it treats the audience and the young scientist with respect.
 
-\section{My Camp Commitments}
+\reviewsection{My Camp Commitments}
 
 These principles leave me with a practical set of commitments for Invisible Invaders:
 
-\begin{itemize}
-  \item \textbf{Plan backward, then revise forward.} I will keep the final explanation and evidence goals clear while changing the route in response to youth questions, observations, access needs, and feedback.
-  \item \textbf{Keep the storyline visible.} Every investigation will connect to the driving question and a named Gotta-Have, with the purpose and sequence available for learners who need to pause or re-enter.
-  \item \textbf{Protect scientific uncertainty.} Models and public products will distinguish observation from inference, suspected from confirmed particles, and exposure evidence from claims about route or harm.
-  \item \textbf{Design equivalent routes into rigor.} Movement and seated options, speaking and non-speaking options, individual thinking and supported collaboration will all lead to evidence-based explanation and action.
-  \item \textbf{Track whose thinking becomes public.} I will notice whose questions, model relationships, and proposed actions enter the shared record, especially when a learner contributes quietly or outside the expected form.
-  \item \textbf{Use technology for access, evidence, or agency.} Novelty is not a learning goal. A tool earns its place when it makes meaningful scientific participation possible or more powerful.
-  \item \textbf{Debrief like a learning scientist.} At the end of each day I will ask what youth evidence changed our plan, which barrier hid someone's thinking, and what Aastha and I need to redesign before the next session.
-\end{itemize}
+\textbf{1. Plan backward, then revise forward.} I will keep the final explanation and evidence goals clear while changing the route in response to youth questions, observations, access needs, and feedback.
 
-\section{Closing Reflection}
+\textbf{2. Keep the storyline visible.} Every investigation will connect to the driving question and a named Gotta-Have, with the purpose and sequence available for learners who need to pause or re-enter.
+
+\textbf{3. Protect scientific uncertainty.} Models and public products will distinguish observation from inference, suspected from confirmed particles, and exposure evidence from claims about route or harm.
+
+\textbf{4. Design equivalent routes into rigor.} Movement and seated options, speaking and non-speaking options, individual thinking and supported collaboration will all lead to evidence-based explanation and action.
+
+\textbf{5. Track whose thinking becomes public.} I will notice whose questions, model relationships, and proposed actions enter the shared record, especially when a learner contributes quietly or outside the expected form.
+
+\textbf{6. Use technology for access, evidence, or agency.} Novelty is not a learning goal. A tool earns its place when it makes meaningful scientific participation possible or more powerful.
+
+\textbf{7. Debrief like a learning scientist.} At the end of each day I will ask what youth evidence changed our plan, which barrier hid someone's thinking, and what Aastha and I need to redesign before the next session.
+
+\reviewsection{Closing Reflection}
 
 Module 2 did not give me one method for running an inclusive science camp. It gave me a more disciplined way to decide. Coherence asks whether youth can understand and shape the journey; modeling, whether their ideas become public and revisable; place and familial curriculum, whose knowledge enters science; identity and joy, who is recognized as belonging; UDL, PICRAT, and my Puzzle Plan, whether the environment reveals thinking or filters learners through one preferred bodymind; and justice, whether evidence opens power-aware, collective possibility.
 
 \keyclaim{The teacher-as-learning-scientist stance begins by studying the learning environment before explaining the learner as the problem.} In Invisible Invaders, I want that stance to be visible in small choices: one direction at a time, a model that can change, an evidence label that protects uncertainty, an optional public presentation, a proactive check-in, a community question that matters, and more than one credible way to act. Those choices are not separate from strong science teaching. They are how I will know whether our rigorous science became accessible enough for youth to claim as their own.
 
-\section{AI Use Disclosure}
+\reviewsection{AI Use Disclosure}
 
 AI was used under Piter Garcia's supervision and guidance to make this document more inclusive and accessible by organizing, structuring, formatting, and enhancing content that Piter provided. Piter guided the analysis, reviewed the course sources and claims, and remains responsible for the final interpretation and submission. AI supported cross-document synthesis, source validation, direct-source linking, and checks for missing causal or access connections; it did not replace Piter's reading, judgment, camp planning, or authorship.
 
-\bibliographystyle{plainnat}
+\newpage
+\small
 \bibliography{references}
 
 \end{document}

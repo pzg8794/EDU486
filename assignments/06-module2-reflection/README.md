@@ -8,9 +8,14 @@ This folder contains the editable, public-safe LaTeX source for Piter Garcia Bau
 
 ## Deliverables
 
+- [Overleaf-compatible entry point](main.tex)
 - [Editable LaTeX journal](module2-reflection.tex)
 - [BibTeX source library](references.bib)
 - [Compiled submission PDF](../../public-submissions/edu486-module2-reflection-piter-garcia.pdf)
+
+## Template
+
+The journal uses the actual document conventions from Piter's [EDE448 Sensory Walk LaTeX Package](https://github.com/pzg8794/EDE448-Sensory_Walk_LaTeX_Package): the Warner title page, red rules and section headings, blue purpose panel, metadata table, centered interpretive claim, framework paragraph, narrow-margin body typography, blue/gray evidence table, APA citation style, and plain numbered pages. The Module 2 content and bibliography remain original to EDU486.
 
 ## Reflection Throughline
 
@@ -26,7 +31,7 @@ From this directory, run:
 
 ```sh
 python3 /Users/pitergarcia/.codex/plugins/cache/openai-bundled/latex/0.2.4/scripts/compile_latex.py \
-  /Users/pitergarcia/DataScience/Semester4\(UofR\)/EDU486/assignments/06-module2-reflection/module2-reflection.tex \
+  /Users/pitergarcia/DataScience/Semester4\(UofR\)/EDU486/assignments/06-module2-reflection/main.tex \
   --output-directory /tmp/edu486-module2-reflection
 ```
 

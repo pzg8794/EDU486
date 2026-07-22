@@ -4,7 +4,7 @@ The syllabus says that when GenAI is used, it should be credited by source, outp
 
 ## July 22, 2026 - Module 2 Reflection Journal
 
-- Tool/source: OpenAI Codex under Piter Garcia's supervision; Piter's [EDE448 Sensory Walk LaTeX Package](https://github.com/pzg8794/EDE448-Sensory_Walk_LaTeX_Package) as the direct document template; the completed Module 1 reflection as a voice, lived-experience, and content-organization reference; the Module 2 prompt and syllabus; Piter's live Heather Table; all assigned Module 2 readings; July 14-21 public transcripts; the current Invisible Invaders operations guide and daily plans; July 21 youth and staff feedback; and Piter's prior Puzzle Plan/EQUITAS, UDL, neurodivergence, chronic illness, and identity-safe design work
+- Tool/source: OpenAI Codex under Piter Garcia's supervision; Piter's [EDE448 Sensory Walk LaTeX Package](https://github.com/pzg8794/EDE448-Sensory_Walk_LaTeX_Package) as the direct document template; the completed Module 1 reflection and selected journals in Piter's private DataScience/Drive journal corpus as voice and lived-experience references; the Module 2 prompt and syllabus; Piter's live Heather Table; all assigned Module 2 readings; July 14-21 public transcripts; the current Invisible Invaders operations guide and daily plans; July 21 youth and staff feedback; and Piter's prior Puzzle Plan/EQUITAS, UDL, neurodivergence, chronic illness, and identity-safe design work
 - Purpose: turn the reading set and course experiences into a first-person reflection on the principles that actually guide Piter and Aastha's camp pedagogy, while making the document readable, source-linked, editable, and transparent about evidence limits
 - Outputs created:
   - [editable LaTeX journal](../assignments/06-module2-reflection/module2-reflection.tex)
@@ -14,6 +14,7 @@ The syllabus says that when GenAI is used, it should be credited by source, outp
 - Human guidance and decisions:
   - use the Sensory Walk package's Warner title page, red rules and section headings, blue purpose panel, metadata table, evidence table, narrow body margins, APA references, and plain numbered pages
   - preserve Piter's exact section, paragraph, table, page-break, italic-emphasis, and title-page structure while replacing or reducing generic wording instead of adding content
+  - match Piter's established journal voice through direct first-person reflection, honest tension, and explicit experience-to-pedagogy connections without reproducing unrelated private journal content
   - center neurodivergence, chronic illness, disability, multilingual access, multiple identities, and the distinction between access barriers and thinking barriers
   - connect every principle to concrete Invisible Invaders decisions instead of producing an abstract reading summary
   - retain the human-body anchor, approved driving question, Four Gotta-Haves, scientific evidence limits, Aastha's role, and July 21 youth feedback

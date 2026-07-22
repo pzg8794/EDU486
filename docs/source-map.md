@@ -110,6 +110,38 @@ Provenance note: the July 10 email labels the Wiggins and McTighe reading as 202
 
 Task 7 provenance note: the Marion main unit, official NextGen Science listing and EQuIP review, and official Wayfinder guide/lesson descriptions were reviewed directly. The ProQuest thesis was available only at record/index level, so the plan does not claim access to its full lesson sequence or findings.
 
+## Module 2 Reflection Sources
+
+The [editable Module 2 Reflection](../assignments/06-module2-reflection/module2-reflection.tex) and [compiled submission PDF](../public-submissions/edu486-module2-reflection-piter-garcia.pdf) were developed from the following source layers:
+
+- protected Module 2 Reflection prompt image and EDU486 syllabus
+- [personal EDU486 Heather Table](https://docs.google.com/document/d/1Cnw_v00DsZclHObcmnljwXzEw-kiReCE6oStXrMoGAg/edit)
+- protected assigned reading copies stored under `_local-course-materials/modules/module-2/`
+- completed Module 1 reflection retained locally as the visual and structural LaTeX reference, not copied into the public repository
+- [current Invisible Invaders Camp Operations Guide](../assignments/03-camp-unit-plan/invisible-invaders-camp-operations-guide.md)
+- [July 14-21 public transcript record](../transcripts/README.md), especially the [July 21 youth and staff feedback synthesis](../transcripts/2026-07-21-invisible-invaders-planning-and-youth-feedback-clean.md)
+- Piter's earlier Puzzle Plan/EQUITAS, UDL, neurodivergence, chronic illness, multilingual-access, and identity-safe design work named in the prior-work section below
+
+Direct publication or publisher links used for citation checking:
+
+- [Reiser et al.: Storyline Units](https://doi.org/10.1080/1046560X.2021.1884784)
+- [Cherbow et al.: Revisiting the Teacher-Curriculum Relationship](https://doi.org/10.1002/sce.70027)
+- [Wiggins and McTighe: Understanding by Design](https://www.ascd.org/books/understanding-by-design-expanded-2nd-edition)
+- [Windschitl and Thompson: The Modeling Toolkit](https://www.nsta.org/science-teacher/science-teacher-september-2013/modeling-toolkit)
+- [Ippolito et al.: Learning Science and Literacy Together](https://www.nsta.org/learning-science-and-literacy-together)
+- [Smetana et al.: Let's Be Litter Free](https://www.nsta.org/lets-be-litter-free)
+- [Wisbrock et al.: Talking Trash](https://www.nsta.org/science-and-children/science-and-children-aprilmay-2020/talking-trash)
+- [Seiki et al.: Remaking Science Teaching](https://doi.org/10.36510/learnland.v14i1.1041)
+- [Mercier and Carlone: Identi-Beads and Identi-Badges](https://www.nsta.org/connected-science-learning/connected-science-learning-july-august-2021/identi-beads-and-identi)
+- [Liljedahl: Building Thinking Classrooms](https://www.corwin.com/books/building-thinking-classrooms-268862)
+- [Nesmith et al.: Water, River, and Community](https://www.nsta.org/connected-science-learning/connected-science-learning-july-august-2021/water-river-and-community)
+- [Starr et al.: Place Matters](https://doi.org/10.1080/00368148.2026.2640889)
+- [Muhammad: Unearthing Joy](https://www.scholastic.com/site/Unearthing-Joy.html/1000)
+- [Kimmons et al.: PICRAT](https://citejournal.org/volume-20/issue-1-20/general/the-picrat-model-for-technology-integration-in-teacher-preparation/)
+- [CAST: UDL Guidelines 3.0](https://udlguidelines.cast.org/)
+
+The course schedule labels the Wiggins and McTighe reading as 2021, while the supplied course PDF is the 2005 expanded second edition. The journal cites the version actually provided and records the discrepancy in a footnote. Session 6-7 citation rows existed in the live Heather Table at review time, but their synthesis fields were not complete; the journal therefore cross-checked the assigned sources directly rather than inventing completed table entries.
+
 ## Camp Materials Inventory Sources
 
 - [Camp materials inventory dictionary](../assignments/05-july14-camp-prep/materials-inventory-and-order-check.md)

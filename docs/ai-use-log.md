@@ -2,6 +2,24 @@
 
 The syllabus says that when GenAI is used, it should be credited by source, output, and purpose. This log makes that crediting easy to maintain.
 
+## July 22, 2026 - Module 2 Reflection Journal
+
+- Tool/source: OpenAI Codex under Piter Garcia's supervision; the completed Module 1 reflection as a LaTeX style reference; the Module 2 prompt and syllabus; Piter's live Heather Table; all assigned Module 2 readings; July 14-21 public transcripts; the current Invisible Invaders operations guide and daily plans; July 21 youth and staff feedback; and Piter's prior Puzzle Plan/EQUITAS, UDL, neurodivergence, chronic illness, and identity-safe design work
+- Purpose: turn the reading set and course experiences into a first-person reflection on the principles that actually guide Piter and Aastha's camp pedagogy, while making the document readable, source-linked, editable, and transparent about evidence limits
+- Outputs created:
+  - [editable LaTeX journal](../assignments/06-module2-reflection/module2-reflection.tex)
+  - [BibTeX source library](../assignments/06-module2-reflection/references.bib)
+  - [compiled submission PDF](../public-submissions/edu486-module2-reflection-piter-garcia.pdf)
+- Human guidance and decisions:
+  - use the Module 1 reflection's restrained title page, blue headings, first-person synthesis, and running-header pattern
+  - center neurodivergence, chronic illness, disability, multilingual access, multiple identities, and the distinction between access barriers and thinking barriers
+  - connect every principle to concrete Invisible Invaders decisions instead of producing an abstract reading summary
+  - retain the human-body anchor, approved driving question, Four Gotta-Haves, scientific evidence limits, Aastha's role, and July 21 youth feedback
+  - critically adapt Building Thinking Classrooms so visible thinking is not reduced to standing, fast speech, or one collaboration pattern
+  - cite the supplied 2005 Wiggins and McTighe edition while explicitly recording the course schedule's 2021 label
+- Verification: the LaTeX source compiled with BibTeX; all eight pages were rendered and inspected; no undefined citations, duplicate PDF anchors, overfull boxes, clipping, or blank pages remained; bibliography destinations were checked against direct publisher, DOI, ERIC, NSTA, Scholastic, Corwin, CITE Journal, and CAST records
+- Disclosure used in the artifact: AI was used under Piter Garcia's supervision and guidance to organize, structure, format, and enhance Piter-provided content for inclusion and accessibility; support cross-document synthesis, source validation, direct-source linking, and causal/access checks; and preserve Piter's responsibility for the interpretation and submission.
+
 ## July 22, 2026 - July 21 Transcript, Template, Materials, And Archive Reconciliation
 
 - Tool/source: OpenAI Codex under Piter Garcia's supervision; four July 21 automatic transcripts; July 16 team and instructor images; the current operations guide, Friday routine, SASSY table, Gapless Explanation, Sample Model, six daily lesson plans, live order sheet, and direct EPA, NOAA, FDA, and CAST sources

@@ -36,6 +36,10 @@ Dates combine the syllabus, July 10 email, July 16 class planning, and current t
 | July 14 | Gapless explanation and Session 5 readings | [Camp-prep reference](../assignments/05-july14-camp-prep/README.md) |
 | As soon as needs were known | Team materials request | [$86.79 order](../assignments/05-july14-camp-prep/invisible-invaders-order-budget.csv) |
 
+## Blackboard Date Check
+
+The local Module 2 Reflection prompt states the assignment requirements but does not display a due date. The [reflection journal](../assignments/06-module2-reflection/README.md) is complete; verify the submission date and submission link directly in Blackboard rather than inferring a deadline from the Module II syllabus range.
+
 ## Tracking Rule
 
 Every major deadline should leave a reviewed artifact, source/evidence note, access revision, and AI-use disclosure when applicable.

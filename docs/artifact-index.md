@@ -13,6 +13,8 @@ This is the internal front door for our EDU486 repository. Repository files supp
 - [AI use log](ai-use-log.md)
 - [Heather Table status and maintenance record](heather-table-status.md)
 - [Assignments index](../assignments/README.md)
+- [Module 2 Reflection Journal source and evidence record](../assignments/06-module2-reflection/README.md)
+- [Module 2 Reflection editable LaTeX](../assignments/06-module2-reflection/module2-reflection.tex)
 - [Announcement prep folder](../assignments/00-announcement-prep/README.md)
 - [Current camp-prep reference](../assignments/05-july14-camp-prep/README.md)
 - [CURRENT Invisible Invaders Camp Operations Guide](../assignments/03-camp-unit-plan/invisible-invaders-camp-operations-guide.md)
@@ -86,6 +88,7 @@ This is the internal front door for our EDU486 repository. Repository files supp
 - [Task 6 Puzzle Plan reading synthesis Drive copy](https://drive.google.com/file/d/1VVvTRQg1K2Gy9UWzvScpDk0ovPMmppQU/view)
 - [Task 6 Puzzle Plan reading map in Drive](https://drive.google.com/file/d/1-oqeF3pbt0vWi_mgLBhUSYNlO3YAy2H3/view)
 - [Invisible Invaders gapless explanation DOCX](../public-submissions/invisible-invaders-gapless-explanation.docx)
+- [Module 2 Reflection Journal PDF](../public-submissions/edu486-module2-reflection-piter-garcia.pdf)
 - [Archived pre-consolidation DOCX exports](../public-submissions/archive/2026-07-18-pre-consolidation/README.md)
 - [Course calendar ICS](../public-submissions/EDU486-course-calendar.ics)
 
@@ -111,6 +114,8 @@ This is the internal front door for our EDU486 repository. Repository files supp
 - [Wiggins and McTighe backward-design themed summary](../assignments/05-july14-camp-prep/readings/wiggins-mctighe-backward-design.md)
 - [Ippolito et al. science-and-literacy themed summary](../assignments/05-july14-camp-prep/readings/ippolito-science-literacy-together.md)
 - [Final Invisible Invaders gapless explanation](../assignments/05-july14-camp-prep/invisible-invaders-gapless-explanation.md)
+- [Module 2 Reflection editable LaTeX](../assignments/06-module2-reflection/module2-reflection.tex)
+- [Module 2 Reflection BibTeX sources](../assignments/06-module2-reflection/references.bib)
 - [Camp materials inventory dictionary and order check](../assignments/05-july14-camp-prep/materials-inventory-and-order-check.md)
 - [Sortable camp materials inventory catalog](../assignments/05-july14-camp-prep/camp-materials-inventory-catalog.csv)
 - [Camp materials photo evidence index](../assignments/05-july14-camp-prep/camp-materials-photo-evidence-index.md)
@@ -121,11 +126,11 @@ This is the internal front door for our EDU486 repository. Repository files supp
 
 ## Protected Course Sources
 
-- [Personal EDU486 Heather Table](https://docs.google.com/document/d/1Cnw_v00DsZclHObcmnljwXzEw-kiReCE6oStXrMoGAg/edit) - Sessions 1-5 completed through July 14 readings; metadata confirms it is still private, so change to anyone-with-link commenter before submission
+- [Personal EDU486 Heather Table](https://docs.google.com/document/d/1Cnw_v00DsZclHObcmnljwXzEw-kiReCE6oStXrMoGAg/edit) - Sessions 1-5 are populated; Session 6-7 citation rows are present but their synthesis columns remain incomplete in the July 22 review
 - [Google Doc syllabus](https://docs.google.com/document/d/1FQ1gwTCD7cqL5Hj5xVIAI4p4WFQ8AXLuqOGCuwKwVFk/edit)
 - Announcement text: protected Blackboard announcement; extracted requirements are documented in the [announcement task tracker](../assignments/00-announcement-prep/announcement-task-tracker.md)
 - Module 1 readings: protected Blackboard/course PDFs; public web equivalents are linked below when available
-- Module 2 reflection image: protected local course artifact; public follow-up work should be exported into [public submissions](../public-submissions/README.md)
+- Module 2 reflection prompt image: protected local course artifact; the authored [LaTeX journal](../assignments/06-module2-reflection/module2-reflection.tex) and [PDF](../public-submissions/edu486-module2-reflection-piter-garcia.pdf) are public-safe
 
 ## Public Web Sources
 

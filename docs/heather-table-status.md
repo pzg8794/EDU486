@@ -2,7 +2,7 @@
 
 Live document: [2026- EDU486 Heather Table - PGarciaBautista](https://docs.google.com/document/d/1Cnw_v00DsZclHObcmnljwXzEw-kiReCE6oStXrMoGAg/edit)
 
-Last updated: July 14, 2026
+Last reviewed: July 22, 2026
 
 ## Current Coverage
 
@@ -11,11 +11,13 @@ Last updated: July 14, 2026
 - Session 3 (July 7): Yosso, REL Pacific culturally sustaining pedagogy, and Mathews et al. completed.
 - Session 4 (July 9): C2AST, Kimmerer, and the selected microplastics science/justice source set completed.
 - Session 5 (July 14): Reiser et al., *Talking Trash*, *Let's Be Litter Free*, Understanding by Design Chapter 1, and Ippolito et al. completed.
-- Session 6 and later sessions remain open until their assigned sources are reviewed.
+- Session 6 and Session 7 citation rows are present in the live table, but their main-point, findings, and question columns are not yet fully populated.
 
 The Session 5 rows were read back from Google Docs after editing; all five columns are populated for all five readings.
 
 Expanded public-safe notes are available in the [Task 6 Puzzle Plan reading hub](../assignments/05-july14-camp-prep/readings/README.md). Each source has its own summary separating the author's claims, Piter's Puzzle Plan / EQUITAS interpretation, and the concrete implication for Invisible Invaders.
+
+The [Module 2 Reflection Journal](../assignments/06-module2-reflection/README.md) reviews the full assigned Module 2 source set directly and synthesizes it with the Heather Table, July 14-21 course experiences, youth and staff feedback, and the current Invisible Invaders plan. This source review supports the journal but does not silently represent the unfinished Session 6-7 Heather Table cells as complete.
 
 ## Pending Source Review
 
@@ -30,4 +32,4 @@ Update the table after each completed class session. Each reading row should con
 
 ## Sharing Check
 
-Live metadata checked July 13: the document currently has only one permission, owner `pgarcia8@u.rochester.edu`. It must be changed to **Anyone with the link - Commenter** before the link is submitted. The available Drive connector can edit content but cannot change file permissions.
+Live metadata last checked July 13: the document then had only one permission, owner `pgarcia8@u.rochester.edu`. Recheck its current sharing setting and change it to **Anyone with the link - Commenter** before submitting the Heather Table link. The available Drive connector can edit content but cannot change file permissions.

@@ -16,6 +16,7 @@ This folder contains portable exports generated from the EDU486 repository work.
 - [Poster proposal DOCX](poster-proposal-draft.docx)
 - [Task 6 Puzzle Plan reading synthesis DOCX](session5-reading-notes.docx)
 - [Invisible Invaders gapless explanation DOCX](invisible-invaders-gapless-explanation.docx)
+- [Module 2 Reflection Journal PDF](edu486-module2-reflection-piter-garcia.pdf)
 - [Course calendar ICS](EDU486-course-calendar.ics)
 
 Superseded Planet Protectors, Task 7, opening-routine, and July 15 exports are retained in the [July 18 archive](archive/2026-07-18-pre-consolidation/README.md). The operations-guide export from before the July 21 reconciliation is preserved in the [July 22 archive](archive/2026-07-22-pre-july21-reconciliation/README.md). They are provenance, not current camp directions.

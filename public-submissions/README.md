@@ -13,6 +13,8 @@ This folder contains portable exports generated from the EDU486 repository work.
 - [AI history microplastics narrative DOCX](ai-history-microplastics-narrative.docx)
 - [CURRENT Invisible Invaders Camp Operations Guide DOCX](invisible-invaders-camp-operations-guide.docx)
 - [CURRENT Friday Anchoring Phenomenon Routine DOCX](friday-anchoring-phenomenon-routine.docx)
+- [CURRENT Sand Density-Separation And Filtration Guide DOCX](invisible-invaders-sand-investigation-guide.docx)
+- [CURRENT Sand Density-Separation And Filtration Guide PDF](invisible-invaders-sand-investigation-guide.pdf)
 - [Poster proposal DOCX](poster-proposal-draft.docx)
 - [Task 6 Puzzle Plan reading synthesis DOCX](session5-reading-notes.docx)
 - [Invisible Invaders gapless explanation DOCX](invisible-invaders-gapless-explanation.docx)

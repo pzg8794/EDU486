@@ -240,6 +240,18 @@ The July 21 record changes the active facilitation and logistics without replaci
 
 The transcript says photographs were taken on July 21, but no same-day files were located in the EDU486 workspace, earlier camp-materials folder, team Drive folder, or connected Drive image search. No July 16 photograph is relabeled as July 21 evidence. The missing July 21 images remain an explicit open evidence check.
 
+## July 22 Sand Density-Separation And Filtration Protocol
+
+- [Current Sand Density-Separation And Filtration Guide](../assignments/03-camp-unit-plan/sand-density-separation-and-filtration-guide.md)
+- [Portable Camp Guide DOCX](../public-submissions/invisible-invaders-sand-investigation-guide.docx)
+- [Print-Ready Camp Guide PDF](../public-submissions/invisible-invaders-sand-investigation-guide.pdf)
+- [July 9 clean class transcript](../transcripts/2026-07-09-class-transcript-clean.md), especially 01:50:33-02:04:16
+- [NOAA Laboratory Methods for the Analysis of Microplastics in the Marine Environment](https://repository.library.noaa.gov/view/noaa/10296/noaa_10296_DS1.pdf)
+- [EPA National Coastal Condition Assessment Field Operations Manual](https://www.epa.gov/system/files/documents/2025-08/ncca_2020_fom_version_1.3_final_20250730.pdf)
+- [EPA Handbook for Citizen Science Quality Assurance and Documentation](https://www.epa.gov/sites/default/files/2019-03/documents/508_csqapphandbook_3_5_19_mmedits.pdf)
+
+The protocol preserves Dr. April's demonstrated sequence: systematic shallow sand collection, stacked sieving, visual sorting, saltwater mixing, overnight density separation, filtration through paper in a porcelain funnel, tape-lift slide preparation, and systematic microscope observation. The camp adaptation adds a fixed pilot ratio, a recorded brine recipe, a procedural blank, contamination notes, covered drying, multiple participation routes, disposal boundaries, and claim language that distinguishes a visually suspected particle from chemically confirmed plastic. NOAA's heated wet-peroxide and digestion steps are explicitly excluded from youth camp use.
+
 ## Public Web Sources Used For Microplastics Draft
 
 These public sources support the microplastics technology evolution draft:

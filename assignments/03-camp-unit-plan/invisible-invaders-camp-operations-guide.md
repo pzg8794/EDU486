@@ -5,7 +5,7 @@
 **Current through:** July 22, 2026<br>
 **Use this document for:** Field Friday, camp week, team preparation, materials, lesson flow, research evidence, and the showcase.
 
-This guide reconciles our July 16 planning board with the July 21 Freedom School feedback and team meetings. It replaces the competing Planet Protectors, earlier opening-routine, Task 7, July 15 commitment, and pre-feedback camp documents. Those files remain in dated archives so our working area stays clear without erasing how our thinking developed. The [current Field Friday guide](friday-anchoring-phenomenon-routine.md) is its field-side companion, not a competing plan.
+This guide reconciles our July 16 planning board with the July 21 Freedom School feedback and team meetings. It replaces the competing Planet Protectors, earlier opening-routine, Task 7, July 15 commitment, and pre-feedback camp documents. Those files remain in dated archives so our working area stays clear without erasing how our thinking developed. The [current Field Friday guide](friday-anchoring-phenomenon-routine.md) is its field-side companion; the [sand density-separation and filtration guide](sand-density-separation-and-filtration-guide.md) is its lab-side companion. Neither is a competing plan.
 
 ## Start Here
 
@@ -32,7 +32,8 @@ We will not use fear, blame, reading speed, stamina, speech, handwriting, Englis
 3. Confirm the Friday session length, expected three-camper group, sampling sites chosen at the beach, transport roles, and permission rules.
 4. Print or prepare the emotional thermometer, visual agenda, before-during-after cards, role cards, pathway cards, neighborhood map, and evidence-limit cards.
 5. Review the completed SASSY table and six daily lesson plans with Aastha using the [July 21 youth-informed design commitments](#daily-youth-informed-facilitation-pattern).
-6. Confirm the remaining Monday-Friday materials and decisions in the [preparation board](#preparation-board) and [decision queue](#decisions-we-still-need).
+6. Pilot the complete [sand density-separation and filtration protocol](sand-density-separation-and-filtration-guide.md), including the blank, jar ratio, brine batch, filtering time, covered drying, tape lift, and microscope route.
+7. Confirm the remaining Monday-Friday materials and decisions in the [preparation board](#preparation-board) and [decision queue](#decisions-we-still-need).
 
 ### Live working documents
 
@@ -40,6 +41,7 @@ We will not use fear, blame, reading speed, stamina, speech, handwriting, Englis
 - [Editable CURRENT SASSY Storyline Table](https://docs.google.com/document/d/1fGOjSkEFxsy5UC5n75UIi9aE_-sKOhyeRx9sY8CAUWU/edit)
 - [Editable CURRENT Invisible Invaders Sample Model](https://docs.google.com/document/d/1mGolkzKcMzcQuTr4uxjnx0voqTR8Kffmw0B4ypQRq0k/edit)
 - [Friday Anchoring Phenomenon Routine](friday-anchoring-phenomenon-routine.md)
+- [Sand Density-Separation And Filtration Guide](sand-density-separation-and-filtration-guide.md)
 - [Editable CURRENT Friday Anchoring Phenomenon Routine](https://docs.google.com/document/d/16iqraS0TefwyGQdTOlp2s-sQnIWB6DgCOptWtB8vWJ0/edit)
 - [Editable CURRENT Gapless Explanation](https://docs.google.com/document/d/1vvqDsHdI7QEog4mtSVvOCV2PmIE9lW_xoY2HBfPknmM/edit?tab=t.0)
 - [Daily Lesson Plans folder](https://drive.google.com/drive/folders/1safaE0FAhNHiHRCgexqPKf0WXME8lcQg)
@@ -174,6 +176,7 @@ Roles include sampler, mapper, labeler, photographer, timer, materials monitor, 
 ### After
 
 - Store SAMPLE 1-3 separately from MODEL A-D and count every prepared model piece before leaving.
+- Use the [sand density-separation and filtration guide](sand-density-separation-and-filtration-guide.md) to process SAMPLE 1-3 with campers across Monday-Wednesday; confirm the exact blocks with the instructors before camp.
 - Record anything that could contaminate a sample.
 - Photograph the site map and sample labels.
 - Save campers' exact questions for Monday's question board.

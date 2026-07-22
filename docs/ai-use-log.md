@@ -2,6 +2,26 @@
 
 The syllabus says that when GenAI is used, it should be credited by source, output, and purpose. This log makes that crediting easy to maintain.
 
+## July 22, 2026 - Sand Density-Separation And Filtration Camp Guide
+
+- Tool/source: OpenAI Codex under Piter Garcia's supervision; Dr. April's July 9 recorded demonstration; the current Invisible Invaders operations guide, Friday routine, materials inventory, and July 21 camp plan; NOAA's direct laboratory methods manual; EPA's direct coastal sediment-sampling guidance; and EPA's citizen-science quality-assurance handbook
+- Purpose: turn the recorded sand, saltwater, settling, filtration, tape-lift, and microscope demonstration into one complete, repeatable, accessible camp procedure without adding hazardous laboratory chemistry or overstating particle identity
+- Outputs created or revised:
+  - [Sand Density-Separation And Filtration Guide](../assignments/03-camp-unit-plan/sand-density-separation-and-filtration-guide.md)
+  - [portable camp DOCX](../public-submissions/invisible-invaders-sand-investigation-guide.docx)
+  - [print-ready camp PDF](../public-submissions/invisible-invaders-sand-investigation-guide.pdf)
+  - [Camp Operations Guide](../assignments/03-camp-unit-plan/invisible-invaders-camp-operations-guide.md) and camp-plan indexes
+- Human guidance and decisions:
+  - preserve Dr. April's sequence while naming the process accurately: sieve the sand, density-separate material in concentrated saltwater, and filter the upper liquid
+  - use three authentic field samples plus one procedural blank and keep them separate from controlled MODEL A-D jars
+  - make the workflow repeatable through labels, a pilot-approved sand-to-brine ratio, a fixed mixing routine, overnight settling, covered drying, and systematic observation
+  - treat floating and visual form as screening evidence only; use **suspected particle** language unless chemical analysis confirms the material
+  - exclude wet peroxide oxidation, heating, KOH, bleach, solvents, hot-needle testing, and other adult laboratory chemistry from the youth protocol
+  - include seated, touch-free, quiet, partnered, shared-screen, visual, and low-energy roles without reducing the scientific task
+  - record the shared salt correctly as an **All Camp** material rather than an Invisible Invaders purchase
+- Verification: transcript timestamps were checked against the clean and raw July 9 records; procedure claims were checked against the NOAA and EPA sources; local links, evidence limits, and public-safe placement were reviewed before export
+- Disclosure: AI organized, structured, formatted, and source-checked Piter-guided content for accessibility and inclusion. Piter, Aastha, and the instructors remain responsible for piloting the method, confirming materials and timing, supervising youth, approving disposal, and deciding what is used at camp.
+
 ## July 22, 2026 - Module 2 Reflection Journal
 
 - Tool/source: OpenAI Codex under Piter Garcia's supervision; Piter's [EDE448 Sensory Walk LaTeX Package](https://github.com/pzg8794/EDE448-Sensory_Walk_LaTeX_Package) as the direct document template; the completed Module 1 reflection and selected journals in Piter's private DataScience/Drive journal corpus as voice and lived-experience references; the Module 2 prompt and syllabus; Piter's live Heather Table; all assigned Module 2 readings; July 14-21 public transcripts; the current Invisible Invaders operations guide and daily plans; July 21 youth and staff feedback; and Piter's prior Puzzle Plan/EQUITAS, UDL, neurodivergence, chronic illness, and identity-safe design work

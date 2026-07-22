@@ -8,6 +8,7 @@ This folder holds original assignment drafts and working materials. The shared f
 - [01 - Visualizing our Grounding Frameworks](01-grounding-frameworks/grounding-frameworks-part1.md)
 - [02 - AI Technology Evolution Narrative](02-ai-technology-evolution/ai-history-microplastics-narrative.md)
 - [03 - CURRENT Invisible Invaders Camp Operations Guide](03-camp-unit-plan/invisible-invaders-camp-operations-guide.md)
+- [03 - CURRENT Sand Density-Separation And Filtration Guide](03-camp-unit-plan/sand-density-separation-and-filtration-guide.md)
 - [04 - Poster Fair Proposal](04-poster-fair/poster-proposal-draft.md)
 - [05 - July 14 Camp Prep and Session 5 Readings](05-july14-camp-prep/README.md)
 - [Task 6 - Puzzle Plan / EQUITAS Reading Hub](05-july14-camp-prep/readings/README.md)

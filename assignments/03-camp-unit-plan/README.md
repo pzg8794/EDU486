@@ -1,6 +1,6 @@
 # Invisible Invaders Camp Plan
 
-Use the [Invisible Invaders Camp Operations Guide](invisible-invaders-camp-operations-guide.md) as the single current plan for Field Friday, camp week, materials, co-teaching, research evidence, and the Thursday showcase. Use the [Friday Anchoring Phenomenon Routine](friday-anchoring-phenomenon-routine.md) as the field-side script for the **40-minute Friday team session**. Its 12-minute version is only a schedule backup.
+Use the [Invisible Invaders Camp Operations Guide](invisible-invaders-camp-operations-guide.md) as the single current plan for Field Friday, camp week, materials, co-teaching, research evidence, and the Thursday showcase. Use the [Friday Anchoring Phenomenon Routine](friday-anchoring-phenomenon-routine.md) as the field-side script for the **40-minute Friday team session**. Use the [Sand Density-Separation And Filtration Guide](sand-density-separation-and-filtration-guide.md) after collection to sieve, salt-separate, filter, dry, examine, and interpret the three field samples. The Friday routine's 12-minute version is only a schedule backup.
 
 Older plans are preserved in the [July 18 consolidation archive](archive/2026-07-18-pre-consolidation/README.md) and [July 22 pre-reconciliation archive](archive/2026-07-22-pre-july21-reconciliation/README.md). They are planning history, not directions for the current camp.
 
@@ -8,8 +8,9 @@ Older plans are preserved in the [July 18 consolidation archive](archive/2026-07
 
 1. [Camp Operations Guide](invisible-invaders-camp-operations-guide.md): the complete current plan and preparation board.
 2. [Friday Anchoring Phenomenon Routine](friday-anchoring-phenomenon-routine.md): what Piter and Aastha say, do, pack, and protect at Charlotte Beach.
-3. [Completed daily lesson-plan folder](https://drive.google.com/drive/folders/1safaE0FAhNHiHRCgexqPKf0WXME8lcQg): the instructor templates for Field Friday and Monday-Friday.
-4. [July 21 clean planning and youth-feedback record](../../transcripts/2026-07-21-invisible-invaders-planning-and-youth-feedback-clean.md): why the facilitation and materials changed.
+3. [Sand Density-Separation And Filtration Guide](sand-density-separation-and-filtration-guide.md): the complete transcript-grounded, camp-safe sample-processing procedure and camper quick guide.
+4. [Completed daily lesson-plan folder](https://drive.google.com/drive/folders/1safaE0FAhNHiHRCgexqPKf0WXME8lcQg): the instructor templates for Field Friday and Monday-Friday.
+5. [July 21 clean planning and youth-feedback record](../../transcripts/2026-07-21-invisible-invaders-planning-and-youth-feedback-clean.md): why the facilitation and materials changed.
 
 ## Current Team
 
@@ -25,6 +26,7 @@ Older plans are preserved in the [July 18 consolidation archive](archive/2026-07
 - [Editable CURRENT SASSY Storyline Table](https://docs.google.com/document/d/1fGOjSkEFxsy5UC5n75UIi9aE_-sKOhyeRx9sY8CAUWU/edit)
 - [Editable CURRENT Invisible Invaders Sample Model](https://docs.google.com/document/d/1mGolkzKcMzcQuTr4uxjnx0voqTR8Kffmw0B4ypQRq0k/edit)
 - [Friday Anchoring Phenomenon Routine](friday-anchoring-phenomenon-routine.md)
+- [Sand Density-Separation And Filtration Guide](sand-density-separation-and-filtration-guide.md)
 - [Editable CURRENT Friday Anchoring Phenomenon Routine](https://docs.google.com/document/d/16iqraS0TefwyGQdTOlp2s-sQnIWB6DgCOptWtB8vWJ0/edit)
 - [Full-size before/during/after sample-model visual](https://drive.google.com/file/d/1iA1BeV_iE4AFTSAqduKPpbjLVHLc48K5/view)
 - [Editable CURRENT Gapless Explanation: Phenomenon](https://docs.google.com/document/d/1vvqDsHdI7QEog4mtSVvOCV2PmIE9lW_xoY2HBfPknmM/edit?tab=t.0)

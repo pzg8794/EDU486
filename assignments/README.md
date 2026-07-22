@@ -11,7 +11,7 @@ This folder holds original assignment drafts and working materials. The shared f
 - [04 - Poster Fair Proposal](04-poster-fair/poster-proposal-draft.md)
 - [05 - July 14 Camp Prep and Session 5 Readings](05-july14-camp-prep/README.md)
 - [Task 6 - Puzzle Plan / EQUITAS Reading Hub](05-july14-camp-prep/readings/README.md)
-- [July 16 evidence and transcripts](../transcripts/README.md)
+- [July 9-21 evidence and transcripts](../transcripts/README.md)
 
 Earlier Planet Protectors, Task 7, opening-routine, and meeting-commitment drafts are retained in dated archive folders. They are provenance, not current camp instructions.
 

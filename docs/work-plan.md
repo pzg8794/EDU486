@@ -1,48 +1,51 @@
 # EDU486 Current Work Plan
 
-The current priority is to make Invisible Invaders teachable, safe, coherent, inclusive, and easy for Piter and Aastha to follow. The [Camp Operations Guide](../assignments/03-camp-unit-plan/invisible-invaders-camp-operations-guide.md) is the authoritative plan.
+**Current through July 22, 2026.** The goal is to make Invisible Invaders teachable, safe, coherent, inclusive, and easy for Piter and Aastha to run. The [Camp Operations Guide](../assignments/03-camp-unit-plan/invisible-invaders-camp-operations-guide.md) is the authoritative plan; the [July 21 clean record](../transcripts/2026-07-21-invisible-invaders-planning-and-youth-feedback-clean.md) explains the latest changes.
 
-## Priority 1: Review And Pilot Before Staff Review
+## Do First: Wednesday-Thursday, July 22-23
 
-- Review the completed SASSY storyline table and six daily lesson-plan copies with Aastha.
-- Pilot the four-jar model with known counts and reset instructions.
-- Check out and test the camera/display, jars, sand tools, intact bicycle/rollerblade/scooter/toy wheels, temperature tools, map/art supplies, identity materials, and PPE.
-- Prepare the visual agenda, roles, source-to-body and two-branch model pieces, evidence limits, wheel evidence forms, map, source cards, and paper/digital access routes.
-- Review scientific language: suspected particles, no health overclaim, no neighborhood claim from ZIP codes, and no camper-generated plastic dust.
-- Bring the plans and representative materials to Freedom School on July 21.
+| Status | Action | Owner | Done when |
+| --- | --- | --- | --- |
+| [ ] | Review the current operations guide, Friday routine, SASSY table, and six daily plans together | Piter + Aastha | Both approve the sequence, roles, and language or record one named correction |
+| [ ] | Build and pilot MODEL A-D using the published counts | Piter; Aastha checks | Every piece is recoverable, the first-look/magnified difference works, and reset directions are written |
+| [ ] | Pack the exact Field Friday kit | Shared | 11 jars, at least 3 trays, 3 clean scoops, 3 magnifiers, labels, cards, map, timer, camera, and paper backups are counted |
+| [ ] | Make the emotional thermometer, visual agenda, known-count cards, and three before-during-after cards | Piter | Text, symbols, color labels, and response choices are readable at a glance |
+| [ ] | Confirm schedule, expected camper count, sites, transport, permissions, and weather backup | Shared + instructors | Each item has a written answer and owner |
+| [ ] | Reserve shared materials and record any true shortage immediately | Shared | Trays and scoops remain USD 0 reservations unless the physical check shows they are missing |
 
-## Priority 2: Prepare Field Friday
+## Field Friday: July 24
 
-- Confirm six Charlotte Beach sand sites and site-record fields.
-- Assign bus/setup roles.
-- Pack controlled model materials separately from real Site A-F samples.
-- Prepare team-selection, bonding, anchor, family-note, identity-recognition, and pickup routines.
-- Record youth questions and access observations for Monday's revision.
+Follow the [40-minute Friday routine](../assignments/03-camp-unit-plan/friday-anchoring-phenomenon-routine.md):
 
-## Priority 3: Prepare Camp Week
+1. **0-5 minutes:** connect to the beach and offer the emotional/participation check-in.
+2. **5-10 minutes:** demonstrate label, predict, look, magnify, record, and reset.
+3. **10-25 minutes:** campers complete the before-during-after model investigation.
+4. **25-35 minutes:** collect three traceable field samples at instructor-approved sites.
+5. **35-40 minutes:** preserve one observation or youth question for Monday.
 
-- Monday: use an article/video and approved organism/body evidence to build the first source-to-body model and return to the Field Friday map.
-- Tuesday: compare intact wheels before and after safe rolling, record tread and temperature evidence, and revise the friction/wear release pathway without manufacturing dust.
-- Wednesday: return to Day 1 places, build the justice/power map, hold the scientist circle, study advocacy examples, and choose an audience and message.
-- Thursday: build the complete plastic-system model with distinct climate and microplastic branches, finish art/tri-fold, rehearse, and showcase.
-- Friday: sort feedback through KEEP/QUESTION/CHANGE, make or justify one final model move, leave advice for future campers, clean up, and say goodbye.
+**Protect these boundaries:** MODEL A-D are controlled models, SAMPLE 1-3 are field samples, visible particles remain suspected until confirmed, and nobody is required to discuss health, touch materials, read aloud, or speak publicly. Use the 12-minute routine only if instructors change the schedule.
 
-Every day includes a visible agenda, role choice, private thinking time, multimodal scientist circle, model/evidence move, identity recognition, and on-time circle-up.
+## Prepare Camp Week: July 27-31
 
-## Priority 4: Research Poster And Final Work
+- **Monday:** article/video plus approved organism/body evidence; build the first source-to-body model and return to Friday's map and youth questions.
+- **Tuesday:** compare intact wheels before and after safe rolling; use tread, temperature, and adult-prepared sealed evidence to explain friction and wear without manufacturing dust.
+- **Wednesday:** return to Day 1 places, build the justice/power map, study advocacy examples, and choose an audience and message.
+- **Thursday:** revise the complete plastic-system model with distinct climate and microplastic branches; finish advocacy art/tri-fold, rehearse, and showcase.
+- **Friday:** sort feedback through KEEP/QUESTION/CHANGE, make or justify one final model move, leave advice for future campers, clean up, and close relationships well.
+
+**Every day uses the same access pattern:** preview, connect, do, notice, explain/revise, show, and close. Include short directions, a visible example, movement and seated routes, proactive check-ins, optional public sharing, a meaningful early-finisher extension, and a friendly scientific mission that does not reward speed or accuracy alone.
+
+## Research, Poster, And Final Work
 
 - Collect first/final models, de-identified map contributions, exact youth questions, selected communication modes, advocacy choices, and facilitator revision notes.
-- Use the research question about how the map and multimodal scientist circles shape noticing, connection, and communication.
-- Confirm the poster printing cutoff; July 29 at 10 p.m. is only a working target.
+- Use the research question about how the neighborhood map and multimodal scientist circles shape noticing, connection, and communication.
+- Confirm the poster printing cutoff; July 29 at 10 p.m. remains a working target, not a confirmed deadline.
 - Present July 31, submit final camp plans August 1, and submit Grounding Frameworks Part 2 August 4.
 
-## Daily Debrief
-
-Piter and Aastha answer:
+## Daily Five-Minute Debrief
 
 1. What did youth notice, question, or revise?
 2. What evidence supported the next storyline move?
 3. Who could enter the work, and who still needed another route?
-4. What tool deepened learning, and what tool created friction?
-5. What must change before the next day?
-6. What evidence and access decision should be preserved in the final plan?
+4. What must change before tomorrow, and who owns it?
+5. What evidence and access decision must be preserved in the final plan?

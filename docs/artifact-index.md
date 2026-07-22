@@ -29,8 +29,13 @@ This is the internal front door for our EDU486 repository. Repository files supp
 - [Wednesday lesson plan](https://docs.google.com/document/d/1eyx_nVAkRTAypKS11guif8NgVHcxk7QzX3T52dOBcdg/edit)
 - [Thursday lesson plan](https://docs.google.com/document/d/14foM1GLckWQlPl06YE0gsyScPV6YVBgM2mTrzc5uNJQ/edit)
 - [Friday reflection lesson plan](https://docs.google.com/document/d/1j89Vjd8nAT8gs-rzFO5hIeDuH8_VlnI2HyHImMhgSec/edit)
+- [July 21 clean planning and youth-feedback record](../transcripts/2026-07-21-invisible-invaders-planning-and-youth-feedback-clean.md)
+- [Exact materials and purchase check](../assignments/05-july14-camp-prep/materials-inventory-and-order-check.md)
+- [Live materials order sheet](https://docs.google.com/spreadsheets/d/1rAuGt8iT-CAx4Oy1cqz_SsVQqqPzi5mE9v7pRCODSAo/edit?gid=1535708448#gid=1535708448)
 - [Invisible Invaders gotta-have checklist and evidence map](../assignments/05-july14-camp-prep/invisible-invaders-gotta-have-checklist-evidence-map.md)
 - [Dated pre-consolidation archive](../assignments/05-july14-camp-prep/archive/2026-07-18-pre-consolidation/README.md)
+- [July 22 local pre-reconciliation archive](../assignments/03-camp-unit-plan/archive/2026-07-22-pre-july21-reconciliation/README.md)
+- [July 22 Drive pre-reconciliation archive](https://drive.google.com/drive/folders/1qvPO4kLrqnKEVyfyATo7BempwQkmn5FO)
 - [Course calendar import](course-calendar.ics)
 
 ## Public Visual Artifacts
@@ -75,6 +80,7 @@ This is the internal front door for our EDU486 repository. Repository files supp
 - [Grounding frameworks Part 1 visual in Drive](https://drive.google.com/file/d/1G3n2R_I_JhKcgO4RJjXDo04nYOAVAMRo/view)
 - [AI history microplastics narrative DOCX](../public-submissions/ai-history-microplastics-narrative.docx)
 - [CURRENT Invisible Invaders Camp Operations Guide DOCX](../public-submissions/invisible-invaders-camp-operations-guide.docx)
+- [CURRENT Friday Anchoring Phenomenon Routine DOCX](../public-submissions/friday-anchoring-phenomenon-routine.docx)
 - [Poster proposal DOCX](../public-submissions/poster-proposal-draft.docx)
 - [Task 6 Puzzle Plan reading synthesis DOCX](../public-submissions/session5-reading-notes.docx)
 - [Task 6 Puzzle Plan reading synthesis Drive copy](https://drive.google.com/file/d/1VVvTRQg1K2Gy9UWzvScpDk0ovPMmppQU/view)
@@ -93,6 +99,8 @@ This is the internal front door for our EDU486 repository. Repository files supp
 - [Grounding frameworks Part 1 clean submission text](../assignments/01-grounding-frameworks/grounding-frameworks-part1-submission.md)
 - [AI technology evolution narrative](../assignments/02-ai-technology-evolution/ai-history-microplastics-narrative.md)
 - [CURRENT Invisible Invaders Camp Operations Guide](../assignments/03-camp-unit-plan/invisible-invaders-camp-operations-guide.md)
+- [CURRENT Friday Anchoring Phenomenon Routine](../assignments/03-camp-unit-plan/friday-anchoring-phenomenon-routine.md)
+- [July 21 clean planning and youth-feedback record](../transcripts/2026-07-21-invisible-invaders-planning-and-youth-feedback-clean.md)
 - [Archived Planet Protectors predecessor](../assignments/03-camp-unit-plan/archive/2026-07-18-pre-consolidation/planet-protectors-camp-unit-plan-draft.md)
 - [Poster fair proposal draft](../assignments/04-poster-fair/poster-proposal-draft.md)
 - [Task 6 Puzzle Plan reading hub](../assignments/05-july14-camp-prep/readings/README.md)
@@ -136,7 +144,7 @@ This is the internal front door for our EDU486 repository. Repository files supp
 - [Good News Network: Tamarind powder microplastics invention](https://www.goodnewsnetwork.org/3-teens-win-global-earth-prize-for-inventing-tamarind-powder-that-easily-removes-microplastics/)
 - [Business Insider: Texas teens ultrasonic microplastics device](https://www.businessinsider.com/teens-win-fifty-thousand-for-ultrasound-microplastic-filtration-device-2024-5)
 - [STEM Next resources](https://stemnext.org/resources/?categories=288)
-- [The 74: 16 Under 16 STEM achievers](https://www.the74million.org/article/meet-the-74s-2022-class-of-16-under-in16-in-stem/)
+- [The 74: 16 Under 16 STEM achievers](https://www.the74million.org/article/meet-the-74s-2022-class-of-16-under-in-16-in-stem/)
 - [Because of Them We Can science search](https://www.becauseofthemwecan.com/?s=science)
 
 ## Prior Work And Drive Sources

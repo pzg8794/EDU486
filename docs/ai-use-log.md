@@ -2,10 +2,34 @@
 
 The syllabus says that when GenAI is used, it should be credited by source, output, and purpose. This log makes that crediting easy to maintain.
 
+## July 22, 2026 - July 21 Transcript, Template, Materials, And Archive Reconciliation
+
+- Tool/source: OpenAI Codex under Piter Garcia's supervision; four July 21 automatic transcripts; July 16 team and instructor images; the current operations guide, Friday routine, SASSY table, Gapless Explanation, Sample Model, six daily lesson plans, live order sheet, and direct EPA, NOAA, FDA, and CAST sources
+- Purpose: turn the latest team decisions and Freedom School feedback into one clear, executable plan; update instructor templates and materials records; preserve rather than overwrite older work; and keep the active repository and Drive front doors easy to follow
+- Outputs created or revised:
+  - [July 21 clean planning and youth-feedback record](../transcripts/2026-07-21-invisible-invaders-planning-and-youth-feedback-clean.md)
+  - [current Camp Operations Guide](../assignments/03-camp-unit-plan/invisible-invaders-camp-operations-guide.md) and [editable Drive copy](https://docs.google.com/document/d/1LueJ9NX6MP257ywABKTDu-vVWVYzTwRnNDK8fgJx4e0/edit)
+  - [current Friday routine](../assignments/03-camp-unit-plan/friday-anchoring-phenomenon-routine.md) and [editable Drive copy](https://docs.google.com/document/d/16iqraS0TefwyGQdTOlp2s-sQnIWB6DgCOptWtB8vWJ0/edit)
+  - [updated Field Friday lesson plan](https://docs.google.com/document/d/1scrYMeSEja_MUvyx9DkV6EzKMpMOmHB4gz60fMOAFgg/edit)
+  - [materials dictionary](../assignments/05-july14-camp-prep/materials-inventory-and-order-check.md), [budget record](../assignments/05-july14-camp-prep/invisible-invaders-order-budget.csv), and [live order sheet](https://docs.google.com/spreadsheets/d/1rAuGt8iT-CAx4Oy1cqz_SsVQqqPzi5mE9v7pRCODSAo/edit?gid=1535708448#gid=1535708448)
+  - [dated local archive](../assignments/03-camp-unit-plan/archive/2026-07-22-pre-july21-reconciliation/README.md) and [dated Drive archive](https://drive.google.com/drive/folders/1qvPO4kLrqnKEVyfyATo7BempwQkmn5FO)
+- Human guidance and decisions:
+  - retain Piter and Aastha, the human-body anchor, approved driving question, and Four Gotta-Haves
+  - use the July 21 40-minute Field Friday plan as current and keep 12 minutes only as a schedule backup
+  - prepare four controlled model jars, three field jars, four backups, at least three trays, three clean scoops, and three magnifiers
+  - use short demonstrations, movement and seated routes, proactive help, optional public sharing, visible examples, friendly scientific missions, and meaningful early-finisher work
+  - keep controlled models separate from field evidence; do not manufacture plastic dust, seed the beach, overclaim particle identity, or infer a health effect from detection alone
+  - preserve raw July 21 files locally because they contain youth names and incidental personal disclosures; publish the complete decision-level record instead
+  - do not invent same-day image evidence: the transcript mentions July 21 photographs, but no files were located during the workspace and Drive audit
+- Verification: the three updated live Google Docs were read back after editing; the live sheet was re-read after rows for three containment surfaces and three clean scoops were added as USD 0 reservations; stale six-site and 10-12-minute current-plan references were removed from active front doors
+- Disclosure: AI was used under Piter Garcia's supervision to organize, structure, format, cross-reference, and clarify team-provided content for accessibility and inclusion; check logistical and causal gaps; and validate direct sources. Piter guided and reviewed the work and remains responsible for the science, safety, teammate representation, and final use.
+
 ## July 20, 2026 - Invisible Invaders Friday Anchoring Phenomenon Routine
 
+**July 22 correction:** the July 20 version used a 10-12 minute rotation. The July 21 team meeting established a 40-minute Friday session with approximately three campers; 12 minutes now appears only as a schedule backup in the current routine.
+
 - Tool/source: OpenAI Codex under Piter Garcia's supervision; the instructor's original Friday routine template; the current Camp Operations Guide, Gapless Explanation, SASSY Storyline Table, Sample Model, and Field Friday lesson plan; July 15-16 transcripts and planning image; and direct NOAA, EPA, FDA, PubMed, and CAST sources
-- Purpose: preserve the instructor template while creating an executable, team-specific 10-12 minute anchoring routine for Piter and Aastha's Charlotte Beach rotation
+- Purpose at that stage: preserve the instructor template while creating an executable, team-specific 10-12 minute anchoring routine for Piter and Aastha's Charlotte Beach rotation; the July 21 plan later replaced this as the main timing
 - Outputs created:
   - [editable CURRENT Friday Anchoring Phenomenon Routine](https://docs.google.com/document/d/16iqraS0TefwyGQdTOlp2s-sQnIWB6DgCOptWtB8vWJ0/edit)
   - [repository planning mirror](../assignments/03-camp-unit-plan/friday-anchoring-phenomenon-routine.md)
@@ -13,7 +37,7 @@ The syllabus says that when GenAI is used, it should be credited by source, outp
 - Human guidance and decisions:
   - retain the team's human-body anchor, approved driving question, and green Gotta-Have 1 Field Friday question
   - use controlled MODEL A-D jars and known counts without presenting them as beach samples or neighborhood evidence
-  - give Piter and Aastha explicit co-teaching roles and keep the routine within the transcript-confirmed 10-12 minute rotation window
+  - give Piter and Aastha explicit co-teaching roles and use the then-current 10-12 minute rotation assumption
   - provide visual, seated, quiet, touch-free, low-energy, home-language, partner, and pass/re-entry routes without reducing the scientific goal
   - separate observation, estimate, inference, suspected particles, and chemically confirmed plastic
   - avoid fear, forced body disclosure, planted evidence, family blame, and unsupported source, route, prevalence, or health-effect claims
@@ -88,7 +112,7 @@ The syllabus says that when GenAI is used, it should be credited by source, outp
   - [current camp operations guide](../assignments/03-camp-unit-plan/invisible-invaders-camp-operations-guide.md) and [editable Drive copy](https://docs.google.com/document/d/1LueJ9NX6MP257ywABKTDu-vVWVYzTwRnNDK8fgJx4e0/edit)
   - [current SASSY Storyline Table](https://docs.google.com/document/d/1fGOjSkEFxsy5UC5n75UIi9aE_-sKOhyeRx9sY8CAUWU/edit), including Field Friday through Friday reflection
   - [six completed daily lesson plans](https://drive.google.com/drive/folders/1safaE0FAhNHiHRCgexqPKf0WXME8lcQg)
-  - [public transcript and July 16 evidence index](../transcripts/README.md)
+  - [public transcript and evidence index](../transcripts/README.md)
   - [public same-session image index](../public-artifacts/README.md)
   - dated local and Drive archives for superseded working drafts
 - Human guidance and decisions:
@@ -341,7 +365,7 @@ The first version of this entry incorrectly treated tire wear as the anchoring p
 ## July 19, 2026 - SASSY Instructor-Example Removal
 
 - Correction: The instructor's sample rows beginning with **"Where did all of this plastic come from?"** and **"E.g. We explored local and regional maps..."** were scaffolding, not Invisible Invaders team content. They were removed from the current SASSY table rather than retained beside Piter and Aastha's work.
-- Result: After the two column-heading rows, the table now begins directly with the team's Field Friday connecting question and four-jar/six-site sand investigation, followed by the team's Monday-through-Friday sequence.
+- Result at that stage: after the two column-heading rows, the table began with the team's Field Friday connecting question and four-jar/six-site sand investigation. The July 21 reconciliation later reduced the active field kit to three traceable sample jars and kept the four controlled models separate.
 - Instructor-comment rule: April's comment on the earlier question says, **"Each of these should be one of your Gotta Have Checklist items."** Every current connecting question now names its checklist attachment. The first four stages foreground items 1-4; Thursday and Friday revisit them through new synthesis and evidence-check work, consistent with the July 16 discussion.
 - Image fidelity: The current sequence retains the photographed team's four jars/sand, wheels/friction, article-video-fish evidence, and Day 1 places/art-as-advocacy moves. The image's unfinished future-modeling row is completed for Thursday, followed by a brief Friday evidence check.
 - Final team adjustment: The photograph records the earlier first-day/advocacy-day clue placement. The later transcript records the decision to reverse those two, so Field Friday now foregrounds **Earth systems are interconnected** and Wednesday foregrounds **Human infrastructure influences natural systems**.

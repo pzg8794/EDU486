@@ -1,8 +1,15 @@
 # Invisible Invaders Camp Plan
 
-Use the [Invisible Invaders Camp Operations Guide](invisible-invaders-camp-operations-guide.md) as the single current plan for Field Friday, camp week, materials, co-teaching, research evidence, and the Thursday showcase. Use the [Friday Anchoring Phenomenon Routine](friday-anchoring-phenomenon-routine.md) as the field-side script for the first 10-12 minutes of each Friday rotation.
+Use the [Invisible Invaders Camp Operations Guide](invisible-invaders-camp-operations-guide.md) as the single current plan for Field Friday, camp week, materials, co-teaching, research evidence, and the Thursday showcase. Use the [Friday Anchoring Phenomenon Routine](friday-anchoring-phenomenon-routine.md) as the field-side script for the **40-minute Friday team session**. Its 12-minute version is only a schedule backup.
 
-Older plans are preserved in [the dated archive](archive/2026-07-18-pre-consolidation/README.md). They are planning history, not directions for the current camp.
+Older plans are preserved in the [July 18 consolidation archive](archive/2026-07-18-pre-consolidation/README.md) and [July 22 pre-reconciliation archive](archive/2026-07-22-pre-july21-reconciliation/README.md). They are planning history, not directions for the current camp.
+
+## Open In This Order
+
+1. [Camp Operations Guide](invisible-invaders-camp-operations-guide.md): the complete current plan and preparation board.
+2. [Friday Anchoring Phenomenon Routine](friday-anchoring-phenomenon-routine.md): what Piter and Aastha say, do, pack, and protect at Charlotte Beach.
+3. [Completed daily lesson-plan folder](https://drive.google.com/drive/folders/1safaE0FAhNHiHRCgexqPKf0WXME8lcQg): the instructor templates for Field Friday and Monday-Friday.
+4. [July 21 clean planning and youth-feedback record](../../transcripts/2026-07-21-invisible-invaders-planning-and-youth-feedback-clean.md): why the facilitation and materials changed.
 
 ## Current Team
 
@@ -35,4 +42,6 @@ Older plans are preserved in [the dated archive](archive/2026-07-18-pre-consolid
 - [Gapless science explanation](../05-july14-camp-prep/invisible-invaders-gapless-explanation.md)
 - [Materials inventory dictionary](../05-july14-camp-prep/materials-inventory-and-order-check.md)
 - [Under-$100 order](../05-july14-camp-prep/invisible-invaders-order-budget.csv)
-- [July 16 transcripts and evidence](../../transcripts/README.md)
+- [July 9-21 transcripts and evidence](../../transcripts/README.md)
+- [July 21 clean planning and youth-feedback record](../../transcripts/2026-07-21-invisible-invaders-planning-and-youth-feedback-clean.md)
+- [July 22 dated Drive archive](https://drive.google.com/drive/folders/1qvPO4kLrqnKEVyfyATo7BempwQkmn5FO)

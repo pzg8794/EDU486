@@ -23,7 +23,8 @@ This folder now holds the active supporting evidence for the [single current Cam
 | Review the current under-$100 request | [Order budget CSV](invisible-invaders-order-budget.csv) |
 | Open the shared order sheet | [Sodus Camp Materials Orders](https://docs.google.com/spreadsheets/d/1rAuGt8iT-CAx4Oy1cqz_SsVQqqPzi5mE9v7pRCODSAo/edit?gid=1535708448#gid=1535708448) |
 | Review Session 5 readings through Puzzle Plan goals | [Reading hub](readings/README.md) |
-| Read the July 16 planning record and view same-session images | [Transcript and evidence index](../../transcripts/README.md) |
+| Read the July 21 decisions and youth/staff feedback | [July 21 clean record](../../transcripts/2026-07-21-invisible-invaders-planning-and-youth-feedback-clean.md) |
+| Review all transcript and image evidence | [Transcript and evidence index](../../transcripts/README.md) |
 
 ## Materials Status
 
@@ -42,18 +43,18 @@ This folder now holds the active supporting evidence for the [single current Cam
 - [Completed daily lesson plans](https://drive.google.com/drive/folders/1safaE0FAhNHiHRCgexqPKf0WXME8lcQg)
 - [Reference materials](https://drive.google.com/drive/folders/1s0BomekNcITEZWr9vKLgXuGbv516beck)
 - [Dated archive](https://drive.google.com/drive/folders/1uqJIngplP3elWAsasA79l6C6PuNm9ljC)
+- [July 22 before-reconciliation archive](https://drive.google.com/drive/folders/1qvPO4kLrqnKEVyfyATo7BempwQkmn5FO)
 - [CURRENT Gapless Explanation: Phenomenon](https://docs.google.com/document/d/1vvqDsHdI7QEog4mtSVvOCV2PmIE9lW_xoY2HBfPknmM/edit?tab=t.0)
 - [CURRENT Gapless Explanation: Activities](https://docs.google.com/document/d/1vvqDsHdI7QEog4mtSVvOCV2PmIE9lW_xoY2HBfPknmM/edit?tab=t.pi512olkdy98)
 - [CURRENT Gapless Explanation: Videos and Internet Links](https://docs.google.com/document/d/1vvqDsHdI7QEog4mtSVvOCV2PmIE9lW_xoY2HBfPknmM/edit?tab=t.wwan9k5izahf)
 - [CURRENT Gapless Explanation: Our Gotta-Have Checklist](https://docs.google.com/document/d/1vvqDsHdI7QEog4mtSVvOCV2PmIE9lW_xoY2HBfPknmM/edit?tab=t.dki9udes1b4b)
 - [Sampling protocol](https://docs.google.com/document/d/1HP06TOL2cnycQSgDcRfV57cEUYHuwoHTmVGRABv9tys/edit)
 
-## Before July 21
+## Do Next: July 22-24
 
-- [ ] Pilot the four-jar mystery.
-- [ ] Check out and test all shared equipment.
-- [x] Finish the six daily lesson-plan copies and SASSY table.
-- [ ] Review the completed copies with Aastha and apply any team corrections.
-- [ ] Prepare visual agendas, role cards, model pieces, map, and evidence-limit cards.
-- [ ] Bring plans and materials to Freedom School for staff feedback.
-- [ ] Confirm youth count, schedule, sand sites, fish/KOH plan, family showcase, permissions, and poster cutoff.
+- [ ] Review the current guide, Friday routine, SASSY table, and six daily plans with Aastha.
+- [ ] Build, pilot, photograph, count, and reset MODEL A-D.
+- [ ] Pack 11 jars, at least 3 trays, 3 clean scoops, 3 magnifiers, and paper/device backups.
+- [ ] Prepare the visual agenda, emotional thermometer, known-count cards, and three before-during-after cards.
+- [ ] Confirm the 40-minute session, expected three-camper group, instructor-approved sites, transport, permissions, and weather backup.
+- [ ] Use the live order sheet to record only true shortages; current tray and scoop entries are USD 0 reservations.

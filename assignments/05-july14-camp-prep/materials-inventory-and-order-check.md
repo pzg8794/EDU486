@@ -4,7 +4,7 @@
 
 **Camp team:** Piter Garcia and Aastha, Invisible Invaders
 
-**Inventory review date:** July 14, 2026
+**Inventory review date:** July 14, 2026; reconciled with July 21 planning on July 22
 
 **Order budget:** $100 per team
 
@@ -61,6 +61,7 @@ The class used three location codes: **A = LeChase 285 classroom, B = preparatio
 | S14 | Natural/plastic reference pane and found-plastic samples | Confirmed on class inventory and tour | PRESENT | Compare suspected particles with known examples | Reserve as reference evidence, not as proof of sample identity |
 | S15 | Microplastic identification keys/guides | Explicitly described during tour | PRESENT | Distinguish fiber, fragment, film, and foam categories | Put one key at each observation station |
 | S16 | Aquarium/tank with substrate | 1 visible | CHECK | Optional movement/settling model only | Clean and use only if it serves a specific activity question |
+| S17 | Small containment trays or clean clipboard backups | Small red tray needs re-identification; approximately 12+ clipboards are visible | CHECK/PRESENT | One stable surface per camper for the prepared MODEL A-D investigation | Reserve at least 3 trays; use 3 clean clipboards only as the documented backup |
 
 ## 2. Microscopy, Measurement, And Laboratory Equipment
 
@@ -132,7 +133,7 @@ The class used three location codes: **A = LeChase 285 classroom, B = preparatio
 
 | Activity need | Inventory match | Readiness | Decision |
 |---|---|---|---|
-| Three equivalent indoor, outdoor, and blank sample kits | S01-S03, L05-L07 | **CHECK** | Count and clean matching containers, lids, tweezers, and labels before buying anything |
+| Field Friday prepared and authentic-sample kits | S01-S03, S07, S17, L09 | **CHECK** | Reserve 11 jars total, 3 trays, 3 clean scoops, 3 magnifiers, labels, and separate model/field bins |
 | Filter-and-slide observation | S05, L01-L07 | **CHECK** | Verify funnels, correct filter paper, slides, clear tape, and at least one camera-equipped microscope station |
 | Shared microscope view and non-eyepiece route | L01-L03, T01-T02 | **CHECK** | Test camera/software compatibility and prepare still-image/paper alternatives |
 | Location, time, and contamination records | T02-T04, C06-C08 | **PRESENT** | Build one paper and one digital route using the same fields |
@@ -176,6 +177,8 @@ These are **not yet approved orders**. They are the only current categories that
 Complete this before adding an Amazon link:
 
 - [ ] Count matched clean jars/containers and lids for indoor, outdoor, and blank samples.
+- [ ] Pack exactly 11 Field Friday jars: 4 MODEL A-D, 3 SAMPLE 1-3, and 4 clean backups.
+- [ ] Reserve at least 3 small trays or clean clipboard backups and 3 clean metal spoons/scoops.
 - [ ] Count funnels, correct filter papers, clean slides, tweezers, clear tape, and labeling tape.
 - [ ] Test at least one microscope camera, computer, and projection/camera-feed route together.
 - [ ] Count appropriate gloves and goggles; check sizes, condition, and allergies.
@@ -192,11 +195,13 @@ Complete this before adding an Amazon link:
 The live spreadsheet is titled **Sodus Camp Materials Orders**. The target tab is **2026 GRS** (`gid=1535708448`) and uses repeating columns for `Item`, `Quantity`, `Team`, `Amazon Link or other link`, `Status`, and `Notes`.
 
 - `2026 GRS!A6:F6` records the original shared **Lab quality salt**, **1 lb.**, **All Camp**, and **Ordered** entry. It is not an Invisible Invaders request and must remain separate from our team rows.
+- `2026 GRS!A7:F7` now codes the filter paper as **All Camp** even though Piter added the line from the Invisible Invaders need. Keep the shared label and separate it from the `Getting Small` subtotal.
+- `2026 GRS!A32:F33` reserves three trays/clipboard backups and three metal spoons/scoops from LeChase stock. These are no-cost logistics lines, not new purchases.
 - The live Team dropdown currently lists `Fibers`, `Plankton to People`, `Getting Small`, `All Camp`, and `Won't arrive in time`.
 - **Invisible Invaders is not currently an allowed Team value.** The order uses the validated legacy label `Getting Small` and identifies **Invisible Invaders (Piter + Aastha; sheet label: Getting Small)** in every Notes cell so the team is not obscured.
 - The live Status dropdown permits `Ordered`, `Arrived`, `Bring from home`, `Asked Shellie to order`, and `at LeChase Hall`.
 
-The current station setup and under-$100 request are documented in the [Invisible Invaders Camp Operations Guide](../03-camp-unit-plan/invisible-invaders-camp-operations-guide.md) and [sortable budget CSV](invisible-invaders-order-budget.csv). The more expansive predecessor remains available in the [dated archive](archive/2026-07-18-pre-consolidation/invisible-invaders-materials-plan.md).
+The live sheet currently contains **$68.00 in `Getting Small` purchase rows**, plus the **$18.79 shared filter-paper row** added from our identified need. The combined value connected to our planning is **$86.79 before tax**. The July 21 tray and scoop reservations add **$0**, so the request remains below $100. The current station setup is documented in the [Invisible Invaders Camp Operations Guide](../03-camp-unit-plan/invisible-invaders-camp-operations-guide.md) and [sortable budget CSV](invisible-invaders-order-budget.csv). The more expansive predecessor remains available in the [dated archive](archive/2026-07-18-pre-consolidation/invisible-invaders-materials-plan.md).
 
 ## AI Use Disclosure
 

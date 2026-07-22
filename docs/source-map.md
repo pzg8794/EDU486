@@ -1,6 +1,6 @@
 # EDU486 Source Map
 
-This source map keeps course provenance visible while keeping third-party, copyrighted, unrelated personal, and unreviewed files out of Git and participant-facing materials. The repository is our internal planning and provenance workspace; shared classroom access uses Drive or authoritative sources. Piter has approved the EDU486 course transcripts for publication.
+This source map keeps course provenance visible while keeping third-party, copyrighted, unrelated personal, and unreviewed files out of Git and participant-facing materials. The repository is our internal planning and provenance workspace; shared classroom access uses Drive or authoritative sources. Piter has approved EDU486 course transcripts for publication, while raw files containing youth names or incidental personal disclosures receive public-safe decision records rather than automatic public release.
 
 Local source files are organized under the ignored `_local-course-materials/` directory. Reviewed transcript and image copies use stable names in tracked folders. See the [repository organization guide](repository-organization.md) for the folder map and synchronization rules.
 
@@ -188,9 +188,24 @@ The commitment pack preserves the team's July 15 decision to **replace the tire-
 
 The guide reconciles the session's agreed team identity, anchor, instructional question, Field Friday sand work, four-jar model, neighborhood map, scientist circles, daily model revision, justice/power analysis, advocacy art, research evidence, access routes, and materials. The current SASSY table preserves the team's activity rows from the July 16 photograph, removes the instructor's sample Charlotte Beach storyline, attaches every connecting question directly to a Gotta-Have checklist item, and completes the team's blank future-modeling row with a Thursday two-branch synthesis and a brief Friday evidence check. The team-specific Friday routine turns the four-jar move into a timed, co-taught script that separates controlled model evidence from Charlotte Beach evidence, protects multiple participation routes, and hands youth questions directly into the Monday storyline. The first-day/advocacy-day checklist placement follows the later recorded team decision to reverse the earlier labels visible in the photograph. Other-team boards remain reference-only evidence for shared-resource coordination.
 
-The numbered `00-04` items are the current Drive front door. Several unnumbered instructor-owned originals remain visible at the top level because the team account cannot relocate files owned by the instructor. They are preserved unchanged as source/reference documents and do not supersede the current guide, SASSY table, or daily lesson plans.
+The numbered `00-04` items are the current Drive front door. Several instructor-owned originals and two older shared team files remain visible at the top level because the connected account cannot relocate them. They are preserved as source/reference documents and do not supersede the files labeled `CURRENT`, the Friday routine, or the daily lesson plans.
 
 Participant-facing materials do not depend on GitHub paths. Images, transcripts approved for publication, accessible companions, and current working documents are linked through Drive; scientific claims link directly to authoritative or peer-reviewed sources.
+
+## July 21 Freedom School Feedback And Team Reconciliation
+
+- [Clean July 21 Invisible Invaders planning and youth-feedback record](../transcripts/2026-07-21-invisible-invaders-planning-and-youth-feedback-clean.md)
+- Raw automatic sources: `_local-course-materials/transcripts/raw/2026-07-21/`
+- [Current Camp Operations Guide](https://docs.google.com/document/d/1LueJ9NX6MP257ywABKTDu-vVWVYzTwRnNDK8fgJx4e0/edit)
+- [Current Friday Anchoring Phenomenon Routine](https://docs.google.com/document/d/16iqraS0TefwyGQdTOlp2s-sQnIWB6DgCOptWtB8vWJ0/edit)
+- [Updated Field Friday instructor lesson-plan template](https://docs.google.com/document/d/1scrYMeSEja_MUvyx9DkV6EzKMpMOmHB4gz60fMOAFgg/edit)
+- [Completed Monday-Friday lesson-plan folder](https://drive.google.com/drive/folders/1safaE0FAhNHiHRCgexqPKf0WXME8lcQg)
+- [Live materials order sheet](https://docs.google.com/spreadsheets/d/1rAuGt8iT-CAx4Oy1cqz_SsVQqqPzi5mE9v7pRCODSAo/edit?gid=1535708448#gid=1535708448)
+- [July 22 before-reconciliation Drive archive](https://drive.google.com/drive/folders/1qvPO4kLrqnKEVyfyATo7BempwQkmn5FO)
+
+The July 21 record changes the active facilitation and logistics without replacing the team anchor or Four Gotta-Haves. The current plan now uses a 40-minute Friday team session with a 12-minute backup, four controlled model jars, three traceable field-sample jars, four backups, at least three trays, three clean scoops, short demonstrations, proactive check-ins, optional public sharing, movement and low-energy routes, friendly scientific missions, and meaningful early-finisher extensions. The live sheet records trays and scoops as USD 0 LeChase reservations; the connected purchase value remains USD 86.79 before tax.
+
+The transcript says photographs were taken on July 21, but no same-day files were located in the EDU486 workspace, earlier camp-materials folder, team Drive folder, or connected Drive image search. No July 16 photograph is relabeled as July 21 evidence. The missing July 21 images remain an explicit open evidence check.
 
 ## Public Web Sources Used For Microplastics Draft
 

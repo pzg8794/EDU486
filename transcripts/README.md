@@ -1,6 +1,8 @@
 # EDU486 Public Transcript And Evidence Index
 
-Piter has confirmed that the course transcripts are **not private**. This folder therefore preserves the original automatic text and complete readability-formatted Markdown versions. Clean versions add headings and an editorial note; they do not summarize, sanitize, or silently correct the automatic wording.
+Piter has confirmed that the course transcripts are **not private**. This folder therefore preserves original automatic text and readability-formatted Markdown versions when publication does not expose unrelated personal information.
+
+**Public-safety exception:** when an automatic transcript contains youth names, incidental health disclosures, or unrelated personal conversation, the raw file remains in ignored local storage and this public folder receives a decision-level clean record. That protects people without hiding the team decisions or changing Piter's position that course-planning transcripts can be public.
 
 ## Reliability
 
@@ -39,6 +41,14 @@ This meeting records the decision to replace the tire-based phenomenon with **â€
 - [Clean microplastics health-education planning and schedule transcript](2026-07-16-microplastics-health-planning-transcript-clean.md)
 - [Original health-education planning transcript](raw/2026-07-16-microplastics-health-education-planning-and-schedule.txt)
 
+## July 21
+
+- [Clean Invisible Invaders planning and youth-feedback record](2026-07-21-invisible-invaders-planning-and-youth-feedback-clean.md)
+
+This record combines four July 21 automatic transcripts into one usable account of the Freedom School feedback, 40-minute Field Friday routine, before-during-after model, exact 11-jar kit, daily access pattern, materials decisions, safety limits, owners, and unresolved checks. The four raw files remain under `_local-course-materials/transcripts/raw/2026-07-21/` because they contain participant names and incidental personal disclosures that do not belong in a public portfolio.
+
+**Same-day image check:** the transcript says photographs were taken, but no July 21 image files were found in the EDU486 workspace, the earlier camp-materials folder, the Invisible Invaders Drive folder, or the connected Drive image search. The July 16 images below remain contextual evidence; they are not relabeled as July 21 evidence.
+
 ## July 16 Classroom Evidence
 
 These photographs were received July 17 but document the July 16 planning session.
@@ -64,5 +74,6 @@ These images are reference-only. They help us understand what other teams may do
 ## Current Work Built From This Record
 
 - [Invisible Invaders Camp Operations Guide](../assignments/03-camp-unit-plan/invisible-invaders-camp-operations-guide.md)
+- [Friday Anchoring Phenomenon Routine](../assignments/03-camp-unit-plan/friday-anchoring-phenomenon-routine.md)
 - [Four Gotta-Haves and evidence map](../assignments/05-july14-camp-prep/invisible-invaders-gotta-have-checklist-evidence-map.md)
 - [Gapless science explanation](../assignments/05-july14-camp-prep/invisible-invaders-gapless-explanation.md)

@@ -12,9 +12,10 @@ This folder contains portable exports generated from the EDU486 repository work.
 - [Grounding frameworks Part 1 accessible companion DOCX](grounding-frameworks-part1.docx)
 - [AI history microplastics narrative DOCX](ai-history-microplastics-narrative.docx)
 - [CURRENT Invisible Invaders Camp Operations Guide DOCX](invisible-invaders-camp-operations-guide.docx)
+- [CURRENT Friday Anchoring Phenomenon Routine DOCX](friday-anchoring-phenomenon-routine.docx)
 - [Poster proposal DOCX](poster-proposal-draft.docx)
 - [Task 6 Puzzle Plan reading synthesis DOCX](session5-reading-notes.docx)
 - [Invisible Invaders gapless explanation DOCX](invisible-invaders-gapless-explanation.docx)
 - [Course calendar ICS](EDU486-course-calendar.ics)
 
-Superseded Planet Protectors, Task 7, opening-routine, and July 15 exports are retained in the [dated pre-consolidation archive](archive/2026-07-18-pre-consolidation/README.md). They are provenance, not current camp directions.
+Superseded Planet Protectors, Task 7, opening-routine, and July 15 exports are retained in the [July 18 archive](archive/2026-07-18-pre-consolidation/README.md). The operations-guide export from before the July 21 reconciliation is preserved in the [July 22 archive](archive/2026-07-22-pre-july21-reconciliation/README.md). They are provenance, not current camp directions.

@@ -2,10 +2,10 @@
 
 **Team:** Piter Garcia and Aastha<br>
 **Course:** EDU486, Integrating Technology in STEM<br>
-**Current through:** July 22, 2026<br>
+**Current through:** July 20, 2026<br>
 **Use this document for:** Field Friday, camp week, team preparation, materials, lesson flow, research evidence, and the showcase.
 
-This guide reconciles our July 16 planning board with the July 21 Freedom School feedback and team meetings. It replaces the competing Planet Protectors, earlier opening-routine, Task 7, July 15 commitment, and pre-feedback camp documents. Those files remain in dated archives so our working area stays clear without erasing how our thinking developed. The [current Field Friday guide](friday-anchoring-phenomenon-routine.md) is its field-side companion, not a competing plan.
+This guide brings our July 16 planning into one place. It replaces the competing Planet Protectors, earlier opening-routine, Task 7, and July 15 commitment documents. Those files remain in dated archives so our working area stays clear without erasing how our thinking developed. The [current Friday Anchoring Phenomenon Routine](friday-anchoring-phenomenon-routine.md) is its field-side companion, not a competing plan.
 
 ## Start Here
 
@@ -27,12 +27,12 @@ We will not use fear, blame, reading speed, stamina, speech, handwriting, Englis
 
 ### What we do next
 
-1. Pilot and photograph the four prepared model jars; write the known counts and reset directions.
-2. Pack the exact Field Friday kit: **eleven jars, at least three small trays, three clean scoops, three magnifiers, labels, response cards, and paper/device backups**.
-3. Confirm the Friday session length, expected three-camper group, sampling sites chosen at the beach, transport roles, and permission rules.
-4. Print or prepare the emotional thermometer, visual agenda, before-during-after cards, role cards, pathway cards, neighborhood map, and evidence-limit cards.
-5. Review the completed SASSY table and six daily lesson plans with Aastha using the [July 21 youth-informed design commitments](#daily-youth-informed-facilitation-pattern).
-6. Confirm the remaining Monday-Friday materials and decisions in the [preparation board](#preparation-board) and [decision queue](#decisions-we-still-need).
+1. Assemble and pilot the four-jar model and the sand-sampling kit using the [Friday Anchoring Phenomenon Routine](friday-anchoring-phenomenon-routine.md).
+2. Review the completed SASSY table and six daily lesson-plan copies with Aastha, then bring them to Freedom School staff on July 21.
+3. Confirm the unresolved items in the [decision queue](#decisions-we-still-need).
+4. Pack materials by day and owner using the [materials plan](#materials-and-purchases).
+5. Gather intact bicycle, rollerblade, scooter, or toy wheels and test the tread-observation and temperature tools for Tuesday.
+6. Print or prepare the visual agenda, role cards, pathway cards, neighborhood map, final-model pieces, and evidence-limit cards.
 
 ### Live working documents
 
@@ -73,7 +73,7 @@ The [Four Gotta-Haves document in Drive](https://drive.google.com/file/d/19i4R_w
 | Anchor | **Humans aren't trash cans, but we have plastics in our bodies.** |
 | Instructional question | **How does plastic break into tiny pieces, move through the environment and into living bodies, and how can we stop it fairly?** |
 | Field material | Invisible Invaders investigates **sand** at Charlotte Beach |
-| Field Friday launch | Use the [team-specific 40-minute guide](friday-anchoring-phenomenon-routine.md): beach/emotion connection, brief facilitator demonstration, before-during-after MODEL A-D investigation, three authentic sand samples, and one youth-authored question. Keep the 12-minute version only as a schedule backup. |
+| Field Friday launch | Use the [team-specific anchoring routine](friday-anchoring-phenomenon-routine.md): controlled MODEL A-D jars, honest known-count reveal, Gotta-Have 1 question, one youth question, then systematic sand sampling |
 | Core model | Youth use the [before/during/after sample model](https://docs.google.com/document/d/1mGolkzKcMzcQuTr4uxjnx0voqTR8Kffmw0B4ypQRq0k/edit) as a scaffold, build an initial pathway model early, and revise it before the Thursday showcase |
 | Place connection | Youth add observations, questions, images, icons, words, or drawings to a shared neighborhood map |
 | Discussion | Scientist circles include private thinking time, one mic, names, open questions, evidence prompts, and several ways to enter |
@@ -122,28 +122,14 @@ Campers can point, draw, speak, type, dictate, record audio, use home language, 
 
 | Day | Connecting question | Core experience | Evidence and model move | Daily product |
 | --- | --- | --- | --- | --- |
-| **Field Friday, July 24** | 🟩 **Gotta-Have 1: Earth systems are interconnected.** How can plastic move among or collect in sand, water, air, living things, and human systems even when we do not notice it at first? | Connect to the beach, watch a short demonstration, investigate four prepared model jars, then collect and map three Charlotte Beach sand samples | Compare prediction, first look, magnified evidence, and known model count; keep model and field evidence separate | Emotional check-in, before-during-after record, beach map, three samples, youth questions |
+| **Field Friday, July 24** | 🟩 **Gotta-Have 1: Earth systems are interconnected.** How can plastic move among or collect in sand, water, air, living things, and human systems even when we do not notice it at first? | Find and compare plastic pieces in four clear model jars, then collect and map six systematic Charlotte Beach sand samples | Compare visible estimate with controlled count; document where systems meet without inventing neighborhood claims or a particle's source | Initial notices, beach map, sample record, team questions |
 | **Monday, July 27** | 🟧 **Gotta-Have 2: Water transports materials.** How can moving water help plastic reach living organisms and food webs, and what can our evidence not tell us yet about route or harm? | Read or view a short article/video; examine instructor-approved fish/body evidence through a dissection, prepared sample, image, or worksheet route; build the first source-to-body pathway model | Use the article, video, and fish/body evidence to justify a possible water or food-web pathway while separating detection from exact route or harm | Initial source-to-body model and question board |
 | **Tuesday, July 28** | 🟦 **Gotta-Have 3: Living organisms respond to environmental conditions.** After wear releases smaller plastic particles, how might organisms encounter them in air, water, food, or surrounding materials, and what response evidence would we still need? | Race or roll intact bikes, rollerblades, or toy wheels; compare tread and surface temperature; examine adult-prepared sealed wear evidence or images | Preserve the image's friction/wear investigation, add **source -> friction/wear -> smaller particles**, and explicitly mark that the trial does not measure exposure, biological response, harm, or real-road quantity | Wheel evidence record, uncertainty note, and revised release model |
 | **Wednesday, July 29** | 🟪 **Gotta-Have 4: Human infrastructure influences natural systems.** Which product, transportation, drain, wastewater, waste, purchasing, and policy decisions shape these pathways, and what fair change do we want? | Return to Day 1 places and the Tuesday model; make the image's **art as advocacy** move; identify system actors; choose an audience/message; begin titled art and the tri-fold | Connect infrastructure and decision power to evidence; prepare one community/official question without blaming families | Power map, action choice, art plan, and tri-fold draft |
 | **Thursday, July 30** | 🟩🟧🟦🟪 **Gotta-Haves 1-4, synthesis.** How can one final model connect Earth systems, water transport, living organisms, and human infrastructure while keeping the climate and microplastic branches distinct? | Complete the image's unfinished **future modeling** row with one visible two-branch model; compare with Monday; finish art/tri-fold; rehearse and showcase | Trace both branches, identify shared upstream decisions, keep their causal mechanisms distinct, and show what evidence changed | Final model, titled art, message, and showcase |
 | **Friday, July 31** | 🟩🟧🟦🟪 **Gotta-Haves 1-4, evidence check.** Which checklist connections should our final model keep, question, or change after audience feedback, and why? | Sort audience feedback as **KEEP**, **QUESTION**, or **CHANGE**; make one evidence-supported model note or justify keeping it unchanged; record advice and close | Evaluate feedback without adding unsupported claims or building a new model from scratch | Dated final model, advice note, and returned materials |
 
-The [July 16 team draft in Drive](https://drive.google.com/file/d/1ht_b3mBW-9QbYrw7CsuZq2X5EyFXtiAg/view) remains the visual source for the weekly sequence. The [clean July 21 planning record](../../transcripts/2026-07-21-invisible-invaders-planning-and-youth-feedback-clean.md) updates how we facilitate it: short demonstrations, visible examples, movement, friendly missions, optional public sharing, proactive support, and daily opportunities for campers to show what they learned in their own words. The storyline still preserves the team-created moves from the image: jars and sand; wheel friction and wear; article/video and organism/body evidence; art as advocacy; and completed future modeling.
-
-## Daily Youth-Informed Facilitation Pattern
-
-**Use this pattern every day so inclusion is visible in what campers do, not only in what the plan says.**
-
-1. **PREVIEW:** Show the visual agenda, goal, choices, and time.
-2. **CONNECT:** Begin with a familiar place, object, feeling, or prior idea.
-3. **DO:** Move into a demonstration, investigation, or design task quickly.
-4. **NOTICE:** Protect quiet thinking time, then accept several response modes.
-5. **EXPLAIN AND REVISE:** Use evidence to answer one Gotta-Have question and change the model.
-6. **SHOW:** Let campers show an artifact, observation, or explanation to a friend or audience.
-7. **CLOSE:** Recognize contribution, preview what comes next, and end on time.
-
-Every day includes **one friendly mission, one movement route, one seated or low-energy route, one visible starting example, one meaningful early-finisher extension, and one proactive facilitator check-in**. Recognition is for noticing, explaining, revising, helping, and completing a scientific process, not for reading speed, public speech, stamina, or the closest guess.
+The [July 16 team draft in Drive](https://drive.google.com/file/d/1ht_b3mBW-9QbYrw7CsuZq2X5EyFXtiAg/view) is the visual source for this sequence. The current table preserves its four team-created moves: jars and sand; bike, rollerblade, or toy-wheel friction and wear; article/video and fish/body evidence; and art as advocacy tied back to Day 1 places. The photographed board shows the earlier Gotta-Have 4/Gotta-Have 1 placement for the first and advocacy days. Later in the same planning discussion, the team explicitly decided to reverse those two, so the current sequence uses **Gotta-Have 1 on Field Friday** and **Gotta-Have 4 on Wednesday**. The instructor's sample Charlotte Beach storyline was scaffolding and was removed. We completed the image's blank future-modeling row with an executable Thursday synthesis and a brief Friday evidence check.
 
 ## Field Friday: July 24
 
@@ -151,29 +137,26 @@ Every day includes **one friendly mission, one movement route, one seated or low
 
 ### Before
 
-- Prepare four controlled jars labeled **MODEL A-D** with clean sand and known counts of clean, recoverable proxy pieces. Do not crush, grind, sand, or scrape plastic.
-- Pack three empty field jars labeled **SAMPLE 1-3** and four clean backup jars. The working total is **eleven jars**.
-- Pack **at least three small trays**, three clean spoons/scoops, three magnifiers, clipboards as tray backups, known-count cards, and before-during-after response cards.
-- Prepare the emotional thermometer and visual agenda: **FEEL -> WATCH -> PREDICT -> LOOK -> MAGNIFY -> SAMPLE -> SHARE**.
-- Choose the actual sample sites with instructors **at the beach** and record site, time, weather, tool, and contamination notes.
-- Keep MODEL A-D and SAMPLE 1-3 in separate labeled bins; never imply a model jar is beach or neighborhood evidence.
-- Decide who transports the eleven jars, who rides with youth, and who helps instructors set up the wagon and station.
+- Prepare four clear jars labeled **Model Site A-D** with the same clean sand volume and known counts of clean, visible and hidden plastic pieces.
+- Never label the model jars with real neighborhoods or imply one community has more pollution without collected evidence.
+- Prepare six sand-sampling kits labeled **Beach Site A-F**, flags or symbols, the beach map, clean tools, sample bags/jars, field blanks, and contamination notes.
+- Confirm the actual sites near the lighthouse/pier with instructors and record GPS or latitude/longitude if available.
+- Pack a visual agenda, role cards, gloves in several sizes, hand-cleaning materials, clipboards, pencils, magnifiers, and a seated/low-energy route.
+- Decide who rides the bus with youth and who helps instructors set up the wagon and station.
 
 ### During
 
-The July 21 team plan uses one **40-minute session with approximately three campers**. Confirm the final schedule; use the compressed routine only if instructors retain short rotations.
+The class expects three rotations of about 25 minutes with approximately three campers in each small group. Our rotation uses:
 
-1. **Beach connection and emotional check-in, 5 minutes:** Campers share, point, draw, or pass on what they enjoy at the beach and how hidden pollution makes them feel.
-2. **Brief facilitator demonstration, 5 minutes:** Model the full label-predict-look-magnify-record-reset process without giving away the explanation.
-3. **Before-during-after model investigation, 15 minutes:** Campers predict, count what is visible, use magnification or a close-up image, compare with the known count, and explain what changed.
-4. **Authentic sand collection, 10 minutes:** Each camper collects or documents one consistent sample at a site chosen with instructors.
-5. **Show and question, 5 minutes:** Each camper shows one observation or leaves one question through a chosen mode.
+1. **[Four-jar anchoring routine, 10-12 minutes](friday-anchoring-phenomenon-routine.md):** Campers preview access routes, estimate what they can see, compare that estimate with the controlled known count, meet the larger anchor, and leave one question for the storyline.
+2. **Sand sampling, 10-12 minutes:** Campers collect or document one systematic beach sample using a written site ID, map position, time, weather, tool record, and contamination notes.
+3. **Transition, 2-3 minutes:** Close and label materials, photograph the non-identifying evidence, and place one notice or question on the board.
 
-Roles include sampler, mapper, labeler, photographer, timer, materials monitor, observer, and seated coordinator. Facilitators circulate and offer help proactively. Public reading and speaking are optional; no role owns the science.
+Roles include sampler, mapper, labeler, photographer, timer, materials monitor, observer, and seated coordinator. No role owns the science.
 
 ### After
 
-- Store SAMPLE 1-3 separately from MODEL A-D and count every prepared model piece before leaving.
+- Store Site A-F samples separately from the four controlled model jars.
 - Record anything that could contaminate a sample.
 - Photograph the site map and sample labels.
 - Save campers' exact questions for Monday's question board.
@@ -389,13 +372,13 @@ We are studying our teaching, not testing whether children are "good" at science
 
 ### Order already requested
 
-The live sheet currently codes **USD 68.00** to `Getting Small` and **USD 18.79** for filter paper to `All Camp`, even though Piter added that shared line from the Invisible Invaders need. The total value connected to our planning remains **USD 86.79 before tax**, with **USD 13.21** left below the USD 100 ceiling before tax or price changes. Every line identifies who added it and why.
+The current team order is **USD 86.79 before tax**, leaving **USD 13.21** of the USD 100 limit for tax or price changes. Every line identifies Piter Garcia as the person who added it for Invisible Invaders and briefly states why.
 
 [Open the itemized order CSV in Drive](https://drive.google.com/file/d/1pEs3QpiRRiq0zpdvyZKG4JDjJchvxLV3/view) or [open the live order sheet](https://docs.google.com/spreadsheets/d/1rAuGt8iT-CAx4Oy1cqz_SsVQqqPzi5mE9v7pRCODSAo/edit?gid=1535708448#gid=1535708448).
 
 | Item | Quantity | Estimated subtotal | Use |
 | --- | ---: | ---: | --- |
-| 90 mm qualitative filter paper | 1 shared pack, coded All Camp | $18.79 | Filter samples before observation; verify funnel fit |
+| 90 mm qualitative filter paper | 1 pack | $18.79 | Filter samples before observation; verify funnel fit |
 | Pre-cleaned slides and coverslips | 1 set | $17.99 | Mount tape lifts or approved prepared evidence |
 | Powder-free nitrile gloves, small | 1 box | $9.98 | Fitted option for smaller hands |
 | Powder-free nitrile gloves, large | 1 box | $9.98 | Fitted option for larger hands/staff |
@@ -404,25 +387,16 @@ The live sheet currently codes **USD 68.00** to `Getting Small` and **USD 18.79*
 | Washable low-odor glue sticks | 1 pack | $6.88 | Advocacy art |
 | Black permanent markers | 1 pack | $7.97 | Written sample IDs |
 | Multicolor masking tape | 1 pack | $6.24 | Color plus written ID and symbol |
-| **Total connected to our planning** | **9 purchase lines** | **$86.79** | **$13.21 buffer before tax; team-coded subtotal is $68.00** |
+| **Total** | **9 lines** | **$86.79** | **$13.21 buffer before tax** |
 
 The lab-quality salt line is an **All Camp** order. It is not ours and is not part of the $86.79 total. We add a separate quantity only if instructors confirm the shared supply is insufficient.
-
-### July 21 no-cost reservations
-
-| Item | Quantity | Live-sheet status | Why |
-| --- | ---: | --- | --- |
-| Small containment trays or clean clipboard backups | At least 3 | `at LeChase Hall` | One stable surface per camper for MODEL A-D |
-| Clean metal spoons or scoops | At least 3 | `at LeChase Hall` | One clean tool per field sample reduces cross-contamination |
-
-These reservations add **USD 0**. Buy only if the physical checkout shows the existing trays/clipboards or metal scoops are unavailable or unsuitable.
 
 ### Assemble from existing stock
 
 | Kit | Required materials |
 | --- | --- |
-| Field Friday model | 4 prepared MODEL A-D jars, washed sand, known recoverable proxy pieces, 3 trays, 3 magnifiers, known-count cards, emotional thermometer, written/symbol labels |
-| Field sand sampling | 3 SAMPLE 1-3 jars plus 4 backups, 3 clean metal scoops, map, phone/GPS if approved, clipboards, field forms, field blank, clean/used tool bins |
+| Four-jar mystery | 4 clear jars with lids, washed sand, known clean plastic pieces, trays, magnifiers, count cards, written/symbol labels A-D |
+| Field sand sampling | 6 sample containers A-F, clean metal scoops, quadrat/measuring tool, flags, map, GPS/phone if approved, clipboards, field forms, field blank, clean/used tool bins |
 | Monday organism/body evidence | Approved article/video, fish/body evidence or equivalent image and worksheet, display, source-to-body pathway cards, content preview, environment-only route |
 | Tuesday wheel investigation | Intact bicycle, rollerblade, scooter, or toy wheels; safe route markers; tread cards; magnifiers/shared camera; infrared thermometers or approved temperature tools; adult-prepared sealed wear evidence; observation forms |
 | Observation backup | Shared camera/display, magnifiers, rulers, enlarged still images, paper and digital records |
@@ -508,12 +482,12 @@ Trusted evidence:
 
 | By | Action | Owner | Status |
 | --- | --- | --- | --- |
-| **July 21** | Meet Freedom School staff/youth and gather engagement and access feedback | Piter + Aastha/instructors | **Done; reconciled July 22** |
-| **July 22** | Pilot MODEL A-D; write counts/reset directions; photograph the controlled setup | Piter + Aastha | To do |
-| **July 22** | Reserve 11 jars, 3 trays, 3 scoops, magnifiers, clipboards, camera/iPads, and clean/used bins | Piter + Aastha | To do |
-| **July 22** | Prepare emotional thermometer, before-during-after cards, agenda, roles, labels, and paper backups | Split at team check-in | To do |
-| **July 22** | Review revised Field Friday guide and completed daily plans | Piter + Aastha | Ready for team review |
-| **July 22-23** | Confirm schedule/sites/transport/permissions; pack Field Friday bins | Piter + Aastha/instructors | To do |
+| **July 18-20** | Pilot four-jar mystery; write known counts and reset instructions | Piter + Aastha | To do |
+| **July 18-20** | Check out jars, camera, sand tools, intact wheels, temperature tools, art supplies, identity materials, and PPE | Piter + Aastha | To do |
+| **July 18-20** | Print/prepare agenda, roles, pathway cards, evidence limits, wheel evidence forms, map, source cards, and final-model pieces | Split at team check-in | To do |
+| **July 20** | Review the completed lesson-plan copies and SASSY table | Piter + Aastha | Ready for team review |
+| **July 21** | Bring materials and plans to Freedom School; meet staff and gather feedback | Piter + Aastha/instructors | Scheduled |
+| **July 21-23** | Revise from staff feedback; pack Field Friday bins | Piter + Aastha | To do |
 | **July 24** | Charlotte Beach Field Friday and team formation | Team/instructors | Scheduled |
 | **July 25-26** | Process questions/evidence and prepare Monday | Piter + Aastha | To do |
 | **July 27-31** | Facilitate, debrief, and revise daily | Piter + Aastha | Scheduled |
@@ -525,21 +499,19 @@ Trusted evidence:
 
 ## Decisions We Still Need
 
-- [ ] Confirm the final Field Friday session length. The July 21 team plan uses 40 minutes; the 12-minute routine is only a schedule backup.
-- [ ] Confirm the expected group remains three campers and the room/staff plan for camp week.
-- [ ] Choose the exact Charlotte Beach sand sites with instructors at the beach and decide whether GPS/latitude-longitude will be used.
-- [ ] Decide who transports the eleven jars, who rides the bus, and who sets up the station.
+- [ ] Confirm final youth count, team size, daily schedule, room, and staff support.
+- [ ] Confirm exact Charlotte Beach sand sites and whether GPS/latitude-longitude will be used.
+- [ ] Decide who rides the bus and who sets up the station.
 - [ ] Confirm the approved Monday fish/body evidence route; if fish/KOH is used, confirm who prepares it and handles waste.
 - [ ] Confirm which intact wheels, safe rolling space, temperature tools, and adult-prepared sealed wear evidence are available for Tuesday.
 - [ ] Confirm the official/community contact and whether a call, interview, or written question is realistic.
 - [ ] Confirm family-showcase time, invitation process, presentation space, and accessibility.
 - [ ] Confirm photo, audio, quotation, and youth-artifact permissions.
-- [ ] Confirm identity/recognition supplies and an equivalent no-token route.
-- [ ] Locate the July 21 planning photographs mentioned in the transcript; do not fabricate or substitute them.
+- [ ] Confirm identity-bead supplies and an equivalent no-bead route.
 - [ ] Confirm whether the optional greenhouse extension adds value after the core storyline is ready.
 - [ ] Confirm the poster printing cutoff; use July 29 at 10 p.m. only as the working target.
 
-## Planning Evidence
+## July 16 Evidence
 
 These classroom artifacts document the same planning session. They were received July 17 but record July 16 work.
 
@@ -556,10 +528,8 @@ These classroom artifacts document the same planning session. They were received
 - [Camp planning and student-engagement transcript](https://drive.google.com/file/d/1BZgCQx4B69ZbdZDvBKlFJY8ukSJhXGF8/view)
 - [Microplastics health-planning and schedule transcript](https://drive.google.com/file/d/1-6ZIhxJ3glkyh_xfLyQdQPN4ptw0RJsU/view)
 
-The [clean July 21 planning and youth-feedback record](../../transcripts/2026-07-21-invisible-invaders-planning-and-youth-feedback-clean.md) documents the later decisions used in this guide. Four raw transcripts are preserved locally because they contain youth names, personal disclosures, and unrelated conversation. The July 21 lesson transcript says photos were taken, but no same-day image files were located during reconciliation; this remains an explicit evidence gap rather than an invented reference.
-
 Automatic transcript wording and speaker labels are unverified. Exact quotations must be checked against the recording.
 
 ## AI Use Disclosure
 
-I used OpenAI Codex through July 22, 2026 under my supervision and guidance to make the content more inclusive and accessible by organizing, structuring, formatting, cross-referencing, and clarifying the work that I and my team provided. I, Piter Garcia, supplied and reviewed the course context, transcripts, images, team decisions, Puzzle Plan goals, inclusion requirements, materials information, and corrections. AI helped reconcile the July 21 feedback, identify missing causal or logistical links, build accessible versions of the plans, and validate direct sources. I remain responsible for the scientific claims, representation of Aastha's contributions, safety decisions, final revisions, and everything we submit or use with campers.
+I used OpenAI Codex on July 18, 2026 under my supervision and guidance to make the content more inclusive and accessible by organizing, structuring, formatting, cross-referencing, and clarifying the work that I and my team provided. I, Piter Garcia, supplied and reviewed the course context, transcripts, images, team decisions, Puzzle Plan goals, inclusion requirements, materials information, and corrections. AI helped reconcile the documents, identify missing causal or logistical links, build accessible versions of the plans, and validate direct sources. I remain responsible for the scientific claims, representation of Aastha's contributions, safety decisions, final revisions, and everything we submit or use with campers.

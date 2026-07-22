@@ -4,7 +4,7 @@ The syllabus says that when GenAI is used, it should be credited by source, outp
 
 ## July 22, 2026 - Module 2 Reflection Journal
 
-- Tool/source: OpenAI Codex under Piter Garcia's supervision; Piter's [EDE448 Sensory Walk LaTeX Package](https://github.com/pzg8794/EDE448-Sensory_Walk_LaTeX_Package) as the direct document template; the completed Module 1 reflection as a content-organization reference; the Module 2 prompt and syllabus; Piter's live Heather Table; all assigned Module 2 readings; July 14-21 public transcripts; the current Invisible Invaders operations guide and daily plans; July 21 youth and staff feedback; and Piter's prior Puzzle Plan/EQUITAS, UDL, neurodivergence, chronic illness, and identity-safe design work
+- Tool/source: OpenAI Codex under Piter Garcia's supervision; Piter's [EDE448 Sensory Walk LaTeX Package](https://github.com/pzg8794/EDE448-Sensory_Walk_LaTeX_Package) as the direct document template; the completed Module 1 reflection as a voice, lived-experience, and content-organization reference; the Module 2 prompt and syllabus; Piter's live Heather Table; all assigned Module 2 readings; July 14-21 public transcripts; the current Invisible Invaders operations guide and daily plans; July 21 youth and staff feedback; and Piter's prior Puzzle Plan/EQUITAS, UDL, neurodivergence, chronic illness, and identity-safe design work
 - Purpose: turn the reading set and course experiences into a first-person reflection on the principles that actually guide Piter and Aastha's camp pedagogy, while making the document readable, source-linked, editable, and transparent about evidence limits
 - Outputs created:
   - [editable LaTeX journal](../assignments/06-module2-reflection/module2-reflection.tex)
@@ -13,13 +13,14 @@ The syllabus says that when GenAI is used, it should be credited by source, outp
   - [compiled submission PDF](../public-submissions/edu486-module2-reflection-piter-garcia.pdf)
 - Human guidance and decisions:
   - use the Sensory Walk package's Warner title page, red rules and section headings, blue purpose panel, metadata table, evidence table, narrow body margins, APA references, and plain numbered pages
+  - preserve Piter's exact section, paragraph, table, page-break, italic-emphasis, and title-page structure while replacing or reducing generic wording instead of adding content
   - center neurodivergence, chronic illness, disability, multilingual access, multiple identities, and the distinction between access barriers and thinking barriers
   - connect every principle to concrete Invisible Invaders decisions instead of producing an abstract reading summary
   - retain the human-body anchor, approved driving question, Four Gotta-Haves, scientific evidence limits, Aastha's role, and July 21 youth feedback
   - critically adapt Building Thinking Classrooms so visible thinking is not reduced to standing, fast speech, or one collaboration pattern
   - cite the supplied 2005 Wiggins and McTighe edition while explicitly recording the course schedule's 2021 label
 - Verification: the LaTeX source compiled with BibTeX; all seven pages were rendered and inspected; no undefined citations, duplicate PDF anchors, overfull boxes, clipping, orphaned headings, or blank pages remained; bibliography destinations were checked against direct publisher, DOI, ERIC, NSTA, Scholastic, Corwin, CITE Journal, and CAST records
-- Disclosure used in the artifact: AI was used under Piter Garcia's supervision and guidance to organize, structure, format, and enhance Piter-provided content for inclusion and accessibility; support cross-document synthesis, source validation, direct-source linking, and causal/access checks; and preserve Piter's responsibility for the interpretation and submission.
+- Disclosure record: the full disclosure remains in this repository log and as commented source text in the editable LaTeX file; it is not rendered in the current submission PDF.
 
 ## July 22, 2026 - July 21 Transcript, Template, Materials, And Archive Reconciliation
 

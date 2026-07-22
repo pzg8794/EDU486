@@ -118,7 +118,7 @@ The [editable Module 2 Reflection](../assignments/06-module2-reflection/module2-
 - [personal EDU486 Heather Table](https://docs.google.com/document/d/1Cnw_v00DsZclHObcmnljwXzEw-kiReCE6oStXrMoGAg/edit)
 - protected assigned reading copies stored under `_local-course-materials/modules/module-2/`
 - [Piter's EDE448 Sensory Walk LaTeX Package](https://github.com/pzg8794/EDE448-Sensory_Walk_LaTeX_Package), used as the direct layout and typography template; EDU486 reflection content and references remain original
-- completed Module 1 reflection retained locally as a content-organization reference, not copied into the public repository
+- completed Module 1 reflection retained locally as a voice, lived-experience, and content-organization reference, not copied into the public repository
 - [current Invisible Invaders Camp Operations Guide](../assignments/03-camp-unit-plan/invisible-invaders-camp-operations-guide.md)
 - [July 14-21 public transcript record](../transcripts/README.md), especially the [July 21 youth and staff feedback synthesis](../transcripts/2026-07-21-invisible-invaders-planning-and-youth-feedback-clean.md)
 - Piter's earlier Puzzle Plan/EQUITAS, UDL, neurodivergence, chronic illness, multilingual-access, and identity-safe design work named in the prior-work section below

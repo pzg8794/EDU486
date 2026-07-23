@@ -61,7 +61,7 @@ The class used three location codes: **A = LeChase 285 classroom, B = preparatio
 | S14 | Natural/plastic reference pane and found-plastic samples | Confirmed on class inventory and tour | PRESENT | Compare suspected particles with known examples | Reserve as reference evidence, not as proof of sample identity |
 | S15 | Microplastic identification keys/guides | Explicitly described during tour | PRESENT | Distinguish fiber, fragment, film, and foam categories | Put one key at each observation station |
 | S16 | Aquarium/tank with substrate | 1 visible | CHECK | Optional movement/settling model only | Clean and use only if it serves a specific activity question |
-| S17 | Small containment trays or clean clipboard backups | Small red tray needs re-identification; approximately 12+ clipboards are visible | CHECK/PRESENT | One stable surface per camper for the prepared MODEL A-D investigation | Reserve at least 3 trays; use 3 clean clipboards only as the documented backup |
+| S17 | Small containment trays or clean clipboard backups | Small red tray needs re-identification; approximately 12+ clipboards are visible | CHECK/PRESENT | One stable surface per camper for the prepared reference-model investigation | Reserve at least 3 trays; use 3 clean clipboards only as the documented backup |
 
 ## 2. Microscopy, Measurement, And Laboratory Equipment
 
@@ -133,7 +133,7 @@ The class used three location codes: **A = LeChase 285 classroom, B = preparatio
 
 | Activity need | Inventory match | Readiness | Decision |
 |---|---|---|---|
-| Field Friday prepared and authentic-sample kits | S01-S03, S07, S17, L09 | **CHECK** | Reserve 11 jars total, 3 trays, 3 clean scoops, 3 magnifiers, labels, and separate model/field bins |
+| Field Friday prepared and authentic-sample kits | S01-S03, S07, S17, L09 | **CHECK** | Reserve 2 reference jars, 1 mystery-clue container, 6 pair-sample jars, 2 backups, 3 trays, 6 clean scoops, 3 magnifiers, labels, and separate model/field bins |
 | Filter-and-slide observation | S05, L01-L07 | **CHECK** | Verify funnels, correct filter paper, slides, clear tape, and at least one camera-equipped microscope station |
 | Shared microscope view and non-eyepiece route | L01-L03, T01-T02 | **CHECK** | Test camera/software compatibility and prepare still-image/paper alternatives |
 | Location, time, and contamination records | T02-T04, C06-C08 | **PRESENT** | Build one paper and one digital route using the same fields |
@@ -177,8 +177,8 @@ These are **not yet approved orders**. They are the only current categories that
 Complete this before adding an Amazon link:
 
 - [ ] Count matched clean jars/containers and lids for indoor, outdoor, and blank samples.
-- [ ] Pack exactly 11 Field Friday jars: 4 MODEL A-D, 3 SAMPLE 1-3, and 4 clean backups.
-- [ ] Reserve at least 3 small trays or clean clipboard backups and 3 clean metal spoons/scoops.
+- [ ] Pack exactly 11 Friday containers: 2 reference jars, 1 mystery-clue container, 6 pair-sample jars, and 2 clean backups.
+- [ ] Reserve at least 3 small trays or clean clipboard backups and 6 clean metal spoons/scoops.
 - [ ] Count funnels, correct filter papers, clean slides, tweezers, clear tape, and labeling tape.
 - [ ] Test at least one microscope camera, computer, and projection/camera-feed route together.
 - [ ] Count appropriate gloves and goggles; check sizes, condition, and allergies.

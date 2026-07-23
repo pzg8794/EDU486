@@ -11,8 +11,10 @@ This folder contains portable exports generated from the EDU486 repository work.
 - [Grounding frameworks Part 1 one-page PDF](grounding-frameworks-part1.pdf)
 - [Grounding frameworks Part 1 accessible companion DOCX](grounding-frameworks-part1.docx)
 - [AI history microplastics narrative DOCX](ai-history-microplastics-narrative.docx)
-- [CURRENT Invisible Invaders Camp Operations Guide DOCX](invisible-invaders-camp-operations-guide.docx)
+- [July 22 Camp Operations Guide DOCX snapshot](invisible-invaders-camp-operations-guide.docx) - use the current Markdown guide and live Friday document for July 23 directions
 - [CURRENT Friday Anchoring Phenomenon Routine DOCX](friday-anchoring-phenomenon-routine.docx)
+- [Field Friday Visual Guide PPTX](invisible-invaders-field-friday-visual-guide.pptx)
+- [Field Friday Visual Guide PDF](invisible-invaders-field-friday-visual-guide.pdf)
 - [CURRENT Sand Density-Separation And Filtration Guide DOCX](invisible-invaders-sand-investigation-guide.docx)
 - [CURRENT Sand Density-Separation And Filtration Guide PDF](invisible-invaders-sand-investigation-guide.pdf)
 - [Poster proposal DOCX](poster-proposal-draft.docx)

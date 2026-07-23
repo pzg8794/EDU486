@@ -1,29 +1,33 @@
 # EDU486 Current Work Plan
 
-**Current through July 22, 2026.** The goal is to make Invisible Invaders teachable, safe, coherent, inclusive, and easy for Piter and Aastha to run. The [Camp Operations Guide](../assignments/03-camp-unit-plan/invisible-invaders-camp-operations-guide.md) is the authoritative plan; the [July 21 clean record](../transcripts/2026-07-21-invisible-invaders-planning-and-youth-feedback-clean.md) explains the latest changes.
+**Current through July 23, 2026.** The goal is to make Invisible Invaders teachable, safe, coherent, inclusive, and easy for Piter and Aastha to run. The [Camp Operations Guide](../assignments/03-camp-unit-plan/invisible-invaders-camp-operations-guide.md) is the authoritative plan; the [Friday Anchoring Phenomenon Routine](../assignments/03-camp-unit-plan/friday-anchoring-phenomenon-routine.md) contains the exact current Field Friday script and handoff.
 
 ## Do First: Wednesday-Thursday, July 22-23
 
 | Status | Action | Owner | Done when |
 | --- | --- | --- | --- |
 | [ ] | Review the current operations guide, Friday routine, SASSY table, and six daily plans together | Piter + Aastha | Both approve the sequence, roles, and language or record one named correction |
-| [ ] | Build and pilot MODEL A-D using the published counts | Piter; Aastha checks | Every piece is recoverable, the first-look/magnified difference works, and reset directions are written |
-| [ ] | Pack the exact Field Friday kit | Shared | 11 jars, at least 3 trays, 3 clean scoops, 3 magnifiers, labels, cards, map, timer, camera, and paper backups are counted |
-| [ ] | Make the emotional thermometer, visual agenda, known-count cards, and three before-during-after cards | Piter | Text, symbols, color labels, and response choices are readable at a glance |
+| [ ] | Build and pilot the two reference models and matching mystery clue | Piter; Aastha checks | Every proxy piece is recoverable, the match uses more than one observable feature, and the answer/reset card is written |
+| [ ] | Pack the exact Field Friday kit | Shared | 2 reference jars, 1 mystery clue, 6 pair-sample jars, 2 backups, at least 3 trays, 6 clean scoops, 3 magnifiers, labels, cards, map, timer, camera, and paper backups are counted |
+| [ ] | Print the six-tab packet and prepare the eight-slide visual guide | Piter | Text, symbols, color labels, response choices, and the fictional-case/evidence-limit language are readable at a glance |
 | [ ] | Confirm schedule, expected camper count, sites, transport, permissions, and weather backup | Shared + instructors | Each item has a written answer and owner |
-| [ ] | Reserve shared materials and record any true shortage immediately | Shared | Trays and scoops remain USD 0 reservations unless the physical check shows they are missing |
+| [ ] | Reserve shared materials and record any true shortage immediately | Shared | Three trays and three scoops remain USD 0 reservations; confirm three additional clean scoops before buying anything |
 
 ## Field Friday: July 24
 
 Follow the [40-minute Friday routine](../assignments/03-camp-unit-plan/friday-anchoring-phenomenon-routine.md):
 
-1. **0-5 minutes:** connect to the beach and offer the emotional/participation check-in.
-2. **5-10 minutes:** demonstrate label, predict, look, magnify, record, and reset.
-3. **10-25 minutes:** campers complete the before-during-after model investigation.
-4. **25-35 minutes:** collect three traceable field samples at instructor-approved sites.
-5. **35-40 minutes:** preserve one observation or youth question for Monday.
+1. **0-3 minutes:** welcome campers, show the full visual sequence, and offer participation routes.
+2. **3-7 minutes:** launch the clearly fictional bird-and-sand case.
+3. **7-10 minutes:** demonstrate one complete predict-look-magnify-record-reset cycle.
+4. **10-18 minutes:** investigate the Durand prepared reference model.
+5. **18-26 minutes:** repeat the same method with the Ontario reference model.
+6. **26-30 minutes:** match the mystery clue, reveal the known answer, and name a model limit.
+7. **30-34 minutes:** choose and map safe real sampling sites.
+8. **34-38 minutes:** collect, seal, label, and map six traceable pair samples.
+9. **38-40 minutes:** preserve one observation or youth question for Monday.
 
-**Protect these boundaries:** MODEL A-D are controlled models, SAMPLE 1-3 are field samples, visible particles remain suspected until confirmed, and nobody is required to discuss health, touch materials, read aloud, or speak publicly. Use the 12-minute routine only if instructors change the schedule.
+**Protect these boundaries:** the bird case is fictional; prepared reference models do not measure either beach; field samples remain sealed and separate; visible particles remain suspected until confirmed; and nobody is required to discuss health, touch materials, read aloud, or speak publicly. Use the 12-minute routine only if instructors change the schedule.
 
 ## Prepare Camp Week: July 27-31
 

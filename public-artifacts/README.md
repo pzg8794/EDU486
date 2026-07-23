@@ -25,6 +25,9 @@ These boards are reference-only. They help us see what other teams may do and wh
 ## Course And Assignment Visuals
 
 - [Invisible Invaders sample model, editable Google Doc](https://docs.google.com/document/d/1mGolkzKcMzcQuTr4uxjnx0voqTR8Kffmw0B4ypQRq0k/edit)
+- [Field Friday visual guide, editable Google Slides](https://docs.google.com/presentation/d/1aEEMEWiIwTtmNnP2zNhW21cBl0Aow-OQW-kSC7mMfrk/edit)
+- [Field Friday visual agenda](invisible-invaders-field-friday-visual-agenda.png)
+- [Field Friday sampling steps](invisible-invaders-field-friday-sampling-steps.png)
 - [Invisible Invaders sample model, one-page PDF](invisible-invaders-sample-model.pdf)
 - [Invisible Invaders sample-model panels, combined PNG](invisible-invaders-sample-model-panels.png)
 - [Invisible Invaders sample-model panels, editable SVG](../assignments/05-july14-camp-prep/invisible-invaders-sample-model-panels.svg)

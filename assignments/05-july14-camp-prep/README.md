@@ -53,8 +53,8 @@ This folder now holds the active supporting evidence for the [single current Cam
 ## Do Next: July 22-24
 
 - [ ] Review the current guide, Friday routine, SASSY table, and six daily plans with Aastha.
-- [ ] Build, pilot, photograph, count, and reset MODEL A-D.
-- [ ] Pack 11 jars, at least 3 trays, 3 clean scoops, 3 magnifiers, and paper/device backups.
-- [ ] Prepare the visual agenda, emotional thermometer, known-count cards, and three before-during-after cards.
+- [ ] Build, pilot, photograph, count, and reset the Durand and Ontario reference models plus the matching mystery clue.
+- [ ] Pack 11 Friday containers, at least 3 trays, 6 clean scoops, 3 magnifiers, and paper/device backups.
+- [ ] Print the six-tab handout packet and prepare the eight-slide visual guide, facilitator answer card, and model/field labels.
 - [ ] Confirm the 40-minute session, expected three-camper group, instructor-approved sites, transport, permissions, and weather backup.
 - [ ] Use the live order sheet to record only true shortages; current tray and scoop entries are USD 0 reservations.

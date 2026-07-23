@@ -6,10 +6,10 @@ Dates combine the syllabus, July 10 email, July 16 class planning, and current t
 
 | Date | Work / Event | What must be ready |
 | --- | --- | --- |
-| **July 18-20, 2026** | Invisible Invaders preparation | Pilot four-jar model; check out equipment; prepare map, cards, forms, and daily plans |
+| **July 18-23, 2026** | Invisible Invaders preparation | Pilot two reference models and the matching mystery clue; check out equipment; prepare map, cards, forms, visuals, and daily plans |
 | **Tuesday, July 21** | Freedom School staff review | Bring materials and lesson plans; meet teachers/staff; gather feedback; this is not full setup |
 | **July 21-23** | Revise and pack | Apply staff feedback; assign co-teaching roles; pack Field Friday bins |
-| **Friday, July 24** | Charlotte Beach Field Friday | 40-minute four-jar model investigation, three traceable sand samples, youth questions, and team formation; 12-minute backup only if the schedule changes |
+| **Friday, July 24** | Charlotte Beach Field Friday | 40-minute fictional evidence-matching case, six traceable pair samples, youth questions, and team formation; 12-minute backup only if the schedule changes |
 | **July 25-26** | Process and prepare | Preserve youth questions; process evidence; prepare Monday stations |
 | **Monday, July 27** | Camp: organism evidence and first model | Article/video, approved fish/body evidence or equivalent image/worksheet, first source-to-body model, map return |
 | **Tuesday, July 28** | Camp: friction, wear, and evidence limits | Intact-wheel before/after observations, tread and temperature records, sealed evidence, release-model revision |

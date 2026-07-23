@@ -2,6 +2,28 @@
 
 The syllabus says that when GenAI is used, it should be credited by source, output, and purpose. This log makes that crediting easy to maintain.
 
+## July 23, 2026 - Field Friday Source Packet, Lesson, Handouts, And Visual Guide
+
+- Tool/source: OpenAI Codex under Piter Garcia's supervision; every tab of the newer [Friday source packet](https://docs.google.com/document/d/1vpMdBbTJAJRYH0OOQwd1GC8pjrRMzCu8UoeZ5RVQI80/edit); the current Invisible Invaders anchor, driving question, Gotta-Have 1, operations guide, sand-processing guide, and daily plan; and direct EPA, NOAA, FDA, and CAST sources
+- Purpose: turn the newer Friday packet into one complete, teach-from-it lesson with exact timing, co-teaching language, printable student records, visual directions, access routes, scientific evidence limits, and a traceable handoff to Monday
+- Outputs created or revised:
+  - [seven-tab editable Friday Anchoring Phenomenon Routine](https://docs.google.com/document/d/16iqraS0TefwyGQdTOlp2s-sQnIWB6DgCOptWtB8vWJ0/edit)
+  - [repository facilitator guide](../assignments/03-camp-unit-plan/friday-anchoring-phenomenon-routine.md)
+  - [current editable Camp Operations Guide](https://docs.google.com/document/d/1LueJ9NX6MP257ywABKTDu-vVWVYzTwRnNDK8fgJx4e0/edit) and [repository guide](../assignments/03-camp-unit-plan/invisible-invaders-camp-operations-guide.md)
+  - [current Monday sand-processing guide](../assignments/03-camp-unit-plan/sand-density-separation-and-filtration-guide.md), [DOCX](../public-submissions/invisible-invaders-sand-investigation-guide.docx), and [PDF](../public-submissions/invisible-invaders-sand-investigation-guide.pdf)
+  - [editable eight-slide visual guide](https://docs.google.com/presentation/d/1aEEMEWiIwTtmNnP2zNhW21cBl0Aow-OQW-kSC7mMfrk/edit)
+  - [portable visual-guide PPTX](../public-submissions/invisible-invaders-field-friday-visual-guide.pptx) and [PDF](../public-submissions/invisible-invaders-field-friday-visual-guide.pdf)
+  - [visual-agenda PNG](../public-artifacts/invisible-invaders-field-friday-visual-agenda.png) and [sampling-steps PNG](../public-artifacts/invisible-invaders-field-friday-sampling-steps.png)
+- Human guidance and decisions:
+  - preserve the source packet's Durand/Ontario records, investigation mission, reflection, sampling record, and sampling protocol instead of replacing them with an abstract summary
+  - identify the bird-and-sand case as fictional, use two prepared reference models plus one matching mystery clue, and never present those proxies as actual beach-composition evidence
+  - collect six pair samples with matching jar, lid, map, and record IDs; keep every location separate
+  - do not pour field samples into one shared saltwater jar; add prepared brine later to each labeled sample
+  - keep the 40-minute lesson current and the 12-minute sequence as a schedule backup
+  - retain one-step spoken directions, the full visible sequence, proactive help, seated/touch-free/quiet/partner routes, optional public response, and re-entry without lowering the evidence goal
+- Verification: all seven target tabs were read back after editing; required card copies and evidence limits were checked; the document contains five native Drive links, one date chip, and two embedded visuals; the Google Doc was exported as a 21-page tabbed PDF and every page was rendered and visually inspected; the eight-slide deck and revised Monday guide were rendered and visually inspected with no clipping, overlap, or blank pages; the live operations guide was read back after its Friday flow, quantities, prep language, and visual-guide link were reconciled
+- Disclosure: AI was used under Piter Garcia's supervision to organize, structure, format, visualize, and enhance Piter-, Aastha-, team-, and source-provided content for accessibility and inclusion. Piter guided and reviewed the lesson decisions, evidence limits, access requirements, sources, and teammate representation and remains responsible for final use.
+
 ## July 22, 2026 - Sand Density-Separation And Filtration Camp Guide
 
 - Tool/source: OpenAI Codex under Piter Garcia's supervision; Dr. April's July 9 recorded demonstration; the current Invisible Invaders operations guide, Friday routine, materials inventory, and July 21 camp plan; NOAA's direct laboratory methods manual; EPA's direct coastal sediment-sampling guidance; and EPA's citizen-science quality-assurance handbook

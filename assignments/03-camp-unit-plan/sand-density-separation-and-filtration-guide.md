@@ -3,7 +3,7 @@
 **Team:** Piter Garcia and Aastha<br>
 **Camp:** Get Real! Science Camp - Invisible Invaders<br>
 **Use:** Collect, sieve, density-separate, filter, and examine Charlotte Beach sand with campers<br>
-**Current through:** July 22, 2026
+**Current through:** July 23, 2026
 
 > **TECHNICALLY ACCURATE NAME:** We are not filtering sand. We are **sieving the sand, using concentrated saltwater to density-separate material, and filtering the upper saltwater layer** after the heavier sand settles.
 
@@ -17,7 +17,7 @@ Use this as a three-part investigation rather than rushing an authentic sample:
 
 | Camp moment | What campers do | Approximate time |
 | --- | --- | ---: |
-| **Field Friday** | Collect, label, map, and seal three consistent sand samples | 10 minutes within the Friday routine |
+| **Field Friday** | Collect, label, map, and seal six traceable pair samples | 8 minutes within the Friday routine |
 | **Monday** | Sieve, sort visible material, add prepared brine, mix, and begin settling | 25-35 minutes |
 | **Tuesday** | Observe the layers without disturbing them, then filter the upper liquid | 15-25 minutes |
 | **Wednesday** | Examine the dried filters, make tape-lift slides, record suspected particles, compare the blank, and revise the model | 30-45 minutes |
@@ -58,23 +58,23 @@ This guide adds a fixed camp ratio, a procedural blank, written contamination no
 
 ## Materials
 
-### For three field samples plus one procedural blank
+### For six field samples plus one procedural blank
 
-- 4 clean 500 mL glass processing jars with tight lids, labeled **SAMPLE 1**, **SAMPLE 2**, **SAMPLE 3**, and **BLANK**
-- the three sealed Field Friday sand jars and map records
+- 7 clean 500 mL glass processing jars with tight lids, labeled **SAMPLE 1-6** and **BLANK**
+- the six sealed Field Friday sand jars and matching map/record cards
 - shared **All Camp** lab-quality sodium chloride; this was not an Invisible Invaders purchase
 - distilled or deionized water
-- at least 1.0 L of adult-prepared concentrated saltwater, plus extra for rinsing or a spill
+- 2.0 L of adult-prepared concentrated saltwater, providing the 1.4 L planned for six samples plus the blank and a measured reserve for rinsing or a spill
 - graduated cylinder or marked glass measuring cup
 - balance, weighing paper or clean metal/glass weighing dish, and scoop for preparing saltwater
 - stacked metal sieves, largest mesh on top, then medium, then smallest
 - clean metal spoons or scoops, ideally one per sample
-- 4 stable trays or clean clipboard backups
+- at least 3 stable trays or clean clipboard backups; process samples in clearly labeled batches if seven trays are unavailable
 - white glass, metal, or clean paper sorting surfaces
 - clean tweezers or forceps
-- 1-4 porcelain or glass funnels; the current inventory confirms their presence but not the count, so reserve and test them before camp. Ideally use one per sample and blank. If only one is available, process the BLANK first and use the instructor-approved cleaning procedure between samples.
+- 1-7 porcelain or glass funnels; the current inventory confirms their presence but not the count, so reserve and test them before camp. Ideally use one per active sample and blank. If only one is available, process the BLANK first and use the instructor-approved cleaning procedure between samples.
 - 90 mm qualitative filter papers verified to fit the funnels
-- 4 clean glass receiving jars or beakers
+- 7 clean glass receiving jars or beakers
 - clean aluminum foil for loose covers
 - pre-cleaned microscope slides
 - crystal-clear tape and dispensers
@@ -134,7 +134,7 @@ The teaching point is comparative: concentrated saltwater is denser than fresh w
 
 ### 4. Establish one camp processing standard
 
-Pilot this starting standard and then use the same values for SAMPLE 1-3:
+Pilot this starting standard and then use the same values for SAMPLE 1-6:
 
 - **100 mL of the combined bottom two sieve fractions** per processing jar
 - **200 mL prepared brine** per jar
@@ -176,12 +176,12 @@ If the jar size or available sample requires a different ratio, Piter, Aastha, a
 
 This phase is already embedded in the [Friday Anchoring Phenomenon Routine](friday-anchoring-phenomenon-routine.md).
 
-1. Match SAMPLE 1-3 to the map before collecting.
+1. Match each pair's SAMPLE 1-6 ID to its map/record card before collecting.
 2. Place the sampling square at the instructor-approved site.
 3. Use a clean metal scoop to collect the upper approximately **1 cm** in a systematic pattern across the square. Use the same row pattern, depth, and scoop amount at each site.
 4. Record site, time, weather, surface condition, nearby activity, tool, and anything that might contaminate the sample.
 5. Seal the jar before moving to the next site.
-6. Keep SAMPLE 1-3 separate from the prepared MODEL A-D jars.
+6. Keep SAMPLE 1-6 separate from the prepared reference models and mystery clue.
 
 **Say:** "We are collecting one small part of the beach. Our sample can answer a question about this jar under this method; it cannot speak for every grain of sand on the beach."
 
@@ -194,7 +194,7 @@ This phase is already embedded in the [Friday Anchoring Phenomenon Routine](frid
 5. Open one sieve at a time over its labeled tray.
 6. Use tweezers to move visible material to **natural/uncertain** or **suspected human-made** areas.
 7. Record leaves, twigs, shells, stones, and each suspected fiber, fragment, film, foam, or pellet.
-8. Dr. April directed us to proceed with the bottom two sieve fractions and treat them the same. For our three-site camp comparison, combine those bottom two fractions from each site in that site's processing jar and write **COMBINED BOTTOM TWO FRACTIONS** on the jar and data sheet. If the instructors provide enough jars and time to keep the fractions separate, apply the same complete protocol to both and record the change before processing any sample.
+8. Dr. April directed us to proceed with the bottom two sieve fractions and treat them the same. For our six-sample camp comparison, combine those bottom two fractions from each pair sample in that sample's processing jar and write **COMBINED BOTTOM TWO FRACTIONS** on the jar and data sheet. If the instructors provide enough jars and time to keep the fractions separate, apply the same complete protocol to both and record the change before processing any sample.
 
 **Say:** "The sieve tells us about size, not identity. Something small is not automatically plastic, and something natural can be small too."
 
@@ -229,7 +229,7 @@ This phase is already embedded in the [Friday Anchoring Phenomenon Routine](frid
 
 ### Phase 6 - Filter The Upper Saltwater Layer
 
-Process BLANK first, then SAMPLE 1-3.
+Process BLANK first, then SAMPLE 1-6.
 
 1. Set a clean porcelain or glass funnel over the matching glass receiving jar.
 2. Use clean tweezers to place the matching filter paper into the funnel. Avoid touching the filter surface.
@@ -260,7 +260,7 @@ Only use a completely dry filter.
 
 ### Phase 8 - Magnify, Classify, And Count
 
-1. Begin with the BLANK slide, then examine SAMPLE 1-3.
+1. Begin with the BLANK slide, then examine SAMPLE 1-6.
 2. Use approximately 40X magnification when available, or record the actual magnification used.
 3. Scan in a consistent row-by-row path rather than jumping around the slide.
 4. For every suspected particle, record:
@@ -280,7 +280,7 @@ Only use a completely dry filter.
 ### Phase 9 - Compare The Blank Before Making A Claim
 
 1. Count and describe material found on the BLANK filter.
-2. Compare blank colors and forms with SAMPLE 1-3.
+2. Compare blank colors and forms with SAMPLE 1-6.
 3. If a similar fiber appears in the blank and samples, flag it as a possible handling or airborne contaminant.
 4. Do not automatically subtract the blank count. Report the blank beside the sample and explain how it affects confidence.
 
@@ -379,7 +379,7 @@ Use one row per sample or fraction.
 ## Facilitator End Check
 
 - [ ] Every jar, filter, slide, and data sheet has a matching written ID.
-- [ ] SAMPLE 1-3 and BLANK used the same documented procedure.
+- [ ] SAMPLE 1-6 and BLANK used the same documented procedure.
 - [ ] Sample amount, brine amount, mixing time, and settling time are recorded.
 - [ ] Samples stayed covered except during required handling.
 - [ ] The blank was examined before claims were written.

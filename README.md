@@ -41,6 +41,10 @@ My working personal lens is:
 - [Field Friday Visual Guide in Google Slides](https://docs.google.com/presentation/d/1aEEMEWiIwTtmNnP2zNhW21cBl0Aow-OQW-kSC7mMfrk/edit)
 - [CURRENT Sand Density-Separation And Filtration Guide](assignments/03-camp-unit-plan/sand-density-separation-and-filtration-guide.md)
 - [Completed daily lesson-plan folder](https://drive.google.com/drive/folders/1safaE0FAhNHiHRCgexqPKf0WXME8lcQg)
+- [Camp print-package folder: start here](https://drive.google.com/drive/folders/11AJJTw5C3lqQno79KsFFbpCd5Ts2OUmH)
+- [Full day-by-day print package ZIP](https://drive.google.com/file/d/1c5v4cTV6cYFf0LuJObwRLdonByg-aJsn/view?usp=drivesdk)
+- [Field Friday print-first ZIP](https://drive.google.com/file/d/1h8h0wXISB5_BWCu1UhAKrz1EHYo1eVGr/view?usp=drivesdk)
+- [Staples/UPS print-order manifest](https://drive.google.com/file/d/1gFJosG3Ph3z1QnHldUCQ5P8GXkyV41SD/view?usp=drivesdk)
 - [Invisible Invaders gotta-have checklist and evidence map](assignments/05-july14-camp-prep/invisible-invaders-gotta-have-checklist-evidence-map.md)
 - [Course transcripts and July 9-21 evidence](transcripts/README.md)
 - [July 21 clean planning and youth-feedback record](transcripts/2026-07-21-invisible-invaders-planning-and-youth-feedback-clean.md)
@@ -57,8 +61,8 @@ My working personal lens is:
 | July 14, 2026 | Invisible Invaders gapless explanation, gotta-have checklist, Session 5 readings/Heather Table, and camp planning preparation | [Checklist evidence map](assignments/05-july14-camp-prep/invisible-invaders-gotta-have-checklist-evidence-map.md) / [Invisible Invaders explanation](assignments/05-july14-camp-prep/invisible-invaders-gapless-explanation.md) / [July 14 command center](assignments/05-july14-camp-prep/README.md) |
 | July 21, 2026 | Bring camp materials and daily lesson plans to Freedom School for staff review | [Current camp operations guide](assignments/03-camp-unit-plan/invisible-invaders-camp-operations-guide.md) |
 | Confirm in Blackboard | Module 2 Reflection: reading-grounded principles for camp pedagogy | [Editable LaTeX journal](assignments/06-module2-reflection/module2-reflection.tex) / [submission PDF](public-submissions/edu486-module2-reflection-piter-garcia.pdf) |
-| July 24, 2026 | Charlotte Beach Field Friday: fictional evidence-matching case, six traceable pair samples, and team formation | [Anchoring routine and facilitator script](assignments/03-camp-unit-plan/friday-anchoring-phenomenon-routine.md) / [visual guide](https://docs.google.com/presentation/d/1aEEMEWiIwTtmNnP2zNhW21cBl0Aow-OQW-kSC7mMfrk/edit) / [sand-processing protocol](assignments/03-camp-unit-plan/sand-density-separation-and-filtration-guide.md) |
-| July 27-31, 2026 | Freedom School camp week; showcase Thursday, July 30 around noon | [Daily camp sequence](assignments/03-camp-unit-plan/invisible-invaders-camp-operations-guide.md#storyline-at-a-glance) |
+| July 24, 2026 | Charlotte Beach Field Friday: fictional evidence-matching case, six traceable pair samples, and team formation | [Anchoring routine and facilitator script](assignments/03-camp-unit-plan/friday-anchoring-phenomenon-routine.md) / [visual guide](https://docs.google.com/presentation/d/1aEEMEWiIwTtmNnP2zNhW21cBl0Aow-OQW-kSC7mMfrk/edit) / [Field Friday print-first ZIP](https://drive.google.com/file/d/1h8h0wXISB5_BWCu1UhAKrz1EHYo1eVGr/view?usp=drivesdk) |
+| July 27-31, 2026 | Freedom School camp week; showcase Thursday, July 30 around noon | [Daily camp sequence](assignments/03-camp-unit-plan/invisible-invaders-camp-operations-guide.md#storyline-at-a-glance) / [full print package](https://drive.google.com/file/d/1c5v4cTV6cYFf0LuJObwRLdonByg-aJsn/view?usp=drivesdk) |
 | July 29, 2026, 10 p.m. working target | Poster file to April if printing is needed; confirm the exact cutoff | [Poster proposal draft](assignments/04-poster-fair/poster-proposal-draft.md) |
 | July 31, 2026 | Poster fair, 1:30-3:00 p.m. in LeChase 215 | [Poster proposal draft](assignments/04-poster-fair/poster-proposal-draft.md) |
 | August 1, 2026 | Final camp unit/lesson plans submitted | [Current camp operations guide](assignments/03-camp-unit-plan/invisible-invaders-camp-operations-guide.md) |

@@ -2,6 +2,29 @@
 
 The syllabus says that when GenAI is used, it should be credited by source, output, and purpose. This log makes that crediting easy to maintain.
 
+## July 23, 2026 - Neurodivergent-Inclusive Camp Print Package
+
+- Tool/source: OpenAI Codex under Piter Garcia's supervision; the current Friday routine and eight-slide visual guide; the current Monday-Friday lesson plans; the Camp Operations Guide; the sand-processing protocol; the materials and six-sample plan; the reviewed Freedom Scholars family note; and the July 21-23 team decisions already documented in this repository
+- Purpose: make one print-shop-ready, day-by-day package that Piter can email to Staples or UPS and then follow during camp without changing the team-owned source documents
+- Outputs created:
+  - [Drive print-package folder](https://drive.google.com/drive/folders/11AJJTw5C3lqQno79KsFFbpCd5Ts2OUmH)
+  - [full print-package ZIP](https://drive.google.com/file/d/1c5v4cTV6cYFf0LuJObwRLdonByg-aJsn/view?usp=drivesdk)
+  - [Field Friday print-first ZIP](https://drive.google.com/file/d/1h8h0wXISB5_BWCu1UhAKrz1EHYo1eVGr/view?usp=drivesdk)
+  - [controlling print manifest](https://drive.google.com/file/d/1gFJosG3Ph3z1QnHldUCQ5P8GXkyV41SD/view?usp=drivesdk)
+  - [Piter's pickup checklist](https://drive.google.com/file/d/1LfxNwsCMMsr56QBJ43H2qFGKaeJQpPkf/view?usp=drivesdk)
+  - [ready-to-send shop email](https://drive.google.com/file/d/1HWj8zHgdjMzSjsiFzNs4q5yBZsdPyk0B/view?usp=drivesdk)
+  - [preflight validation record](https://drive.google.com/file/d/10TRLf0w5G8cEizdLqYVrjsTF4kfCk1oX/view?usp=drivesdk)
+  - [reproducible package builder](../scripts/build-camp-print-package.cjs)
+- Human guidance and decisions:
+  - preserve Piter's and Aastha's current source documents and Piter's later edits; generate separate print files rather than rewriting the lessons
+  - prioritize Field Friday, then reusable access tools and Monday, Tuesday-Wednesday, Thursday's showcase, and Friday's reflection
+  - prepare for 12 campers, six separately labeled pair samples, one procedural blank, and small backups
+  - pair every color with words and preserve large type, visible steps, evidence limits, role choice, low-energy and seated routes, optional speech, pass/re-entry, and no required identity, body, health, or gratitude disclosure
+  - keep the family-note photographs in the ignored local package and shared team Drive, not public Git
+  - preserve every superseded test package and temporary conversion source in a labeled local archive; do not overwrite or delete prior builds
+- Verification: all 42 print artifacts passed automated page-count and exact-dimension checks; all pages in the prefinal package were rendered into day-level contact sheets and visually inspected; the final reflection correction, family note, and true-size slide conversion received additional high-resolution review; both final ZIPs passed archive-integrity testing; and all seven Drive handoff files were listed back with matching names and nonzero sizes
+- Disclosure: AI was used under Piter Garcia's supervision to organize, structure, format, and visually enhance Piter-, Aastha-, instructor-, and source-provided content so the print package is more accessible and inclusive. Piter guided the priorities, reviewed the content and visuals, protected teammate contributions, and remains responsible for the final science, printing decisions, and camp use.
+
 ## July 23, 2026 - Field Friday Source Packet, Lesson, Handouts, And Visual Guide
 
 - Tool/source: OpenAI Codex under Piter Garcia's supervision; every tab of the newer [Friday source packet](https://docs.google.com/document/d/1vpMdBbTJAJRYH0OOQwd1GC8pjrRMzCu8UoeZ5RVQI80/edit); the current Invisible Invaders anchor, driving question, Gotta-Have 1, operations guide, sand-processing guide, and daily plan; and direct EPA, NOAA, FDA, and CAST sources

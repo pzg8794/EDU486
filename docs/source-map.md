@@ -252,6 +252,21 @@ The transcript says photographs were taken on July 21, but no same-day files wer
 
 All seven source tabs were reviewed. The updated lesson retains the Durand record, Ontario record, investigation mission, case reflection, sand-sampling record, and sampling protocol while turning them into printable tabs beside one complete teach-from-it guide. The active Friday method now uses two prepared reference models, one matching mystery clue, six sealed pair samples, and two backups. It explicitly identifies the bird case as fictional, the prepared particles as recoverable proxies, and outdoor particles as suspected rather than confirmed plastic. Field samples remain individually sealed and traceable; concentrated brine is added later to each labeled sample rather than mixing all locations in one shared saltwater jar. The Google Doc includes two embedded visual sequences and native links to the eight-slide deck, operations guide, daily plan, and source packet. The live operations guide and Monday protocol now use the same six-sample chain, equipment quantities, evidence limits, and visual-guide link.
 
+## July 23 Camp Print Package And Shop Handoff
+
+- [Drive print-package folder](https://drive.google.com/drive/folders/11AJJTw5C3lqQno79KsFFbpCd5Ts2OUmH)
+- [Full Monday-Friday and Field Friday ZIP](https://drive.google.com/file/d/1c5v4cTV6cYFf0LuJObwRLdonByg-aJsn/view?usp=drivesdk)
+- [Field Friday print-first ZIP](https://drive.google.com/file/d/1h8h0wXISB5_BWCu1UhAKrz1EHYo1eVGr/view?usp=drivesdk)
+- [Controlling print-order manifest](https://drive.google.com/file/d/1gFJosG3Ph3z1QnHldUCQ5P8GXkyV41SD/view?usp=drivesdk)
+- [Print-pickup checklist](https://drive.google.com/file/d/1LfxNwsCMMsr56QBJ43H2qFGKaeJQpPkf/view?usp=drivesdk)
+- [Ready-to-send shop email](https://drive.google.com/file/d/1HWj8zHgdjMzSjsiFzNs4q5yBZsdPyk0B/view?usp=drivesdk)
+- [Machine-readable preflight record](https://drive.google.com/file/d/10TRLf0w5G8cEizdLqYVrjsTF4kfCk1oX/view?usp=drivesdk)
+- [Reproducible package builder](../scripts/build-camp-print-package.cjs)
+
+The print package is a separate, versioned handoff built from the current Friday routine, visual guide, Monday-Friday lesson plans, operations guide, materials plan, parent note, and neighborhood-map reference. It does not edit or replace those sources. The 42 print artifacts are ordered by day and urgency, use exact letter, tabloid, or 36-by-24-inch page sizes, and include shop instructions for paper, color, cutting, collation, and single-sided printing.
+
+Access is built into the artifacts through visible sequences, short headings, large text, words paired with color, honest evidence labels, optional public speaking, and talk, point, draw, write, build, photograph/audio, partner, seated/quiet, pass, and re-entry routes. The family note uses Freedom Scholars community photographs and therefore remains in the ignored local print area and shared team Drive rather than public Git. Earlier generated packages and temporary conversion files are preserved in a dated local `_archive`; only the reviewed `v5` package remains at the local print-package front door.
+
 ## July 22 Sand Density-Separation And Filtration Protocol
 
 - [Current Sand Density-Separation And Filtration Guide](../assignments/03-camp-unit-plan/sand-density-separation-and-filtration-guide.md)

@@ -280,6 +280,7 @@ function drawHeader(page, fonts, options) {
     accent = COLORS.science,
     label = "INVISIBLE INVADERS",
     pageNumber = null,
+    flowTitleSpacing = false,
   } = options;
   const width = page.getWidth();
   page.drawRectangle({
@@ -297,7 +298,7 @@ function drawHeader(page, fonts, options) {
     size: 9,
     color: accent,
   });
-  drawWrapped(page, title, {
+  const titleBottom = drawWrapped(page, title, {
     x: 36,
     top: 43,
     width: width - 72,
@@ -306,10 +307,14 @@ function drawHeader(page, fonts, options) {
     color: COLORS.ink,
     lineHeight: 24,
   });
+  let headerBottom = titleBottom;
   if (subtitle) {
-    drawWrapped(page, subtitle, {
+    const subtitleTop = flowTitleSpacing
+      ? Math.max(72, titleBottom + 5)
+      : 72;
+    headerBottom = drawWrapped(page, subtitle, {
       x: 36,
-      top: 72,
+      top: subtitleTop,
       width: width - 72,
       font: fonts.regular,
       size: 10.5,
@@ -326,6 +331,7 @@ function drawHeader(page, fonts, options) {
       color: COLORS.muted,
     });
   }
+  return headerBottom;
 }
 
 function drawFooter(page, fonts, text) {
@@ -2897,7 +2903,7 @@ async function makePrintManifest(outputPath) {
   grouped.forEach((group, groupIndex) => {
     let page = doc.addPage(LETTER);
     let pageNumber = 1;
-    drawHeader(page, fonts, {
+    const firstHeaderBottom = drawHeader(page, fonts, {
       title: priorities[group.priority],
       subtitle:
         "Each PDF already contains the exact number of sheets listed. Print each file once.",
@@ -2909,8 +2915,9 @@ async function makePrintManifest(outputPath) {
             : COLORS.science,
       label: "INVISIBLE INVADERS | PRINT ORDER MANIFEST",
       pageNumber,
+      flowTitleSpacing: true,
     });
-    let top = 115;
+    let top = Math.max(115, firstHeaderBottom + 14);
     for (const item of group.items) {
       const rowHeight = 125;
       if (top + rowHeight > 740) {

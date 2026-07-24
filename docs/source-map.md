@@ -252,20 +252,25 @@ The transcript says photographs were taken on July 21, but no same-day files wer
 
 All seven source tabs were reviewed. The updated lesson retains the Durand record, Ontario record, investigation mission, case reflection, sand-sampling record, and sampling protocol while turning them into printable tabs beside one complete teach-from-it guide. The active Friday method now uses two prepared reference models, one matching mystery clue, six sealed pair samples, and two backups. It explicitly identifies the bird case as fictional, the prepared particles as recoverable proxies, and outdoor particles as suspected rather than confirmed plastic. Field samples remain individually sealed and traceable; concentrated brine is added later to each labeled sample rather than mixing all locations in one shared saltwater jar. The Google Doc includes two embedded visual sequences and native links to the eight-slide deck, operations guide, daily plan, and source packet. The live operations guide and Monday protocol now use the same six-sample chain, equipment quantities, evidence limits, and visual-guide link.
 
-## July 23 Camp Print Package And Shop Handoff
+## July 23-24 Camp Print Package, Daily Protocols, And Shop Handoff
 
 - [Drive print-package folder](https://drive.google.com/drive/folders/11AJJTw5C3lqQno79KsFFbpCd5Ts2OUmH)
-- [Full Monday-Friday and Field Friday ZIP](https://drive.google.com/file/d/1c5v4cTV6cYFf0LuJObwRLdonByg-aJsn/view?usp=drivesdk)
-- [Field Friday print-first ZIP](https://drive.google.com/file/d/1h8h0wXISB5_BWCu1UhAKrz1EHYo1eVGr/view?usp=drivesdk)
-- [Controlling print-order manifest](https://drive.google.com/file/d/1gFJosG3Ph3z1QnHldUCQ5P8GXkyV41SD/view?usp=drivesdk)
-- [Print-pickup checklist](https://drive.google.com/file/d/1LfxNwsCMMsr56QBJ43H2qFGKaeJQpPkf/view?usp=drivesdk)
-- [Ready-to-send shop email](https://drive.google.com/file/d/1HWj8zHgdjMzSjsiFzNs4q5yBZsdPyk0B/view?usp=drivesdk)
-- [Machine-readable preflight record](https://drive.google.com/file/d/10TRLf0w5G8cEizdLqYVrjsTF4kfCk1oX/view?usp=drivesdk)
+- [Completed daily lesson-plan copies](https://drive.google.com/drive/folders/1safaE0FAhNHiHRCgexqPKf0WXME8lcQg)
+- [Completed daily activity-protocol copies](https://drive.google.com/drive/folders/1Lh1cYTFQv4P9AJH51KrCV-2zGytZGPeu)
+- [Clickable lesson/protocol/print review index](https://docs.google.com/document/d/1i5zE_Jb-tatxJbx0K_oGPGXc8HQV6b53O6Sq94-O-4o/edit)
+- [Unzipped Version 7 review folder](https://drive.google.com/drive/folders/1en89EpdEH1jzFe-5yY7MY_G9ML7qTdBt)
+- [Quick visual previews - do not print](https://drive.google.com/drive/folders/1hS1JWckmTvEJMCba8hGC638kZXk9UEuB)
+- [Full Monday-Friday and Field Friday Version 7 ZIP](https://drive.google.com/file/d/1yKkp4NjF9ZNlaXDmgj8s_2DJiOsvye_o/view?usp=drivesdk)
+- [Field Friday print-first Version 7 ZIP](https://drive.google.com/file/d/1b10aYH8tEtHTdAT0cQwSzsKj-IjQD6Aa/view?usp=drivesdk)
+- [Controlling Version 7 print-order manifest](https://drive.google.com/file/d/1fHyOLURTwcTyuOPgyQlGDj7VIhdHB6q0/view?usp=drivesdk)
+- [Version 7 print-pickup checklist](https://drive.google.com/file/d/1-_1RAyTfcb5h0-2X4Ug1Vqi01e1wLkbv/view?usp=drivesdk)
+- [Version 7 ready-to-send shop email](https://drive.google.com/file/d/1W_mh8p9cjtNB-RGA74aGtrF1rlvRhPqU/view?usp=drivesdk)
+- [Version 7 machine-readable preflight record](https://drive.google.com/file/d/1qsFPQcc_wWGpiVBkRrGnLDvEoJikj2xl/view?usp=drivesdk)
 - [Reproducible package builder](../scripts/build-camp-print-package.cjs)
 
-The print package is a separate, versioned handoff built from the current Friday routine, visual guide, Monday-Friday lesson plans, operations guide, materials plan, parent note, and neighborhood-map reference. It does not edit or replace those sources. The 42 print artifacts are ordered by day and urgency, use exact letter, tabloid, or 36-by-24-inch page sizes, and include shop instructions for paper, color, cutting, collation, and single-sided printing.
+The print package is a separate, versioned handoff built from the current Friday routine, visual guide, Monday-Friday lesson plans, operations guide, materials plan, parent note, and neighborhood-map reference. It does not replace those sources. Version 7 adds six complete facilitator lesson-plan copies and six paired, populated day-specific activity-protocol copies to the earlier participant-facing package. Its 54 manifest PDFs are ordered by day and urgency, use exact letter, tabloid, or 36-by-24-inch page sizes, and include shop instructions for paper, color, cutting, collation, and single-sided printing.
 
-Access is built into the artifacts through visible sequences, short headings, large text, words paired with color, honest evidence labels, optional public speaking, and talk, point, draw, write, build, photograph/audio, partner, seated/quiet, pass, and re-entry routes. The family note uses Freedom Scholars community photographs and therefore remains in the ignored local print area and shared team Drive rather than public Git. Earlier generated packages and temporary conversion files are preserved in a dated local `_archive`; only the reviewed `v6` package remains at the local print-package front door. Version 6 reflows wrapped manifest headings, fixing the page 4 title/subtitle collision without changing any print specification or participant-facing content.
+Access is built into the artifacts through visible sequences, short headings, large text, words paired with color, honest evidence labels, optional public speaking, and talk, point, draw, write, build, photograph/audio, partner, seated/quiet, touch-free, pass, and re-entry routes. The family note uses Freedom Scholars community photographs and therefore remains in the ignored local print area and shared team Drive rather than public Git. The unzipped review folder lets Piter inspect every PDF and 12 contact-sheet previews before approving either ZIP. Version 6, earlier generated packages, and temporary conversion files remain preserved; Version 7 was created separately and nothing was deleted.
 
 ## July 22 Sand Density-Separation And Filtration Protocol
 

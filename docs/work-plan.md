@@ -1,11 +1,13 @@
 # EDU486 Current Work Plan
 
-**Current through July 23, 2026.** The goal is to make Invisible Invaders teachable, safe, coherent, inclusive, and easy for Piter and Aastha to run. The [Camp Operations Guide](../assignments/03-camp-unit-plan/invisible-invaders-camp-operations-guide.md) is the authoritative plan; the [Friday Anchoring Phenomenon Routine](../assignments/03-camp-unit-plan/friday-anchoring-phenomenon-routine.md) contains the exact current Field Friday script and handoff.
+**Current through July 24, 2026.** The goal is to make Invisible Invaders teachable, safe, coherent, inclusive, and easy for Piter and Aastha to run. The [Camp Operations Guide](../assignments/03-camp-unit-plan/invisible-invaders-camp-operations-guide.md) is the authoritative plan; the [Friday Anchoring Phenomenon Routine](../assignments/03-camp-unit-plan/friday-anchoring-phenomenon-routine.md) contains the exact current Field Friday script and handoff. Use the [open lesson/protocol review index](https://docs.google.com/document/d/1i5zE_Jb-tatxJbx0K_oGPGXc8HQV6b53O6Sq94-O-4o/edit) to inspect every populated template and print PDF before approving the Version 7 ZIP.
 
 ## Do First: Wednesday-Thursday, July 22-23
 
 | Status | Action | Owner | Done when |
 | --- | --- | --- | --- |
+| [x] | Create six populated lesson-plan copies and six paired activity-protocol copies | Piter-guided | Field Friday and Monday-Friday each have a complete editable lesson, editable protocol pack, two facilitator print sets, and direct cross-links |
+| [ ] | Review the unzipped Version 7 package before sending it to print | Piter | All lesson plans, protocol packs, participant materials, visual previews, sizes, paper choices, cutting, and collation are approved in the [unzipped review folder](https://drive.google.com/drive/folders/1en89EpdEH1jzFe-5yY7MY_G9ML7qTdBt) |
 | [ ] | Review the current operations guide, Friday routine, SASSY table, and six daily plans together | Piter + Aastha | Both approve the sequence, roles, and language or record one named correction |
 | [ ] | Build and pilot the two reference models and matching mystery clue | Piter; Aastha checks | Every proxy piece is recoverable, the match uses more than one observable feature, and the answer/reset card is written |
 | [ ] | Pack the exact Field Friday kit | Shared | 2 reference jars, 1 mystery clue, 6 pair-sample jars, 2 backups, at least 3 trays, 6 clean scoops, 3 magnifiers, labels, cards, map, timer, camera, and paper backups are counted |

@@ -2,6 +2,29 @@
 
 The syllabus says that when GenAI is used, it should be credited by source, output, and purpose. This log makes that crediting easy to maintain.
 
+## July 24, 2026 - Six Lesson Plans, Six Protocol Packs, And Open Print Review
+
+- Tool/source: OpenAI Codex under Piter Garcia's supervision; the unchanged instructor [Camp Lesson Plan Template](https://docs.google.com/document/d/1FR5m1gxYTF6Mt8_Lsh22LRrI_8osXQde7yDXPJRMCY4/edit); the unchanged [Sampling Protocols source](https://docs.google.com/document/d/1HP06TOL2cnycQSgDcRfV57cEUYHuwoHTmVGRABv9tys/edit); Piter's and Aastha's six current daily plans; the current operations, Field Friday, sand-processing, materials, and print-package records
+- Purpose: ensure every camp day has a complete, paired lesson-plan and activity-protocol copy, then make every print artifact inspectable before Piter approves either ZIP
+- Outputs created or revised:
+  - [six populated lesson-plan copies](https://drive.google.com/drive/folders/1safaE0FAhNHiHRCgexqPKf0WXME8lcQg)
+  - [six populated activity-protocol copies](https://drive.google.com/drive/folders/1Lh1cYTFQv4P9AJH51KrCV-2zGytZGPeu)
+  - [clickable open-review index](https://docs.google.com/document/d/1i5zE_Jb-tatxJbx0K_oGPGXc8HQV6b53O6Sq94-O-4o/edit)
+  - [unzipped day-by-day Version 7 review folder](https://drive.google.com/drive/folders/1en89EpdEH1jzFe-5yY7MY_G9ML7qTdBt)
+  - [lesson/protocol visual previews](https://drive.google.com/drive/folders/1hS1JWckmTvEJMCba8hGC638kZXk9UEuB)
+  - [full Version 7 ZIP](https://drive.google.com/file/d/1yKkp4NjF9ZNlaXDmgj8s_2DJiOsvye_o/view?usp=drivesdk) and [Field Friday print-first Version 7 ZIP](https://drive.google.com/file/d/1b10aYH8tEtHTdAT0cQwSzsKj-IjQD6Aa/view?usp=drivesdk)
+  - [Version 7 print manifest](https://drive.google.com/file/d/1fHyOLURTwcTyuOPgyQlGDj7VIhdHB6q0/view?usp=drivesdk) and [preflight record](https://drive.google.com/file/d/1qsFPQcc_wWGpiVBkRrGnLDvEoJikj2xl/view?usp=drivesdk)
+- Human guidance and decisions:
+  - preserve all of Piter's edits and keep the original instructor templates unchanged
+  - pair each day with its own populated protocol pack instead of relying on one generic sampling document
+  - keep Field Friday's two reference models, fictional clue, six separately labeled pair samples, and two backups consistent across lesson, protocol, and print files
+  - place the three sand-processing phases in readable Monday, Tuesday, and Wednesday activity rows
+  - preserve distinct climate and microplastic causal branches on Thursday and the `KEEP / QUESTION / CHANGE / NOT OUR EVIDENCE` routine on Friday
+  - keep participation routes, named Gotta-Haves, scientific uncertainty, safety, disposal, recordkeeping, and no-forced-disclosure boundaries visible in every protocol
+  - preserve Version 6 and all earlier source work; create Version 7 separately and delete nothing
+- Verification: all six lesson-plan PDFs and six protocol PDFs were exported and visually inspected; Monday-Wednesday table placement and typography were corrected after visual review; all 54 manifest PDFs passed page-count, nonzero-byte, link, and required-language checks; 12 contact sheets were uploaded for quick review; all eight Drive folders were listed back with the expected file counts and paired `P0` files; the native review document was read back and its Drive/Docs hyperlinks were confirmed in Google Docs structure; both Version 7 ZIPs passed archive-integrity testing, and the full ZIP contains no macOS metadata entries
+- Disclosure: AI was used under Piter Garcia's supervision to organize, structure, format, cross-link, visually check, and enhance Piter-, Aastha-, instructor-, and source-provided content for accessibility and inclusion. Piter directed the work, reviewed the content, protected teammate contributions and prior versions, and remains responsible for final science, safety, printing approval, and camp use.
+
 ## July 23, 2026 - Neurodivergent-Inclusive Camp Print Package
 
 - Tool/source: OpenAI Codex under Piter Garcia's supervision; the current Friday routine and eight-slide visual guide; the current Monday-Friday lesson plans; the Camp Operations Guide; the sand-processing protocol; the materials and six-sample plan; the reviewed Freedom Scholars family note; and the July 21-23 team decisions already documented in this repository

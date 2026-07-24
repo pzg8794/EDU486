@@ -483,6 +483,26 @@ The first version of this entry incorrectly treated tire wear as the anchoring p
 - Verification: The current Camp Operations Guide, Gapless Explanation, and all six daily lesson plans were checked for the distinctive instructor-example language; no matches remained.
 - Human guidance: Piter identified the mixed example/team content and directed that the current document contain only the team's work. AI performed the targeted row deletion and cross-document check under that direction.
 
+## July 24, 2026 - Field Friday Print-Handoff Redesign
+
+- Tool/source: OpenAI Codex under Piter Garcia's supervision; the current Field Friday routine; Piter and Aastha's six-pair sampling method; existing family note; current prepared-model, evidence-limit, and access decisions
+- Purpose: separate print-shop production files from lesson-plan/source materials and redesign the physical artifacts for readability, visual orientation, access, and independent use
+- Output created or revised:
+  - current unzipped Field Friday Version 8 Drive handoff
+  - 12-file `SEND TO UPS` folder with built-in quantities and one instruction to print each PDF once
+  - public-safe [print artifact review master](../public-submissions/invisible-invaders-field-friday-print-artifacts.pdf)
+  - public-safe [two-page facilitator cue sheet](../public-submissions/invisible-invaders-field-friday-facilitator-cue-sheet.pdf)
+  - [reproducible package builder](../scripts/build-field-friday-print-handoff.cjs)
+  - updated Friday routine, source map, and public-submission index
+- Human guidance and decisions:
+  - physical pages must not depend on hyperlinks, GitHub, Drive, or a reader's ability to locate another document
+  - the print-shop folder must contain only files that UPS should print
+  - preserve the current lesson content while replacing raw templates, tiny four-up records, and dense source exports
+  - use icons paired with words, high contrast, generous writing space, stable color-and-word labels, and point, draw, write, speak/dictate, photograph, partner, seated, scribe, pass, and re-entry routes
+  - preserve all earlier packages as clearly labeled archives rather than deleting them
+- Verification: all 12 production PDFs rendered at Letter size; the visual sequence rendered in Letter landscape; the complete handoff contains 78 physical pages; automated PDF inspection found zero link annotations and zero URL text; the clean email ZIP passed `unzip -t`; the unzipped Drive folder was read back with exactly 12 PDFs
+- Disclosure: Piter supplied, corrected, reviewed, and supervised the lesson decisions and access requirements. AI supported layout, visual structure, copy-count packaging, independent-use checks, PDF validation, and Drive/Git synchronization. Piter remains responsible for final printing and camp use.
+
 ## July 1, 2026 - Corrective Reframing After Human Review
 
 - Tool/source: OpenAI Codex, Google Drive connector, GitHub/local repository context

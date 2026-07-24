@@ -15,6 +15,8 @@ This folder contains portable exports generated from the EDU486 repository work.
 - [CURRENT Friday Anchoring Phenomenon Routine DOCX](friday-anchoring-phenomenon-routine.docx)
 - [Field Friday Visual Guide PPTX](invisible-invaders-field-friday-visual-guide.pptx)
 - [Field Friday Visual Guide PDF](invisible-invaders-field-friday-visual-guide.pdf)
+- [Field Friday public-safe print artifact master PDF](invisible-invaders-field-friday-print-artifacts.pdf) - one review copy of each public-safe artifact; the private family note and built-in production duplicates are intentionally excluded
+- [Field Friday two-page facilitator cue sheet PDF](invisible-invaders-field-friday-facilitator-cue-sheet.pdf)
 - [CURRENT Sand Density-Separation And Filtration Guide DOCX](invisible-invaders-sand-investigation-guide.docx)
 - [CURRENT Sand Density-Separation And Filtration Guide PDF](invisible-invaders-sand-investigation-guide.pdf)
 - [Poster proposal DOCX](poster-proposal-draft.docx)

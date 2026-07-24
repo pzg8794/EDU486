@@ -254,23 +254,32 @@ All seven source tabs were reviewed. The updated lesson retains the Durand recor
 
 ## July 23-24 Camp Print Package, Daily Protocols, And Shop Handoff
 
-- [Drive print-package folder](https://drive.google.com/drive/folders/11AJJTw5C3lqQno79KsFFbpCd5Ts2OUmH)
+- [CURRENT Field Friday Version 8 handoff](https://drive.google.com/drive/folders/1NCiEipy8LgQSjj2z7EeiMyO96fUBiToh)
+- [SEND TO UPS - print every PDF once](https://drive.google.com/drive/folders/1rfj66cDhDe9LkhUiKQGvDYEv4yfaypOf)
+- [Unzipped visual-review folder - do not send to UPS](https://drive.google.com/drive/folders/1VXnQWGMSPGxPB93vy3FK-ivGIPQ5lzAr)
+- [Field Friday Version 8 email ZIP](https://drive.google.com/file/d/1GytJRlPJ30EKXZtvUDAa5wl1ygclDKDI/view?usp=drivesdk)
+- [Representative-page review master](https://drive.google.com/file/d/1TBLa7kh8wWM_W7OMxfTwPOIXgpNumohR/view?usp=drivesdk)
+- [Visual contact sheet](https://drive.google.com/file/d/1N9rV-9ziAd9n481wE_DoaJIUjVA8hVe6/view?usp=drivesdk)
+- [Machine-readable Version 8 validation](https://drive.google.com/file/d/11KxYshEgT5EGKepUns6CDxtMrY0KexsE/view?usp=drivesdk)
+- [Public-safe print artifact review master](../public-submissions/invisible-invaders-field-friday-print-artifacts.pdf)
+- [Two-page facilitator cue sheet](../public-submissions/invisible-invaders-field-friday-facilitator-cue-sheet.pdf)
+- [Reproducible Field Friday handoff builder](../scripts/build-field-friday-print-handoff.cjs)
+
+Earlier whole-week planning and print records are preserved as provenance:
+
+- [Version 7 review root](https://drive.google.com/drive/folders/1en89EpdEH1jzFe-5yY7MY_G9ML7qTdBt)
+- [ARCHIVE - DO NOT PRINT - Field Friday Version 7](https://drive.google.com/drive/folders/1yCgb5Ql7aExUUnEY490jhCVbqFDAKBLS)
+- [Whole-week print-package folder](https://drive.google.com/drive/folders/11AJJTw5C3lqQno79KsFFbpCd5Ts2OUmH)
 - [Completed daily lesson-plan copies](https://drive.google.com/drive/folders/1safaE0FAhNHiHRCgexqPKf0WXME8lcQg)
 - [Completed daily activity-protocol copies](https://drive.google.com/drive/folders/1Lh1cYTFQv4P9AJH51KrCV-2zGytZGPeu)
 - [Clickable lesson/protocol/print review index](https://docs.google.com/document/d/1i5zE_Jb-tatxJbx0K_oGPGXc8HQV6b53O6Sq94-O-4o/edit)
-- [Unzipped Version 7 review folder](https://drive.google.com/drive/folders/1en89EpdEH1jzFe-5yY7MY_G9ML7qTdBt)
-- [Quick visual previews - do not print](https://drive.google.com/drive/folders/1hS1JWckmTvEJMCba8hGC638kZXk9UEuB)
-- [Full Monday-Friday and Field Friday Version 7 ZIP](https://drive.google.com/file/d/1yKkp4NjF9ZNlaXDmgj8s_2DJiOsvye_o/view?usp=drivesdk)
-- [Field Friday print-first Version 7 ZIP](https://drive.google.com/file/d/1b10aYH8tEtHTdAT0cQwSzsKj-IjQD6Aa/view?usp=drivesdk)
 - [Controlling Version 7 print-order manifest](https://drive.google.com/file/d/1fHyOLURTwcTyuOPgyQlGDj7VIhdHB6q0/view?usp=drivesdk)
-- [Version 7 print-pickup checklist](https://drive.google.com/file/d/1-_1RAyTfcb5h0-2X4Ug1Vqi01e1wLkbv/view?usp=drivesdk)
-- [Version 7 ready-to-send shop email](https://drive.google.com/file/d/1W_mh8p9cjtNB-RGA74aGtrF1rlvRhPqU/view?usp=drivesdk)
 - [Version 7 machine-readable preflight record](https://drive.google.com/file/d/1qsFPQcc_wWGpiVBkRrGnLDvEoJikj2xl/view?usp=drivesdk)
 - [Reproducible package builder](../scripts/build-camp-print-package.cjs)
 
-The print package is a separate, versioned handoff built from the current Friday routine, visual guide, Monday-Friday lesson plans, operations guide, materials plan, parent note, and neighborhood-map reference. It does not replace those sources. Version 7 adds six complete facilitator lesson-plan copies and six paired, populated day-specific activity-protocol copies to the earlier participant-facing package. Its 54 manifest PDFs are ordered by day and urgency, use exact letter, tabloid, or 36-by-24-inch page sizes, and include shop instructions for paper, color, cutting, collation, and single-sided printing.
+Version 8 is the current **Field Friday-only** print handoff. Its `SEND TO UPS` folder contains exactly 12 PDFs and one instruction: print each file once because all quantities are already embedded. The 78 physical pages include the instruction sheet, eight visual-sequence pages, 12 Durand records, 12 Ontario records, 12 half-page case missions, 12 half-page reflections, eight half-page field records for six pair samples plus two spares, six full-page pair protocols, two label sets, two access/evidence boards, 15 family notes, and two facilitator cue-sheet sets. Raw lesson-plan templates, source notes, hyperlinks, and review files are excluded from the print-shop folder.
 
-Access is built into the artifacts through visible sequences, short headings, large text, words paired with color, honest evidence labels, optional public speaking, and talk, point, draw, write, build, photograph/audio, partner, seated/quiet, touch-free, pass, and re-entry routes. The family note uses Freedom Scholars community photographs and therefore remains in the ignored local print area and shared team Drive rather than public Git. The unzipped review folder lets Piter inspect every PDF and 12 contact-sheet previews before approving either ZIP. Version 6, earlier generated packages, and temporary conversion files remain preserved; Version 7 was created separately and nothing was deleted.
+Access is designed into the artifacts through visible sequences, icons paired with words, high contrast, restrained color coding, generous writing space, one-direction-at-a-time language, honest evidence limits, and point, draw, write, speak/dictate, photograph, partner, seated, scribe, pass, and re-entry routes. The black-and-white sampling record remains fully readable without color. The family note uses Freedom Scholars community photographs and therefore stays in the ignored local print area and shared team Drive rather than public Git; the public-safe master omits that page. Version 6, Version 7, earlier generated packages, and build traces remain preserved as archives. Nothing was deleted.
 
 ## July 22 Sand Density-Separation And Filtration Protocol
 

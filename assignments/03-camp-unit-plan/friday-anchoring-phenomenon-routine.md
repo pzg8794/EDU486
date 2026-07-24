@@ -120,23 +120,30 @@ These items are captured from the newer packet but **do not enter the Friday fie
 
 ## Print And Display Plan
 
-The Google Doc contains one facilitator tab and six print tabs. Print for **12 campers**, even when rotations contain about three campers.
+The current print-shop handoff has one rule:
 
-| Tab | Print |
-| --- | ---: |
-| 00 - Teach From Here | 1 facilitator copy |
-| 01 - Durand Evidence Record | 12 copies |
-| 02 - Ontario Evidence Record | 12 copies |
-| 03 - Case Mission | 6 pages, 2 cards per page |
-| 04 - Case Reflection | 6 pages, 2 cards per page |
-| 05 - Sand Sampling Record | 3 pages, 4 cards per page |
-| 06 - Sampling Protocol | 6 pages, 2 cards per page |
+> **Print every PDF in `01-SEND-TO-UPS-PRINT-ONLY` exactly once. Copy counts are already built into each PDF.**
 
-Display or print:
+Raw lesson-plan templates, source notes, and review files stay outside that folder. The physical PDFs contain no URLs or clickable links.
 
-- **Station sign:** "Researchers, come investigate!"
-- **Visual sequence:** CASE -> PREDICT -> LOOK -> MAGNIFY -> MATCH -> SAMPLE -> WONDER.
-- [Field Friday Visual Guide](https://docs.google.com/presentation/d/1aEEMEWiIwTtmNnP2zNhW21cBl0Aow-OQW-kSC7mMfrk/edit): eight slides that also work as printable station cards.
+| Printed artifact | Built-in output | Paper and finishing |
+| --- | ---: | --- |
+| Print-shop instruction sheet | 1 page | Letter, color, regular paper |
+| Field Friday visual sequence | 8 pages | Letter, landscape, color, regular paper |
+| Durand model evidence record | 12 copies | Letter, color, regular paper |
+| Ontario model evidence record | 12 copies | Letter, color, regular paper |
+| Fictional case mission | 6 sheets / 12 cards | Letter, color cardstock, cut in half |
+| Case reflection | 6 sheets / 12 cards | Letter, color cardstock, cut in half |
+| Real sand-sampling record | 4 sheets / 8 cards | Letter, black and white cardstock, cut in half |
+| Traceable sand-sampling steps | 6 copies | Letter, color cardstock, do not cut |
+| Sample and model labels | 2 sets | Letter, color cardstock, cut on dashed lines |
+| Access and evidence board | 2 copies | Letter, color cardstock, do not cut |
+| Family note | 15 copies | Letter, color, regular paper |
+| Facilitator cue sheet | 4 pages / 2 sets | Letter, color, regular paper |
+
+The eight sampling records support **six pair samples plus two spares**. The six full-page sampling protocols give each pair a readable visual guide. The two-page facilitator cue sheet replaces the raw lesson-plan export at the station.
+
+For on-screen review, use the [public-safe print artifact master](../../public-submissions/invisible-invaders-field-friday-print-artifacts.pdf) and the [two-page facilitator cue sheet](../../public-submissions/invisible-invaders-field-friday-facilitator-cue-sheet.pdf). The family note is excluded from the public master because its photographs are managed in the private course-materials layer.
 
 ## Before Campers Arrive
 

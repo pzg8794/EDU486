@@ -4,6 +4,8 @@ Public course repository for **EDU 486: Integrating Technology in Teaching Conte
 
 The repo documents the course scope, deadlines, assignment work, and strategic alignment with Piter Z. Garcia Bautista's broader PhD/Puzzle Plan goals: inclusive AI, equitable diagnostics, digitally rich teaching, disability justice, chronic illness access, neurodivergent learning, CLD/multilingual learners, and students with multiple intersecting identities.
 
+> **Repository safety:** Agents and automations are forbidden from deleting this local Git repository, its `.git` history, or the remote GitHub repository. Preserve and archive instead. See the [repository safety policy](docs/repository-safety.md).
+
 ## Current Throughline
 
 **Working course theme:** EQUITAS Access-to-Agency STEM.
@@ -22,6 +24,7 @@ My working personal lens is:
 - [Weekly work plan](docs/work-plan.md)
 - [Source map](docs/source-map.md)
 - [Repository organization and sync boundary](docs/repository-organization.md)
+- [Repository safety: deletion is forbidden](docs/repository-safety.md)
 - [Clickable artifact/source index](docs/artifact-index.md)
 - [PhD and Puzzle Plan alignment](docs/phd-puzzle-plan-alignment.md)
 - [AI use log](docs/ai-use-log.md)

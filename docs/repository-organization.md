@@ -2,6 +2,10 @@
 
 This repository uses a reviewed-public/local-source split. GitHub contains original course work, Piter-approved transcripts, selected evidence images, and authored exports. Copyrighted course downloads, unrelated personal records, and unreviewed source material remain on the local machine.
 
+## Non-Negotiable Repository Safety
+
+Agents and automations must not delete the local repository, `.git`, Git history, configured remote, or remote GitHub repository. Repository cleanup, migration, archiving, and synchronization must be non-destructive. See [Repository Safety](repository-safety.md) for the prohibited operations and required checks.
+
 ## Public, Tracked Structure
 
 | Path | Purpose |
@@ -53,10 +57,11 @@ Ignored files under `_local-course-materials/` are intentionally local and do no
 ## Pre-Push Check
 
 ```sh
+./scripts/check-repository-safety.sh
 git fetch origin --prune
 git status --short --branch
 git diff --check
 git rev-list --left-right --count HEAD...origin/main
 ```
 
-Review the staged file list before every commit. Do not delete local or remote source material unless the owner explicitly approves deletion.
+Review the staged file list before every commit. Do not delete local or remote source material unless the owner explicitly approves deletion. Repository deletion itself remains forbidden for agents even when another deletion has been approved.

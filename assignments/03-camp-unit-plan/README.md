@@ -7,7 +7,7 @@ Older plans are preserved in the [July 18 consolidation archive](archive/2026-07
 ## Open In This Order
 
 1. [Camp Operations Guide](invisible-invaders-camp-operations-guide.md): the complete current plan and preparation board.
-2. [Monday How Small? How Does It Move?](monday-water-pathways-and-first-model.md): the current minute-by-minute lesson, co-teaching roles, access routes, fish preparation, and minimal-print decision.
+2. [Monday How Small? How Does It Move?](monday-water-pathways-and-first-model.md): the current minute-by-minute lesson, co-teaching roles, access routes, fish preparation, complete Invisible Invaders identi-beads routine, and minimal-print decision.
 3. [Sand Density-Separation And Filtration Guide](sand-density-separation-and-filtration-guide.md): Tuesday's complete transcript-grounded, camp-safe sample-processing procedure and camper quick guide.
 4. [Friday Anchoring Phenomenon Routine](friday-anchoring-phenomenon-routine.md): the completed Field Friday script and evidence provenance.
 5. [OPEN FIRST: lesson, protocol, and print review index](https://docs.google.com/document/d/1i5zE_Jb-tatxJbx0K_oGPGXc8HQV6b53O6Sq94-O-4o/edit): clickable review table and approval checklist.

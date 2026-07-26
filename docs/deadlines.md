@@ -14,7 +14,7 @@ Dates combine the syllabus, July 10 email, July 16 class planning, and current t
 | **Monday, July 27** | Camp: organism evidence and first model | Article/video, approved fish/body evidence or equivalent image/worksheet, first source-to-body model, map return |
 | **Tuesday, July 28** | Camp: friction, wear, and evidence limits | Intact-wheel before/after observations, tread and temperature records, sealed evidence, release-model revision |
 | **Wednesday, July 29** | Camp: justice and advocacy | Return to Day 1 places, neighborhood/power maps, scientist circle, advocacy examples, art and tri-fold draft |
-| **Wednesday, July 29, 10 p.m. working target** | Poster file to April if printing is needed | **Confirm exact cutoff** before relying on this time |
+| **Date pending; 10 p.m. cutoff** | Plastic Pirates Poster Number 2, 36 x 48-inch PDF | Zen will confirm the calendar date and whether to send through him or directly to the printer; copy April, Zen, and Brandon |
 | **Thursday, July 30, around noon** | Camp final model and showcase | Two-branch plastic-system model, titled advocacy art, science/justice/action tri-fold, multiple presentation modes |
 | **Friday, July 31** | Camp model check and goodbye | KEEP/QUESTION/CHANGE feedback, one justified final model move, advice for future campers, cleanup |
 | **Friday, July 31, 1:30-3:00 p.m.** | Course poster fair, LeChase 215 | Piter's individual research-informed practice poster |

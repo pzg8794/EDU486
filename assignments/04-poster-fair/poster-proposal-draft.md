@@ -7,6 +7,37 @@ Working title: Access-to-Agency STEM: Technology, Bodymind Access, and Community
 
 Source links: [Module 1 source map](../../docs/source-map.md#module-1-local-sources), [PhD/Puzzle Plan alignment](../../docs/phd-puzzle-plan-alignment.md), [public DOCX export](../../public-submissions/poster-proposal-draft.docx)
 
+> **Current status:** This is the earlier pre-camp concept draft. It must be
+> revised around the actual **Invisible Invaders** question, youth evidence,
+> model revisions, access routes, and facilitator redesigns before submission.
+> Do not submit the existing Planet Protectors language.
+
+## July 26 Poster Instructions
+
+Zen's July 26 email establishes these requirements:
+
+- Piter is **Plastic Pirates Poster Number 2**.
+- Use the [course poster template](https://docs.google.com/presentation/d/1GtW8k37A3h01tKVMjrvbd_IspgS3Yw8u/edit).
+- The complete poster must fit within **36 x 48 inches**.
+- Export and submit the finished poster as a **PDF**.
+- Use the subject line **Plastic Pirates Poster Number 2**.
+- Copy **April, Zen, and Brandon** on the submission email.
+- The printer needs posters by **10 p.m.**, but this email does not name the
+  calendar date. Zen will send another message.
+- The final recipient is also pending: Zen will confirm whether students send
+  posters to him for one combined submission or directly to Alexander Empey.
+
+### Next Poster Work Session
+
+1. Copy the course template without changing its 36 x 48-inch size.
+2. Replace the pre-camp Planet Protectors framing with the actual Invisible
+   Invaders research question and camp evidence.
+3. Select de-identified evidence from daily model revisions, youth questions,
+   chosen participation routes, access redesigns, and justice/action decisions.
+4. Draft the visual argument before adding decorative detail.
+5. Export a PDF, verify the page size and readability, then wait for Zen's
+   confirmed recipient and dated 10 p.m. cutoff.
+
 ## Proposed Poster Question
 
 How can technology support neurodivergent, chronically ill, disabled, CLD, multilingual, and multiply marginalized youth in creating environmental evidence without replacing community knowledge, bodymind access, or student agency?

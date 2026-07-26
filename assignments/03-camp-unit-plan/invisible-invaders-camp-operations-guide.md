@@ -81,7 +81,7 @@ The [Four Gotta-Haves document in Drive](https://drive.google.com/file/d/19i4R_w
 | Place connection | Youth add observations, questions, images, icons, words, or drawings to a shared neighborhood map |
 | Discussion | Scientist circles include private thinking time, one mic, names, open questions, evidence prompts, and several ways to enter |
 | Advocacy | Youth create plastic-trash art with a title and message for a real audience; they choose the action route |
-| Daily closure | Identity beads or equivalent identity recognition, followed by circle-up on time |
+| Daily closure | Youth-selected, nonhierarchical identi-beads with an optional story and pass/return route, followed by circle-up on time |
 | Technology | Cameras, maps, shared displays, audio, and digital tools are optional routes that must expand access or evidence |
 | Evidence boundary | A visually suspected fiber or fragment is not a chemically confirmed plastic; detection does not prove a health effect |
 | Climate connection | The plastic-carbon-temperature model is an optional systems extension, not evidence for the human-body pathway |
@@ -126,7 +126,7 @@ Campers can point, draw, speak, type, dictate, record audio, use home language, 
 | Day | Connecting question | Core experience | Evidence and model move | Daily product |
 | --- | --- | --- | --- | --- |
 | **Field Friday, July 24** | 🟩 **Gotta-Have 1: Earth systems are interconnected.** How can plastic move among or collect in sand, water, air, living things, and human systems even when we do not notice it at first? | Enter a clearly fictional bird-and-sand case, compare Durand and Ontario prepared reference models with a matching mystery clue, then collect and map six traceable Charlotte Beach pair samples | Compare prediction, first look, magnified evidence, and a known model answer; name a model limit; keep prepared proxy evidence and real field evidence separate | Evidence records, case reflection, beach map, six sealed pair samples, youth questions |
-| **Monday, July 27** | 🟧 **Gotta-Have 2: Water transports materials.** How small can plastic pieces get, how can moving air or water carry them, and what do we still not know? | Revisit Group 2's Friday evidence; complete Aastha's Impossible Cut and Escape the Wind investigations; choose one short video; build a before/during/after consensus model; begin instructor-controlled fish preparation | Connect scale and transport mechanisms to a possible source-to-body pathway while labeling what is supported, possible, or unknown; do not treat paper proxies or Monday fish preparation as microplastic evidence | Friday souvenir, Wonder Wall, consensus model, and labeled fish-preparation jars |
+| **Monday, July 27** | 🟧 **Gotta-Have 2: Water transports materials.** How small can plastic pieces get, how can moving air or water carry them, and what do we still not know? | Revisit Group 2's Friday evidence; complete Aastha's Impossible Cut and Escape the Wind investigations; choose one short video; build a before/during/after consensus model; begin instructor-controlled fish preparation; close with youth-selected Invisible Invaders identi-beads | Connect scale and transport mechanisms to a possible source-to-body pathway while labeling what is supported, possible, or unknown; recognize investigator, connector, advocate, creative, joy, and youth-defined participation without ranking or assigning an identity | Friday souvenir, Wonder Wall, consensus model, labeled fish-preparation jars, and optional identi-bead story |
 | **Tuesday, July 28** | 🟦 **Gotta-Have 3: Living organisms respond to environmental conditions.** After wear releases smaller plastic particles, how might organisms encounter them in air, water, food, or surrounding materials, and what response evidence would we still need? | Race or roll intact bikes, rollerblades, or toy wheels; compare tread and surface temperature; examine adult-prepared sealed wear evidence or images | Preserve the image's friction/wear investigation, add **source -> friction/wear -> smaller particles**, and explicitly mark that the trial does not measure exposure, biological response, harm, or real-road quantity | Wheel evidence record, uncertainty note, and revised release model |
 | **Wednesday, July 29** | 🟪 **Gotta-Have 4: Human infrastructure influences natural systems.** Which product, transportation, drain, wastewater, waste, purchasing, and policy decisions shape these pathways, and what fair change do we want? | Return to Day 1 places and the Tuesday model; make the image's **art as advocacy** move; identify system actors; choose an audience/message; begin titled art and the tri-fold | Connect infrastructure and decision power to evidence; prepare one community/official question without blaming families | Power map, action choice, art plan, and tri-fold draft |
 | **Thursday, July 30** | 🟩🟧🟦🟪 **Gotta-Haves 1-4, synthesis.** How can one final model connect Earth systems, water transport, living organisms, and human infrastructure while keeping the climate and microplastic branches distinct? | Complete the image's unfinished **future modeling** row with one visible two-branch model; compare with Monday; finish art/tri-fold; rehearse and showcase | Trace both branches, identify shared upstream decisions, keep their causal mechanisms distinct, and show what evidence changed | Final model, titled art, message, and showcase |
@@ -196,11 +196,13 @@ Roles include sampler, mapper, labeler, photographer, timer, materials monitor, 
 
 Use the [current Monday lesson](monday-water-pathways-and-first-model.md) rather than the older eight-page lesson/protocol packets.
 
-**Team block, 9:15-11:45 a.m.:** **Preview -> Friday evidence recap and souvenir -> Impossible Cut -> Escape the Wind -> joint video and Wonder Wall -> break -> before/during/after consensus model -> fish dissection/preparation -> close -> invited progress share.** The all-camp circle follows at 11:45.
+**Team block, 9:15-11:45 a.m.:** **Preview -> Friday evidence recap and souvenir -> Impossible Cut -> Escape the Wind -> joint video and Wonder Wall -> break -> before/during/after consensus model -> fish dissection/preparation -> close -> identi-beads -> report ready.** The all-camp circle follows at 11:45.
 
 The consensus model, evidence limits, and close are protected. April recommended fish dissection/preparation on Monday, so sand density separation moves to Tuesday. Aastha will present **"All microplastics are invisible"** as an intentionally inaccurate claim for scholars to test with **AGREE / DISAGREE / NOT SURE**, then revise it with scale evidence: some microplastics are visible and others require magnification. The scale strips and paper pieces are models, and moving paper does not prove environmental plastic transport.
 
 Fish/KOH preparation is instructor-controlled multi-day work and is not treated as evidence of microplastics on Monday. Campers do not handle potassium hydroxide, and no camper is required to touch the fish.
+
+The [current Monday lesson](monday-water-pathways-and-first-model.md#10-invisible-invaders-identi-beads---1130-1142) now contains the complete identi-beads routine. The shared glass beads represent **Investigator, Connector, Environmental Advocate, Creative, Cultivator of Joy, and Your Choice**. Youth select zero, one, or more beads for themselves; facilitators do not assign them. A story is optional, every category is equal and fluid, and choosing privately, passing, or returning is valid. Piter and Aastha choose their own beads only after youth have first-choice time.
 
 Reuse the Friday/full-week print bag: one visual agenda, one shared source-to-body model, the access board, evidence tags, the orange Water Gotta-Have, circle prompts, role cards, and Friday's completed site evidence. **The only required new printing is two copies of one Field Friday evidence souvenir, one for each Invisible Invaders scholar.**
 
@@ -421,7 +423,7 @@ These reservations add **USD 0**. Buy only if the physical checkout shows the ex
 | Neighborhood map | Large map, public-landmark cards, stickers/icons, words, drawing tools, photo/audio alternatives; no private-address pins |
 | Advocacy | Clean plastic trash, poster/tri-fold board, scissors including adaptive options, low-odor glue, markers, title/message cards, recording option |
 | Daily access | Visual agenda, one-step cards, role cards, timers, seating, hearing protection/headphones, low-sensory route, water/rest access |
-| Identity recognition | Beads/cord or an equivalent visual identity record; confirm existing stock before spending the budget buffer |
+| Identity recognition | Existing shared glass beads; six labeled cups/trays; cord or safety pins; projected JuST legend; private-choice and pass/return route |
 
 ### Borrow, confirm, or instructor-control
 
@@ -525,10 +527,10 @@ Trusted evidence:
 - [ ] Confirm the official/community contact and whether a call, interview, or written question is realistic.
 - [ ] Confirm family-showcase time, invitation process, presentation space, and accessibility.
 - [ ] Confirm photo, audio, quotation, and youth-artifact permissions.
-- [ ] Confirm identity/recognition supplies and an equivalent no-token route.
+- [ ] Confirm cord or safety pins and where the shared glass beads will be staged; the equivalent no-token/private-choice route is already planned.
 - [ ] Locate the July 21 planning photographs mentioned in the transcript; do not fabricate or substitute them.
 - [ ] Confirm whether the optional greenhouse extension adds value after the core storyline is ready.
-- [ ] Confirm the poster printing cutoff; use July 29 at 10 p.m. only as the working target.
+- [ ] Confirm the poster printing date and final recipient; Zen has confirmed a 10 p.m. cutoff but not the calendar date or whether students send through him or directly to the printer.
 
 ## Planning Evidence
 

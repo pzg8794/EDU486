@@ -69,6 +69,7 @@ The course planning record describes scholars being assigned to a camp team and 
 - Aastha's **Tiny Hitchhikers** still-image/read-aloud backup
 - one shared Wonder Wall space with sticky notes or moveable question cards
 - the instructor-prepared fish-dissection bin: fish, tray, approved tools, gloves, labels, the small jars April packed, and cleanup supplies
+- the shared glass identi-beads, cord or safety pins, and six labeled cups/trays; project the JuST identity-bead legend instead of printing another page
 - optional camera for evidence documentation, with a paper backup
 
 If the already-printed agenda uses the older labels **NOTICE / SOURCE / SORT /
@@ -104,7 +105,8 @@ Piter and Aastha should confirm or swap these roles before campers arrive. The r
 | 10:20-10:45 | **FIRST-DRAFT MODEL** | Add ideas and questions to a before/during/after model; compare what each model shows and leaves out. | Piter facilitates; every idea may enter and can be revised later. |
 | 10:45-11:15 | **FISH DISSECTION + PREP** | Observe, choose a role, and optionally cut with approved tools under direct supervision. | Youth choice and safety; adults alone control KOH; Monday does not reveal microplastics. |
 | 11:15-11:30 | **TEAM CLOSE** | Choose KEEP, QUESTION, or CHANGE and select one report-out idea. | Protect the close and make public speaking optional. |
-| 11:30-11:45 | **CONNECT** | Join the invited Identibeads/progress share if confirmed; if Friday identi-beads did not happen, use the remember-Friday option or the Friday/Monday pin pair at the end of today. | The souvenir or a partner can carry the scholar's idea. |
+| 11:30-11:42 | **IDENTI-BEADS** | Privately or publicly choose zero, one, or more beads that represent how they participated today; optionally connect the choice to one moment. | Youth choose their own meanings; categories are equal and fluid; no required explanation or public display. |
+| 11:42-11:45 | **REPORT READY** | Select one portable idea or question for circle-up and decide who, if anyone, will share it. | The souvenir, model, bead, partner, or facilitator may carry the selected idea. |
 | After 11:45 | **ALL-CAMP CIRCLE** | One willing youth reports for Invisible Invaders; team participates in chants and recognitions. | Agree on the report before circle and never pressure a child to speak. |
 
 ## Exact Facilitation Guide
@@ -270,12 +272,82 @@ photo, model arrow, question, evidence limit, or fair action. Ask who wants to
 report. If neither scholar chooses public speaking, ask an instructor whether
 Piter, Aastha, or a partner may share the child's selected idea.
 
-### 10. IDENTIBEADS + PROGRESS SHARE - 11:30-11:45
+### 10. INVISIBLE INVADERS IDENTI-BEADS - 11:30-11:42
 
-Join the invited cross-team Identibeads/progress share if confirmed. A scholar
-may share directly, ask a partner to share, hold up the souvenir, listen, pass,
-or return. If the shared block does not happen, use the time for calm model
-revision, identity recognition, and a movement break.
+This is a **self-recognition ritual**, not a reward system, behavior chart, quiz,
+or facilitator judgment. The beads help scholars notice that STEM participation
+includes more than speaking first, cutting the specimen, reading quickly, or
+getting an answer right. Categories are equally valuable, may overlap, and may
+change from day to day.
+
+#### Set up before camp
+
+Sort the shared glass beads into six labeled cups or spaces. Project the existing
+JuST identity-bead legend; do not print another packet.
+
+| Bead/category | Invisible Invaders meaning | Monday examples |
+| --- | --- | --- |
+| **Blue - Investigator** | I noticed closely, asked a question, gathered evidence, compared, or looked for a pattern. | Remembered a field method, tested scale, counted wind-model pieces, observed the fish, or named an evidence limit. |
+| **Green - Connector** | I connected ideas or helped another person participate and belong. | Linked Friday to Monday, connected air to water transport, invited a partner in, listened carefully, or helped someone re-enter. |
+| **Orange/red - Environmental Advocate** | I cared about people and environments and considered responsibility or fair change. | Asked who makes product or infrastructure decisions, protected the beach, or suggested a fair way to reduce a pathway. |
+| **Pink - Creative** | I used imagination, design, art, modeling, or communication to make an idea visible. | Drew an arrow, redesigned a model, invented a response route, or found a clear way to tell the evidence story. |
+| **Yellow - Cultivator of Joy** | I helped curiosity, courage, welcome, or enjoyment grow without pressuring anyone. | Encouraged a peer, made room for choice, brought safe humor, celebrated revision, or helped the group keep trying. |
+| **Purple - Your Choice** | I name another meaningful way I participated. | Listener, careful observer, question keeper, documenter, builder, safety watcher, learner, or a word the scholar chooses. |
+
+#### Exact launch
+
+Piter says:
+
+> **"These beads are not grades, and no color is better than another. They help
+> you notice one or more ways you participated today. You decide what fits.
+> You may choose no bead, one bead, or more than one. You may tell a story,
+> point to evidence, ask someone to share your words, choose privately, pass,
+> or come back."**
+
+Give quiet looking time before anyone chooses. Piter and Aastha wait until both
+scholars have had first-choice time, then choose their own beads and briefly
+model honest reflection rather than assigning a bead to a child.
+
+#### Youth choice and optional story
+
+Ask one question:
+
+> **"Which bead connects to something you did, noticed, questioned, created, or
+> helped make possible today?"**
+
+A scholar may answer by speaking, showing a photograph or model move, pointing
+to a category, holding up a bead, drawing, dictating to a partner, choosing
+privately, passing, or returning. Do not require eye contact, a full sentence,
+public speaking, or a defense of the choice. If a scholar chooses **Your
+Choice**, use the scholar's exact word rather than replacing it with an adult
+category.
+
+With permission, help place chosen beads on cord or a safety pin for a backpack.
+The artifact belongs to the scholar. Do not compare bead counts, use the beads
+as prizes, or interpret choosing no bead as lack of engagement or STEM identity.
+
+#### Optional evidence record
+
+Only if the scholar agrees, record:
+
+- date and bead category;
+- the scholar's exact reason, gesture, artifact, or selected evidence;
+- whether the explanation was public, partner-supported, private, or passed;
+- what remains unknown about the scholar's meaning.
+
+Photograph the bead artifact without a face or name only when consent and course
+photo procedures allow it. This record can document identity work across the
+week, but it cannot diagnose identity, motivation, understanding, disability, or
+belonging.
+
+### 11. REPORT READY - 11:42-11:45
+
+Each scholar may carry one selected contribution into circle-up through a
+souvenir, model arrow, question, evidence limit, bead, partner, or facilitator.
+Ask who wants to share; do not make the bead explanation the required report.
+If an instructor leads Identibeads in the all-camp circle instead, keep the same
+self-choice, no-ranking, pass-and-return rules and use this block to prepare the
+portable contribution.
 
 ### After 11:45 - ALL-CAMP CIRCLE
 
@@ -324,7 +396,8 @@ model. There are no individual Monday worksheets and no second lesson packet.
 4. Record which participation routes youth chose and which route was still missing.
 5. Name one barrier that Piter and Aastha will redesign before Tuesday.
 6. Verify the fish-preparation jars are sealed, labeled, upright, and transferred to the instructor-controlled next step.
-7. Prepare Tuesday from youth questions rather than repeating the prewritten conclusion.
+7. If scholars consented, record each identi-bead category and exact explanation without inferring a fixed identity or comparing counts.
+8. Prepare Tuesday from youth questions rather than repeating the prewritten conclusion.
 
 ## Evidence Used To Revise This Lesson
 
@@ -332,5 +405,8 @@ model. There are no individual Monday worksheets and no second lesson packet.
 - The [July 24 video transcript record](../../transcripts/2026-07-24-camp-day1-videos/day1-master-transcript.md) records youth hypotheses about water, vehicles, and sampling location, plus moments when adult explanation and speed pressure overtook youth sensemaking.
 - The [July 21 youth-feedback plan](../../transcripts/2026-07-21-invisible-invaders-planning-and-youth-feedback-clean.md) calls for short explanations, one direction at a time, optional public reading/speaking, proactive support, equivalent response routes, and meaningful extensions.
 - The [July 16 planning transcript](../../transcripts/2026-07-16-microplastics-health-planning-transcript-clean.md) establishes that fish preparation is multi-day and does not produce visible microplastic evidence on Monday.
+- The [July 9 class transcript](../../transcripts/2026-07-09-teacher-workshop-environmental-science-and-social-justice-clean.md) defines identi-beads as youth-selected self-recognition followed by a story of how the chosen mode appeared that day.
+- The [July 16 camp-planning transcript](../../transcripts/2026-07-16-camp-planning-and-student-engagement-transcript-clean.md) identifies the bead choice and youth explanation as potential identity-work evidence and says adults must notice who is overlooked during separate peer recognitions.
+- Mercier and Carlone's assigned identi-beads reading and the JuST Mexico visual define the six nonhierarchical, fluid entry points used here: investigator, connector, environmental advocate, creative, cultivator of joy, and youth-defined choice.
 - Aastha's July 26 co-planning outline contributes the Impossible Cut, Escape the Wind, joint video and Wonder Wall, before/during/after consensus model, and fish sequence. Piter's revision keeps those moves while correcting scale claims, removing speed rewards, and adding equivalent participation routes.
 - Aastha's team pathway work is preserved in the [Tiny Hitchhikers planning image](../../public-artifacts/2026-07-16-tiny-hitchhikers-reading.png) and [fish-pathway page](../../public-artifacts/2026-07-16-fish-pathway-worksheet.png). Monday uses their pathway logic without requiring dense reading or overstating health evidence.

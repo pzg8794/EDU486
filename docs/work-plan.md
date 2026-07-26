@@ -45,7 +45,9 @@ Follow the [40-minute Friday routine](../assignments/03-camp-unit-plan/friday-an
 
 - Collect first/final models, de-identified map contributions, exact youth questions, selected communication modes, advocacy choices, and facilitator revision notes.
 - Use the research question about how the neighborhood map and multimodal scientist circles shape noticing, connection, and communication.
-- Confirm the poster printing cutoff; July 29 at 10 p.m. remains a working target, not a confirmed deadline.
+- Prepare Plastic Pirates Poster Number 2 in the 36 x 48-inch course template.
+  The printer's 10 p.m. cutoff is confirmed, but Zen still needs to confirm the
+  date and whether students send through him or directly to the printer.
 - Present July 31, submit final camp plans August 1, and submit Grounding Frameworks Part 2 August 4.
 
 ## Daily Five-Minute Debrief

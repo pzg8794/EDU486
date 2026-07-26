@@ -311,12 +311,26 @@ outline contributes the Impossible Cut, Escape the Wind, joint video and Wonder
 Wall, before/during/after consensus model, and fish sequence. The revision
 corrects the scale claim, labels paper pieces as transport proxies rather than
 plastic evidence, removes speed rewards, and adds equivalent participation
-routes. Instructor messages on July 26 corrected the team block to
+routes. The complete identi-beads close is grounded in the assigned Mercier and
+Carlone reading, the JuST Mexico identity-bead visual, and the July 9 and July 16
+course transcripts. It uses six equal, fluid categories as youth
+self-recognition; youth may choose zero, one, or more beads, explain publicly or
+privately, pass, or return. Facilitators do not assign beads or compare counts.
+Instructor messages on July 26 corrected the team block to
 9:15-11:45 a.m. and recommended fish dissection/preparation on Monday; sand
 density separation therefore moves to Tuesday. The only required new student
 printing is one evidence souvenir for each of the two Invisible Invaders
-scholars. Existing agenda, model, access, evidence, role, and Gotta-Have pages
-are reused from the Friday print package.
+scholars. The Monday slide deck supplies the visual agenda and identi-bead
+legend. Existing access/evidence, sample/model-label, site-record, and blank-card
+materials are reused from the Friday print package.
+
+Zen Borys's July 26 email supplies the current poster-production requirements:
+Piter is Plastic Pirates Poster Number 2; the poster must fit the linked 36 x
+48-inch course template and be exported as a PDF; the submission subject must
+identify Poster Number 2; and April, Zen, and Brandon must be copied. The printer
+needs the file by 10 p.m., but the email does not identify the calendar date or
+settle whether students send through Zen or directly to the printer. Those two
+items remain explicitly pending in the [poster proposal](../assignments/04-poster-fair/poster-proposal-draft.md#july-26-poster-instructions).
 
 The corrected scientific record organizes 21 sampling photographs into three
 participant groups with two human-verified red-flag locations each. The

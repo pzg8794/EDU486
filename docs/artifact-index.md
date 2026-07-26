@@ -50,6 +50,8 @@ This is the internal front door for our EDU486 repository. Repository files supp
 - [July 24 de-identified video transcript set](../transcripts/2026-07-24-camp-day1-videos/README.md)
 - [July 24 chronological video master](../transcripts/2026-07-24-camp-day1-videos/day1-master-transcript.md)
 - [July 24 clean plus-and-arrow reflection](../transcripts/2026-07-24-invisible-invaders-plus-arrow-reflection-clean.md)
+- [July 24 editable Field Friday scientific-record presentation](https://docs.google.com/presentation/d/19xdvRO_qzqcBjLFA8vZztAf9CbbyjJ_EDUygwXv-Alg/edit)
+- [July 24 fixed Field Friday scientific-record PDF](https://drive.google.com/file/d/100crKJtJO61ykQwjlt5yziu3FT3OlkGd/view)
 - [Exact materials and purchase check](../assignments/05-july14-camp-prep/materials-inventory-and-order-check.md)
 - [Live materials order sheet](https://docs.google.com/spreadsheets/d/1rAuGt8iT-CAx4Oy1cqz_SsVQqqPzi5mE9v7pRCODSAo/edit?gid=1535708448#gid=1535708448)
 - [Invisible Invaders gotta-have checklist and evidence map](../assignments/05-july14-camp-prep/invisible-invaders-gotta-have-checklist-evidence-map.md)

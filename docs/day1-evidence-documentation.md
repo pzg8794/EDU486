@@ -8,6 +8,31 @@
 camp without publishing private youth media or treating polished speech as the
 only evidence of thinking.
 
+## Shareable Result
+
+- [Editable seven-slide Field Friday scientific record](https://docs.google.com/presentation/d/19xdvRO_qzqcBjLFA8vZztAf9CbbyjJ_EDUygwXv-Alg/edit)
+- [Fixed seven-page presentation PDF](https://drive.google.com/file/d/100crKJtJO61ykQwjlt5yziu3FT3OlkGd/view)
+
+This is the concise presentation artifact. It uses real, reviewed site-focused
+photographs without identifiable faces and shows the method, six GPS records,
+evidence limits, next analysis steps, and Four Gotta-Have connections.
+
+The coordinates were recovered from the original iPhone EXIF metadata:
+
+| Site | Photograph | Time (EDT) | Latitude | Longitude |
+| --- | --- | --- | ---: | ---: |
+| A | `IMG_5532.HEIC` | 11:26:42 | 43.259378 | -77.605933 |
+| B | `IMG_5550.HEIC` | 11:56:28 | 43.258750 | -77.603958 |
+| C | `IMG_5551.HEIC` | 11:56:42 | 43.258720 | -77.603958 |
+| D | `IMG_5552.HEIC` | 11:56:48 | 43.258728 | -77.603937 |
+| E | `IMG_5562.HEIC` | 12:58:40 | 43.258842 | -77.604912 |
+| F | `IMG_5566.HEIC` | 13:00:10 | 43.258867 | -77.604988 |
+
+**Scientific limit:** EXIF records the camera position near the visible flag.
+The flag tips were not surveyed separately, the source does not report
+horizontal accuracy, and six decimal places preserve the metadata rather than
+claim survey-grade precision.
+
 ## One Transcript Home
 
 **All cleaned Day 1 video transcripts are in the EDU486 repository's existing
@@ -117,8 +142,9 @@ restart the storyline.**
 - No diagnosis, disability, race, ethnicity, health status, emotion, family
   circumstance, motivation, or private identity was inferred.
 - No synthetic images of youth were generated.
-- All selected visual evidence uses real source frames and remains private
-  until Piter completes consent and context review.
+- All selected visual evidence uses real source frames. Only the reviewed,
+  face-free site and process crops in the shareable presentation leave the
+  private evidence vault; uncropped media remains private.
 - Absence from a recording is an evidence gap, not proof that participation,
   access, learning, or joy was absent.
 - Automatic transcript wording and speaker separation remain fallible; every

@@ -2,6 +2,25 @@
 
 The syllabus says that when GenAI is used, it should be credited by source, output, and purpose. This log makes that crediting easy to maintain.
 
+## July 25, 2026 - Six-Site Scientific Record And Share Presentation
+
+- Tool/source: OpenAI Codex under Piter Garcia's supervision; six original July 24 iPhone red-flag photographs and their EXIF metadata; July 9, July 16, and July 24 course/video transcripts; current Invisible Invaders plans; direct NOAA shoreline-monitoring guidance; and direct EPA microplastics-method guidance
+- Purpose: document every red-flag measurement photograph scientifically, recover latitude and longitude without inventing precision, and make a concise visual result available in the team Drive rather than leaving the work only in GitHub
+- Outputs created or revised:
+  - [editable seven-slide Field Friday scientific record](https://docs.google.com/presentation/d/19xdvRO_qzqcBjLFA8vZztAf9CbbyjJ_EDUygwXv-Alg/edit)
+  - [fixed seven-page presentation PDF](https://drive.google.com/file/d/100crKJtJO61ykQwjlt5yziu3FT3OlkGd/view)
+  - [public-safe Day 1 evidence documentation](day1-evidence-documentation.md)
+  - complete six-site scientific record, machine-readable coordinate CSV, local PPTX/PDF, and reproducible deck builder in the private Git/LFS evidence vault
+- Human guidance and decisions:
+  - GitHub is the internal record; the Invisible Invaders Drive folder is the collaboration and presentation surface
+  - every red-flag photograph must remain connected to its original filename, capture time, coordinates, visible site context, and method evidence
+  - EXIF GPS is reported honestly as the camera position near the flag, not as a survey-grade flag-tip coordinate
+  - preserve suspected-particle language and do not claim plastic identity, concentration, source, route into a body, dose, or health effect before appropriate evidence exists
+  - use real site photographs and tightly cropped process images without identifiable faces; do not generate artificial children
+  - pair each Four Gotta-Have color with its written label and keep the presentation concise enough to show
+- Verification: all seven PowerPoint slides were rendered and visually inspected; the deck passed the slide-overflow test; the PDF is tagged, seven pages, and 16:9; all seven slides contain source notes; Drive readback confirmed a seven-slide native Google presentation in the correct Invisible Invaders folder and a nonzero seven-page PDF beside it
+- Disclosure: AI was used under Piter Garcia's supervision to read metadata, reconcile transcript evidence, organize and visualize the six-site record, tighten privacy-safe crops, test evidence limits, validate layout, and publish the reviewed copies to Drive. Piter provided, guided, corrected, and reviewed the content and remains responsible for final science, audience, privacy, and presentation decisions.
+
 ## July 24, 2026 - Six Lesson Plans, Six Protocol Packs, And Open Print Review
 
 - Tool/source: OpenAI Codex under Piter Garcia's supervision; the unchanged instructor [Camp Lesson Plan Template](https://docs.google.com/document/d/1FR5m1gxYTF6Mt8_Lsh22LRrI_8osXQde7yDXPJRMCY4/edit); the unchanged [Sampling Protocols source](https://docs.google.com/document/d/1HP06TOL2cnycQSgDcRfV57cEUYHuwoHTmVGRABv9tys/edit); Piter's and Aastha's six current daily plans; the current operations, Field Friday, sand-processing, materials, and print-package records

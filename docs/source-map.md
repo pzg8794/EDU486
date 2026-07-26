@@ -281,6 +281,20 @@ Version 8 is the current **Field Friday-only** print handoff. Its `SEND TO UPS` 
 
 Access is designed into the artifacts through visible sequences, icons paired with words, high contrast, restrained color coding, generous writing space, one-direction-at-a-time language, honest evidence limits, and point, draw, write, speak/dictate, photograph, partner, seated, scribe, pass, and re-entry routes. The black-and-white sampling record remains fully readable without color. The family note uses Freedom Scholars community photographs and therefore stays in the ignored local print area and shared team Drive rather than public Git; the public-safe master omits that page. Version 6, Version 7, earlier generated packages, and build traces remain preserved as archives. Nothing was deleted.
 
+## July 24 Day 1 Evidence Documentation
+
+- [Public-safe Day 1 evidence documentation](day1-evidence-documentation.md)
+- [De-identified Day 1 video transcript set](../transcripts/2026-07-24-camp-day1-videos/README.md)
+- [Chronological Day 1 video master](../transcripts/2026-07-24-camp-day1-videos/day1-master-transcript.md)
+- [Clean Invisible Invaders plus-and-arrow reflection](../transcripts/2026-07-24-invisible-invaders-plus-arrow-reflection-clean.md)
+- [Immediate pre-camp plan and youth feedback](../transcripts/2026-07-21-invisible-invaders-planning-and-youth-feedback-clean.md)
+
+The Friday evidence workflow inventoried 18 videos totaling 33:02 and 63 same-day photographs, produced 18 de-identified timestamped transcripts in the repository's existing `transcripts/` directory, selected 14 real video frames plus one same-day artifact photograph for private review, and reconstructed the two recorded station cycles. It uses Friday recordings for contemporaneous evidence, the July 24 plus/arrow record for facilitator reflection, and the July 21 record for intended design. These evidence layers are not treated as interchangeable.
+
+Raw media, extracted audio, raw speech-model outputs, contact sheets, selected youth frames, and the full private Puzzle Plan audit are backed up in a separate private Git/LFS evidence vault. They are intentionally not linked from this public repository. No facial recognition, child identification, diagnosis inference, or synthetic youth imagery was used. Video 18 is excluded from speech claims because the automatic result was systematically unreliable.
+
+The public-safe synthesis records both instructional strengths and corrections. Participants contributed site hypotheses, sample handling, labeling, tool-assisted observations, site explanations, and a question about a beach-maintenance vehicle. The revised language distinguishes prepared model pieces from authentic field evidence, suspected particles from confirmed plastic, and detection from route, exposure, dose, or health effect. Monday's plan begins with Friday's youth evidence, asks more and tells less, makes participation routes visible, and protects a final model revision.
+
 ## July 22 Sand Density-Separation And Filtration Protocol
 
 - [Current Sand Density-Separation And Filtration Guide](../assignments/03-camp-unit-plan/sand-density-separation-and-filtration-guide.md)

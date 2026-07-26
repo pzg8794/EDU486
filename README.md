@@ -51,6 +51,8 @@ My working personal lens is:
 - [Invisible Invaders gotta-have checklist and evidence map](assignments/05-july14-camp-prep/invisible-invaders-gotta-have-checklist-evidence-map.md)
 - [Course transcripts and July 9-21 evidence](transcripts/README.md)
 - [July 21 clean planning and youth-feedback record](transcripts/2026-07-21-invisible-invaders-planning-and-youth-feedback-clean.md)
+- [July 24 Day 1 evidence documentation](docs/day1-evidence-documentation.md)
+- [July 24 Day 1 video transcript set](transcripts/2026-07-24-camp-day1-videos/README.md)
 - [Course calendar import](docs/course-calendar.ics)
 - [Public generated artifacts](public-artifacts/README.md)
 - [Public submission documents](public-submissions/README.md)

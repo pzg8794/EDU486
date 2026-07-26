@@ -54,6 +54,7 @@ This record combines four July 21 automatic transcripts into one usable account 
 - [Clean Invisible Invaders plus-and-arrow reflection](2026-07-24-invisible-invaders-plus-arrow-reflection-clean.md)
 - [De-identified Day 1 video transcript set](2026-07-24-camp-day1-videos/README.md)
 - [Chronological Day 1 video master](2026-07-24-camp-day1-videos/day1-master-transcript.md)
+- [Public-safe Day 1 evidence documentation](../docs/day1-evidence-documentation.md)
 
 The video transcript set contains one timestamped record for each of the 18
 Friday videos. It uses a local multilingual large-v3-turbo Whisper model with
@@ -66,6 +67,11 @@ The raw July 24 plus-and-arrow transcript and all raw video/audio processing
 records are preserved in the private Day 1 evidence vault. The public course
 repository contains the de-identified transcript set and team-focused clean
 reflection.
+
+**This existing `transcripts/` directory is the only reader-facing transcript
+home for EDU486 Day 1.** The private evidence vault keeps raw speech-model
+outputs for provenance and does not maintain a second course transcript
+library.
 
 ## July 16 Classroom Evidence
 

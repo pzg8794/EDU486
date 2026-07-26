@@ -49,6 +49,24 @@ This record combines four July 21 automatic transcripts into one usable account 
 
 **Same-day image check:** the transcript says photographs were taken, but no July 21 image files were found in the EDU486 workspace, the earlier camp-materials folder, the Invisible Invaders Drive folder, or the connected Drive image search. The July 16 images below remain contextual evidence; they are not relabeled as July 21 evidence.
 
+## July 24
+
+- [Clean Invisible Invaders plus-and-arrow reflection](2026-07-24-invisible-invaders-plus-arrow-reflection-clean.md)
+- [De-identified Day 1 video transcript set](2026-07-24-camp-day1-videos/README.md)
+- [Chronological Day 1 video master](2026-07-24-camp-day1-videos/day1-master-transcript.md)
+
+The video transcript set contains one timestamped record for each of the 18
+Friday videos. It uses a local multilingual large-v3-turbo Whisper model with
+local voice-activity detection and no automatic translation. Reliable
+diarization was not available, so speaker roles remain unassigned until source
+review. Video 18 is marked unusable for speech evidence because systematic
+repetition made the automatic transcript unreliable.
+
+The raw July 24 plus-and-arrow transcript and all raw video/audio processing
+records are preserved in the private Day 1 evidence vault. The public course
+repository contains the de-identified transcript set and team-focused clean
+reflection.
+
 ## July 16 Classroom Evidence
 
 These photographs were received July 17 but document the July 16 planning session.

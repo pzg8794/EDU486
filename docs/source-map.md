@@ -288,22 +288,27 @@ Access is designed into the artifacts through visible sequences, icons paired wi
 - [Chronological Day 1 video master](../transcripts/2026-07-24-camp-day1-videos/day1-master-transcript.md)
 - [Clean Invisible Invaders plus-and-arrow reflection](../transcripts/2026-07-24-invisible-invaders-plus-arrow-reflection-clean.md)
 - [Immediate pre-camp plan and youth feedback](../transcripts/2026-07-21-invisible-invaders-planning-and-youth-feedback-clean.md)
-- [Editable seven-slide Field Friday scientific record](https://docs.google.com/presentation/d/19xdvRO_qzqcBjLFA8vZztAf9CbbyjJ_EDUygwXv-Alg/edit)
-- [Fixed Field Friday scientific-record PDF](https://drive.google.com/file/d/100crKJtJO61ykQwjlt5yziu3FT3OlkGd/view)
+- [Complete July 24 team evidence hub](https://drive.google.com/drive/folders/1bl1GjUY4lrz-uG_dbn049WfDe2TbiNKJ)
+- [Start Here guide for team review and correction](https://docs.google.com/document/d/1vtB54bbVXnP1XF2aylwguISv03w2amtCy8srUu6BkHg/edit)
+- [Corrected editable seven-slide Field Friday scientific record](https://docs.google.com/presentation/d/1a24et1jwGqKjibLq4YRj7PQyFY-69DIUo06k0OmZdSY/edit)
+- [Corrected Field Friday scientific-record PDF](https://drive.google.com/file/d/1AqLJWLtcM42rTfl7fU7cvYKXMqXHN6r7/view)
 
 The Friday evidence workflow inventoried 18 videos totaling 33:02 and 63 same-day photographs, produced 18 de-identified timestamped transcripts in the repository's existing `transcripts/` directory, selected 14 real video frames plus one same-day artifact photograph for private review, and reconstructed the two recorded station cycles. It uses Friday recordings for contemporaneous evidence, the July 24 plus/arrow record for facilitator reflection, and the July 21 record for intended design. These evidence layers are not treated as interchangeable.
 
-Raw media, extracted audio, raw speech-model outputs, contact sheets, selected youth frames, and the full private Puzzle Plan audit are backed up in a separate private Git/LFS evidence vault. They are intentionally not linked from this public repository. No facial recognition, child identification, diagnosis inference, or synthetic youth imagery was used. Video 18 is excluded from speech claims because the automatic result was systematically unreliable.
+Raw media, extracted audio, raw speech-model outputs, contact sheets, selected youth frames, and the full Puzzle Plan audit remain out of this public Git repository. The complete team-review copies are organized by type in the access-controlled July 24 Drive evidence hub and backed up in a separate private Git/LFS evidence vault. No facial recognition, child identification, diagnosis inference, or synthetic youth imagery was used. Video 18 is excluded from speech claims because the automatic result was systematically unreliable.
 
 The public-safe synthesis records both instructional strengths and corrections. Participants contributed site hypotheses, sample handling, labeling, tool-assisted observations, site explanations, and a question about a beach-maintenance vehicle. The revised language distinguishes prepared model pieces from authentic field evidence, suspected particles from confirmed plastic, and detection from route, exposure, dose, or health effect. Monday's plan begins with Friday's youth evidence, asks more and tells less, makes participation routes visible, and protects a final model revision.
 
-The six red-flag photographs now have a scientific field record using the
+The corrected scientific record organizes 22 investigation photographs into
+six distinct chronological evidence groups and preserves the participant-made
+site map as a separate artifact. The photograph-level index records the
 original iPhone EXIF capture time, latitude, longitude, altitude, and camera
-bearing. The share deck preserves all six coordinates and site contexts while
-stating the central limit: EXIF locates the camera near each visible flag, not a
-surveyed flag tip. The presentation uses only reviewed, face-free crops; the
-uncropped source media and full coordinate/provenance record remain in the
-private Git/LFS evidence vault.
+bearing. The share deck shows one representative coordinate and site context
+for each group while stating the central limit: EXIF locates the camera near
+the documented work, not a surveyed flag tip. A-F are evidence-group labels,
+not physical jar or map numbers. The presentation uses only reviewed,
+face-free crops; the uncropped source media and full coordinate/provenance
+record remain in the team Drive and private Git/LFS evidence vault.
 
 ## July 22 Sand Density-Separation And Filtration Protocol
 

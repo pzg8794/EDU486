@@ -10,28 +10,36 @@ only evidence of thinking.
 
 ## Shareable Result
 
-- [Editable seven-slide Field Friday scientific record](https://docs.google.com/presentation/d/19xdvRO_qzqcBjLFA8vZztAf9CbbyjJ_EDUygwXv-Alg/edit)
-- [Fixed seven-page presentation PDF](https://drive.google.com/file/d/100crKJtJO61ykQwjlt5yziu3FT3OlkGd/view)
+- [Complete July 24 team evidence hub](https://drive.google.com/drive/folders/1bl1GjUY4lrz-uG_dbn049WfDe2TbiNKJ)
+- [Start Here guide for reviewing and correcting the evidence](https://docs.google.com/document/d/1vtB54bbVXnP1XF2aylwguISv03w2amtCy8srUu6BkHg/edit)
+- [Corrected editable seven-slide Field Friday scientific record](https://docs.google.com/presentation/d/1a24et1jwGqKjibLq4YRj7PQyFY-69DIUo06k0OmZdSY/edit)
+- [Corrected seven-page presentation PDF](https://drive.google.com/file/d/1AqLJWLtcM42rTfl7fU7cvYKXMqXHN6r7/view)
 
 This is the concise presentation artifact. It uses real, reviewed site-focused
-photographs without identifiable faces and shows the method, six GPS records,
-evidence limits, next analysis steps, and Four Gotta-Have connections.
+photographs without identifiable faces and shows the method, six distinct
+chronological photo groups, evidence limits, next analysis steps, and Four
+Gotta-Have connections. The earlier presentation that repeated one flag
+sequence and omitted two earlier sequences is preserved in Drive under
+`99 - ARCHIVE - INCORRECT DRAFTS`; it is not the current record.
 
 The coordinates were recovered from the original iPhone EXIF metadata:
 
-| Site | Photograph | Time (EDT) | Latitude | Longitude |
-| --- | --- | --- | ---: | ---: |
-| A | `IMG_5532.HEIC` | 11:26:42 | 43.259378 | -77.605933 |
-| B | `IMG_5550.HEIC` | 11:56:28 | 43.258750 | -77.603958 |
-| C | `IMG_5551.HEIC` | 11:56:42 | 43.258720 | -77.603958 |
-| D | `IMG_5552.HEIC` | 11:56:48 | 43.258728 | -77.603937 |
-| E | `IMG_5562.HEIC` | 12:58:40 | 43.258842 | -77.604912 |
-| F | `IMG_5566.HEIC` | 13:00:10 | 43.258867 | -77.604988 |
+| Evidence group | Photograph sequence | Representative photograph | Time range (EDT) | Latitude | Longitude |
+| --- | --- | --- | --- | ---: | ---: |
+| A | `IMG_5531`-`IMG_5534` | `IMG_5532.HEIC` | 11:26:31-11:27:09 | 43.259378 | -77.605933 |
+| B | `IMG_5540`-`IMG_5543` | `IMG_5540.HEIC` | 11:52:09-11:52:15 | 43.258663 | -77.604728 |
+| C | `IMG_5545`-`IMG_5548` | `IMG_5545.HEIC` | 11:55:28-11:55:52 | 43.258717 | -77.603942 |
+| D | `IMG_5550`-`IMG_5552` | `IMG_5550.HEIC` | 11:56:28-11:56:48 | 43.258750 | -77.603958 |
+| E | `IMG_5559`-`IMG_5562` | `IMG_5562.HEIC` | 12:58:03-12:58:40 | 43.258842 | -77.604912 |
+| F | `IMG_5564`-`IMG_5566` | `IMG_5566.HEIC` | 12:59:58-13:00:10 | 43.258867 | -77.604988 |
 
-**Scientific limit:** EXIF records the camera position near the visible flag.
-The flag tips were not surveyed separately, the source does not report
+**Scientific limit:** EXIF records the camera position near the documented
+work. The flag tips were not surveyed separately, the source does not report
 horizontal accuracy, and six decimal places preserve the metadata rather than
-claim survey-grade precision.
+claim survey-grade precision. A-F are chronological evidence-group labels, not
+physical jar or participant-map numbers. The participant-created `IMG_5573`
+map records sites 1-6, but those identities still need to be reconciled with
+the physical jar labels and team notes.
 
 ## One Transcript Home
 
@@ -44,9 +52,10 @@ claim survey-grade precision.
 - [Immediate pre-camp plan and youth feedback](../transcripts/2026-07-21-invisible-invaders-planning-and-youth-feedback-clean.md)
 
 Raw youth media, extracted audio, raw model outputs, contact sheets, selected
-frames, and full private evidence audits remain in a separate private
-Git/LFS-backed evidence vault. They are backed up remotely but are not linked
-from this public repository.
+frames, and full evidence audits remain out of this public Git repository. The
+complete team-review copies are organized in the access-controlled
+[July 24 evidence hub](https://drive.google.com/drive/folders/1bl1GjUY4lrz-uG_dbn049WfDe2TbiNKJ);
+they are also backed up in a separate private Git/LFS evidence vault.
 
 ## Evidence Scale
 
@@ -55,6 +64,8 @@ from this public repository.
 | Friday videos | 18 |
 | Combined recorded video time | 33:02 |
 | Friday photographs | 63 |
+| Investigation photographs | 22 plus 1 participant-created map |
+| Clearly separated after-camp photographs | 40 |
 | Real selected evidence frames | 14 video frames plus 1 same-day photograph |
 | Clean public transcripts | 18 individual records plus 1 chronological master |
 

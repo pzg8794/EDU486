@@ -2,10 +2,10 @@
 
 **Team:** Piter Garcia and Aastha<br>
 **Course:** EDU486, Integrating Technology in STEM<br>
-**Current through:** July 23, 2026<br>
+**Current through:** July 26, 2026<br>
 **Use this document for:** Field Friday, camp week, team preparation, materials, lesson flow, research evidence, and the showcase.
 
-This guide reconciles our July 16 planning board with the July 21 Freedom School feedback and team meetings. It replaces the competing Planet Protectors, earlier opening-routine, Task 7, July 15 commitment, and pre-feedback camp documents. Those files remain in dated archives so our working area stays clear without erasing how our thinking developed. The [current Field Friday guide](friday-anchoring-phenomenon-routine.md) is its field-side companion; the [sand density-separation and filtration guide](sand-density-separation-and-filtration-guide.md) is its lab-side companion. Neither is a competing plan.
+This guide reconciles our July 16 planning board with the July 21 Freedom School feedback and team meetings. It replaces the competing Planet Protectors, earlier opening-routine, Task 7, July 15 commitment, and pre-feedback camp documents. Those files remain in dated archives so our working area stays clear without erasing how our thinking developed. The [current Field Friday guide](friday-anchoring-phenomenon-routine.md) is its field-side companion; the [current Monday lesson](monday-water-pathways-and-first-model.md) is the single facilitator plan for July 27; and the [sand density-separation and filtration guide](sand-density-separation-and-filtration-guide.md) is the lab-side companion. None is a competing plan.
 
 ## Start Here
 
@@ -41,6 +41,7 @@ We will not use fear, blame, reading speed, stamina, speech, handwriting, Englis
 - [Editable CURRENT SASSY Storyline Table](https://docs.google.com/document/d/1fGOjSkEFxsy5UC5n75UIi9aE_-sKOhyeRx9sY8CAUWU/edit)
 - [Editable CURRENT Invisible Invaders Sample Model](https://docs.google.com/document/d/1mGolkzKcMzcQuTr4uxjnx0voqTR8Kffmw0B4ypQRq0k/edit)
 - [Friday Anchoring Phenomenon Routine](friday-anchoring-phenomenon-routine.md)
+- [Monday: How Small? How Does It Move?](monday-water-pathways-and-first-model.md)
 - [Sand Density-Separation And Filtration Guide](sand-density-separation-and-filtration-guide.md)
 - [Editable CURRENT Friday Anchoring Phenomenon Routine](https://docs.google.com/document/d/16iqraS0TefwyGQdTOlp2s-sQnIWB6DgCOptWtB8vWJ0/edit)
 - [Editable CURRENT Gapless Explanation](https://docs.google.com/document/d/1vvqDsHdI7QEog4mtSVvOCV2PmIE9lW_xoY2HBfPknmM/edit?tab=t.0)
@@ -125,7 +126,7 @@ Campers can point, draw, speak, type, dictate, record audio, use home language, 
 | Day | Connecting question | Core experience | Evidence and model move | Daily product |
 | --- | --- | --- | --- | --- |
 | **Field Friday, July 24** | 🟩 **Gotta-Have 1: Earth systems are interconnected.** How can plastic move among or collect in sand, water, air, living things, and human systems even when we do not notice it at first? | Enter a clearly fictional bird-and-sand case, compare Durand and Ontario prepared reference models with a matching mystery clue, then collect and map six traceable Charlotte Beach pair samples | Compare prediction, first look, magnified evidence, and a known model answer; name a model limit; keep prepared proxy evidence and real field evidence separate | Evidence records, case reflection, beach map, six sealed pair samples, youth questions |
-| **Monday, July 27** | 🟧 **Gotta-Have 2: Water transports materials.** How can moving water help plastic reach living organisms and food webs, and what can our evidence not tell us yet about route or harm? | Read or view a short article/video; examine instructor-approved fish/body evidence through a dissection, prepared sample, image, or worksheet route; build the first source-to-body pathway model | Use the article, video, and fish/body evidence to justify a possible water or food-web pathway while separating detection from exact route or harm | Initial source-to-body model and question board |
+| **Monday, July 27** | 🟧 **Gotta-Have 2: Water transports materials.** How small can plastic pieces get, how can moving air or water carry them, and what do we still not know? | Revisit Group 2's Friday evidence; complete Aastha's Impossible Cut and Escape the Wind investigations; choose one short video; build a before/during/after consensus model; begin instructor-controlled fish preparation | Connect scale and transport mechanisms to a possible source-to-body pathway while labeling what is supported, possible, or unknown; do not treat paper proxies or Monday fish preparation as microplastic evidence | Friday souvenir, Wonder Wall, consensus model, and labeled fish-preparation jars |
 | **Tuesday, July 28** | 🟦 **Gotta-Have 3: Living organisms respond to environmental conditions.** After wear releases smaller plastic particles, how might organisms encounter them in air, water, food, or surrounding materials, and what response evidence would we still need? | Race or roll intact bikes, rollerblades, or toy wheels; compare tread and surface temperature; examine adult-prepared sealed wear evidence or images | Preserve the image's friction/wear investigation, add **source -> friction/wear -> smaller particles**, and explicitly mark that the trial does not measure exposure, biological response, harm, or real-road quantity | Wheel evidence record, uncertainty note, and revised release model |
 | **Wednesday, July 29** | 🟪 **Gotta-Have 4: Human infrastructure influences natural systems.** Which product, transportation, drain, wastewater, waste, purchasing, and policy decisions shape these pathways, and what fair change do we want? | Return to Day 1 places and the Tuesday model; make the image's **art as advocacy** move; identify system actors; choose an audience/message; begin titled art and the tri-fold | Connect infrastructure and decision power to evidence; prepare one community/official question without blaming families | Power map, action choice, art plan, and tri-fold draft |
 | **Thursday, July 30** | 🟩🟧🟦🟪 **Gotta-Haves 1-4, synthesis.** How can one final model connect Earth systems, water transport, living organisms, and human infrastructure while keeping the climate and microplastic branches distinct? | Complete the image's unfinished **future modeling** row with one visible two-branch model; compare with Monday; finish art/tri-fold; rehearse and showcase | Trace both branches, identify shared upstream decisions, keep their causal mechanisms distinct, and show what evidence changed | Final model, titled art, message, and showcase |
@@ -189,36 +190,19 @@ Roles include sampler, mapper, labeler, photographer, timer, materials monitor, 
 - Give families the instructor-approved note inviting them to Thursday's noon showcase.
 - Recognize each child at pickup/dropoff and record one access change for Monday.
 
-## Monday: Organism Evidence, Anchor, And First Model
+## Monday: How Small? How Does It Move?
 
 **🟧 Connecting question - Gotta-Have 2:** Water transports materials. How can moving water help plastic reach living organisms and food webs, and what can our evidence not tell us yet about route or harm?
 
-### Before
+Use the [current Monday lesson](monday-water-pathways-and-first-model.md) rather than the older eight-page lesson/protocol packets.
 
-- Post the visual agenda: **Notice -> Article/Video -> Organism Evidence -> Model -> Map -> Circle -> Identity**.
-- Prepare one short, trusted article or video in captioned, transcript, still-image, and read-aloud formats.
-- Prepare instructor-approved fish/body evidence, the fish worksheet, and direct-observation, shared-screen, image, and environment-only routes. Adults control any dissection, chemical preparation, or biological sample handling.
-- Prepare moveable source, release, transport, encounter, evidence-limit, infrastructure, and action cards.
-- Display the neighborhood map without private addresses.
+**Team block, 9:15-11:45 a.m.:** **Preview -> Friday evidence recap and souvenir -> Impossible Cut -> Escape the Wind -> joint video and Wonder Wall -> break -> before/during/after consensus model -> fish dissection/preparation -> close -> invited progress share.** The all-camp circle follows at 11:45.
 
-### During
+The consensus model, evidence limits, and close are protected. April recommended fish dissection/preparation on Monday, so sand density separation moves to Tuesday. Aastha will present **"All microplastics are invisible"** as an intentionally inaccurate claim for scholars to test with **AGREE / DISAGREE / NOT SURE**, then revise it with scale evidence: some microplastics are visible and others require magnification. The scale strips and paper pieces are models, and moving paper does not prove environmental plastic transport.
 
-| Time | Camp move | Purpose |
-| ---: | --- | --- |
-| 8 min | Arrival, preview, role choice, private noticing | 🟣 Predictability and several ways to enter |
-| 10 min | Use the short article/video, reveal the anchor, and sort what the evidence shows/does not show | 🟢 Evidence without fear or overclaiming |
-| 15 min | Examine approved fish/body evidence through a chosen route | 🔵 Detection in an organism raises a pathway question; it does not prove the exact route or harm |
-| 20 min | Build a first source-to-body pathway model | 🔵 Connect source, release, water/food/air, organism/person, uncertainty, and infrastructure |
-| 10 min | Return to Field Friday places and add questions/map observations | 🟢 Preserve youth thinking as public evidence |
-| 10 min | Scientist circle | 🟠 Ask what matters, who decides, and what evidence is needed |
-| 5 min | Identity recognition and circle-up | 🟣 End on time with belonging visible |
+Fish/KOH preparation is instructor-controlled multi-day work and is not treated as evidence of microplastics on Monday. Campers do not handle potassium hydroxide, and no camper is required to touch the fish.
 
-### After
-
-- Photograph each model without student names or faces.
-- Mark routes as **supported**, **possible**, or **unknown**.
-- Record whose ideas entered the public model and who needs another entry route tomorrow.
-- Prepare Tuesday's bicycle, rollerblade, scooter, or toy-wheel investigation around campers' questions about friction, wear, heat, and release.
+Reuse the Friday/full-week print bag: one visual agenda, one shared source-to-body model, the access board, evidence tags, the orange Water Gotta-Have, circle prompts, role cards, and Friday's completed site evidence. **The only required new printing is two copies of one Field Friday evidence souvenir, one for each Invisible Invaders scholar.**
 
 ## Tuesday: Wheels, Friction, Wear, And Model Revision
 
@@ -430,7 +414,7 @@ These reservations add **USD 0**. Buy only if the physical checkout shows the ex
 | --- | --- |
 | Field Friday model | 2 sealed reference-model jars, 1 matching mystery-clue container, known recoverable proxy pieces, facilitator answer card, model bird/box, 3 trays, 3 magnifiers, evidence records, mission/reflection cards, written/symbol labels |
 | Field sand sampling | 6 pair-sample jars plus 2 backups, 6 clean metal scoops, 6 red sampling squares, map, phone/GPS if approved, clipboards, sampling records, clean/used tool bins |
-| Monday organism/body evidence | Approved article/video, fish/body evidence or equivalent image and worksheet, display, source-to-body pathway cards, content preview, environment-only route |
+| Monday scale, transport, and organism evidence | Meter strip, ruler, scissors, countable lightweight paper proxies, tray/taped boundary, cardboard or paper fan, two vetted short videos, Wonder Wall, fish/body evidence, display, source-to-body pathway cards, content preview, environment-only route |
 | Tuesday wheel investigation | Intact bicycle, rollerblade, scooter, or toy wheels; safe route markers; tread cards; magnifiers/shared camera; infrared thermometers or approved temperature tools; adult-prepared sealed wear evidence; observation forms |
 | Observation backup | Shared camera/display, magnifiers, rulers, enlarged still images, paper and digital records |
 | Modeling | Large paper, moveable pathway cards/arrows, source cards, evidence-limit cards, scale ladder, markers, tape, camera |

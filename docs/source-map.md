@@ -293,12 +293,30 @@ Access is designed into the artifacts through visible sequences, icons paired wi
 - [Corrected editable seven-slide Field Friday scientific record](https://docs.google.com/presentation/d/1L_HH5zm9xrxJ--QP7uz4ZXgMpCksg0-67ngycCqDRBo/edit)
 - [Corrected Field Friday scientific-record PDF](https://drive.google.com/file/d/1FFtvqHpSzeJ4FeRKwfLlMlf_PeIF5LWF/view)
 - [Corrected editable three-tab evidence index](https://docs.google.com/spreadsheets/d/1f2XiVuBiavep5IqfD-gTlfqsZd6YcQndl-UzG1uUoig/edit)
+- [Current Monday How Small? How Does It Move? lesson](../assignments/03-camp-unit-plan/monday-water-pathways-and-first-model.md)
+- [Editable Monday lesson-plan template](https://docs.google.com/document/d/1jc_dSOKXVhSoSbvfbivXlgfYOxrrJ2L6KwbR7LQZCLc/edit)
+- [Editable Monday scale and transport slides](https://docs.google.com/presentation/d/1nHcWOyRAVQDjdqDlpf37868jD1PIu8lhNMMJPQfZ24s/edit)
+- [Portable Monday scale and transport PPTX](../public-submissions/invisible-invaders-monday-scale-and-transport.pptx)
+- [Group 2 Field Friday evidence souvenir - print two copies](https://drive.google.com/file/d/1jgVa99HbFpjYSuhWDNrDAyXbP6FZkm08/view)
 
 The Friday evidence workflow inventoried 18 videos totaling 33:02 and 63 same-day photographs, produced 18 de-identified timestamped transcripts in the repository's existing `transcripts/` directory, selected 14 real video frames plus one same-day artifact photograph for private review, and reconstructed the two recorded station cycles. It uses Friday recordings for contemporaneous evidence, the July 24 plus/arrow record for facilitator reflection, and the July 21 record for intended design. These evidence layers are not treated as interchangeable.
 
 Raw media, extracted audio, raw speech-model outputs, contact sheets, selected youth frames, and the full Puzzle Plan audit remain out of this public Git repository. The complete team-review copies are organized by type in the access-controlled July 24 Drive evidence hub and backed up in a separate private Git/LFS evidence vault. No facial recognition, child identification, diagnosis inference, or synthetic youth imagery was used. Video 18 is excluded from speech claims because the automatic result was systematically unreliable.
 
 The public-safe synthesis records both instructional strengths and corrections. Participants contributed site hypotheses, sample handling, labeling, tool-assisted observations, site explanations, and a question about a beach-maintenance vehicle. The revised language distinguishes prepared model pieces from authentic field evidence, suspected particles from confirmed plastic, and detection from route, exposure, dose, or health effect. Monday's plan begins with Friday's youth evidence, asks more and tells less, makes participation routes visible, and protects a final model revision.
+
+The July 27 Monday lesson uses Group 2's two reviewed sampling places and the
+team's Friday reflection as the starting evidence. Aastha's July 26 co-planning
+outline contributes the Impossible Cut, Escape the Wind, joint video and Wonder
+Wall, before/during/after consensus model, and fish sequence. The revision
+corrects the scale claim, labels paper pieces as transport proxies rather than
+plastic evidence, removes speed rewards, and adds equivalent participation
+routes. Instructor messages on July 26 corrected the team block to
+9:15-11:45 a.m. and recommended fish dissection/preparation on Monday; sand
+density separation therefore moves to Tuesday. The only required new student
+printing is one evidence souvenir for each of the two Invisible Invaders
+scholars. Existing agenda, model, access, evidence, role, and Gotta-Have pages
+are reused from the Friday print package.
 
 The corrected scientific record organizes 21 sampling photographs into three
 participant groups with two human-verified red-flag locations each. The

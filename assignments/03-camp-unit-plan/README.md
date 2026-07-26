@@ -1,15 +1,15 @@
 # Invisible Invaders Camp Plan
 
-Use the [Invisible Invaders Camp Operations Guide](invisible-invaders-camp-operations-guide.md) as the single current plan for Field Friday, camp week, materials, co-teaching, research evidence, and the Thursday showcase. Use the [Friday Anchoring Phenomenon Routine](friday-anchoring-phenomenon-routine.md) as the field-side script for the **40-minute Friday team session** and the [Field Friday Visual Guide](https://docs.google.com/presentation/d/1aEEMEWiIwTtmNnP2zNhW21cBl0Aow-OQW-kSC7mMfrk/edit) as the projection/print companion. Use the [Sand Density-Separation And Filtration Guide](sand-density-separation-and-filtration-guide.md) after collection to sieve, salt-separate, filter, dry, examine, and interpret the six traceable pair samples. The Friday routine's 12-minute version is only a schedule backup.
+Use the [Invisible Invaders Camp Operations Guide](invisible-invaders-camp-operations-guide.md) as the single current plan for camp week, materials, co-teaching, research evidence, and the Thursday showcase. For the next camp session, open the [Monday How Small? How Does It Move? lesson](monday-water-pathways-and-first-model.md): it is the current 9:15-11:45 a.m. plan, uses Friday's youth evidence and Aastha's scale, moving-air, Wonder Wall, consensus-model, and fish sequence, and limits required new printing to two copies of one souvenir. Use the [Sand Density-Separation And Filtration Guide](sand-density-separation-and-filtration-guide.md) on Tuesday.
 
 Older plans are preserved in the [July 18 consolidation archive](archive/2026-07-18-pre-consolidation/README.md) and [July 22 pre-reconciliation archive](archive/2026-07-22-pre-july21-reconciliation/README.md). They are planning history, not directions for the current camp.
 
 ## Open In This Order
 
 1. [Camp Operations Guide](invisible-invaders-camp-operations-guide.md): the complete current plan and preparation board.
-2. [Friday Anchoring Phenomenon Routine](friday-anchoring-phenomenon-routine.md): what Piter and Aastha say, do, pack, and protect at Charlotte Beach.
-3. [Field Friday Visual Guide](https://docs.google.com/presentation/d/1aEEMEWiIwTtmNnP2zNhW21cBl0Aow-OQW-kSC7mMfrk/edit): the eight-slide visual sequence for campers and facilitators.
-4. [Sand Density-Separation And Filtration Guide](sand-density-separation-and-filtration-guide.md): the complete transcript-grounded, camp-safe sample-processing procedure and camper quick guide.
+2. [Monday How Small? How Does It Move?](monday-water-pathways-and-first-model.md): the current minute-by-minute lesson, co-teaching roles, access routes, fish preparation, and minimal-print decision.
+3. [Sand Density-Separation And Filtration Guide](sand-density-separation-and-filtration-guide.md): Tuesday's complete transcript-grounded, camp-safe sample-processing procedure and camper quick guide.
+4. [Friday Anchoring Phenomenon Routine](friday-anchoring-phenomenon-routine.md): the completed Field Friday script and evidence provenance.
 5. [OPEN FIRST: lesson, protocol, and print review index](https://docs.google.com/document/d/1i5zE_Jb-tatxJbx0K_oGPGXc8HQV6b53O6Sq94-O-4o/edit): clickable review table and approval checklist.
 6. [Completed daily lesson-plan folder](https://drive.google.com/drive/folders/1safaE0FAhNHiHRCgexqPKf0WXME8lcQg): six populated copies of the instructor lesson template.
 7. [Completed daily activity-protocol folder](https://drive.google.com/drive/folders/1Lh1cYTFQv4P9AJH51KrCV-2zGytZGPeu): six populated day-specific protocol packs.
@@ -41,6 +41,8 @@ The protocol packs carry the same inclusive participation routes, named Gotta-Ha
 ## Current Working Files
 
 - [Camp operations guide](invisible-invaders-camp-operations-guide.md)
+- [Monday How Small? How Does It Move? lesson](monday-water-pathways-and-first-model.md)
+- [Monday scale and transport slides](https://docs.google.com/presentation/d/1nHcWOyRAVQDjdqDlpf37868jD1PIu8lhNMMJPQfZ24s/edit)
 - [Editable CURRENT Camp Operations Guide](https://docs.google.com/document/d/1LueJ9NX6MP257ywABKTDu-vVWVYzTwRnNDK8fgJx4e0/edit)
 - [Editable CURRENT SASSY Storyline Table](https://docs.google.com/document/d/1fGOjSkEFxsy5UC5n75UIi9aE_-sKOhyeRx9sY8CAUWU/edit)
 - [Editable CURRENT Invisible Invaders Sample Model](https://docs.google.com/document/d/1mGolkzKcMzcQuTr4uxjnx0voqTR8Kffmw0B4ypQRq0k/edit)

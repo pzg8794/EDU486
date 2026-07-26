@@ -289,9 +289,10 @@ Access is designed into the artifacts through visible sequences, icons paired wi
 - [Clean Invisible Invaders plus-and-arrow reflection](../transcripts/2026-07-24-invisible-invaders-plus-arrow-reflection-clean.md)
 - [Immediate pre-camp plan and youth feedback](../transcripts/2026-07-21-invisible-invaders-planning-and-youth-feedback-clean.md)
 - [Complete July 24 team evidence hub](https://drive.google.com/drive/folders/1bl1GjUY4lrz-uG_dbn049WfDe2TbiNKJ)
-- [Start Here guide for team review and correction](https://docs.google.com/document/d/1vtB54bbVXnP1XF2aylwguISv03w2amtCy8srUu6BkHg/edit)
-- [Corrected editable seven-slide Field Friday scientific record](https://docs.google.com/presentation/d/1a24et1jwGqKjibLq4YRj7PQyFY-69DIUo06k0OmZdSY/edit)
-- [Corrected Field Friday scientific-record PDF](https://drive.google.com/file/d/1AqLJWLtcM42rTfl7fU7cvYKXMqXHN6r7/view)
+- [Start Here guide for team review and correction](https://docs.google.com/document/d/1WOzlqtaK0fSnEAqw3zZMGXqa8vUSEW3fYXh7xDjy1KU/edit)
+- [Corrected editable seven-slide Field Friday scientific record](https://docs.google.com/presentation/d/1L_HH5zm9xrxJ--QP7uz4ZXgMpCksg0-67ngycCqDRBo/edit)
+- [Corrected Field Friday scientific-record PDF](https://drive.google.com/file/d/1FFtvqHpSzeJ4FeRKwfLlMlf_PeIF5LWF/view)
+- [Corrected editable three-tab evidence index](https://docs.google.com/spreadsheets/d/1f2XiVuBiavep5IqfD-gTlfqsZd6YcQndl-UzG1uUoig/edit)
 
 The Friday evidence workflow inventoried 18 videos totaling 33:02 and 63 same-day photographs, produced 18 de-identified timestamped transcripts in the repository's existing `transcripts/` directory, selected 14 real video frames plus one same-day artifact photograph for private review, and reconstructed the two recorded station cycles. It uses Friday recordings for contemporaneous evidence, the July 24 plus/arrow record for facilitator reflection, and the July 21 record for intended design. These evidence layers are not treated as interchangeable.
 
@@ -299,16 +300,17 @@ Raw media, extracted audio, raw speech-model outputs, contact sheets, selected y
 
 The public-safe synthesis records both instructional strengths and corrections. Participants contributed site hypotheses, sample handling, labeling, tool-assisted observations, site explanations, and a question about a beach-maintenance vehicle. The revised language distinguishes prepared model pieces from authentic field evidence, suspected particles from confirmed plastic, and detection from route, exposure, dose, or health effect. Monday's plan begins with Friday's youth evidence, asks more and tells less, makes participation routes visible, and protects a final model revision.
 
-The corrected scientific record organizes 22 investigation photographs into
-six distinct chronological evidence groups and preserves the participant-made
-site map as a separate artifact. The photograph-level index records the
-original iPhone EXIF capture time, latitude, longitude, altitude, and camera
-bearing. The share deck shows one representative coordinate and site context
-for each group while stating the central limit: EXIF locates the camera near
-the documented work, not a surveyed flag tip. A-F are evidence-group labels,
-not physical jar or map numbers. The presentation uses only reviewed,
-face-free crops; the uncropped source media and full coordinate/provenance
-record remain in the team Drive and private Git/LFS evidence vault.
+The corrected scientific record organizes 21 sampling photographs into three
+participant groups with two human-verified red-flag locations each. The
+scientific identifiers are `G1-L1` through `G3-L2`. `IMG_5534` is preserved as
+context only, and the participant-made `IMG_5573` map is preserved as a rough
+draft model rather than coordinate authority. The photograph-level index
+records original iPhone EXIF time, latitude, longitude, altitude, and camera
+bearing. Each reported location is the median latitude and longitude of every
+camera point assigned to that location. EXIF locates the camera near the work,
+not a surveyed flag tip. The presentation uses reviewed, face-free crops; the
+uncropped media and complete provenance record remain in the team Drive and
+private Git/LFS evidence vault.
 
 ## July 22 Sand Density-Separation And Filtration Protocol
 

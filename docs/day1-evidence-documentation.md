@@ -11,35 +11,38 @@ only evidence of thinking.
 ## Shareable Result
 
 - [Complete July 24 team evidence hub](https://drive.google.com/drive/folders/1bl1GjUY4lrz-uG_dbn049WfDe2TbiNKJ)
-- [Start Here guide for reviewing and correcting the evidence](https://docs.google.com/document/d/1vtB54bbVXnP1XF2aylwguISv03w2amtCy8srUu6BkHg/edit)
-- [Corrected editable seven-slide Field Friday scientific record](https://docs.google.com/presentation/d/1a24et1jwGqKjibLq4YRj7PQyFY-69DIUo06k0OmZdSY/edit)
-- [Corrected seven-page presentation PDF](https://drive.google.com/file/d/1AqLJWLtcM42rTfl7fU7cvYKXMqXHN6r7/view)
+- [Start Here guide for reviewing and correcting the evidence](https://docs.google.com/document/d/1WOzlqtaK0fSnEAqw3zZMGXqa8vUSEW3fYXh7xDjy1KU/edit)
+- [Corrected editable seven-slide Field Friday scientific record](https://docs.google.com/presentation/d/1L_HH5zm9xrxJ--QP7uz4ZXgMpCksg0-67ngycCqDRBo/edit)
+- [Corrected seven-page presentation PDF](https://drive.google.com/file/d/1FFtvqHpSzeJ4FeRKwfLlMlf_PeIF5LWF/view)
+- [Corrected editable three-tab evidence index](https://docs.google.com/spreadsheets/d/1f2XiVuBiavep5IqfD-gTlfqsZd6YcQndl-UzG1uUoig/edit)
 
-This is the concise presentation artifact. It uses real, reviewed site-focused
-photographs without identifiable faces and shows the method, six distinct
-chronological photo groups, evidence limits, next analysis steps, and Four
-Gotta-Have connections. The earlier presentation that repeated one flag
-sequence and omitted two earlier sequences is preserved in Drive under
-`99 - ARCHIVE - INCORRECT DRAFTS`; it is not the current record.
+This is the concise presentation artifact. It uses real, reviewed,
+privacy-cropped photographs and shows the field method, **three participant
+groups with two red-flag sampling locations each**, evidence limits, next
+analysis steps, and Four Gotta-Have connections. Superseded A-F presentations
+and tables remain preserved in Drive under `99 - ARCHIVE - INCORRECT DRAFTS`;
+they are not the current scientific record.
 
-The coordinates were recovered from the original iPhone EXIF metadata:
+Piter supplied the authoritative photo-to-location crosswalk. Each coordinate
+is the median latitude and longitude from the original iPhone EXIF camera
+points for every photograph assigned to that location:
 
-| Evidence group | Photograph sequence | Representative photograph | Time range (EDT) | Latitude | Longitude |
-| --- | --- | --- | --- | ---: | ---: |
-| A | `IMG_5531`-`IMG_5534` | `IMG_5532.HEIC` | 11:26:31-11:27:09 | 43.259378 | -77.605933 |
-| B | `IMG_5540`-`IMG_5543` | `IMG_5540.HEIC` | 11:52:09-11:52:15 | 43.258663 | -77.604728 |
-| C | `IMG_5545`-`IMG_5548` | `IMG_5545.HEIC` | 11:55:28-11:55:52 | 43.258717 | -77.603942 |
-| D | `IMG_5550`-`IMG_5552` | `IMG_5550.HEIC` | 11:56:28-11:56:48 | 43.258750 | -77.603958 |
-| E | `IMG_5559`-`IMG_5562` | `IMG_5562.HEIC` | 12:58:03-12:58:40 | 43.258842 | -77.604912 |
-| F | `IMG_5564`-`IMG_5566` | `IMG_5566.HEIC` | 12:59:58-13:00:10 | 43.258867 | -77.604988 |
+| Scientific location | Human-verified order | Complete assigned photo set | Representative photograph | Time range (EDT) | Median latitude | Median longitude |
+| --- | --- | --- | --- | --- | ---: | ---: |
+| `G1-L1` | Group 1, first | `IMG_5532`, `IMG_5533` | `IMG_5532.HEIC` | 11:26:42-11:26:49 | 43.259364 | -77.605946 |
+| `G1-L2` | Group 1, second | `IMG_5531` | `IMG_5531.HEIC` | 11:26:31 | 43.259470 | -77.605888 |
+| `G2-L1` | Group 2, first | `IMG_5540.JPG`-`IMG_5543.JPG` | `IMG_5540.JPG` | 11:52:09-11:52:15 | 43.258663 | -77.604728 |
+| `G2-L2` | Group 2, second | `IMG_5545`-`IMG_5548`; `IMG_5550`-`IMG_5552` | `IMG_5545.HEIC` | 11:55:28-11:56:48 | 43.258728 | -77.603942 |
+| `G3-L1` | Group 3, first | `IMG_5559`-`IMG_5562` | `IMG_5562.HEIC` | 12:58:03-12:58:40 | 43.258837 | -77.604901 |
+| `G3-L2` | Group 3, second | `IMG_5564`-`IMG_5566` | `IMG_5566.HEIC` | 12:59:58-13:00:10 | 43.258872 | -77.604958 |
 
-**Scientific limit:** EXIF records the camera position near the documented
-work. The flag tips were not surveyed separately, the source does not report
-horizontal accuracy, and six decimal places preserve the metadata rather than
-claim survey-grade precision. A-F are chronological evidence-group labels, not
-physical jar or participant-map numbers. The participant-created `IMG_5573`
-map records sites 1-6, but those identities still need to be reconciled with
-the physical jar labels and team notes.
+**Scientific limit:** EXIF records camera positions near the documented work.
+The flag tips were not surveyed, the source files do not report horizontal GPS
+accuracy, and six decimal places preserve the source values rather than claim
+survey-grade precision. `IMG_5534` is a context/transition photograph and is
+excluded from the location calculations. The participant-created `IMG_5573`
+map is a rough first attempt; its photograph metadata is not a sampling
+coordinate.
 
 ## One Transcript Home
 
@@ -64,7 +67,8 @@ they are also backed up in a separate private Git/LFS evidence vault.
 | Friday videos | 18 |
 | Combined recorded video time | 33:02 |
 | Friday photographs | 63 |
-| Investigation photographs | 22 plus 1 participant-created map |
+| Sampling-location photographs | 21 across 6 human-verified locations |
+| Context and model artifacts | 1 context photograph plus 1 rough draft map |
 | Clearly separated after-camp photographs | 40 |
 | Real selected evidence frames | 14 video frames plus 1 same-day photograph |
 | Clean public transcripts | 18 individual records plus 1 chronological master |

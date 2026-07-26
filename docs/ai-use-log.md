@@ -4,27 +4,30 @@ The syllabus says that when GenAI is used, it should be credited by source, outp
 
 ## July 25-26, 2026 - Complete Field Friday Evidence Hub And Corrected Scientific Record
 
-- Tool/source: OpenAI Codex under Piter Garcia's supervision; 22 original July 24 investigation photographs, one participant-created map, 40 clearly separated after-camp photographs, 18 original videos and their timestamped transcripts, original iPhone EXIF metadata, July 9, July 16, July 21, and July 24 course/video records, current Invisible Invaders plans, direct NOAA shoreline-monitoring guidance, and direct EPA microplastics-method guidance
-- Purpose: organize the complete July 24 evidence set for team review, document every investigation photograph scientifically, recover latitude and longitude without inventing precision, correct the repeated-photo error in the first presentation, and make both the complete evidence and a concise visual result available in the team Drive rather than leaving the work only in GitHub
+- Tool/source: OpenAI Codex under Piter Garcia's supervision; 21 July 24 sampling-location photographs, one context/transition photograph, one participant-created rough draft map, 40 clearly separated after-camp photographs, 18 original videos and their timestamped transcripts, original iPhone EXIF metadata, July 9, July 16, July 21, and July 24 course/video records, current Invisible Invaders plans, direct NOAA shoreline-monitoring guidance, and direct EPA microplastics-method guidance
+- Purpose: organize the complete July 24 evidence set for team review, apply Piter's authoritative three-group/two-location photo crosswalk, calculate representative coordinates without inventing precision, replace the incorrect A-F interpretation, and keep both the full evidence and a concise visual result available in the team Drive rather than only in GitHub
 - Outputs created or revised:
   - [complete July 24 team evidence hub](https://drive.google.com/drive/folders/1bl1GjUY4lrz-uG_dbn049WfDe2TbiNKJ)
-  - [team-review Start Here guide](https://docs.google.com/document/d/1vtB54bbVXnP1XF2aylwguISv03w2amtCy8srUu6BkHg/edit)
-  - [corrected editable seven-slide Field Friday scientific record](https://docs.google.com/presentation/d/1a24et1jwGqKjibLq4YRj7PQyFY-69DIUo06k0OmZdSY/edit)
-  - [corrected seven-page presentation PDF](https://drive.google.com/file/d/1AqLJWLtcM42rTfl7fU7cvYKXMqXHN6r7/view)
+  - [team-review Start Here guide](https://docs.google.com/document/d/1WOzlqtaK0fSnEAqw3zZMGXqa8vUSEW3fYXh7xDjy1KU/edit)
+  - [corrected editable seven-slide Field Friday scientific record](https://docs.google.com/presentation/d/1L_HH5zm9xrxJ--QP7uz4ZXgMpCksg0-67ngycCqDRBo/edit)
+  - [corrected seven-page presentation PDF](https://drive.google.com/file/d/1FFtvqHpSzeJ4FeRKwfLlMlf_PeIF5LWF/view)
+  - [corrected editable three-tab evidence index](https://docs.google.com/spreadsheets/d/1f2XiVuBiavep5IqfD-gTlfqsZd6YcQndl-UzG1uUoig/edit)
   - [public-safe Day 1 evidence documentation](day1-evidence-documentation.md)
-  - complete field-photo record, six-group summary CSV, 23-row photograph-level scientific index, local PPTX/PDF, and reproducible deck builder in the private Git/LFS evidence vault
+  - complete field-location record, six-location summary CSV, 23-row photograph-level scientific index, local PPTX/PDF, and reproducible deck builder in the private Git/LFS evidence vault
 - Human guidance and decisions:
   - GitHub is the backup and internal record; the Invisible Invaders Drive folder is the team collaboration, correction, and presentation surface
   - all investigation photographs, after-camp photographs, original videos, and de-identified transcripts must be organized in Drive by evidence type
   - every investigation photograph must remain connected to its original filename, capture time, coordinates, visible site context, and method evidence
-  - the `IMG_5550`-`IMG_5552` sequence is one chronological evidence group, not three sites; the omitted `IMG_5540`-`IMG_5543` and `IMG_5545`-`IMG_5548` groups must be restored
-  - A-F identify chronological photo-evidence groups, not physical jar or participant-map numbers
-  - EXIF GPS is reported honestly as the camera position near the documented work, not as a survey-grade flag-tip coordinate
+  - the authoritative structure is three participant groups with two red-flag locations each: `G1-L1` through `G3-L2`
+  - Group 1's `IMG_5531` is its second location even though the photo timestamp is earlier than `IMG_5532` and `IMG_5533`
+  - Group 2's `IMG_5545`-`IMG_5548` and `IMG_5550`-`IMG_5552` all document its second location and must remain together
+  - `IMG_5534` is context only, while `IMG_5573` is a rough draft map and not coordinate authority
+  - each location coordinate is the median of the assigned EXIF camera points and is not a survey-grade flag-tip coordinate
   - preserve suspected-particle language and do not claim plastic identity, concentration, source, route into a body, dose, or health effect before appropriate evidence exists
   - use real site photographs and tightly cropped process images without identifiable faces; do not generate artificial children
   - pair each Four Gotta-Have color with its written label and keep the presentation concise enough to show
-- Verification: all seven corrected PowerPoint slides were rendered and visually inspected; the deck passed the slide-overflow test; the PDF is tagged, seven pages, and 16:9; all seven slides contain source notes; the first incorrect deck and PDF were preserved in a labeled Drive archive; Drive folder readback was used to confirm the organized evidence counts and corrected presentation files
-- Disclosure: AI was used under Piter Garcia's supervision to read metadata, reconcile transcript and image evidence, organize the complete evidence hub, correct and visualize the six-group record, tighten privacy-safe crops, test evidence limits, validate layout, and publish reviewed copies to Drive. Piter provided, guided, corrected, and reviewed the content and remains responsible for final science, audience, privacy, and presentation decisions.
+- Verification: all seven corrected PowerPoint slides were rendered and individually inspected; the page 4 title/table collision was removed; the deck passed the slide-overflow test; the PDF is tagged, seven pages, and 16:9; all seven slides contain source notes; privacy crops exclude identifiable faces; the three workbook tabs were rendered and inspected; the formula-error scan returned zero matches; superseded A-F versions remain preserved in a labeled archive
+- Disclosure: AI was used under Piter Garcia's supervision to read metadata, apply Piter's field crosswalk, organize the complete evidence hub, calculate and visualize six median camera-based locations, tighten privacy-safe crops, test evidence limits, validate layout, and publish reviewed copies to Drive. Piter provided, guided, corrected, and reviewed the content and remains responsible for final science, audience, privacy, and presentation decisions.
 
 ## July 24, 2026 - Six Lesson Plans, Six Protocol Packs, And Open Print Review
 

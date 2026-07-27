@@ -346,6 +346,7 @@ private Git/LFS evidence vault.
 
 ## July 27 Day 2 Evidence Documentation
 
+- [Editable Monday Start Here guide](https://docs.google.com/document/d/1oSJecP9OmuEqmY-sX0j0SjozvU-qYlvFW0mh2ccMXLQ/edit?usp=sharing)
 - [De-identified Day 2 video transcript set](../transcripts/2026-07-27-camp-day2-videos/README.md)
 - [Chronological Day 2 video master](../transcripts/2026-07-27-camp-day2-videos/day2-master-transcript.md)
 - [Complete organized Day 2 team evidence hub](https://drive.google.com/drive/folders/1EhLpn_dMbXWeGMa7gmQg2N0fHrgQJjOQ)

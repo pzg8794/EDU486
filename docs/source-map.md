@@ -344,6 +344,33 @@ not a surveyed flag tip. The presentation uses reviewed, face-free crops; the
 uncropped media and complete provenance record remain in the team Drive and
 private Git/LFS evidence vault.
 
+## July 27 Day 2 Evidence Documentation
+
+- [De-identified Day 2 video transcript set](../transcripts/2026-07-27-camp-day2-videos/README.md)
+- [Chronological Day 2 video master](../transcripts/2026-07-27-camp-day2-videos/day2-master-transcript.md)
+- [Complete organized Day 2 team evidence hub](https://drive.google.com/drive/folders/1EhLpn_dMbXWeGMa7gmQg2N0fHrgQJjOQ)
+- [Reviewed photographs and one frame per video](https://drive.google.com/drive/folders/1IwVD9bOcMG5MJP0NvpmEEcAtlEq5kzcL)
+- [Clean video-transcript folder](https://drive.google.com/drive/folders/1JaD3IXr_LgMlMvR__IuTXZe9a1qPdjdd)
+- [Personalized Day 2 souvenirs and previews](https://drive.google.com/drive/folders/1mAT8MZAtd7X2Fclv-3caDXQw_BWJT4im)
+
+The Monday workflow inventories 14 videos and 28 photographs, preserves one
+reviewed still from every video, and organizes the day around the moving-air
+proxy investigation, shared and personal pathway models, a movement reset,
+ethical and procedural fish-investigation guidance, supervised sample
+preparation, and model explanation. The scientific record keeps direct
+observation separate from interpretation: the paper pieces are transport
+proxies, a tissue sample remains evidence to analyze, and neither confirms a
+microplastic particle, complete exposure route, or health effect.
+
+The Drive evidence hub contains the original photographs and all 14 recordings.
+Eight recordings are untouched `.MOV` originals. Six originals exceeded the
+connector's 100 MB transfer limit, so Drive contains clearly labeled 1080p
+viewing copies while the untouched originals remain in the private Git/LFS
+vault. The souvenirs pair each color with a word, number the science moves,
+offer multiple participation routes, and state what remains unknown. Their
+AI-assisted neighborhood layers are explicitly imaginative planning
+visualizations, not measured geography or primary scientific evidence.
+
 ## July 22 Sand Density-Separation And Filtration Protocol
 
 - [Current Sand Density-Separation And Filtration Guide](../assignments/03-camp-unit-plan/sand-density-separation-and-filtration-guide.md)

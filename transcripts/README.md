@@ -73,6 +73,25 @@ home for EDU486 Day 1.** The private evidence vault keeps raw speech-model
 outputs for provenance and does not maintain a second course transcript
 library.
 
+## July 27
+
+- [De-identified Day 2 video transcript set](2026-07-27-camp-day2-videos/README.md)
+- [Chronological Day 2 video master](2026-07-27-camp-day2-videos/day2-master-transcript.md)
+- [Organized Day 2 team evidence hub](https://drive.google.com/drive/folders/1EhLpn_dMbXWeGMa7gmQg2N0fHrgQJjOQ)
+- [Personalized Day 2 souvenirs and previews](https://drive.google.com/drive/folders/1mAT8MZAtd7X2Fclv-3caDXQw_BWJT4im)
+
+The set contains one timestamped, de-identified record for each of Monday's 14
+videos plus a chronological master. It preserves code-switching and uncertain
+wording without assigning youth names or diagnoses. Reliable local
+diarization was unavailable, so exact quotations and speaker identities still
+require source-audio review.
+
+The existing `transcripts/` directory remains the only reader-facing course
+transcript home. Raw videos, photographs, extracted audio, token-level speech
+output, and review frames are preserved in the private Git/LFS evidence vault;
+the team Drive provides organized review access to the media, scientific
+documentation, and souvenirs.
+
 ## July 16 Classroom Evidence
 
 These photographs were received July 17 but document the July 16 planning session.

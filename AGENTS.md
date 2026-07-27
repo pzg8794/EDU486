@@ -16,6 +16,19 @@ This is a public course portfolio. Track only original, reviewed, public-safe wo
 
 Never force-add an ignored file to Git. Do not delete local or remote materials without explicit approval. Repository deletion is prohibited even when other file deletion has been approved.
 
+## University Account Boundary
+
+All EDU486 Google Drive, Docs, Sheets, Slides, Gmail, and Calendar creation,
+editing, uploading, sharing, permission, and organizational actions must use
+Piter's University of Rochester account: `pgarcia8@u.rochester.edu`.
+
+Do not use a personal, family, or business account for EDU486 course writes,
+even when that account owns a folder or has access. Before changing any Google
+course resource, verify the visible active account. If the UofR account is not
+active or cannot make the requested change, stop before writing and report the
+access problem. Reading an existing shared resource does not authorize writing
+through the account that happens to own it.
+
 ## File Placement
 
 - Use `assignments/` for editable public course work.

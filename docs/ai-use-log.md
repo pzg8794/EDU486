@@ -2,6 +2,31 @@
 
 The syllabus says that when GenAI is used, it should be credited by source, output, and purpose. This log makes that crediting easy to maintain.
 
+## July 27, 2026 - Monday Recap And Shared-Model Clarification
+
+- Tool/source: OpenAI Codex under Piter Garcia's supervision; the real Monday
+  shared `BEFORE / DURING / AFTER` board; the previously reviewed Invisible
+  Invaders sample-model visual; Monday photographs, video transcripts, and
+  reflection
+- Purpose: create a five-slide recap that can guide conversation without a long
+  lesson document, then make the shared model readable while preserving the
+  youth-created fish, people, air/water movement, trash-can concern, and action
+  idea
+- Outputs: [Monday recap presentation](https://drive.google.com/file/d/1KPg7uQc2egnFK2AitHy1zM347Bw4f3SL/view)
+  and [PDF backup](https://drive.google.com/file/d/1VOxcQbJUaErtFwtaPsYZGGmDTWiamJe0/view)
+- Human guidance and decisions: keep the model recognizably youth-authored;
+  use AI for perspective, contrast, hierarchy, color-and-word cues, and
+  pathway arrows; do not add confirmed-particle, exact-route, or health-effect
+  claims; replace the same Drive file versions instead of creating duplicate
+  final copies
+- Verification: all five slides rendered; the revised model slide and PDF were
+  inspected; the PowerPoint passed the overflow test; the stable PPTX and PDF
+  Drive IDs were updated in place through Piter's UofR account
+- Disclosure: Piter provided, directed, and reviewed the content. AI supported
+  image clarification, concise slide structure, accessibility cues, and
+  technical validation. The clarified image is a communication artifact, not
+  a replacement for the original scientific record.
+
 ## July 25-26, 2026 - Complete Field Friday Evidence Hub And Corrected Scientific Record
 
 - Tool/source: OpenAI Codex under Piter Garcia's supervision; 21 July 24 sampling-location photographs, one context/transition photograph, one participant-created rough draft map, 40 clearly separated after-camp photographs, 18 original videos and their timestamped transcripts, original iPhone EXIF metadata, July 9, July 16, July 21, and July 24 course/video records, current Invisible Invaders plans, direct NOAA shoreline-monitoring guidance, and direct EPA microplastics-method guidance

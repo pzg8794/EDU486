@@ -1,20 +1,21 @@
 # Invisible Invaders Camp Plan
 
-Use the [Invisible Invaders Camp Operations Guide](invisible-invaders-camp-operations-guide.md) as the single current plan for camp week, materials, co-teaching, research evidence, and the Thursday showcase. For the next camp session, open the [Monday How Small? How Does It Move? lesson](monday-water-pathways-and-first-model.md): it is the current 9:15-11:45 a.m. plan, uses Friday's youth evidence and Aastha's scale, moving-air, Wonder Wall, consensus-model, and fish sequence, and limits required new printing to two copies of one souvenir. Use the [Sand Density-Separation And Filtration Guide](sand-density-separation-and-filtration-guide.md) on Tuesday.
+Use the [Tuesday Wheels, Evidence, And Living Systems guide](tuesday-friction-wear-and-living-systems.md) first. It is the short 9:15-11:45 a.m. run sheet, incorporates Monday evidence and current instructor feedback, and requires no new printing. Keep the [Invisible Invaders Camp Operations Guide](invisible-invaders-camp-operations-guide.md) as the complete week plan and use the [Sand Density-Separation And Filtration Guide](sand-density-separation-and-filtration-guide.md) only when the short guide calls for the full scientific procedure.
 
 Older plans are preserved in the [July 18 consolidation archive](archive/2026-07-18-pre-consolidation/README.md) and [July 22 pre-reconciliation archive](archive/2026-07-22-pre-july21-reconciliation/README.md). They are planning history, not directions for the current camp.
 
 ## Open In This Order
 
 1. [Camp Operations Guide](invisible-invaders-camp-operations-guide.md): the complete current plan and preparation board.
-2. [Monday How Small? How Does It Move?](monday-water-pathways-and-first-model.md): the current minute-by-minute lesson, co-teaching roles, access routes, fish preparation, complete Invisible Invaders identi-beads routine, and minimal-print decision.
-3. [Sand Density-Separation And Filtration Guide](sand-density-separation-and-filtration-guide.md): Tuesday's complete transcript-grounded, camp-safe sample-processing procedure and camper quick guide.
-4. [Friday Anchoring Phenomenon Routine](friday-anchoring-phenomenon-routine.md): the completed Field Friday script and evidence provenance.
-5. [OPEN FIRST: lesson, protocol, and print review index](https://docs.google.com/document/d/1i5zE_Jb-tatxJbx0K_oGPGXc8HQV6b53O6Sq94-O-4o/edit): clickable review table and approval checklist.
-6. [Completed daily lesson-plan folder](https://drive.google.com/drive/folders/1safaE0FAhNHiHRCgexqPKf0WXME8lcQg): six populated copies of the instructor lesson template.
-7. [Completed daily activity-protocol folder](https://drive.google.com/drive/folders/1Lh1cYTFQv4P9AJH51KrCV-2zGytZGPeu): six populated day-specific protocol packs.
-8. [Unzipped Version 7 print review](https://drive.google.com/drive/folders/1en89EpdEH1jzFe-5yY7MY_G9ML7qTdBt): every print PDF organized by day, plus visual previews.
-9. [July 21 clean planning and youth-feedback record](../../transcripts/2026-07-21-invisible-invaders-planning-and-youth-feedback-clean.md): why the facilitation and materials changed.
+2. [Tuesday Wheels, Evidence, And Living Systems](tuesday-friction-wear-and-living-systems.md): the short current run sheet and no-print decision.
+3. [Sand Density-Separation And Filtration Guide](sand-density-separation-and-filtration-guide.md): the full transcript-grounded, camp-safe sample-processing reference.
+4. [Monday How Small? How Does It Move?](monday-water-pathways-and-first-model.md): the completed Monday lesson and evidence source.
+5. [Friday Anchoring Phenomenon Routine](friday-anchoring-phenomenon-routine.md): the completed Field Friday script and evidence provenance.
+6. [OPEN FIRST: lesson, protocol, and print review index](https://docs.google.com/document/d/1i5zE_Jb-tatxJbx0K_oGPGXc8HQV6b53O6Sq94-O-4o/edit): clickable review table and approval checklist.
+7. [Completed daily lesson-plan folder](https://drive.google.com/drive/folders/1safaE0FAhNHiHRCgexqPKf0WXME8lcQg): six populated copies of the instructor lesson template.
+8. [Completed daily activity-protocol folder](https://drive.google.com/drive/folders/1Lh1cYTFQv4P9AJH51KrCV-2zGytZGPeu): six populated day-specific protocol packs.
+9. [Unzipped Version 7 print review](https://drive.google.com/drive/folders/1en89EpdEH1jzFe-5yY7MY_G9ML7qTdBt): every print PDF organized by day, plus visual previews.
+10. [July 21 clean planning and youth-feedback record](../../transcripts/2026-07-21-invisible-invaders-planning-and-youth-feedback-clean.md): why the facilitation and materials changed.
 
 ## Daily Lesson And Protocol Copies
 
@@ -41,6 +42,7 @@ The protocol packs carry the same inclusive participation routes, named Gotta-Ha
 ## Current Working Files
 
 - [Camp operations guide](invisible-invaders-camp-operations-guide.md)
+- [Monday five-slide recap presentation](https://drive.google.com/file/d/1KPg7uQc2egnFK2AitHy1zM347Bw4f3SL/view)
 - [Monday How Small? How Does It Move? lesson](monday-water-pathways-and-first-model.md)
 - [Monday scale and transport slides](https://docs.google.com/presentation/d/1nHcWOyRAVQDjdqDlpf37868jD1PIu8lhNMMJPQfZ24s/edit)
 - [Editable CURRENT Camp Operations Guide](https://docs.google.com/document/d/1LueJ9NX6MP257ywABKTDu-vVWVYzTwRnNDK8fgJx4e0/edit)

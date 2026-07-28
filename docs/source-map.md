@@ -353,6 +353,8 @@ private Git/LFS evidence vault.
 - [Reviewed photographs and one frame per video](https://drive.google.com/drive/folders/1IwVD9bOcMG5MJP0NvpmEEcAtlEq5kzcL)
 - [Clean video-transcript folder](https://drive.google.com/drive/folders/1JaD3IXr_LgMlMvR__IuTXZe9a1qPdjdd)
 - [Personalized Day 2 souvenirs and previews](https://drive.google.com/drive/folders/1mAT8MZAtd7X2Fclv-3caDXQw_BWJT4im)
+- [Monday five-slide recap presentation](https://drive.google.com/file/d/1KPg7uQc2egnFK2AitHy1zM347Bw4f3SL/view)
+- [Monday recap PDF backup](https://drive.google.com/file/d/1VOxcQbJUaErtFwtaPsYZGGmDTWiamJe0/view)
 
 The Monday workflow inventories 14 videos and 28 photographs, preserves one
 reviewed still from every video, and organizes the day around the moving-air
@@ -363,6 +365,15 @@ observation separate from interpretation: the paper pieces are transport
 proxies, a tissue sample remains evidence to analyze, and neither confirms a
 microplastic particle, complete exposure route, or health effect.
 
+The five-slide Monday recap uses the real Monday work rather than a generic
+review. Its model slide applies AI-assisted perspective, contrast, hierarchy,
+and color-and-word clarification to the youth-created `BEFORE / DURING / AFTER`
+board while preserving the visible fish, people, air/water movement,
+trash-can concern, and proposed action. The earlier sample-model visual served
+only as an organization and accessibility reference. The original photograph
+remains the primary record, and the clarified image does not add a confirmed
+particle, exact exposure route, or health-effect claim.
+
 The Drive evidence hub contains the original photographs and all 14 recordings.
 Eight recordings are untouched `.MOV` originals. Six originals exceeded the
 connector's 100 MB transfer limit, so Drive contains clearly labeled 1080p
@@ -371,6 +382,25 @@ vault. The souvenirs pair each color with a word, number the science moves,
 offer multiple participation routes, and state what remains unknown. Their
 AI-assisted neighborhood layers are explicitly imaginative planning
 visualizations, not measured geography or primary scientific evidence.
+
+## July 28 Tuesday Preparation
+
+- [Short Tuesday Wheels, Evidence, And Living Systems guide](../assignments/03-camp-unit-plan/tuesday-friction-wear-and-living-systems.md)
+- [Editable Tuesday lesson-plan template](https://docs.google.com/document/d/1tT5NOTrNFRus6EqlCQR85Io5Gv71osEyG5aT_rY--II/edit)
+- [De-identified Day 2 video transcript set](../transcripts/2026-07-27-camp-day2-videos/README.md)
+- [Chronological Day 2 video master](../transcripts/2026-07-27-camp-day2-videos/day2-master-transcript.md)
+
+The short Tuesday guide is grounded in Monday's recorded airflow, modeling,
+fish-investigation, and facilitation evidence; the current Tuesday team
+template; and July 27 instructor and camp-team updates. It starts with Monday's
+model before introducing wheel evidence, prohibits intentional tire-dust
+generation, keeps bicycle riding optional, and pairs every active role with
+equivalent measuring, photographing, recording, observing, rolling, passing,
+and re-entry routes. The evidence language is reduced to **WE SAW**, **A SOURCE
+SUPPORTS**, and **WE STILL NEED TO TEST**, introduced one at a time. Sand
+processing preserves six labeled samples plus one procedural blank. The
+touch-free thermometer is used only if tested; otherwise the lesson omits
+temperature claims. No new student printing is required.
 
 ## July 22 Sand Density-Separation And Filtration Protocol
 

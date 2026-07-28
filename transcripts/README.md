@@ -93,6 +93,28 @@ output, and review frames are preserved in the private Git/LFS evidence vault;
 the team Drive provides organized review access to the media, scientific
 documentation, and souvenirs.
 
+## July 28
+
+- [Day 3 Start Here guide](https://docs.google.com/document/d/1HfeuZUEKmS3Rmid3XQBSJFDhfRoy9TL7/edit)
+- [De-identified Day 3 video transcript set](2026-07-28-camp-day3-videos/README.md)
+- [Chronological Day 3 video master](2026-07-28-camp-day3-videos/day3-master-transcript.md)
+- [Public-safe Day 3 evidence documentation](../docs/day3-evidence-documentation.md)
+- [Complete organized Day 3 evidence hub](https://drive.google.com/drive/folders/1ihJW8KzeFOOGBobOU6WYNaf8Vxgp0s8g)
+- [Reviewed Day 3 gallery](https://drive.google.com/drive/folders/1sYpRy8sdsMjk9P9uscvSKVZFfsmvZ4LP)
+
+The set contains one timestamped, de-identified record for each of Tuesday's 14
+videos plus a chronological master. It documents sand sieving and saltwater
+density separation, measuring-wheel litter observations, the bicycle
+friction-and-wear investigation, the visiting-scientist synthetic-tissue
+model, and identity beads. Reliable local diarization was unavailable, so
+speaker labels remain cautious and exact quotations require source-audio
+review.
+
+The existing `transcripts/` directory remains the only reader-facing course
+transcript home. The team Drive preserves all 78 original photographs, all 14
+original videos, one touched frame per video, reviewed photographs, scientific
+documentation, the five-mission story visual, and the final print packet.
+
 ## July 16 Classroom Evidence
 
 These photographs were received July 17 but document the July 16 planning session.

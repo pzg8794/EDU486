@@ -417,6 +417,35 @@ safe touch alongside the thermometer, connect evidence to the current model
 before revising it, keep color paired with words or symbols, and treat success
 criteria as noticing prompts rather than rigid requirements.
 
+## July 28 Day 3 Evidence Documentation
+
+- [Day 3 Start Here guide](https://docs.google.com/document/d/1HfeuZUEKmS3Rmid3XQBSJFDhfRoy9TL7/edit)
+- [Public-safe Day 3 evidence documentation](day3-evidence-documentation.md)
+- [De-identified Day 3 video transcript set](../transcripts/2026-07-28-camp-day3-videos/README.md)
+- [Chronological Day 3 video master](../transcripts/2026-07-28-camp-day3-videos/day3-master-transcript.md)
+- [Complete Day 3 evidence hub](https://drive.google.com/drive/folders/1ihJW8KzeFOOGBobOU6WYNaf8Vxgp0s8g)
+- [Final five-page print PDF](https://drive.google.com/file/d/13TRNUYbuVFQIL7aKxGCqKAFblGakfeK6/view)
+- [Reviewed gallery and five-mission story visual](https://drive.google.com/drive/folders/1sYpRy8sdsMjk9P9uscvSKVZFfsmvZ4LP)
+- [Clean video transcripts in Drive](https://drive.google.com/drive/folders/16O3QDHIqTzwqbVlv_6k3Sk9F38LELNa7)
+- [Scientific documentation in Drive](https://drive.google.com/drive/folders/1a9xDLyuARlVtz6vOdfdsIiLtR7uLVfxx)
+
+The Tuesday evidence workflow preserves 78 original photographs, 14 original
+videos, 14 clean individual transcripts plus one chronological master, one
+reviewed frame per video, 12 touched photographs, and two personalized
+souvenirs. The five missions are sand sieving and saltwater density separation,
+measuring-wheel litter observations, bicycle friction and tire-wear inquiry,
+the camp-wide visiting-scientist synthetic-tissue model, and identity beads.
+The record distinguishes observed residue from confirmed polymer or
+microplastic identity, a rough field rate from a complete pollution survey,
+and a teaching model from proof of a human exposure route or health effect.
+
+The souvenirs pair color with words, include **I DID**, **I LEARNED**, and **I
+LIKED** retell prompts, and support pointing, speaking, drawing, demonstrating,
+partner support, and pass-and-return. The reviewed gallery uses real camp
+evidence. Touched images improve exposure, orientation, contrast, and
+instructional legibility; the five-mission story visual is explicitly a
+designed interpretation rather than raw evidence.
+
 ## July 22 Sand Density-Separation And Filtration Protocol
 
 - [Current Sand Density-Separation And Filtration Guide](../assignments/03-camp-unit-plan/sand-density-separation-and-filtration-guide.md)

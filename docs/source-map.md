@@ -408,7 +408,9 @@ and re-entry routes. The evidence language is reduced to **WE SAW**, **A SOURCE
 SUPPORTS**, and **WE STILL NEED TO TEST**, introduced one at a time. Sand
 processing preserves six labeled samples plus one procedural blank. The
 touch-free thermometer is used only if tested; otherwise the lesson omits
-temperature claims. No new student printing is required.
+temperature claims. No new student printing is required. April's July 28
+message confirms that blank trifold boards can be obtained by Wednesday, so
+they are not part of Tuesday's printing or purchasing task.
 
 ## July 22 Sand Density-Separation And Filtration Protocol
 

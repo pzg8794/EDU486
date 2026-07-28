@@ -20,6 +20,8 @@ it, and what evidence would we still need?**
   claims and compare tread/photos only.
 - Set out intact wheels, camera, ruler/tread card, Monday's model, evidence
   tags, and **SAMPLE 1-6 + BLANK** filtration sets.
+- Do not buy or print trifold boards for Tuesday. April said the group can get
+  them by Wednesday.
 - Piter leads the recap/evidence language. Aastha leads the safe route and
   visual steps. Ask before moving anyone's belongings or taking over a task.
 
@@ -59,4 +61,6 @@ count. A filtered particle remains **suspected**, not confirmed plastic.
 - **Bicycles:** Zen confirmed he is bringing them.
 - **Souvenirs:** April confirmed they are already printed.
 - **Large paper:** the all-camp chat is coordinating one additional pad.
+- **Trifold boards:** April said they can be obtained by Wednesday; they are
+  not a Tuesday printing or purchasing task.
 - **No new printing:** use the projected recap and reusable materials.

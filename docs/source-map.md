@@ -410,7 +410,12 @@ processing preserves six labeled samples plus one procedural blank. The
 touch-free thermometer is used only if tested; otherwise the lesson omits
 temperature claims. No new student printing is required. April's July 28
 message confirms that blank trifold boards can be obtained by Wednesday, so
-they are not part of Tuesday's printing or purchasing task.
+they are not part of Tuesday's printing or purchasing task. Zenon's seven
+lesson-plan comments prompted six refinements: introduce evidence language only
+when needed, explain the no-tire-dust decision to youth, offer adult-checked
+safe touch alongside the thermometer, connect evidence to the current model
+before revising it, keep color paired with words or symbols, and treat success
+criteria as noticing prompts rather than rigid requirements.
 
 ## July 22 Sand Density-Separation And Filtration Protocol
 

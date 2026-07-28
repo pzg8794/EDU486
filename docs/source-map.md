@@ -372,11 +372,15 @@ fish ethics and access, the multi-day tissue method, and an evidence-limited
 synthesis. Both Monday scholars appear in every topic. The moving-air image
 uses an AI-assisted instructional overlay to clarify airflow and enlarge
 proxy pieces while explicitly stating that the materials were not confirmed
-microplastics. The model and neighborhood visuals use AI-assisted perspective,
-contrast, hierarchy, and color-and-word clarification while preserving the
-youth-created work. Original photographs remain the primary record, and no
-clarified image adds a confirmed particle, exact exposure route, or
-health-effect claim.
+microplastics. The racket image uses the original participants and activity,
+with a visible in-flight shuttlecock and slide labels for force, movement
+through air, and teamwork. The fish-preparation image improves exposure and
+adds restrained cues for care, role choice, PPE, labeling, and adult-only KOH;
+the slide supplies the exact words. The model and neighborhood visuals use
+AI-assisted perspective, contrast, hierarchy, and color-and-word clarification
+while preserving the youth-created work. Original photographs remain the
+primary record, and no clarified image adds a confirmed particle, exact
+exposure route, or health-effect claim.
 
 The Drive evidence hub contains the original photographs and all 14 recordings.
 Eight recordings are untouched `.MOV` originals. Six originals exceeded the

@@ -6,8 +6,8 @@ The syllabus says that when GenAI is used, it should be credited by source, outp
 
 - Tool/source: OpenAI Codex under Piter Garcia's supervision; the real Monday
   shared `BEFORE / DURING / AFTER` board; the previously reviewed Invisible
-  Invaders sample-model visual; Monday photographs, video transcripts, and
-  reflection
+  Invaders sample-model visual; the original racket and fish-briefing
+  photographs; Monday video transcripts and reflection
 - Purpose: create an eight-slide chronological recap that can guide
   conversation without a long lesson document; reconnect Friday's field
   evidence; document the scale and moving-air challenge, racket activity, both
@@ -18,15 +18,16 @@ The syllabus says that when GenAI is used, it should be credited by source, outp
 - Human guidance and decisions: keep the model recognizably youth-authored;
   represent both Monday scholars in every topic; show both complete
   neighborhood models; use AI for perspective, exposure correction, airflow
-  clarification, color-and-word cues, and pathway arrows; distinguish the
+  clarification, a visible in-flight shuttlecock, restrained fish-care and
+  safety cues, color-and-word labels, and pathway arrows; distinguish the
   moving-air proxies from confirmed microplastics; do not add
   confirmed-particle, exact-route, or health-effect claims; replace the same
   Drive file versions instead of creating duplicate final copies
 - Verification: all eight slides rendered and were reviewed as a montage;
-  the moving-air, neighborhood, fish-method, and synthesis slides were
-  inspected at full size; the PowerPoint passed the overflow test; the PDF is
-  eight 16:9 pages; the stable PPTX and PDF Drive IDs were updated in place
-  through Piter's UofR account
+  the moving-air, racket, neighborhood, fish-preparation, fish-method, and
+  synthesis slides were inspected at full size; the PowerPoint passed the
+  overflow test; the PDF is eight 16:9 pages; the stable PPTX and PDF Drive
+  IDs were updated in place through Piter's UofR account
 - Disclosure: Piter provided, directed, and reviewed the content. AI supported
   image clarification, concise slide structure, accessibility cues, and
   technical validation. AI-assisted images are communication artifacts, not

@@ -27,7 +27,7 @@ it, and what evidence would we still need?**
 
 | Time | Do | Say |
 | --- | --- | --- |
-| **9:15-9:25** | Project the five-slide Monday recap. Let youth speak, point, draw, partner, or pass. | **“Yesterday we tested moving air, made pathway models, and began the fish method. What should our model keep or change?”** |
+| **9:15-9:25** | Project the eight-slide Monday recap. Pause for both scholars on every topic; let youth speak, point, draw, partner, or pass. | **“Yesterday we connected Friday's evidence, tested scale and moving air, used movement to notice interactions, mapped two neighborhoods, and began the fish method. What should our model keep, question, or change?”** |
 | **9:25-9:45** | Choose a role: ride, roll a toy wheel, measure, photograph, record, observe, or pass. Record a prediction and baseline tread/photo; use the thermometer only if tested. Complete one short safe trial. | **“What might change when this wheel meets the ground? What can we measure safely?”** |
 | **9:45-10:05** | Compare before/after evidence. Introduce one label at a time: **WE SAW**, **A SOURCE SUPPORTS**, **WE STILL NEED TO TEST**. | **“Friction transfers energy and can contribute to wear. Our short trial did not count microplastics.”** |
 | **10:05-10:15** | Break, movement, water, headphones, quiet, or early return. | **“You may move, rest, stay with us, or come back when ready.”** |

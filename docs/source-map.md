@@ -353,7 +353,7 @@ private Git/LFS evidence vault.
 - [Reviewed photographs and one frame per video](https://drive.google.com/drive/folders/1IwVD9bOcMG5MJP0NvpmEEcAtlEq5kzcL)
 - [Clean video-transcript folder](https://drive.google.com/drive/folders/1JaD3IXr_LgMlMvR__IuTXZe9a1qPdjdd)
 - [Personalized Day 2 souvenirs and previews](https://drive.google.com/drive/folders/1mAT8MZAtd7X2Fclv-3caDXQw_BWJT4im)
-- [Monday five-slide recap presentation](https://drive.google.com/file/d/1KPg7uQc2egnFK2AitHy1zM347Bw4f3SL/view)
+- [Monday eight-slide chronological recap presentation](https://drive.google.com/file/d/1KPg7uQc2egnFK2AitHy1zM347Bw4f3SL/view)
 - [Monday recap PDF backup](https://drive.google.com/file/d/1VOxcQbJUaErtFwtaPsYZGGmDTWiamJe0/view)
 
 The Monday workflow inventories 14 videos and 28 photographs, preserves one
@@ -365,14 +365,18 @@ observation separate from interpretation: the paper pieces are transport
 proxies, a tissue sample remains evidence to analyze, and neither confirms a
 microplastic particle, complete exposure route, or health effect.
 
-The five-slide Monday recap uses the real Monday work rather than a generic
-review. Its model slide applies AI-assisted perspective, contrast, hierarchy,
-and color-and-word clarification to the youth-created `BEFORE / DURING / AFTER`
-board while preserving the visible fish, people, air/water movement,
-trash-can concern, and proposed action. The earlier sample-model visual served
-only as an organization and accessibility reference. The original photograph
-remains the primary record, and the clarified image does not add a confirmed
-particle, exact exposure route, or health-effect claim.
+The eight-slide Monday recap follows the real chronology rather than offering
+a generic review: Friday evidence connection, scale and moving-air challenge,
+shared model, racket activity and purpose, both complete neighborhood models,
+fish ethics and access, the multi-day tissue method, and an evidence-limited
+synthesis. Both Monday scholars appear in every topic. The moving-air image
+uses an AI-assisted instructional overlay to clarify airflow and enlarge
+proxy pieces while explicitly stating that the materials were not confirmed
+microplastics. The model and neighborhood visuals use AI-assisted perspective,
+contrast, hierarchy, and color-and-word clarification while preserving the
+youth-created work. Original photographs remain the primary record, and no
+clarified image adds a confirmed particle, exact exposure route, or
+health-effect claim.
 
 The Drive evidence hub contains the original photographs and all 14 recordings.
 Eight recordings are untouched `.MOV` originals. Six originals exceeded the

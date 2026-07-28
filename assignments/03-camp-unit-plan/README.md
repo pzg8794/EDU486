@@ -42,7 +42,7 @@ The protocol packs carry the same inclusive participation routes, named Gotta-Ha
 ## Current Working Files
 
 - [Camp operations guide](invisible-invaders-camp-operations-guide.md)
-- [Monday five-slide recap presentation](https://drive.google.com/file/d/1KPg7uQc2egnFK2AitHy1zM347Bw4f3SL/view)
+- [Monday eight-slide chronological recap presentation](https://drive.google.com/file/d/1KPg7uQc2egnFK2AitHy1zM347Bw4f3SL/view)
 - [Monday How Small? How Does It Move? lesson](monday-water-pathways-and-first-model.md)
 - [Monday scale and transport slides](https://docs.google.com/presentation/d/1nHcWOyRAVQDjdqDlpf37868jD1PIu8lhNMMJPQfZ24s/edit)
 - [Editable CURRENT Camp Operations Guide](https://docs.google.com/document/d/1LueJ9NX6MP257ywABKTDu-vVWVYzTwRnNDK8fgJx4e0/edit)

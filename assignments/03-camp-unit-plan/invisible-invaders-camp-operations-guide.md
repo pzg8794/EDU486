@@ -239,32 +239,24 @@ Reuse the Friday/full-week print bag: one visual agenda, one shared source-to-bo
 
 **🟪 Connecting question - Gotta-Have 4:** Human infrastructure influences natural systems. Which product, transportation, drain, wastewater, waste, purchasing, and policy decisions shape these pathways, and what fair change do we want?
 
-### Before
+Use the [short Wednesday run sheet](wednesday-infrastructure-and-fair-action.md)
+as the teach-from-it guide. It preserves the decisions made with the scholars
+on Tuesday:
 
-- Prepare the [neighborhood map draft in Drive](https://drive.google.com/file/d/1ODviyiOyIptH6K9zWAv-iScjjrGxaeov/view), landmark cards, route icons, stickers, words, drawing tools, and audio/photo alternatives.
-- Use the [community ZIP-code note in Drive](https://drive.google.com/file/d/18ICEepnWaELEuKnvzRrcmv5rysmE49zC/view) only to select familiar public landmarks. ZIP codes are not proxies for pollution, poverty, exposure, or identity.
-- Prepare power-map cards: product designer, manufacturer, store, school purchaser, landlord/building manager, waste collector, wastewater system, scientist, agency, elected official, youth, and family.
-- Prepare short advocacy examples in image, audio, short-text, and partner-read formats so campers can see several ways science can become public action.
-- Confirm whether an official or community partner can answer youth questions about dumping, street cleaning, drains, or waste systems.
+- examine completely dry filters beside the blank;
+- compare Tuesday's 51+ preliminary observations with a second place using the
+  same method;
+- bring both scholars' neighborhood maps into the shared evidence;
+- ask a confirmed community/official guest why infrastructure differs, or save
+  the question if no verified guest is available;
+- choose one evidence-based, power-aware fair request; and
+- prepare and rehearse one interactive Thursday showcase station.
 
-### During
-
-| Time | Camp move | Purpose |
-| ---: | --- | --- |
-| 10 min | Return to the places named on Day 1 and add observations and possible routes to the map | 🟢 Connect evidence to familiar places without mapping private homes |
-| 15 min | Build a justice/power map | 🟠 Separate who contributes, who benefits, who is burdened, and who can act |
-| 12 min | Scientist circle | 🟠 Ask: "How would you communicate this to your family, a trusted adult, or your community?" |
-| 25 min | Review advocacy examples, then choose an audience, message, and advocacy-art form | 🟠 Match evidence to a fair request and real decision-maker |
-| 10 min | Draft science, justice, and action sections for the tri-fold | 🟢 Make the reasoning visible |
-| 5 min | Identity recognition and circle-up | 🟣 Preserve time and belonging |
-
-### After
-
-- Check that no action blames youth or families for systems they do not control.
-- Check that every message names evidence and uncertainty.
-- Confirm cleaned, safe art materials and a real audience.
-- Submit or preserve one public/community question for an official, partner, family member, or other decision-maker.
-- Photograph progress and list exactly what must be finished Thursday morning.
+Only three advocacy examples are shown before youth choose: their own
+recycling-bin idea, [NOAA prevention](https://marinedebris.noaa.gov/our-work/prevention),
+and [NOAA removal](https://marinedebris.noaa.gov/our-work/removal). We compare
+systems and methods, not people or neighborhoods as "better" or "worse."
+Visual observations remain suspected rather than chemically confirmed plastic.
 
 ## Thursday: Revise, Advocate, And Showcase
 

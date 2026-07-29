@@ -1,13 +1,13 @@
 # Invisible Invaders Camp Plan
 
-Use the [Tuesday Wheels, Evidence, And Living Systems guide](tuesday-friction-wear-and-living-systems.md) first. It is the short 9:15-11:45 a.m. run sheet, incorporates Monday evidence and current instructor feedback, and requires no new printing. Keep the [Invisible Invaders Camp Operations Guide](invisible-invaders-camp-operations-guide.md) as the complete week plan and use the [Sand Density-Separation And Filtration Guide](sand-density-separation-and-filtration-guide.md) only when the short guide calls for the full scientific procedure.
+Use the [Wednesday Evidence, Systems, And Fair Action guide](wednesday-infrastructure-and-fair-action.md) first. It is the short 9:15-11:45 a.m. run sheet, incorporates Tuesday evidence and current instructor feedback, and keeps printing to the existing five-page file only. Keep the [Invisible Invaders Camp Operations Guide](invisible-invaders-camp-operations-guide.md) as the complete week plan and use the [Sand Density-Separation And Filtration Guide](sand-density-separation-and-filtration-guide.md) only when the short guide calls for the full scientific procedure.
 
 Older plans are preserved in the [July 18 consolidation archive](archive/2026-07-18-pre-consolidation/README.md) and [July 22 pre-reconciliation archive](archive/2026-07-22-pre-july21-reconciliation/README.md). They are planning history, not directions for the current camp.
 
 ## Open In This Order
 
-1. [Camp Operations Guide](invisible-invaders-camp-operations-guide.md): the complete current plan and preparation board.
-2. [Tuesday Wheels, Evidence, And Living Systems](tuesday-friction-wear-and-living-systems.md): the short current run sheet and no-print decision.
+1. [Wednesday Evidence, Systems, And Fair Action](wednesday-infrastructure-and-fair-action.md): the short current run sheet and minimal-print decision.
+2. [Camp Operations Guide](invisible-invaders-camp-operations-guide.md): the complete current plan and preparation board.
 3. [Sand Density-Separation And Filtration Guide](sand-density-separation-and-filtration-guide.md): the full transcript-grounded, camp-safe sample-processing reference.
 4. [Monday How Small? How Does It Move?](monday-water-pathways-and-first-model.md): the completed Monday lesson and evidence source.
 5. [Friday Anchoring Phenomenon Routine](friday-anchoring-phenomenon-routine.md): the completed Field Friday script and evidence provenance.
@@ -42,6 +42,7 @@ The protocol packs carry the same inclusive participation routes, named Gotta-Ha
 ## Current Working Files
 
 - [Camp operations guide](invisible-invaders-camp-operations-guide.md)
+- [Wednesday Evidence, Systems, And Fair Action](wednesday-infrastructure-and-fair-action.md)
 - [Monday eight-slide chronological recap presentation](https://drive.google.com/file/d/1KPg7uQc2egnFK2AitHy1zM347Bw4f3SL/view)
 - [Monday How Small? How Does It Move? lesson](monday-water-pathways-and-first-model.md)
 - [Monday scale and transport slides](https://docs.google.com/presentation/d/1nHcWOyRAVQDjdqDlpf37868jD1PIu8lhNMMJPQfZ24s/edit)

@@ -446,6 +446,24 @@ evidence. Touched images improve exposure, orientation, contrast, and
 instructional legibility; the five-mission story visual is explicitly a
 designed interpretation rather than raw evidence.
 
+## July 29 Wednesday Preparation
+
+- [Existing Wednesday lesson with first-tab Start Here guide](https://docs.google.com/document/d/1eyx_nVAkRTAypKS11guif8NgVHcxk7QzX3T52dOBcdg/edit)
+- [Public-safe short Wednesday run sheet](../assignments/03-camp-unit-plan/wednesday-infrastructure-and-fair-action.md)
+- [One-slide Tuesday recap](https://drive.google.com/file/d/1EPy7qPhuBV8d9LPLKwnQ8iQlXNsDMn03/view?usp=sharing)
+- [Single five-page print file](https://drive.google.com/file/d/13TRNUYbuVFQIL7aKxGCqKAFblGakfeK6/view?usp=sharing)
+- [Tuesday video transcript index](../transcripts/2026-07-28-camp-day3-videos/README.md)
+- [Tuesday chronological video master](../transcripts/2026-07-28-camp-day3-videos/day3-master-transcript.md)
+
+The Wednesday sequence is grounded in the Tuesday full-camp transcript, the
+five activity groups represented in the video transcripts, and the July 28
+debrief/reflection. It begins with the Tuesday recap, compares completely dry
+filters with the blank, uses the same method for a second-place comparison,
+brings both scholars' maps into the evidence, and protects time for choosing
+and rehearsing one Thursday interactive station. The second route and Zoom
+guest remain unconfirmed; the guide provides map and saved-question fallbacks
+instead of presenting either as settled.
+
 ## July 22 Sand Density-Separation And Filtration Protocol
 
 - [Current Sand Density-Separation And Filtration Guide](../assignments/03-camp-unit-plan/sand-density-separation-and-filtration-guide.md)

@@ -24,6 +24,8 @@ These boards are reference-only. They help us see what other teams may do and wh
 
 ## Course And Assignment Visuals
 
+- [Funny-face mood check, screen PNG](invisible-invaders-mood-check-screen.png)
+- [Funny-face mood check, print-ready letter landscape PDF](invisible-invaders-mood-check-print-letter-landscape.pdf)
 - [Invisible Invaders sample model, editable Google Doc](https://docs.google.com/document/d/1mGolkzKcMzcQuTr4uxjnx0voqTR8Kffmw0B4ypQRq0k/edit)
 - [Field Friday visual guide, editable Google Slides](https://docs.google.com/presentation/d/1aEEMEWiIwTtmNnP2zNhW21cBl0Aow-OQW-kSC7mMfrk/edit)
 - [Field Friday visual agenda](invisible-invaders-field-friday-visual-agenda.png)

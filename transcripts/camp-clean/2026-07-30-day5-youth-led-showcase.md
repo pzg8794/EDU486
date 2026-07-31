@@ -1,9 +1,11 @@
 # Thursday, July 30 - Youth-Led Showcase
 
 **Included recording window:** Camp and showcase activity before 1:00 p.m. EDT
-**Source boundary:** No Day 5 source video was available in the evidence vault.
-This clean record uses same-session automatic recorder transcripts. Their
-timestamps are elapsed recording times, not clock times.
+**Source boundary:** A direct July 30 iPhone inventory confirmed 10 camp
+photographs from 12:02-12:35 p.m. and no Day 5 videos. This clean record uses
+same-session automatic recorder transcripts. Their timestamps are elapsed
+recording times, not clock times. Two files created after 6:00 p.m. were
+quarantined outside the camp record.
 
 ## 1. Preparing the Sand-Sampling Station
 

@@ -2,6 +2,34 @@
 
 The syllabus says that when GenAI is used, it should be credited by source, output, and purpose. This log makes that crediting easy to maintain.
 
+## July 30-31, 2026 - Day 5 Evidence, Recap, And Personalized Souvenirs
+
+- Tool/source: OpenAI Codex under Piter Garcia's supervision; 10 verified Day 5
+  iPhone photographs; the July 30 same-session camp transcript; the youth-built
+  trifold; the wearable `Protect the Sea` artifact; the weeklong measurement,
+  model, and advocacy record; and the existing Day 1-4 visual system
+- Purpose: complete Day 5 with the same evidence-documentation process used for
+  earlier camp days, make the two Invisible Invaders youths' contributions
+  visible, and give the team one organized Drive surface instead of scattered
+  copies
+- Outputs: a five-slide Day 5 recap, four reviewed activity visuals, two
+  personalized youth souvenirs, the Day 4 and Day 5 evidence hubs, and the
+  [combined public-safe evidence record](day4-and-day5-evidence-documentation.md)
+- Human guidance and decisions: use real camp photographs; keep labels away
+  from faces; ground labels in the transcript and activity record; preserve
+  the youth-created trifold and wearable message; pair color with words; keep
+  the evidence concise; distinguish visible litter from confirmed plastic;
+  and state explicitly that no Day 5 source video exists
+- Verification: all five recap slides and both souvenirs were visually
+  inspected; Drive read-back returned 41 Day 4 photos, four Day 4 MOVs, seven
+  Day 4 transcript/index files, 10 Day 5 photos, one Day 5 clean transcript,
+  five recap decks, six Day 4 activity visuals, four Day 5 activity visuals,
+  and two Day 5 souvenirs
+- Disclosure: Piter provided, directed, corrected, and reviewed the camp work.
+  AI supported accessible layout, image clarification, evidence-boundary
+  checks, file organization, and validation. AI-assisted visuals are
+  communication artifacts, not replacements for the original evidence.
+
 ## July 27, 2026 - Monday Recap And Shared-Model Clarification
 
 - Tool/source: OpenAI Codex under Piter Garcia's supervision; the real Monday

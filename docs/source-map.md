@@ -464,6 +464,26 @@ and rehearsing one Thursday interactive station. The second route and Zoom
 guest remain unconfirmed; the guide provides map and saved-question fallbacks
 instead of presenting either as settled.
 
+## July 29-30 Day 4 And Day 5 Evidence Documentation
+
+- [Public-safe Day 4 and Day 5 evidence record](day4-and-day5-evidence-documentation.md)
+- [Complete Day 4 evidence hub](https://drive.google.com/drive/folders/1XRgzglD6CIq3wI917isryuaWluaCEH97)
+- [Day 4 original videos](https://drive.google.com/drive/folders/1Mxooe70IZ4tHWx5TPwCeQtZGaMCCQNEc)
+- [Day 4 clean transcript folder](https://drive.google.com/drive/folders/1iEIc-JDLdGz8J9BdUEt4xeySMH2ZBO7f)
+- [Complete Day 5 evidence hub](https://drive.google.com/drive/folders/1TSyV_yDRMtAZnWk7L28h6nX6KBLbwves)
+- [Day 5 original photographs](https://drive.google.com/drive/folders/1g0Ry6YATeB-fbpRFaEAOwCg2PZUoHU91)
+- [Day 5 clean showcase transcript in Drive](https://drive.google.com/drive/folders/1KgE0Scj_p0VVux04ZA2S58FwVZIcan7t)
+- [Reviewed recap, souvenir, and activity-image hub](https://drive.google.com/drive/folders/1HFAfhHUQLVNAphrUhmX87cBjaf3AD4WN)
+- [Shared camp-video index](https://drive.google.com/drive/folders/12XL0xwbIhVrfhRz7yNsgYkCj1hxtY8bi)
+
+Drive verification found 41 Day 4 photographs, four original Day 4 MOV files,
+seven Day 4 clean transcript/index files, 10 Day 5 photographs, and one Day 5
+same-session clean transcript. The direct iPhone audit found no Day 5 source
+video; the Day 5 video folder therefore contains an evidence-boundary note
+rather than an invented recording or transcript. The reviewed hub now contains
+five recap decks, six Day 4 activity visuals, four Day 5 activity visuals, and
+two Day 5 youth souvenirs. Raw media remains outside public Git.
+
 ## July 22 Sand Density-Separation And Filtration Protocol
 
 - [Current Sand Density-Separation And Filtration Guide](../assignments/03-camp-unit-plan/sand-density-separation-and-filtration-guide.md)

@@ -141,9 +141,11 @@ not claim a policy-letter winner because the automatic records conflict.
 
 - [Clean Day 5 youth-led showcase transcript](camp-clean/2026-07-30-day5-youth-led-showcase.md)
 
-No Day 5 source video was available in the evidence vault. The clean record
-therefore uses the same-session automatic recorder transcripts and clearly
-marks elapsed timestamps, evidence limits, and the absence of source video.
+The July 30 iPhone inventory confirmed 10 camp photographs from 12:02-12:35
+p.m. and **no Day 5 videos**. The clean record therefore uses same-session
+automatic recorder transcripts and clearly marks elapsed timestamps, evidence
+limits, and the absence of a video source. Two files created after 6:00 p.m.
+were excluded from the camp record.
 
 ## July 16 Classroom Evidence
 

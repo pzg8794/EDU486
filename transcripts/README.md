@@ -4,6 +4,18 @@ Piter has confirmed that the course transcripts are **not private**. This folder
 
 **Public-safety exception:** when an automatic transcript contains youth names, incidental health disclosures, or unrelated personal conversation, the raw file remains in ignored local storage and this public folder receives a decision-level clean record. That protects people without hiding the team decisions or changing Piter's position that course-planning transcripts can be public.
 
+## Clean Camp Transcript Set
+
+Use the [Invisible Invaders clean camp transcript hub](camp-clean/README.md)
+for the concise camp-only record organized by day, activity, and anonymized
+speaker. It includes one [share entry point for Aastha](camp-clean/aastha-share-clean-transcripts.md),
+a [speaker and student index](camp-clean/speaker-index.md), and an
+[activity-speaker table](camp-clean/activity-speaker-index.csv).
+
+The clean set includes only the 7:15 a.m.-1:00 p.m. camp boundary. It excludes
+after-hours debriefs, setup repetition, youth names, unrelated conversation,
+and financial recordings that were incorrectly labeled as camp material.
+
 ## Reliability
 
 - Speaker numbers are not verified identities.
@@ -114,6 +126,24 @@ The existing `transcripts/` directory remains the only reader-facing course
 transcript home. The team Drive preserves all 78 original photographs, all 14
 original videos, one touched frame per video, reviewed photographs, scientific
 documentation, the five-mission story visual, and the final print packet.
+
+## July 29
+
+- [Clean Day 4 activity transcript](camp-clean/2026-07-29-day4-model-policy-advocacy.md)
+- [De-identified Day 4 video transcript set](2026-07-29-camp-day4-videos/README.md)
+- [Chronological Day 4 video master](2026-07-29-camp-day4-videos/day4-master-transcript.md)
+
+The clean activity record organizes the mood opening, evidence-to-action model
+revision, policy role-play, optional vote, and wearable advocacy art. It does
+not claim a policy-letter winner because the automatic records conflict.
+
+## July 30
+
+- [Clean Day 5 youth-led showcase transcript](camp-clean/2026-07-30-day5-youth-led-showcase.md)
+
+No Day 5 source video was available in the evidence vault. The clean record
+therefore uses the same-session automatic recorder transcripts and clearly
+marks elapsed timestamps, evidence limits, and the absence of source video.
 
 ## July 16 Classroom Evidence
 

@@ -14,6 +14,7 @@ without publishing youth names or unrelated conversation.
 - [Tuesday, July 28 - Separation, Measurement, Friction, Scientist, and Identity](2026-07-28-day3-separation-measurement-friction-scientist-identity.md)
 - [Wednesday, July 29 - Model, Policy, and Advocacy](2026-07-29-day4-model-policy-advocacy.md)
 - [Thursday, July 30 - Youth-Led Showcase](2026-07-30-day5-youth-led-showcase.md)
+- [Friday, July 31 - Youth Retrospective and Future Design](2026-07-31-day6-youth-retrospective.md)
 
 ## Boundary
 

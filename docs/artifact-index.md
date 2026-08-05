@@ -8,6 +8,7 @@ This is the internal front door for our EDU486 repository. Repository files supp
 - [Course scope](course-scope.md)
 - [Deadlines and work due](deadlines.md)
 - [Weekly work plan](work-plan.md)
+- [Course closeout and submission-verification record](course-closeout.md)
 - [Source map](source-map.md)
 - [PhD and Puzzle Plan alignment](phd-puzzle-plan-alignment.md)
 - [AI use log](ai-use-log.md)
@@ -16,9 +17,12 @@ This is the internal front door for our EDU486 repository. Repository files supp
 - [Module 2 Reflection Journal source and evidence record](../assignments/06-module2-reflection/README.md)
 - [Module 2 Reflection Overleaf entry point](../assignments/06-module2-reflection/main.tex)
 - [Module 2 Reflection editable LaTeX](../assignments/06-module2-reflection/module2-reflection.tex)
+- [Grounding Frameworks Part 2 source and reflection](../assignments/01-grounding-frameworks/grounding-frameworks-part2.md)
+- [Final Reflection: Commitments to K-12](../assignments/07-final-reflection/commitments-to-k12.md)
 - [Announcement prep folder](../assignments/00-announcement-prep/README.md)
 - [Current camp-prep reference](../assignments/05-july14-camp-prep/README.md)
 - [CURRENT Invisible Invaders Camp Operations Guide](../assignments/03-camp-unit-plan/invisible-invaders-camp-operations-guide.md)
+- [Post-Camp Implementation Revision Addendum](../assignments/03-camp-unit-plan/post-camp-implementation-revision-addendum.md)
 - [Editable CURRENT Camp Operations Guide](https://docs.google.com/document/d/1LueJ9NX6MP257ywABKTDu-vVWVYzTwRnNDK8fgJx4e0/edit)
 - [Editable CURRENT SASSY Storyline Table](https://docs.google.com/document/d/1fGOjSkEFxsy5UC5n75UIi9aE_-sKOhyeRx9sY8CAUWU/edit)
 - [Editable CURRENT Invisible Invaders Sample Model](https://docs.google.com/document/d/1mGolkzKcMzcQuTr4uxjnx0voqTR8Kffmw0B4ypQRq0k/edit)
@@ -98,6 +102,8 @@ This is the internal front door for our EDU486 repository. Repository files supp
 - [Teacher as learning scientist evidence map, SVG](../public-artifacts/teacher-learning-scientist-evidence-map.svg)
 - [Grounding framework visual SVG](../assignments/01-grounding-frameworks/grounding-frameworks-visual.svg)
 - [Grounding framework visual PNG](../public-artifacts/grounding-frameworks-visual.png)
+- [Grounding Frameworks Part 2 editable visual SVG](../assignments/01-grounding-frameworks/grounding-frameworks-part2-visual.svg)
+- [Grounding Frameworks Part 2 reviewed visual PNG](../public-artifacts/grounding-frameworks-part2-visual.png)
 - [Task 6 Puzzle Plan reading map PNG](../public-artifacts/session5-puzzle-plan-reading-map.png)
 - [Task 6 Puzzle Plan reading map SVG](../public-artifacts/session5-puzzle-plan-reading-map.svg)
 - [Task 7 curriculum-to-camp map PNG](../public-artifacts/task7-curriculum-to-camp-map.png)
@@ -113,6 +119,10 @@ This is the internal front door for our EDU486 repository. Repository files supp
 
 ## Public Submission Documents
 
+Portable exports document authored work; they are not proof of Blackboard or
+email submission. The [course closeout record](course-closeout.md) reports
+artifact and submission status separately.
+
 - [Public submission documents folder](../public-submissions/README.md)
 - [Task 1 learning scientist DOCX](../public-submissions/task1-learning-scientist-prompt-reflection.docx)
 - [Task 2 syllabus comments checklist DOCX](../public-submissions/task2-syllabus-comments-checklist.docx)
@@ -122,6 +132,12 @@ This is the internal front door for our EDU486 repository. Repository files supp
 - [Announcement task tracker DOCX](../public-submissions/announcement-task-tracker.docx)
 - [Grounding frameworks Part 1 one-page PDF](../public-submissions/grounding-frameworks-part1.pdf)
 - [Grounding frameworks Part 1 accessible companion DOCX](../public-submissions/grounding-frameworks-part1.docx)
+- [Grounding Frameworks Part 2 tagged PDF](../public-submissions/grounding-frameworks-part2.pdf)
+- [Grounding Frameworks Part 2 accessible DOCX](../public-submissions/grounding-frameworks-part2.docx)
+- [Final Reflection: Commitments to K-12 tagged PDF](../public-submissions/final-reflection-commitments-to-k12.pdf)
+- [Final Reflection: Commitments to K-12 accessible DOCX](../public-submissions/final-reflection-commitments-to-k12.docx)
+- [Post-Camp Implementation Revision Addendum tagged PDF](../public-submissions/invisible-invaders-post-camp-revision-addendum.pdf)
+- [Post-Camp Implementation Revision Addendum accessible DOCX](../public-submissions/invisible-invaders-post-camp-revision-addendum.docx)
 - [Grounding frameworks Part 1 accessible Drive copy](https://drive.google.com/file/d/1FqLQP_tposB8CHUtUutZ5oFqhlB7rh1S/view)
 - [Grounding frameworks Part 1 visual in Drive](https://drive.google.com/file/d/1G3n2R_I_JhKcgO4RJjXDo04nYOAVAMRo/view)
 - [AI history microplastics narrative DOCX](../public-submissions/ai-history-microplastics-narrative.docx)
@@ -140,6 +156,11 @@ This is the internal front door for our EDU486 repository. Repository files supp
 - [Archived pre-consolidation DOCX exports](../public-submissions/archive/2026-07-18-pre-consolidation/README.md)
 - [Course calendar ICS](../public-submissions/EDU486-course-calendar.ics)
 
+The Grounding Frameworks Part 2 source and Final Reflection discussion response
+are complete, but their Blackboard status is unverified. The final Plastic
+Pirates Poster Number 2 was produced and printed from actual camp evidence; it
+contains youth photographs and is intentionally excluded from public Git.
+
 ## Assignment Markdown
 
 - [Task 1 learning scientist prompt and reflection](../assignments/00-announcement-prep/task1-learning-scientist-prompt-reflection.md)
@@ -148,8 +169,11 @@ This is the internal front door for our EDU486 repository. Repository files supp
 - [Task 4 calendar checklist](../assignments/00-announcement-prep/task4-calendar-checklist.md)
 - [Grounding frameworks Part 1 working record](../assignments/01-grounding-frameworks/grounding-frameworks-part1.md)
 - [Grounding frameworks Part 1 clean submission text](../assignments/01-grounding-frameworks/grounding-frameworks-part1-submission.md)
+- [Grounding frameworks Part 2 reflection](../assignments/01-grounding-frameworks/grounding-frameworks-part2.md)
+- [Grounding frameworks Part 2 editable visual](../assignments/01-grounding-frameworks/grounding-frameworks-part2-visual.svg)
 - [AI technology evolution narrative](../assignments/02-ai-technology-evolution/ai-history-microplastics-narrative.md)
 - [CURRENT Invisible Invaders Camp Operations Guide](../assignments/03-camp-unit-plan/invisible-invaders-camp-operations-guide.md)
+- [Post-Camp Implementation Revision Addendum](../assignments/03-camp-unit-plan/post-camp-implementation-revision-addendum.md)
 - [CURRENT Friday Anchoring Phenomenon Routine](../assignments/03-camp-unit-plan/friday-anchoring-phenomenon-routine.md)
 - [CURRENT Sand Density-Separation And Filtration Guide](../assignments/03-camp-unit-plan/sand-density-separation-and-filtration-guide.md)
 - [July 21 clean planning and youth-feedback record](../transcripts/2026-07-21-invisible-invaders-planning-and-youth-feedback-clean.md)
@@ -166,6 +190,7 @@ This is the internal front door for our EDU486 repository. Repository files supp
 - [Module 2 Reflection editable LaTeX](../assignments/06-module2-reflection/module2-reflection.tex)
 - [Module 2 Reflection Overleaf entry point](../assignments/06-module2-reflection/main.tex)
 - [Module 2 Reflection BibTeX sources](../assignments/06-module2-reflection/references.bib)
+- [Final Reflection: Commitments to K-12](../assignments/07-final-reflection/commitments-to-k12.md)
 - [Camp materials inventory dictionary and order check](../assignments/05-july14-camp-prep/materials-inventory-and-order-check.md)
 - [Sortable camp materials inventory catalog](../assignments/05-july14-camp-prep/camp-materials-inventory-catalog.csv)
 - [Camp materials photo evidence index](../assignments/05-july14-camp-prep/camp-materials-photo-evidence-index.md)

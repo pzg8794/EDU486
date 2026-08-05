@@ -4,6 +4,13 @@ Use the [Wednesday Evidence, Systems, And Fair Action guide](wednesday-infrastru
 
 Older plans are preserved in the [July 18 consolidation archive](archive/2026-07-18-pre-consolidation/README.md) and [July 22 pre-reconciliation archive](archive/2026-07-22-pre-july21-reconciliation/README.md). They are planning history, not directions for the current camp.
 
+## Post-Camp Status
+
+The [Post-Camp Implementation Revision Addendum](post-camp-implementation-revision-addendum.md)
+is complete and records the public-safe Day 1-6 implementation sequence,
+youth-informed redesign commitments, co-facilitation, evidence limits, and AI
+disclosure. Blackboard submission has not been verified.
+
 ## Open In This Order
 
 1. [Wednesday Evidence, Systems, And Fair Action](wednesday-infrastructure-and-fair-action.md): the short current run sheet and minimal-print decision.

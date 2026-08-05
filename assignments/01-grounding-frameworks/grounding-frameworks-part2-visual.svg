@@ -1,0 +1,183 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1100" viewBox="0 0 1600 1100" role="img" aria-labelledby="title desc">
+  <title id="title">JuST and Technology in Practice: Access to Evidence to Agency to Redesign</title>
+  <desc id="desc">A justice-centered community sits above a four-part cycle of planning, eliciting youth ideas, revising with evidence, and acting for justice. Youth feedback returns to the next plan. A facilitator redesign loop keeps direct observation, youth statements, facilitator interpretation, and uncertainty distinct. Technology can support, complicate, or constrain participation and evidence.</desc>
+  <defs>
+    <marker id="arrow" markerWidth="11" markerHeight="11" refX="9" refY="5.5" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L11,5.5 L0,11 z" fill="#123047"/>
+    </marker>
+    <marker id="return-arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M0,0 L12,6 L0,12 z" fill="#123047"/>
+    </marker>
+    <style>
+      text { font-family: Arial, Helvetica, sans-serif; }
+      .ink { fill: #123047; }
+      .white { fill: #ffffff; }
+      .muted { fill: #496273; }
+      .title { font-size: 36px; font-weight: 700; }
+      .subtitle { font-size: 18px; font-weight: 700; }
+      .thesis { font-size: 19px; font-weight: 700; }
+      .band { font-size: 20px; font-weight: 700; }
+      .card-title { font-size: 19px; font-weight: 700; }
+      .card-text { font-size: 16px; }
+      .card-small { font-size: 14px; }
+      .lens-title { font-size: 21px; font-weight: 700; }
+      .lens-text { font-size: 16px; }
+      .question { font-size: 16px; font-weight: 700; }
+      .number { font-size: 24px; font-weight: 700; text-anchor: middle; dominant-baseline: middle; }
+      .loop-label { font-size: 16px; font-weight: 700; }
+      .small { font-size: 13px; }
+    </style>
+  </defs>
+
+  <rect width="1600" height="1100" fill="#F7FAFC"/>
+  <rect x="0" y="0" width="18" height="1100" fill="#D33F72"/>
+
+  <text x="48" y="51" class="title ink">JuST + Technology in Practice: Access to Evidence to Agency to Redesign</text>
+  <text x="48" y="84" class="subtitle muted">Piter Garcia | EDU486 | Part 2 | August 2026</text>
+
+  <rect x="48" y="105" width="1504" height="60" rx="7" fill="#123047"/>
+  <text x="800" y="130" class="thesis white" text-anchor="middle">
+    <tspan x="800" dy="0">Technology becomes justice-centered when it expands who can contribute, keeps evidence open to revision,</tspan>
+    <tspan x="800" dy="24">and gives youth power to shape public action and future learning conditions.</tspan>
+  </text>
+
+  <rect x="48" y="184" width="1504" height="62" rx="7" fill="#F2C94C" stroke="#123047" stroke-width="2"/>
+  <text x="800" y="210" class="band ink" text-anchor="middle">CULTIVATING A JUSTICE-CENTERED COMMUNITY</text>
+  <text x="800" y="234" class="card-text ink" text-anchor="middle">Belonging | consent | identity safety | language and bodymind variability | shared purpose | pass and return</text>
+
+  <text x="800" y="270" class="card-small ink" text-anchor="middle">Youth feedback changes the next plan: more microscopes, making, movement, time, sensory alternatives, and numbered stations.</text>
+  <path d="M1508 596 C1540 596 1540 282 1507 282 L92 282 C58 282 58 596 90 596" fill="none" stroke="#123047" stroke-width="3" stroke-dasharray="9 7" marker-end="url(#return-arrow)"/>
+
+  <line x1="404" y1="446" x2="427" y2="446" stroke="#123047" stroke-width="5" marker-end="url(#arrow)"/>
+  <line x1="787" y1="446" x2="810" y2="446" stroke="#123047" stroke-width="5" marker-end="url(#arrow)"/>
+  <line x1="1170" y1="446" x2="1193" y2="446" stroke="#123047" stroke-width="5" marker-end="url(#arrow)"/>
+
+  <g id="plan">
+    <rect x="48" y="298" width="356" height="298" rx="7" fill="#FFFFFF" stroke="#D33F72" stroke-width="4"/>
+    <circle cx="82" cy="332" r="23" fill="#D33F72"/>
+    <text x="82" y="333" class="number white">1</text>
+    <text x="116" y="328" class="card-title ink">PLAN</text>
+    <text x="72" y="371" class="card-title ink">
+      <tspan x="72" dy="0">Meaningful purpose</tspan>
+      <tspan x="72" dy="24">that centers justice</tspan>
+    </text>
+    <line x1="72" y1="425" x2="380" y2="425" stroke="#E7A7BD" stroke-width="2"/>
+    <text x="72" y="450" class="card-text ink">
+      <tspan x="72" dy="0">Youth selected field locations and</tspan>
+      <tspan x="72" dy="22">explained place-based hypotheses.</tspan>
+      <tspan x="72" dy="29" font-weight="700">Revision began immediately:</tspan>
+      <tspan x="72" dy="22">expecting more near water did not make</tspan>
+      <tspan x="72" dy="22">the expected evidence appear.</tspan>
+      <tspan x="72" y="578" font-weight="700">Tension: purpose and adult framing</tspan>
+    </text>
+  </g>
+
+  <g id="elicit">
+    <rect x="431" y="298" width="356" height="298" rx="7" fill="#FFFFFF" stroke="#168AAD" stroke-width="4"/>
+    <circle cx="465" cy="332" r="23" fill="#168AAD"/>
+    <text x="465" y="333" class="number white">2</text>
+    <text x="499" y="328" class="card-title ink">ELICIT</text>
+    <text x="455" y="371" class="card-title ink">
+      <tspan x="455" dy="0">Youth ideas about science,</tspan>
+      <tspan x="455" dy="24">culture, and justice</tspan>
+    </text>
+    <line x1="455" y1="425" x2="763" y2="425" stroke="#A9DCE9" stroke-width="2"/>
+    <text x="455" y="450" class="card-text ink">
+      <tspan x="455" dy="0">Speak | draw | map | measure | build</tspan>
+      <tspan x="455" dy="22">Move | partner | observe | pass | return</tspan>
+      <tspan x="455" dy="29">A youth chose partner support rather</tspan>
+      <tspan x="455" dy="22">than cutting during the fish activity.</tspan>
+      <tspan x="455" dy="29">Energy or speech did not rank ability.</tspan>
+      <tspan x="455" y="578" font-weight="700">Tension: choice and shared purpose</tspan>
+    </text>
+  </g>
+
+  <g id="revise">
+    <rect x="814" y="298" width="356" height="298" rx="7" fill="#FFFFFF" stroke="#2A9D5B" stroke-width="4"/>
+    <circle cx="848" cy="332" r="23" fill="#2A9D5B"/>
+    <text x="848" y="333" class="number white">3</text>
+    <text x="882" y="328" class="card-title ink">REVISE</text>
+    <text x="838" y="371" class="card-title ink">
+      <tspan x="838" dy="0">Thinking, feeling, models,</tspan>
+      <tspan x="838" dy="24">measurements, and claims</tspan>
+    </text>
+    <line x1="838" y1="425" x2="1146" y2="425" stroke="#A9DDBE" stroke-width="2"/>
+    <text x="838" y="450" class="card-text ink">
+      <tspan x="838" dy="0">Predictions != observed counts</tspan>
+      <tspan x="838" dy="22">1,331 feet required route context</tspan>
+      <tspan x="838" dy="22">Visible residue != confirmed plastic</tspan>
+      <tspan x="838" dy="22">Model != proof of a health effect</tspan>
+      <tspan x="838" dy="29">Youth added systems and action.</tspan>
+      <tspan x="838" y="578" font-weight="700">Tension: visibility and false certainty</tspan>
+    </text>
+  </g>
+
+  <g id="act">
+    <rect x="1197" y="298" width="355" height="298" rx="7" fill="#FFFFFF" stroke="#E76F51" stroke-width="4"/>
+    <circle cx="1231" cy="332" r="23" fill="#E76F51"/>
+    <text x="1231" y="333" class="number white">4</text>
+    <text x="1265" y="328" class="card-title ink">ACT</text>
+    <text x="1221" y="371" class="card-title ink">
+      <tspan x="1221" dy="0">Use science to advocate</tspan>
+      <tspan x="1221" dy="24">for more just futures</tspan>
+    </text>
+    <line x1="1221" y1="425" x2="1528" y2="425" stroke="#F2B6A8" stroke-width="2"/>
+    <text x="1221" y="450" class="card-text ink">
+      <tspan x="1221" dy="0">Policy debate linked infrastructure,</tspan>
+      <tspan x="1221" dy="22">producer responsibility, and education.</tspan>
+      <tspan x="1221" dy="29">Youth-led showcase joined advocacy</tspan>
+      <tspan x="1221" dy="22">with a real audience.</tspan>
+      <tspan x="1221" dy="29">Feedback changed the next camp design.</tspan>
+      <tspan x="1221" y="578" font-weight="700">Tension: individual and system action</tspan>
+    </text>
+  </g>
+
+  <rect x="48" y="620" width="744" height="52" rx="6" fill="#007C78"/>
+  <text x="420" y="653" class="band white" text-anchor="middle">EXPANDING WHAT COUNTS AS SCIENCE</text>
+  <rect x="808" y="620" width="744" height="52" rx="6" fill="#5A2A83"/>
+  <text x="1180" y="653" class="band white" text-anchor="middle">USING SCIENCE FOR SOCIAL TRANSFORMATION</text>
+
+  <rect x="48" y="691" width="1504" height="102" rx="7" fill="#EEF3F7" stroke="#123047" stroke-width="2"/>
+  <text x="800" y="716" class="loop-label ink" text-anchor="middle">FACILITATOR REDESIGN LOOP: Access becomes agency when learner evidence can change the route.</text>
+  <rect x="70" y="734" width="320" height="38" rx="5" fill="#FFFFFF" stroke="#168AAD" stroke-width="2"/>
+  <text x="230" y="759" class="loop-label ink" text-anchor="middle">DIRECT OBSERVATION</text>
+  <rect x="444" y="734" width="320" height="38" rx="5" fill="#FFFFFF" stroke="#2A9D5B" stroke-width="2"/>
+  <text x="604" y="759" class="loop-label ink" text-anchor="middle">YOUTH STATEMENT</text>
+  <rect x="818" y="734" width="320" height="38" rx="5" fill="#FFFFFF" stroke="#E76F51" stroke-width="2"/>
+  <text x="978" y="759" class="loop-label ink" text-anchor="middle">FACILITATOR INTERPRETATION</text>
+  <rect x="1192" y="734" width="320" height="38" rx="5" fill="#FFFFFF" stroke="#D33F72" stroke-width="2"/>
+  <text x="1352" y="759" class="loop-label ink" text-anchor="middle">UNRESOLVED UNCERTAINTY</text>
+  <text x="800" y="787" class="small muted" text-anchor="middle">Keep evidence types distinct. Notice. Redesign. Return to the same rigorous purpose.</text>
+
+  <g id="technology-lenses">
+    <rect x="48" y="816" width="486" height="198" rx="7" fill="#EAF7EF" stroke="#2A9D5B" stroke-width="3"/>
+    <text x="72" y="850" class="lens-title ink">TECHNOLOGY CAN SUPPORT</text>
+    <text x="72" y="882" class="lens-text ink">
+      <tspan x="72" dy="0">Magnification, shared models, photographs,</tspan>
+      <tspan x="72" dy="22">captions, transcripts, and visible sequences</tspan>
+      <tspan x="72" dy="22">can support comparison and re-entry.</tspan>
+    </text>
+    <text x="72" y="982" class="question ink">Ask: Who can contribute or re-enter now?</text>
+
+    <rect x="557" y="816" width="486" height="198" rx="7" fill="#FFF7DE" stroke="#D39B00" stroke-width="3"/>
+    <text x="581" y="850" class="lens-title ink">TECHNOLOGY CAN COMPLICATE</text>
+    <text x="581" y="882" class="lens-text ink">
+      <tspan x="581" dy="0">Polished visuals or AI can imply more certainty</tspan>
+      <tspan x="581" dy="22">than the evidence supports. Measurements require</tspan>
+      <tspan x="581" dy="22">method context; models remain revisable.</tspan>
+    </text>
+    <text x="581" y="982" class="question ink">Ask: What is visible, and what remains unknown?</text>
+
+    <rect x="1066" y="816" width="486" height="198" rx="7" fill="#FCECEF" stroke="#C33C54" stroke-width="3"/>
+    <text x="1090" y="850" class="lens-title ink">TECHNOLOGY CAN CONSTRAIN</text>
+    <text x="1090" y="882" class="lens-text ink">
+      <tspan x="1090" dy="0">Missing recordings, unreliable transcripts, device</tspan>
+      <tspan x="1090" dy="22">and memory demands, sensory or energy load, and</tspan>
+      <tspan x="1090" dy="22">adult control can narrow participation and power.</tspan>
+    </text>
+    <text x="1090" y="982" class="question ink">Ask: Who bears the burden or loses power?</text>
+  </g>
+
+  <text x="800" y="1054" class="small muted" text-anchor="middle">Evidence boundary: photographs, transcripts, models, measurements, and AI-assisted visuals support interpretation but do not reveal private understanding or prove particle identity, exposure route, or health effect.</text>
+  <text x="800" y="1078" class="small muted" text-anchor="middle">Part 2 is grounded in deidentified camp records from July 24-31, 2026. Full sources and AI disclosure appear in the accessible companion.</text>
+</svg>

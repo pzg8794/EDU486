@@ -1,6 +1,23 @@
 # EDU486 Deadlines And Work Due
 
-Dates combine the syllabus, July 10 email, July 16 class planning, and current team decisions. Items marked **confirm** were not completely settled in the transcript.
+Dates combine the syllabus, protected Blackboard prompts, course messages, and
+team records. Artifact completion and external-submission verification are
+reported separately; see the [course closeout record](course-closeout.md).
+
+## Final Closeout Deadlines
+
+| Due | Work | Artifact status | Submission status |
+| --- | --- | --- | --- |
+| **July 30, 2026, 10 p.m.** | Plastic Pirates Poster Number 2, one-page 36 x 48-inch PDF | Private youth-photo poster produced and printed | Group-level delivery is supported; individual sent-email receipt is not preserved here |
+| **Saturday, August 1** | Final camp unit and daily lesson plans | Six populated plans and protocol packs plus implementation evidence exist | Post-camp final-plan submission is not verified |
+| **August 8, 2026** | Grounding Frameworks Part 2 | Source, editable visualization, reviewed PNG, tagged PDF, and accessible DOCX are complete | Blackboard submission is not verified |
+| **August 8, 2026** | Final Reflection: Commitments to K-12 | [Seven commitments](../assignments/07-final-reflection/commitments-to-k12.md) are complete | Blackboard discussion post is not verified |
+
+The protected syllabus and Grounding Frameworks assignment identify August 8
+as the Part 2 deadline. The earlier August 4 repository date was incorrect.
+The saved Final Reflection prompt also says August 8 but labels that date as
+Friday; August 8, 2026 is Saturday, so the live Blackboard calendar should be
+checked without delaying the response.
 
 ## Current Camp Timeline
 
@@ -14,12 +31,13 @@ Dates combine the syllabus, July 10 email, July 16 class planning, and current t
 | **Monday, July 27** | Camp: organism evidence and first model | Article/video, approved fish/body evidence or equivalent image/worksheet, first source-to-body model, map return |
 | **Tuesday, July 28** | Camp: friction, wear, and evidence limits | Intact-wheel before/after observations, tread and temperature records, sealed evidence, release-model revision |
 | **Wednesday, July 29** | Camp: justice and advocacy | Return to Day 1 places, neighborhood/power maps, scientist circle, advocacy examples, art and tri-fold draft |
-| **Date pending; 10 p.m. cutoff** | Plastic Pirates Poster Number 2, 36 x 48-inch PDF | Zen will confirm the calendar date and whether to send through him or directly to the printer; copy April, Zen, and Brandon |
+| **Thursday, July 30, 10 p.m.** | Plastic Pirates Poster Number 2, 36 x 48-inch PDF | Final private poster produced and printed; kept out of public Git because it contains youth photographs |
 | **Thursday, July 30, around noon** | Camp final model and showcase | Two-branch plastic-system model, titled advocacy art, science/justice/action tri-fold, multiple presentation modes |
 | **Friday, July 31** | Camp model check and goodbye | KEEP/QUESTION/CHANGE feedback, one justified final model move, advice for future campers, cleanup |
 | **Friday, July 31, 1:30-3:00 p.m.** | Course poster fair, LeChase 215 | Piter's individual research-informed practice poster |
 | **Saturday, August 1** | Final camp unit and daily lesson plans | Submit revised plan with implementation evidence |
-| **Tuesday, August 4** | Grounding Frameworks Part 2 | Revised visualization and cumulative reflection |
+| **August 8** | Grounding Frameworks Part 2 | Revised visualization and cumulative reflection; Blackboard submission must be verified |
+| **August 8** | Final Reflection: Commitments to K-12 | Five to seven commitments, each with an intentional teaching move and a camp connection |
 
 ## Current Source Of Truth
 
@@ -39,6 +57,10 @@ Dates combine the syllabus, July 10 email, July 16 class planning, and current t
 ## Blackboard Date Check
 
 The local Module 2 Reflection prompt states the assignment requirements but does not display a due date. The [reflection journal](../assignments/06-module2-reflection/README.md) is complete; verify the submission date and submission link directly in Blackboard rather than inferring a deadline from the Module II syllabus range.
+
+The same live check should confirm Part 1, the final camp plans, Part 2, and the
+Final Reflection discussion. A completed repository artifact is not a
+Blackboard receipt.
 
 ## Tracking Rule
 

@@ -2,6 +2,46 @@
 
 The syllabus says that when GenAI is used, it should be credited by source, output, and purpose. This log makes that crediting easy to maintain.
 
+## August 5, 2026 - Part 2, Final Commitments, And Course Closeout
+
+- Tool/source: OpenAI Codex under Piter Garcia's supervision; the protected
+  EDU486 syllabus and Blackboard prompts; Piter's Part 1 framework; the
+  deidentified Day 1-6 camp records; public-safe evidence documentation; the
+  final poster's protected production record; and the existing repository
+  indexes, deadlines, plans, and privacy rules
+- Purpose: revise the grounding framework from actual camp evidence, prepare
+  the final K-12 commitments discussion, correct the Part 2 deadline to August
+  8, and close the course record without confusing an authored artifact with a
+  verified Blackboard or email submission
+- Outputs created or revised:
+  - [Grounding Frameworks Part 2 reflection](../assignments/01-grounding-frameworks/grounding-frameworks-part2.md)
+  - [Grounding Frameworks Part 2 editable visual](../assignments/01-grounding-frameworks/grounding-frameworks-part2-visual.svg)
+  - [Final Reflection: Commitments to K-12](../assignments/07-final-reflection/commitments-to-k12.md)
+  - [post-camp implementation revision addendum](../assignments/03-camp-unit-plan/post-camp-implementation-revision-addendum.md)
+  - reviewed PNG, tagged PDF, and accessible DOCX closeout exports
+  - [course closeout and submission-verification record](course-closeout.md)
+  - public deadlines, work plan, assignment, artifact, source, and submission
+    indexes
+- Human guidance and decisions: credit Aastha and the camp community; use real
+  youth words and actions without identifying a child; keep observation,
+  interpretation, and uncertainty distinct; preserve sensory consent,
+  bodymind access, multiple rigorous participation routes, systems-level
+  justice, and youth influence on future design; keep the youth-photo poster
+  private; and do not claim Blackboard submission without a direct receipt
+- Verification: Part 2 source text, editable SVG, reviewed PNG, tagged PDF, and
+  accessible DOCX exist and were visually inspected; seven final commitments
+  each contain an intentional teaching move and camp connection; the addendum
+  records implementation revisions; both August 8 Blackboard actions remain
+  pending until directly checked; public indexes point to reviewed public-safe
+  sources
+- Disclosure: Piter selected the evidence, supplied the project direction,
+  corrected the interpretation, and remains responsible for privacy, science,
+  attribution, wording, and submission. AI supported synthesis, structure,
+  accessible visual organization, deadline reconciliation, status auditing,
+  and cross-document consistency. It did not identify youth, infer diagnoses
+  or private states, publish the protected poster, or replace the contributions
+  of Piter, Aastha, the youth, or the camp community.
+
 ## July 30-31, 2026 - Day 5 Evidence, Recap, And Personalized Souvenirs
 
 - Tool/source: OpenAI Codex under Piter Garcia's supervision; 10 verified Day 5

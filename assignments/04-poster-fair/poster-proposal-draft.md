@@ -7,12 +7,15 @@ Working title: Access-to-Agency STEM: Technology, Bodymind Access, and Community
 
 Source links: [Module 1 source map](../../docs/source-map.md#module-1-local-sources), [PhD/Puzzle Plan alignment](../../docs/phd-puzzle-plan-alignment.md), [public DOCX export](../../public-submissions/poster-proposal-draft.docx)
 
-> **Current status:** This is the earlier pre-camp concept draft. It must be
-> revised around the actual **Invisible Invaders** question, youth evidence,
-> model revisions, access routes, and facilitator redesigns before submission.
-> Do not submit the existing Planet Protectors language.
+> **Final status:** This is the preserved pre-camp concept, not the submitted
+> poster. Plastic Pirates Poster Number 2 was later rebuilt around the actual
+> **Invisible Invaders** question and camp evidence, produced as a one-page 36
+> x 48-inch PDF, and printed for the July 31 fair. The final poster contains
+> youth photographs and remains in protected local storage rather than public
+> Git. Group-level instructor and print-shop confirmation supports delivery;
+> an individual sent-email receipt is not preserved here.
 
-## July 26 Poster Instructions
+## Historical July 26 Poster Instructions
 
 Zen's July 26 email establishes these requirements:
 

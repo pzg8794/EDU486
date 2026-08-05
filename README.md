@@ -22,6 +22,7 @@ My working personal lens is:
 - [EQUITAS Access-to-Agency foundation](docs/access-to-agency-course-theme.md)
 - [Deadlines and work due](docs/deadlines.md)
 - [Weekly work plan](docs/work-plan.md)
+- [Course closeout and submission-verification record](docs/course-closeout.md)
 - [Source map](docs/source-map.md)
 - [Repository organization and sync boundary](docs/repository-organization.md)
 - [Repository safety: deletion is forbidden](docs/repository-safety.md)
@@ -31,6 +32,8 @@ My working personal lens is:
 - [Assignments index](assignments/README.md)
 - [Module 2 Reflection editable LaTeX](assignments/06-module2-reflection/module2-reflection.tex)
 - [Module 2 Reflection submission PDF](public-submissions/edu486-module2-reflection-piter-garcia.pdf)
+- [Grounding Frameworks Part 2 source and reflection](assignments/01-grounding-frameworks/grounding-frameworks-part2.md)
+- [Final Reflection: Commitments to K-12](assignments/07-final-reflection/commitments-to-k12.md)
 - [July 14 camp-prep command center](assignments/05-july14-camp-prep/README.md)
 - [CURRENT Invisible Invaders Camp Operations Guide](assignments/03-camp-unit-plan/invisible-invaders-camp-operations-guide.md)
 - [Editable CURRENT Camp Operations Guide in Google Drive](https://docs.google.com/document/d/1LueJ9NX6MP257ywABKTDu-vVWVYzTwRnNDK8fgJx4e0/edit)
@@ -57,25 +60,31 @@ My working personal lens is:
 - [Public generated artifacts](public-artifacts/README.md)
 - [Public submission documents](public-submissions/README.md)
 
-## Major Deliverables
+## Major Deliverables And Verification
 
-| Due | Deliverable | Repo Draft |
-| --- | --- | --- |
-| June 29, 2026 | Pre-class announcement tasks: learning scientist image, syllabus comments, youth STEM story slides, calendar setup | [Announcement prep](assignments/00-announcement-prep/README.md) |
-| July 14, 2026 | Visualizing our Grounding Frameworks, Part 1, revised around EQUITAS Access-to-Agency STEM | [Part 1 draft](assignments/01-grounding-frameworks/grounding-frameworks-part1.md) |
-| July 14, 2026 | Invisible Invaders gapless explanation, gotta-have checklist, Session 5 readings/Heather Table, and camp planning preparation | [Checklist evidence map](assignments/05-july14-camp-prep/invisible-invaders-gotta-have-checklist-evidence-map.md) / [Invisible Invaders explanation](assignments/05-july14-camp-prep/invisible-invaders-gapless-explanation.md) / [July 14 command center](assignments/05-july14-camp-prep/README.md) |
-| July 21, 2026 | Bring camp materials and daily lesson plans to Freedom School for staff review | [Current camp operations guide](assignments/03-camp-unit-plan/invisible-invaders-camp-operations-guide.md) |
-| Confirm in Blackboard | Module 2 Reflection: reading-grounded principles for camp pedagogy | [Editable LaTeX journal](assignments/06-module2-reflection/module2-reflection.tex) / [submission PDF](public-submissions/edu486-module2-reflection-piter-garcia.pdf) |
-| July 24, 2026 | Charlotte Beach Field Friday: fictional evidence-matching case, six traceable pair samples, and team formation | [Anchoring routine and facilitator script](assignments/03-camp-unit-plan/friday-anchoring-phenomenon-routine.md) / [visual guide](https://docs.google.com/presentation/d/1aEEMEWiIwTtmNnP2zNhW21cBl0Aow-OQW-kSC7mMfrk/edit) / [unzipped Field Friday files](https://drive.google.com/drive/folders/1yCgb5Ql7aExUUnEY490jhCVbqFDAKBLS) |
-| July 27-31, 2026 | Freedom School camp week; showcase Thursday, July 30 around noon | [Daily camp sequence](assignments/03-camp-unit-plan/invisible-invaders-camp-operations-guide.md#storyline-at-a-glance) / [open print review](https://docs.google.com/document/d/1i5zE_Jb-tatxJbx0K_oGPGXc8HQV6b53O6Sq94-O-4o/edit) / [full Version 7 package](https://drive.google.com/file/d/1yKkp4NjF9ZNlaXDmgj8s_2DJiOsvye_o/view?usp=drivesdk) |
-| Date pending; 10 p.m. cutoff | Plastic Pirates Poster Number 2 as a 36 x 48-inch PDF; Zen will confirm the date and whether to send through him or directly to the printer | [Poster proposal and July 26 instructions](assignments/04-poster-fair/poster-proposal-draft.md#july-26-poster-instructions) |
-| July 31, 2026 | Poster fair, 1:30-3:00 p.m. in LeChase 215 | [Poster proposal draft](assignments/04-poster-fair/poster-proposal-draft.md) |
-| August 1, 2026 | Final camp unit/lesson plans submitted | [Current camp operations guide](assignments/03-camp-unit-plan/invisible-invaders-camp-operations-guide.md) |
-| August 4, 2026 | Visualizing our Grounding Frameworks, Part 2 | [Part 1 framework to revise after camp](assignments/01-grounding-frameworks/grounding-frameworks-part1.md) |
+An artifact can be complete without its external submission being verified.
+See the [course closeout record](docs/course-closeout.md) for the evidence and
+remaining checks behind each status.
+
+| Due | Deliverable | Artifact status | Submission or delivery status |
+| --- | --- | --- | --- |
+| June 29, 2026 | Pre-class announcement tasks | [Public-safe task packet complete](assignments/00-announcement-prep/README.md) | Live syllabus comment confirmed; email deliveries not verified here |
+| July 14, 2026 | Grounding Frameworks Part 1 | PDF, DOCX, PNG, SVG, and companion text complete | Blackboard submission not verified |
+| July 14, 2026 | Gapless explanation, checklist, readings, and camp preparation | [Planning artifacts complete](assignments/05-july14-camp-prep/README.md) | Team-use evidence exists; no separate submission receipt claimed |
+| Confirm in Blackboard | Module 2 Reflection | Editable LaTeX and compiled PDF complete | Blackboard journal entry not verified |
+| July 24-31, 2026 | Field Friday and camp week | Day 1-6 implementation evidence documented | Camp participation is documented; this is not a submission receipt |
+| July 30, 2026, 10 p.m. | Plastic Pirates Poster Number 2 | Private one-page 36 x 48-inch youth-photo poster complete | Produced and printed; individual sent-email receipt not preserved here |
+| August 1, 2026 | Final camp unit and daily plans | Six plans and protocol packs exist with implementation evidence | Post-camp final-plan submission not verified |
+| August 8, 2026 | Grounding Frameworks Part 2 | Source, editable visual, reviewed PNG, tagged PDF, and accessible DOCX complete | Blackboard submission not verified |
+| August 8, 2026 | Final Reflection: Commitments to K-12 | [Seven-commitment response complete](assignments/07-final-reflection/commitments-to-k12.md) | Blackboard discussion post not verified |
 
 ## Public Repository Boundary
 
 This repository is public. It intentionally tracks original planning, assignment drafts, source maps, reflection work, course transcripts, and selected classroom evidence that Piter has approved for publication. Third-party readings, Blackboard exports, copyrighted course files, unrelated personal records, and unreviewed source downloads stay local or in Google Drive.
+
+The final Plastic Pirates poster is also excluded because it contains actual
+youth photographs. Its public-safe research claims, evidence limits, and
+production status are documented without publishing the poster itself.
 
 Local source files are consolidated under the ignored `_local-course-materials/` directory. Publishable transcripts are copied deliberately into `transcripts/` with stable names and reliability notes. Local and remote repositories are considered synchronized when their tracked commits are identical; ignored source files intentionally remain local.
 

@@ -577,3 +577,44 @@ The shared Drive folder provided by the user contains broader DataScience and pr
 - prior digitally rich teaching work using AI ethics, bias detection, EQUITAS, UDL, multilingual supports, and neurodivergent-inclusive pedagogy
 
 Private Drive documents are not linked here if the title or URL could expose sensitive records.
+
+## August 2026 Course Closeout Sources
+
+The [course closeout record](course-closeout.md) separates authored artifacts
+from verified external submissions. Its deadline and requirement decisions use:
+
+- the protected 2026 EDU486 syllabus, which identifies August 8 as the end-of-
+  Summer-B deadline for Grounding Frameworks Part 2;
+- the protected Grounding Frameworks Blackboard assignment export, which asks
+  for a revised visualization with concrete camp examples, practical
+  implications, and a brief reflection about changed or reinforced thinking;
+- the protected Final Reflection Blackboard screenshot, which asks for five to
+  seven K-12 teaching commitments and a camp connection for each;
+- the [Grounding Frameworks Part 1 record](../assignments/01-grounding-frameworks/grounding-frameworks-part1.md);
+- the [Day 1-6 clean camp evidence set](../transcripts/camp-clean/README.md);
+- the public-safe Day 1, Day 3, and Day 4-5 evidence documentation; and
+- the July 31 youth retrospective, including requests for more microscope time,
+  building, movement, less rushing, sensory alternatives, and a numbered
+  showcase route.
+
+These sources support the [Part 2 reflection](../assignments/01-grounding-frameworks/grounding-frameworks-part2.md),
+its [editable visualization](../assignments/01-grounding-frameworks/grounding-frameworks-part2-visual.svg),
+the [Final Reflection: Commitments to K-12](../assignments/07-final-reflection/commitments-to-k12.md),
+and the [post-camp implementation revision addendum](../assignments/03-camp-unit-plan/post-camp-implementation-revision-addendum.md).
+They preserve differences among direct observation, youth statements,
+facilitator interpretation, and unresolved uncertainty. A photograph, silence,
+gesture, adult prompt, or polished artifact is not treated as complete evidence
+of private understanding, motivation, identity, or empowerment.
+
+The final Plastic Pirates Poster Number 2 used actual camp photographs and
+youth-created artifacts. The one-page 36 x 48-inch poster was produced and
+printed for the July 31 fair, with group-level instructor and print-shop
+confirmation supporting delivery. Because it contains youth photographs, it
+remains in protected local submission storage. The public proposal and this
+source note document provenance; neither substitutes for nor republishes the
+final poster.
+
+Blackboard prompts, screenshots, submission receipts, raw youth media,
+unreviewed automatic transcripts, and private correspondence remain outside
+public Git. The existence of a local source or portable export is not evidence
+that Blackboard accepted it; live submission status must be verified directly.

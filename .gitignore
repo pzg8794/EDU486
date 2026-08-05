@@ -42,9 +42,20 @@ transcripts/*-transcript.txt
 !public-submissions/*.svg
 !public-submissions/*.ics
 
-# Course transcripts are publishable records when intentionally placed here.
-!transcripts/raw/
-!transcripts/raw/*.txt
+# Only reviewed, intentionally named transcript records belong in the public
+# repository. Automatic recorder exports remain local until they are cleaned,
+# anonymized, and moved to a reviewed public location such as
+# transcripts/camp-clean/.
+transcripts/raw/
+transcripts/raw/*
+
+# Machine-local or accidental root files that must never be staged broadly.
+pkcs11.txt
+/-name
+
+# Generated Python bytecode from local document-build validation.
+__pycache__/
+*.pyc
 
 # Local exports are for Blackboard/Drive submission, not the public repo.
 submission_exports/

@@ -1,6 +1,51 @@
-# EDU486 Current Work Plan
+# EDU486 Closeout Work Plan
 
-**Current through July 24, 2026.** The goal is to make Invisible Invaders teachable, safe, coherent, inclusive, and easy for Piter and Aastha to run. The [Camp Operations Guide](../assignments/03-camp-unit-plan/invisible-invaders-camp-operations-guide.md) is the authoritative plan; the [Friday Anchoring Phenomenon Routine](../assignments/03-camp-unit-plan/friday-anchoring-phenomenon-routine.md) contains the exact current Field Friday script and handoff. Use the [open lesson/protocol review index](https://docs.google.com/document/d/1i5zE_Jb-tatxJbx0K_oGPGXc8HQV6b53O6Sq94-O-4o/edit) to inspect every populated template and print PDF before approving the Version 7 ZIP.
+**Current as of August 5, 2026.** Camp and the poster fair are complete. The
+remaining work is to finish the two August 8 artifacts, verify required external
+submissions, preserve protected evidence, and close the public repository
+without confusing an export with a submission receipt. See the
+[course closeout record](course-closeout.md).
+
+## Do First: August 5-8
+
+| Status | Action | Done when |
+| --- | --- | --- |
+| [x] | Draft Grounding Frameworks Part 2 from deidentified Day 1-6 evidence | [Source reflection](../assignments/01-grounding-frameworks/grounding-frameworks-part2.md) and editable visual exist |
+| [x] | Render and inspect Part 2 portable files | Tagged PDF and accessible DOCX open correctly, preserve evidence limits, and contain no protected youth media |
+| [x] | Draft Final Reflection: Commitments to K-12 | [Seven commitments](../assignments/07-final-reflection/commitments-to-k12.md) answer both required parts |
+| [ ] | Verify and post both August 8 assignments in Blackboard | Live Blackboard shows the intended files/text and a successful submission or post |
+| [ ] | Verify earlier Blackboard work | Part 1, Module 2 Reflection, and final camp-plan status are checked directly |
+| [ ] | Check the live daily plans for post-camp revisions | Each day reflects what changed during implementation, or the remaining revision is named without claiming completion |
+| [ ] | Preserve private delivery receipts and collaborator-access checks | Receipts and restricted links remain outside public Git |
+| [ ] | Validate and synchronize the repository | Safety, local-link, diff, fetch, push, and local/remote hash checks pass |
+
+## Implemented Course Work
+
+- Field Friday and camp week were facilitated and documented through Day 1-6
+  clean evidence records.
+- Six populated lesson plans and six paired activity-protocol packs were
+  produced before camp.
+- Youth work included place-based hypotheses, measurement, models, policy
+  reasoning, advocacy art, a family showcase, and final design feedback.
+- Plastic Pirates Poster Number 2 was produced as a private one-page 36 x
+  48-inch poster and printed for the July 31 fair. It contains youth photographs
+  and is not a public repository artifact.
+- Reviewed recaps, souvenirs, activity images, video indexes, and transcript
+  records are organized in protected team-sharing locations.
+
+## Submission Rule
+
+Use **artifact complete** only when the reviewed source or export exists. Use
+**submission verified** only after direct Blackboard, Sent-mail, or recipient
+evidence. Record uncertainty instead of filling a missing receipt with an
+inference.
+
+## Historical Implementation Plan
+
+The material below preserves the pre-camp plan and should not be read as the
+current closeout checklist. The [Camp Operations Guide](../assignments/03-camp-unit-plan/invisible-invaders-camp-operations-guide.md)
+and [Friday Anchoring Phenomenon Routine](../assignments/03-camp-unit-plan/friday-anchoring-phenomenon-routine.md)
+remain the implementation sources.
 
 ## Do First: Wednesday-Thursday, July 22-23
 
@@ -45,10 +90,13 @@ Follow the [40-minute Friday routine](../assignments/03-camp-unit-plan/friday-an
 
 - Collect first/final models, de-identified map contributions, exact youth questions, selected communication modes, advocacy choices, and facilitator revision notes.
 - Use the research question about how the neighborhood map and multimodal scientist circles shape noticing, connection, and communication.
-- Prepare Plastic Pirates Poster Number 2 in the 36 x 48-inch course template.
-  The printer's 10 p.m. cutoff is confirmed, but Zen still needs to confirm the
-  date and whether students send through him or directly to the printer.
-- Present July 31, submit final camp plans August 1, and submit Grounding Frameworks Part 2 August 4.
+- Historical poster-planning note: at this stage, the team was preparing
+  Plastic Pirates Poster Number 2 in the 36 x 48-inch course template while the
+  delivery route was still unresolved. The later July 30 instruction confirmed
+  email to Zen by 10 p.m.; the private youth-photo poster was subsequently
+  produced and printed for the July 31 fair. An individual sent-email receipt
+  is not preserved in this public repository.
+- Present July 31, submit final camp plans August 1, and submit Grounding Frameworks Part 2 August 8.
 
 ## Daily Five-Minute Debrief
 

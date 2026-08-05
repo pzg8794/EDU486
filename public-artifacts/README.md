@@ -38,6 +38,8 @@ These boards are reference-only. They help us see what other teams may do and wh
 - [After panel: living organisms and evidence limits](invisible-invaders-sample-model-after.png) | [Drive image](https://drive.google.com/file/d/19T6NOeZPGo5SZoUm8ukacHGiP_qsu0t0/view)
 - [Grounding frameworks visual, PNG](grounding-frameworks-visual.png)
 - [Grounding frameworks visual, SVG](../assignments/01-grounding-frameworks/grounding-frameworks-visual.svg)
+- [Grounding Frameworks Part 2 editable visual, SVG](../assignments/01-grounding-frameworks/grounding-frameworks-part2-visual.svg)
+- [Grounding Frameworks Part 2 reviewed visual, PNG](grounding-frameworks-part2-visual.png)
 - [Teacher as learning scientist evidence map, PNG](teacher-learning-scientist-evidence-map.png)
 - [Teacher as learning scientist evidence map, SVG](teacher-learning-scientist-evidence-map.svg)
 - [Task 6 Puzzle Plan reading map, PNG](session5-puzzle-plan-reading-map.png)
@@ -53,6 +55,13 @@ These boards are reference-only. They help us see what other teams may do and wh
 - [Youth STEM story slide 3](youth-stem-access-slide-3.png)
 - [Youth STEM story slide 4](youth-stem-access-slide-4.png)
 
-## Current Camp Plan
+## Course Closeout
 
-[Open the Invisible Invaders Camp Operations Guide](../assignments/03-camp-unit-plan/invisible-invaders-camp-operations-guide.md).
+- [Invisible Invaders Camp Operations Guide](../assignments/03-camp-unit-plan/invisible-invaders-camp-operations-guide.md)
+- [Grounding Frameworks Part 2 reflection](../assignments/01-grounding-frameworks/grounding-frameworks-part2.md)
+- [Final Reflection: Commitments to K-12](../assignments/07-final-reflection/commitments-to-k12.md)
+- [Course closeout and submission-verification record](../docs/course-closeout.md)
+
+The final Plastic Pirates poster is not a public visual artifact. It contains
+actual youth photographs and remains protected even though it was produced and
+printed for the course poster fair.

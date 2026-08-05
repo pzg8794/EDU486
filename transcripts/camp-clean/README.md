@@ -6,7 +6,8 @@ This is the concise, shareable transcript set for the Invisible Invaders camp.
 It organizes the usable record by **day**, **activity**, and **speaker role**
 without publishing youth names or unrelated conversation.
 
-- [Combined transcript for sharing with Aastha](aastha-share-clean-transcripts.md)
+- [Team handoff for April and Moss](team-share-clean-transcripts.md)
+- [Earlier one-file guide prepared for Aastha](aastha-share-clean-transcripts.md)
 - [Speaker and student index](speaker-index.md)
 - [Activity and speaker index](activity-speaker-index.csv)
 - [Friday, July 24 - Field Investigation](2026-07-24-day1-field-investigation.md)
